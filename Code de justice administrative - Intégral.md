@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2002-09-10
+Version Consolidée au 2002-11-06
 
 # Partie législative
 
@@ -11709,7 +11709,10 @@ et-Futuna ;
 8° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier
 et dernier ressort du Conseil d'Etat ;
 
-9° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques.
+9° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques ;
+
+10° Des recours dirigés contre les sanctions administratives prises par le directeur général du Centre national de la
+cinématographie en application de l'article 13 du code de l'industrie cinématographique.
 
 **Liens relatifs à cet article**
 
@@ -11722,15 +11725,20 @@ et dernier ressort du Conseil d'Etat ;
 
 	  - Ordonnance n°58-1136 du 28 novembre 1958 - art. 1 (V)
 	  - Ordonnance n°58-1136 du 28 novembre 1958 - art. 2 (V)
+	  - Code de l'industrie cinématographique - art. 13 (M)
 	  - Code de justice administrative 13
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2002-1326 du 29 octobre 2002 - art. 9 () JORF 6 novembre 2002
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cité par**:
 
