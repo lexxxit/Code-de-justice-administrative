@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-07-17
+Version Consolidée au 2004-08-01
 
 # Partie législative
 
@@ -13185,6 +13185,10 @@ La cour administrative d'appel territorialement compétente pour connaître d'un
 administratif ou une décision d'une commission du contentieux de l'indemnisation des Français d'outre-mer est celle dans le
 ressort de laquelle a son siège ce tribunal ou cette commission.
 
+Par dérogation aux dispositions de l'alinéa précédent, pour l'application de l'article 52 du décret n° 2004-490 du 3 juin
+2004 relatif aux procédures administratives et financières relatives à l'archéologie préventive, la cour administrative
+d'appel compétente est celle du ressort de l'opération archéologique.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13193,7 +13197,15 @@ ressort de laquelle a son siège ce tribunal ou cette commission.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art 122 : Réserves
+
+	**Cite**:
+
+	  - Décret n°2004-490 2004-06-03 art. 52
+
+	**Modifié par**:
+
+	  - Décret n°2004-490 du 3 juin 2004 - art. 115 () JORF 5 juin 2004 en vigueur le 1er août 2004
 
 	**Anciens textes**:
 
@@ -20882,6 +20894,10 @@ Par dérogation aux dispositions du premier alinéa de l'article R. 811-2, le d�
 droit, qu'il tranche ou non une question au principal, court jusqu'à l'expiration du délai d'appel contre le jugement qui
 règle définitivement le fond du litige.
 
+Par dérogation aux mêmes dispositions, le délai d'appel contre les décisions de l'arbitre prévues à l'article 52 du décret n°
+2004-490 du 3 juin 2004 relatif aux procédures administratives et financières relatives à l'archéologie préventive est de
+quinze jours.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -20890,11 +20906,16 @@ règle définitivement le fond du litige.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - SPEC_APPLI: Décret n°2004-490 2004-06-03 art 122 : Réserves
 
 	**Cite**:
 
+	  - Décret n°2004-490 2004-06-03 art. 52
 	  - Code de justice administrative. - art. R811-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-490 du 3 juin 2004 - art. 115 () JORF 5 juin 2004 en vigueur le 1er août 2004
 
 	**Anciens textes**:
 
