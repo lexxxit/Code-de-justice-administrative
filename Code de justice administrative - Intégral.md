@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2002-11-06
+Version Consolidée au 2002-12-21
 
 # Partie législative
 
@@ -6140,6 +6140,78 @@ section du contentieux.
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
+##### Section 4 : Les assistants de justice
+
+###### Article R122-30
+
+Les assistants de justice recrutés en application de l'article L. 122-2 apportent leur concours aux travaux préparatoires
+réalisés par les membres du Conseil d'Etat pour l'exercice de leurs attributions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 1 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L122-2 (V)
+
+
+###### Article R122-31
+
+Les fonctions d'assistant de justice ne peuvent être exercées concomitamment à une activité professionnelle qu'avec l'accord
+du président de la section auprès de laquelle ils sont affectés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 1 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R122-32
+
+Les dispositions des articles R. 227-2 et R. 227-4 à R. 227-10 sont applicables aux assistants de justice affectés au Conseil
+d'Etat. Les attributions conférées par ces dispositions aux chefs de juridiction sont exercées par le président de la section
+auprès de laquelle ils sont affectés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 1 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R227-2 (V)
+	  - Code de justice administrative - art. R227-4 (V)
+
+
 #### Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives
 
 ###### Article R123-1
@@ -8756,7 +8828,9 @@ questions concernant l'organisation et le fonctionnement de la juridiction qu'il
 
 Pour la détermination de l'ordre du tableau, dans chaque grade du corps des tribunaux administratifs et des cours
 administratives d'appel, seule est prise en considération la date de nomination à ce grade ; en cas de nomination à la même
-date, la préséance revient au plus âgé.
+date, la préséance revient au plus âgé. Dans les cours administratives d'appel, les présidents de chambre ont préséance sur
+les assesseurs. Au tribunal administratif de Paris, le vice-président et les présidents de section ont préséance sur les
+présidents de chambre.
 
 Toutefois, les membres du corps des tribunaux administratifs et des cours administratives d'appel nommés dans leur grade à la
 suite du reclassement intervenu au 1er janvier 1998 prennent place au tableau en fonction du grade qu'ils détenaient
@@ -8768,9 +8842,13 @@ antérieurement et de la date à laquelle ils y avaient été nommés.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 5 () JORF 21 décembre 2002
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Anciens textes**:
 
@@ -10377,6 +10455,259 @@ moins le grade de secrétaire administratif.
 	  - Code des tribunaux administratifs et des cours adm - art. R44 (Ab)
 
 
+#### Chapitre VII : Les assistants de justice
+
+###### Article R227-1
+
+Les assistants de justice recrutés en application de l'article L. 227-1 apportent leur concours aux travaux préparatoires
+réalisés par les membres du corps des tribunaux administratifs et des cours administratives d'appel pour l'exercice de leurs
+attributions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L227-1 (V)
+
+
+###### Article R227-2
+
+Peuvent être nommées assistant de justice les personnes qui remplissent les conditions prévues aux articles 5 et 5 bis de la
+loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 1983-07-13 art. 5, art. 5 bis
+	  - Loi n°83-634 du 13 juillet 1983 - art. 5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R122-32 (V)
+
+
+###### Article R227-3
+
+Les assistants de justice ne peuvent exercer leurs fonctions concomitamment à une activité professionnelle qu'avec l'accord
+du président de la cour administrative d'appel ou du président du tribunal administratif où ils sont affectés.
+
+Les fonctions d'assistant de justice ne peuvent être exercées par les membres des professions libérales juridiques et
+judiciaires, ou par les personnes qui sont employées à leur service, ayant leur domicile professionnel dans le ressort de la
+cour administrative d'appel ou du tribunal administratif auprès duquel ils sont affectés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R227-4
+
+Tout candidat aux fonctions d'assistant de justice adresse sa demande au président de la juridiction auprès de laquelle il
+souhaite exercer ses fonctions.
+
+Les assistants de justice sont nommés par le vice-président du Conseil d'Etat sur proposition du chef de juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R122-32 (V)
+
+
+###### Article R227-5
+
+Les assistants de justice sont recrutés par engagement écrit.
+
+Cet engagement précise sa date d'effet et sa durée, la nature des fonctions exercées, la juridiction d'affectation et les
+modalités d'organisation du temps de travail. Si l'intérêt du service l'exige, celles-ci peuvent être modifiées au cours de
+l'exécution de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R227-6
+
+Les assistants de justice effectuent une période d'essai de trois mois au cours ou à l'issue de laquelle il peut être mis fin
+à l'engagement sans préavis ni indemnité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R227-7
+
+Avant l'arrivée du terme de l'engagement, il peut être mis fin à celui-ci :
+
+a) En cas de faute grave de l'assistant de justice sans préavis ni indemnité de licenciement, après information qu'il peut
+obtenir communication de son dossier individuel et de tous documents annexes et se faire assister par tous défenseurs de son
+choix ;
+
+b) Pour un motif autre que disciplinaire ; en ce cas, une indemnité de licenciement est versée à l'assistant de justice dans
+les conditions prévues par le titre XII du décret n° 86-83 du 17 janvier 1986 relatif aux dispositions générales applicables
+aux agents non titulaires de l'Etat ;
+
+c) Par la démission de l'assistant de justice adressée par lettre recommandée ; en ce cas, l'intéressé est tenu de respecter
+un préavis d'une durée de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°86-83 1986-01-17
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R227-8
+
+Au plus tard deux mois avant l'échéance de l'engagement en cours, l'autorité compétente notifie à l'assistant de justice son
+intention de procéder ou non à son renouvellement. L'intéressé dispose d'un délai de quinze jours pour faire connaître, le
+cas échéant, son acceptation. S'il n'a pas répondu dans ce délai, il est présumé renoncer à ce renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R227-9
+
+L'assistant de justice bénéficie de congés annuels d'une durée égale à cinq fois ses obligations hebdomadaires de service
+effectuées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R227-10
+
+Il est attribué à l'assistant de justice pour le temps passé à la réalisation des travaux qui lui sont confiés une indemnité
+de vacation horaire fixée par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé du budget et du
+ministre chargé de la fonction publique.
+
+Le chef de la juridiction auprès de laquelle l'assistant de justice est affecté atteste de la réalité du service fait.
+
+Le nombre de vacations horaires allouées à un même bénéficiaire ne peut excéder 80 par mois dans la limite de 720 par an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
+
+	**Cité par**:
+
+	  - Arrêté du 27 février 2003 - art. 1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
 ### Titre III : Dispositions statutaires
 
 #### Chapitre Ier : Dispositions générales
@@ -10540,7 +10871,7 @@ de ses membres en exercice. La date de ces élections est fixée par le vice-pr�
 ###### Article R232-3
 
 Sont électeurs les membres du corps des tribunaux administratifs et des cours administratives d'appel en position d'activité,
-de congé parental ou de détachement.
+de congé parental ou de détachement ainsi que les agents détachés depuis plus de deux ans dans ledit corps.
 
 **Liens relatifs à cet article**
 
@@ -10552,9 +10883,13 @@ de congé parental ou de détachement.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 6 () JORF 21 décembre 2002
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R232-4
@@ -10585,7 +10920,8 @@ Le vice-président du Conseil d'Etat statue immédiatement sur les réclamations
 
 ###### Article R232-5
 
-Sont éligibles les membres du corps qui remplissent les conditions requises pour être inscrits sur la liste électorale.
+Sont éligibles les membres du corps, ainsi que les agents détachés depuis plus de deux ans dans ledit corps, qui remplissent
+les conditions requises pour être inscrits sur la liste électorale.
 
 **Liens relatifs à cet article**
 
@@ -10597,9 +10933,13 @@ Sont éligibles les membres du corps qui remplissent les conditions requises pou
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 6 () JORF 21 décembre 2002
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R232-6
@@ -11015,11 +11355,6 @@ avec le président, les rapporteurs peuvent être assistés d'experts.
 
 ###### Article R232-23
 
-Lorsque le Conseil supérieur statue sur les questions d'ordre individuel relatives à la situation administrative des membres
-du corps des tribunaux administratifs et des cours administratives d'appel, seuls siègent parmi les membres élus ceux qui
-détiennent un grade supérieur ou égal à celui du magistrat intéressé. Toutefois, cette règle ne s'applique pas à l'examen des
-demandes de mutation des conseillers et premiers conseillers.
-
 Lorsque la situation de l'un des membres élus du Conseil supérieur est susceptible d'être évoquée à l'occasion de l'examen
 d'une question figurant à l'ordre du jour, le magistrat intéressé ne participe pas à la réunion.
 
@@ -11033,9 +11368,13 @@ d'une question figurant à l'ordre du jour, le magistrat intéressé ne particip
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 7 () JORF 21 décembre 2002
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R232-24
@@ -11413,6 +11752,186 @@ d'origine. Ils concourent pour l'avancement de grade et d'échelon avec les memb
 	  - Code de justice administrative. - art. R234-3 (V)
 
 
+##### Section 4 : Recrutement complémentaire
+
+###### Article R233-8
+
+L'ouverture du concours prévu par l'article L. 233-6 en vue du recrutement complémentaire de membres du corps des tribunaux
+administratifs et des cours administratives d'appel donne lieu à une publicité, notamment par la voie du Journal officiel de
+la République française, au moins un mois avant la date des épreuves écrites. Cette publicité indique la date des épreuves
+écrites, la date limite et le lieu de dépôt des candidatures.
+
+Le jury est présidé par le chef de la mission permanente d'inspection des juridictions administratives et comprend un
+représentant du ministre de la justice, un représentant du ministre chargé de la fonction publique ainsi que deux professeurs
+titulaires d'université et deux membres du corps des tribunaux administratifs et des cours administratives d'appel nommés par
+arrêté du vice-président du Conseil d'Etat. Les membres du corps des tribunaux administratifs et des cours administratives
+d'appel sont nommés sur proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel.
+
+L'arrêté mentionné à l'alinéa précédent désigne le remplaçant du président dans le cas où celui-ci se trouverait dans
+l'impossibilité de poursuivre sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L233-6 (M)
+
+
+###### Article R233-9
+
+Nul ne peut se présenter plus de trois fois au concours prévu par l'article L. 233-6.
+
+Les candidats visés au 3° de l'article L. 233-6 doivent être âgés de vingt-cinq ans au moins au 31 décembre de l'année au
+titre de laquelle le concours est ouvert.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L233-6 (M)
+
+
+###### Article R233-10
+
+Le concours prévu par l'article L. 233-6 comporte deux épreuves écrites d'admissibilité et une épreuve orale d'admission.
+
+1° Epreuves d'admissibilité :
+
+a) Une épreuve consistant en l'étude d'un dossier de contentieux administratif (durée : quatre heures ; coefficient 2) ;
+
+b) Une composition portant sur le droit constitutionnel ou administratif (durée : quatre heures ; coefficient 1).
+
+2° Epreuve d'admission : une interrogation portant sur un sujet de droit administratif, suivie d'une conversation d'ordre
+général (durée : trente minutes précédées de trente minutes de préparation ; coefficient 2). Le sujet d'interrogation est
+tiré au sort par le candidat.
+
+Un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la fonction publique fixe le
+programme des épreuves d'admissibilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
+
+	**Cité par**:
+
+	  - Arrêté du 23 janvier 2003 - art. 1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L233-6 (M)
+
+
+###### Article R233-11
+
+Les notes vont de 0 à 20. Toute note inférieure à 5 avant application des coefficients est éliminatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cité par**:
+
+	  - Arrêté du 28 septembre 2012 - art. 1 (V)
+
+
+###### Article R233-12
+
+Les membres du corps des tribunaux administratifs et des cours administratives d'appel recrutés au titre de la présente
+section sont nommés et titularisés au 1er échelon du grade de conseiller.
+
+Toutefois, les fonctionnaires, les militaires et les magistrats sont nommés et titularisés dans les conditions fixées à
+l'article R. 233-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cité par**:
+
+	  - Décret n°2010-164 du 22 février 2010 - art. 52 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R233-6 (M)
+
+
+##### Section 6 : Fin de fonctions
+
+###### Article R233-13
+
+Pour l'application de l'article L. 233-9, les membres du corps des tribunaux administratifs et des cours administratives
+d'appel doivent, six mois au moins avant d'atteindre la limite d'âge, présenter leur demande en vue de renoncer à leur
+maintien en activité jusqu'à la fin du semestre considéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 8 () JORF 21 décembre 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L233-9 (Ab)
+
+
 #### Chapitre IV : Avancement
 
 ###### Article R234-1
@@ -11422,12 +11941,14 @@ comportent respectivement six et sept.
 
 Le temps à passer dans chacun des échelons pour accéder à l'échelon supérieur est fixé à :
 
-1° Un an pour les quatre premiers échelons du grade de conseiller ;
+1° Un an et six mois pour les deux premiers échelons du grade de conseiller ;
 
-2° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les trois premiers échelons du grade de premier
+2° Un an pour les 3e et 4e échelons du grade de conseiller ;
+
+3° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les trois premiers échelons du grade de premier
 conseiller et pour le premier échelon du grade de président ;
 
-3° Trois ans pour les 4e et 5e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président.
+4° Trois ans pour les 4e et 5e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président.
 
 L'avancement d'échelon est prononcé par arrêté du vice-président du Conseil d'Etat.
 
@@ -11437,9 +11958,9 @@ L'avancement d'échelon est prononcé par arrêté du vice-président du Conseil
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - Décret n°2002-1472 du 20 décembre 2002 - art. 4 () JORF 21 décembre 2002
 
 	**Cité par**:
 
