@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2003-12-20
+Version Consolidée au 2003-12-24
 
 # Partie législative
 
@@ -2722,59 +2722,6 @@ dernier ressort par toutes les juridictions administratives.
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-## Livre IV : L'introduction de l'instance de premier ressort
-
-### Titre Ier : La requête introductive d'instance
-
-#### Chapitre 1er : Présentation de la requête.
-
-###### Article L411-1
-
-L'introduction des requêtes est subordonnée à l'acquittement d'un droit de timbre dans les conditions prévues par les
-dispositions des articles 1089 B et 1090 A du code général des impôts, ci-après reproduites :
-
-" Art. 1089 B. - Les actes des secrétariats des juridictions judiciaires et administratives ne sont pas soumis au droit
-d'enregistrement ni au droit de timbre, ni à toute autre taxe prévue par le présent code à l'exception d'un droit de timbre
-de 15 euros par requête enregistrée auprès des tribunaux administratifs, des cours administratives d'appel et du Conseil
-d'Etat.
-
-Les requêtes engagées contre une décision de refus de visa sont dispensées du droit de timbre.
-
-" III de l'article 1090 A. - Les actes soumis au droit de timbre prévu par l'article 1089 B sont exonérés de ce droit lorsque
-l'auteur de la requête remplit les conditions permettant de bénéficier de l'aide juridictionnelle prévue par la loi n° 91-647
-du 10 juillet 1991 relative à l'aide juridique, qu'elle soit partielle ou totale. "
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1089 B, 1090 A
-	  - Loi n°91-647 1991-07-10
-
-	**Anciens textes**:
-
-	  - CGI 1089 B, 1090 A
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
-
-	**Cité par**:
-
-	  - Code de justice administrative. - art. R122-12 (M)
-	  - Code de justice administrative. - art. R222-1 (M)
-	  - Code de justice administrative. - art. R751-5 (M)
-
-
 ## Livre V : Le référé
 
 ### Titre Ier : Le juge des référés
@@ -3013,40 +2960,6 @@ Sauf renvoi à une formation collégiale, l'audience se déroule sans conclusion
 
 	  - Code de justice administrative - art. L522-3 (V)
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
-
-
-###### Article L522-2
-
-La demande visant au prononcé de mesures d'urgence est dispensée de l'accomplissement de la formalité prévue à l'article 1089
-B du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1089 B
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2000-597 2000-06-30 art. 4, 9 et 11 JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 4 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-597 du 30 juin 2000 - art. 25 (M)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1089 B (M)
 
 
 ###### Article L522-3
