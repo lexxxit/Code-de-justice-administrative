@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2002-09-01
+Version Consolidée au 2002-09-10
 
 # Partie législative
 
@@ -594,6 +594,39 @@ la nature ne justifie pas l'intervention d'une formation collégiale.
 	**Cité par**:
 
 	  - Code de justice administrative - art. R611-20 (V)
+
+
+##### Section 4 : Les assistants de justice
+
+###### Article L122-2
+
+Peuvent être nommées au Conseil d'Etat, en qualité d'assistants de justice, les personnes répondant aux conditions prévues à
+l'article L. 227-1. 
+
+Ces assistants sont nommés pour une durée de deux ans renouvelable deux fois. Ils sont tenus au secret professionnel sous les
+peines prévues à l'article 226-13 du code pénal. 
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 60 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
+	  - Code de justice administrative - art. L227-1 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R122-30 (V)
 
 
 ### Titre III : Dispositions statutaires
@@ -1272,34 +1305,6 @@ vice-président du Conseil d'Etat délibérant avec les présidents de section.
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-###### Article L222-5
-
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel peuvent être affectés dans une cour
-administrative d'appel s'ils justifient au 1er janvier de leur année de nomination d'au moins quatre ans d'exercice de
-fonctions juridictionnelles dans ce corps.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-1127 1987-12-31 art. 4
-	  - Loi n°87-1127 du 31 décembre 1987 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 53 (V) JORF 10 septembre 2002
-
-	**Cité par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 53 (V)
-	  - Code de justice administrative. - art. R231-2 (M)
-
-
 #### Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon.
 
 ###### Article L223-1
@@ -1577,6 +1582,41 @@ Le haut-commissaire en est immédiatement avisé par l'auteur de la demande. "
 
 	  - Code de justice administrative. - art. R225-5-1 (M)
 	  - Code de justice administrative. - art. R225-6 (M)
+
+
+#### Chapitre VII : Les assistants de justice
+
+###### Article L227-1
+
+Peuvent être nommées, en qualité d'assistants de justice auprès des membres du corps des tribunaux administratifs et des
+cours administratives d'appel, les personnes titulaires d'un diplôme sanctionnant une formation juridique d'une durée au
+moins égale à quatre années d'études supérieures après le baccalauréat et que leur compétence qualifie particulièrement pour
+exercer ces fonctions. 
+
+Ces assistants sont nommés pour une durée de deux ans renouvelable deux fois. Ils sont tenus au secret professionnel sous les
+peines prévues à l'article 226-13 du code pénal. 
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 61 () JORF 10 septembre 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L122-2 (V)
+	  - Code de justice administrative - art. R227-1 (VD)
 
 
 ### Titre III : Dispositions statutaires
@@ -1907,6 +1947,29 @@ prépondérante.
 	  - Code de justice administrative - art. L232-1 (V)
 
 
+##### Section 3 : Fonctionnement du Conseil supérieur
+
+###### Article L232-4-1
+
+Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel siège toujours dans la même composition,
+quel que soit le niveau hiérarchique des magistrats dont le cas est examiné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 3 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
+
+
 ##### Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel
 
 ###### Article L232-5
@@ -2100,11 +2163,22 @@ de même niveau de recrutement dans des conditions fixées par décret en Consei
 
 ###### Article L233-6
 
-Le recrutement complémentaire, par voie de concours, de membres du corps des tribunaux administratifs et des cours
-administratives d'appel du grade de conseiller, organisé par l'article 1er de la loi n° 80-511 du 7 juillet 1980 relative au
-recrutement des membres des tribunaux administratifs et des cours administratives d'appel, est prorogé jusqu'au 31 décembre
-2004. Pour les années 2000, 2001 et 2002, il pourra être dérogé aux dispositions de cette loi limitant le nombre de postes
-offerts au titre du recrutement complémentaire au nombre de ceux pourvus au titre du recrutement statutaire.
+Jusqu'au 31 décembre 2007, il peut être procédé au recrutement complémentaire de conseillers par voie de concours.
+
+Le nombre de postes pourvus au titre de recrutement complémentaire ne peut excéder trois fois le nombre de postes offerts
+chaque année dans le corps des tribunaux administratifs et des cours administratives d'appel aux élèves sortant de l'Ecole
+nationale d'administration et aux candidats au tour extérieur.
+
+Le concours est ouvert :
+
+1° Aux fonctionnaires et autres agents publics civils ou militaires appartenant à un corps de la catégorie A ou assimilé et
+justifiant au 31 décembre de l'année du concours de sept ans de services publics effectifs dont trois ans effectifs dans la
+catégorie A ;
+
+2° Aux magistrats de l'ordre judiciaire ;
+
+3° Aux titulaires de l'un des diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale
+d'administration.
 
 **Liens relatifs à cet article**
 
@@ -2116,6 +2190,10 @@ offerts au titre du recrutement complémentaire au nombre de ceux pourvus au tit
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 56 () JORF 10 septembre 2002
 
 	**Cité par**:
 
@@ -2130,10 +2208,10 @@ offerts au titre du recrutement complémentaire au nombre de ceux pourvus au tit
 
 ###### Article L233-7
 
-A titre exceptionnel et jusqu'au 31 décembre 2004, les membres du corps des tribunaux administratifs et des cours
-administratives d'appel, lorsqu'ils atteignent la limite d'âge résultant de la loi n° 84-834 du 13 septembre 1984 relative à
-la limite d'âge dans la fonction publique et le secteur public, sont, sur leur demande, maintenus en activité, en surnombre,
-pour exercer l'une des fonctions dévolues aux premiers conseillers pendant une durée de trois ans non renouvelable.
+Les membres du corps des tribunaux administratifs et des cours administratives d'appel, lorsqu'ils atteignent la limite d'âge
+résultant de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public,
+sont, sur leur demande, maintenus en activité, en surnombre, pour exercer l'une des fonctions dévolues aux premiers
+conseillers pendant une durée de trois ans non renouvelable.
 
 **Liens relatifs à cet article**
 
@@ -2145,6 +2223,10 @@ pour exercer l'une des fonctions dévolues aux premiers conseillers pendant une 
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 57 () JORF 10 septembre 2002
 
 
 ###### Article L233-8
@@ -2164,6 +2246,39 @@ pensions civiles et militaires de retraite.
 
 	  - Code des pensions civiles et militaires de retrait - art. L26 bis (M)
 	  - Code des pensions civiles et militaires de retrait - art. L63 (V)
+
+
+##### Section 6 : Fin de fonctions
+
+###### Article L233-9
+
+Les membres du corps des tribunaux administratifs et des cours administratives d'appel sont maintenus en fonctions, sauf
+demande contraire, jusqu'au 30 juin ou au 31 décembre de l'année en cours selon qu'ils ont atteint la limite d'âge au cours
+du premier ou du second semestre.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Rapport
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 58 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R233-13 (M)
 
 
 #### Chapitre IV : Avancement
