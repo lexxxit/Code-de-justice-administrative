@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2003-06-25
+Version Consolidée au 2003-07-05
 
 # Partie législative
 
@@ -14601,7 +14601,13 @@ En outre, la compétence des ministres peut être déléguée par décret :
 1° Aux chefs des services déconcentrés des administrations civiles de l'Etat dans les matières énumérées à l'article 7 du
 décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 mai 1982 ;
 
-2° Au préfet ou au préfet de région dans les autres cas.
+2° Au préfet de zone, au préfet de région et au préfet dans les autres cas.
+
+**Nota:**
+
+NOTA : L'article 7 du décret n° 82-389 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
+
+L'article 6 du décret n° 82-390 a été abrogé par le décret n° 2004-374 du 29 avril 2004 (art. 87).
 
 **Liens relatifs à cet article**
 
@@ -14615,9 +14621,13 @@ décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2003-616 du 4 juillet 2003 - art. 1 () JORF 5 juillet 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cité par**:
 
@@ -20670,6 +20680,55 @@ mémoires et observations produits au nom de l'Etat.
 	  - Code de justice administrative - art. R811-10-2 (VT)
 	  - Code de justice administrative. - art. R811-10-3 (V)
 	  - Code général de la propriété des personnes publ... - art. R2331-5 (V)
+
+
+###### Article R811-10-1
+
+Par dérogation aux dispositions de l'article R. 811-10, le préfet présente devant la cour administrative d'appel les mémoires
+et observations produits au nom de l'Etat lorsque le litige est né de l'activité des services de la préfecture dans les
+matières suivantes :
+
+1° Entrée et séjour des étrangers en France ;
+
+2° Expulsion des ressortissants étrangers ;
+
+3° Mise en jeu de la responsabilité de l'Etat du fait des dommages causés par les attroupements et rassemblements ;
+
+4° Agrément et armement des agents de police municipale ;
+
+5° Exercice des activités de surveillance, de gardiennage ou de transport de fonds ;
+
+6° Réglementation des armes ;
+
+7° Exercice de l'activité de conducteur et de la profession d'exploitant de taxi ;
+
+8° Police des débits de boisson ;
+
+9° Hospitalisation sous contrainte.
+
+Les dispositions du présent article ne sont pas applicables dans la collectivité départementale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2003-616 du 4 juillet 2003 - art. 2 () JORF 5 juillet 2003 en vigueur le 1er septembre 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R751-8 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R811-10 (V)
 
 
 ###### Article R811-11
