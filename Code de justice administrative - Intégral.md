@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-08-03
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -2564,8 +2564,8 @@ la Polynésie française, conformément aux articles 82 et 117 de la même loi o
 5° Les élections à l'assemblée territoriale de Wallis-et-Futuna, conformément à l'article 13-12 de la loi n° 61-814 du 29
 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer ;
 
-6° Les élections au Conseil supérieur des Français de l'étranger, conformément à l'article 9 de la loi n° 82-471 du 7 juin
-1982 relative au Conseil supérieur des Français de l'étranger.
+6° Les élections à l'Assemblée des Français de l'étranger, conformément à l'article 9 de la loi n° 82-471 du 7 juin 1982
+relative à l'Assemblée des Français de l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -2595,7 +2595,7 @@ juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'out
 
 	**Modifié par**:
 
-	  - Loi n°2004-193 2004-02-27 art. 16 6° JORF 2 mars 2004
+	  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
 
 
 ###### Article L311-4
@@ -3131,8 +3131,9 @@ cet effet statue dans un délai de quarante-huit heures et exerce le cas échéa
 ###### Article L551-1
 
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
-de publicité et de mise en concurrence auxquelles est soumise la passation des marchés publics, des contrats de partenariat
-et des conventions de délégation de service public.
+de publicité et de mise en concurrence auxquelles est soumise la passation des marchés publics, des contrats de partenariat,
+des contrats visés au premier alinéa de l'article L. 6148-5 du code de la santé publique et des conventions de délégation de
+service public.
 
 Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
 par ce manquement, ainsi que le représentant de l'Etat dans le département dans le cas où le contrat est conclu ou doit être
@@ -3176,11 +3177,15 @@ Le président du tribunal administratif ou son délégué statue en premier et d
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-559 2004-06-17 art. 27 1° JORF 19 juin 2004
+	  - Loi n°2004-806 du 9 août 2004 - art. 153 () JORF 11 août 2004
 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. L22 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L6148-5 (M)
 
 
 ###### Article L551-2
@@ -3599,15 +3604,17 @@ partenariat sont exécutoires dès leur conclusion.
 ###### Article L554-6
 
 La décision de suspension des délibérations des conseils d'administration des établissements publics de santé obéit aux
-règles définies au 3e alinéa du 1° de l'article L. 714-5 du code de la santé publique, ci-après reproduit :
+règles définies au 3e alinéa du 1° de l'article L. 6143-4 du code de la santé publique, ci-après reproduit :
 
-" Art. L. 714-5. - Le directeur de l'agence régionale de l'hospitalisation défère au tribunal administratif les délibérations
+"Art. L. 6143-4. - Le directeur de l'agence régionale de l'hospitalisation défère au tribunal administratif les délibérations
 portant sur ces matières qu'il estime illégales dans les deux mois suivant leur réception. Il informe sans délai
 l'établissement et lui communique toute précision sur les illégalités invoquées. Il peut assortir son recours d'une demande
-de suspension. Il est fait droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à
-créer un doute sérieux quant à la légalité de l'acte attaqué. "
+de suspension. Il est fait droit à cette demande si l'un des moyens invoqués paraît sérieux et de nature à justifier
+l'annulation de la délibération attaquée. Pour ce qui concerne les délibérations relatives au règlement intérieur des
+établissements et unités d'hospitalisation accueillant des malades atteints de troubles mentaux, le directeur de l'agence
+régionale de l'hospitalisation saisi, pour avis, le représentant de l'Etat dans le département."
 
-Il en va de même pour les actes visés à l'article L. 726-5 du code de la santé publique.
+Il en va de même pour les actes visés à l'article L. 6414-5 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -3616,18 +3623,18 @@ Il en va de même pour les actes visés à l'article L. 726-5 du code de la sant
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2004-806 du 9 août 2004 - art. 27 () JORF 11 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L6143-4 (M)
+	  - Code de la santé publique - art. L6414-5 (M)
 
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L714-5 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L714-5 (M)
-	  - Code de la santé publique - art. L726-5 (M)
 
 
 ###### Article L554-7
