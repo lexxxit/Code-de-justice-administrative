@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-09-01
 
 # Partie législative
 
@@ -8444,7 +8444,7 @@ d'inspection des juridictions administratives prévue à l'article L. 112-5.
 
 ###### Article R221-3
 
-Les sièges et les ressorts des tribunaux administratifs sont fixés comme suit :
+Le siège et le ressort des tribunaux administratifs sont fixés comme suit :
 
 Amiens : Aisne, Oise, Somme ;
 
@@ -8468,7 +8468,7 @@ Grenoble : Drôme, Isère, Savoie, Haute-Savoie ;
 
 Lille : Nord, Pas-de-Calais ;
 
-Limoges : Corrèze, Creuse, Haute-Vienne, Indre ;
+Limoges : Corrèze, Creuse, Indre, Haute-Vienne ;
 
 Lyon : Ain, Ardèche, Loire, Rhône ;
 
@@ -8486,7 +8486,7 @@ Nice : Alpes-Maritimes, Var ;
 
 Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ;
 
-Paris : Ville de Paris, Hauts-de-Seine ;
+Paris : ville de Paris ;
 
 Pau : Gers, Landes, Pyrénées-Atlantiques, Hautes-Pyrénées ;
 
@@ -8500,7 +8500,7 @@ Strasbourg : Moselle, Bas-Rhin, Haut-Rhin ;
 
 Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ;
 
-Versailles : Essonne, Yvelines ;
+Versailles : Essonne, Hauts-de-Seine, Yvelines ;
 
 Basse-Terre : Guadeloupe ;
 
@@ -8510,18 +8510,18 @@ Fort-de-France : Martinique ;
 
 Mamoudzou : Mayotte ;
 
-Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
-
-Saint-Pierre : Saint-Pierre-et-Miquelon ;
-
-Papeete : Polynésie française ;
+Mata-Utu : îles Wallis et Futuna ;
 
 Nouvelle-Calédonie : Nouvelle-Calédonie ;
 
-Mata-Utu : îles Wallis et Futuna.
+Polynésie française : Polynésie française ;
+
+Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
+
+Saint-Pierre : Saint-Pierre-et-Miquelon.
 
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et
-celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris-Charles-de-Gaulle.
+celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris - Charles-de-Gaulle.
 
 **Liens relatifs à cet article**
 
@@ -8531,25 +8531,21 @@ celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise d
 
 	**Cité par**:
 
-	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
-	  - Décret n°2002-547 du 19 avril 2002 - art. 15 (V)
-	  - Décret n°2008-452 du 13 mai 2008 - art. 27 (V)
 	  - Arrêté du 23 décembre 2009 (Ab)
 	  - Arrêté du 15 décembre 2010 (Ab)
 	  - Arrêté du 1er décembre 2011 (Ab)
 	  - Code de justice administrative - art. R776-16 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-2 2004-01-02 art. 2 1° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
+	  - Décret n°2002-547 du 19 avril 2002 - art. 15 (V)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 27 (V)
 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R4 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2004-585 2004-06-11 art. 2 JORF 23 juin 2004 en vigueur le 1er septembre 2004
 
 
 ###### Article R221-4
@@ -8604,13 +8600,13 @@ Rennes : cinq chambres ;
 
 Rouen : trois chambres ;
 
-Saint-Denis : deux chambres ;
-
 Strasbourg : cinq chambres ;
 
-Toulouse : quatre chambres ;
+Toulouse : cinq chambres ;
 
-Versailles : huit chambres.
+Versailles : huit chambres ;
+
+Saint-Denis : deux chambres.
 
 **Liens relatifs à cet article**
 
@@ -8623,17 +8619,13 @@ Versailles : huit chambres.
 	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
 	  - Code de justice administrative. - art. R222-17 (V)
 
-	**Modifié par**:
-
-	  - Décret n°2003-653 du 16 juillet 2003 - art. 2 () JORF 19 juillet 2003 en vigueur le 1er septembre 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours administratives d'appel R5 al. 1
+
+	**Modifié par**:
+
+	  - Décret n°2004-585 2004-06-11 art. 3 JORF 23 juin 2004 en vigueur le 1er septembre 2004
 
 
 ###### Article R221-5
@@ -8689,23 +8681,24 @@ au 7e échelon de son grade.
 
 ###### Article R221-7
 
-Les sièges et les ressorts des cours administratives d'appel sont fixés comme suit :
+Le siège et le ressort des cours administratives d'appel sont fixés comme suit :
 
-Bordeaux : ressorts des tribunaux administratifs de Bordeaux, Limoges, Pau, Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-
-de-France, Mamoudzou, Saint-Denis-de-la-Réunion et Saint-Pierre-et-Miquelon ;
+Bordeaux : ressort des tribunaux administratifs de Bordeaux, Limoges, Pau, Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-de-
+France, Mamoudzou, Saint-Denis et Saint-Pierre ;
 
-Douai : ressorts des tribunaux administratifs d'Amiens, Lille et Rouen ;
+Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ;
 
-Lyon : ressorts des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ;
+Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ;
 
-Marseille : ressorts des tribunaux administratifs de Bastia, Marseille, Montpellier et Nice ;
+Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier et Nice ;
 
-Nancy : ressorts des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ;
+Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ;
 
-Nantes : ressorts des tribunaux administratifs de Caen, Nantes, Orléans et Rennes ;
+Nantes : ressort des tribunaux administratifs de Caen, Nantes, Orléans et Rennes ;
 
-Paris : ressorts des tribunaux administratifs de Cergy-Pontoise, Melun, Paris, Versailles, Nouvelle-Calédonie, Mata-Utu et
-Papeete.
+Paris : ressort des tribunaux administratifs de Melun, Paris, Mata-Utu, Nouvelle-Calédonie et Polynésie française ;
+
+Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et Versailles.
 
 **Liens relatifs à cet article**
 
@@ -8713,17 +8706,13 @@ Papeete.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2004-585 2004-06-11 art. 4 JORF 23 juin 2004 en vigueur le 1er septembre 2004
+
 	**Cité par**:
 
 	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-2 2004-01-02 art. 2 2° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Anciens textes**:
 
@@ -8734,11 +8723,13 @@ Papeete.
 
 Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit :
 
-Bordeaux, Lyon, Marseille et Paris : cinq chambres ;
+Lyon et Marseille : six chambres ;
 
-Nantes : quatre chambres ;
+Bordeaux et Paris : cinq chambres ;
 
-Douai et Nancy : trois chambres.
+Nancy et Nantes : quatre chambres ;
+
+Douai et Versailles : trois chambres.
 
 **Liens relatifs à cet article**
 
@@ -8746,17 +8737,13 @@ Douai et Nancy : trois chambres.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Modifié par**:
-
-	  - Décret n°2003-653 du 16 juillet 2003 - art. 4 () JORF 19 juillet 2003 en vigueur le 1er septembre 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R8 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2004-585 2004-06-11 art. 5 JORF 23 juin 2004 en vigueur le 1er septembre 2004
 
 
 #### Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel
@@ -21208,6 +21195,40 @@ Les dispositions du présent article ne sont pas applicables dans la collectivit
 	**Cite**:
 
 	  - Code de justice administrative. - art. R811-10 (V)
+
+
+###### Article R811-10-2
+
+Par dérogation aux dispositions de l'article R. 811-10, le trésorier-payeur général présente les mémoires et observations
+devant la cour administrative d'appel en réponse aux requêtes relatives au recouvrement des impôts directs et taxes
+assimilées dont le recouvrement est assuré par les comptables du Trésor, des amendes et condamnations pécuniaires, et des
+créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-880 2004-08-23 art. 2 : Champs d'application
+
+	**Créé par**:
+
+	  - Décret n°2004-880 du 23 août 2004 - art. 1 () JORF 28 août 2004 en vigueur le 1er septembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2013-575 du 2 juillet 2013 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-575 du 2 juillet 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R811-10
 
 
 ###### Article R811-11
