@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-03-02
+Version Consolidée au 2004-06-05
 
 # Partie législative
 
@@ -3785,18 +3785,15 @@ L'article L. 421-9 du code de l'urbanisme a été abrogé par l'ordonnance n° 2
 ###### Article L554-11
 
 La décision de suspension d'une autorisation ou d'une décision d'approbation d'un projet d'aménagement entrepris par une
-collectivité publique obéit aux règles définies par le dernier alinéa de l'article 2 de la loi n° 76-629 du 10 juillet 1976
-ci après reproduit :
+collectivité publique obéit aux règles définies par le dernier alinéa de l'article L. 122-2 du code de l'environnement ci
+après reproduit : 
 
-" Art. 2, dernier alinéa. - Si une requête déposée devant la juridiction administrative contre une autorisation ou une
-décision d'approbation d'un projet visé à l'alinéa 2 du présent article est fondée sur l'absence d'étude d'impact, le juge
-des référés, saisi d'une demande de suspension de la décision attaquée, y fait droit dès que cette absence est constatée. "
+" L. 122-2 dernier alinéa.-Si une requête déposée devant la juridiction administrative contre une autorisation ou une
+décision d'approbation d'un projet visé au second alinéa de l'article L. 122-1 est fondée sur l'absence d'étude d'impact, le
+juge des référés, saisi d'une demande de suspension de la décision attaquée, y fait droit dès que cette absence est
+constatée. "
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°76-629 du 10 juillet 1976 - art. 2 (M)
 
 	**Anciens textes**:
 
@@ -3807,10 +3804,18 @@ des référés, saisi d'une demande de suspension de la décision attaquée, y f
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 2000-06-30 art. 1, 13 et 20 JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+	  - Ordonnance n°2004-489 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-1 (M)
+	  - Code de l'environnement - art. L122-2 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'environnement - art. L122-2 (V)
 
 
 ###### Article L554-12
