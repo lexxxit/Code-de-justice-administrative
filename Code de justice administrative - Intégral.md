@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-08-01
+Version Consolidée au 2004-08-03
 
 # Partie législative
 
@@ -5746,6 +5746,13 @@ statuer par ordonnance dans les cas prévus à l'article précédent.
 Il peut, dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas susceptibles d'entraîner l'infirmation
 du jugement attaqué.
 
+Ces dispositions sont applicables aux appels enregistrés avant le 1er janvier 2005.
+
+**Nota:**
+
+NOTA : Une partie des dispositions de l'ordonnance 45-2658 du 2 novembre 1945 a été intégrée dans le code de l'entrée et du
+séjour des étrangers et du droit d'asile.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -5759,11 +5766,7 @@ du jugement attaqué.
 
 	**Modifié par**:
 
-	  - Décret n°2003-543 du 24 juin 2003 - art. 2 () JORF 25 juin 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 8 () JORF 3 août 2004
 
 
 ###### Article R122-14
@@ -9704,6 +9707,46 @@ Les dispositions des articles R. 222-23 et R. 222-24 sont applicables dans les c
 
 	  - Code de justice administrative. - art. R222-23 (M)
 	  - Code de justice administrative. - art. R222-24 (V)
+
+
+###### Article R222-33
+
+Lorsque la cour administrative d'appel statue en appel d'une décision rendue en application de l'article 22 bis ou du second
+alinéa de l'article 27 ter de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des
+étrangers en France, la décision est rendue par le président de la cour ou le magistrat qu'il délègue.
+
+Le président ou le magistrat qu'il délègue peut statuer par ordonnance dans les cas prévus à l'article R. 222-1. Il peut,
+dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas susceptibles d'entraîner l'infirmation de la
+décision attaquée.
+
+**Nota:**
+
+NOTA : Une partie des dispositions de l'ordonnance 45-2658 du 2 novembre 1945 a été intégrée dans le code de l'entrée et du
+séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2658 1945-11-02 art. 27 ter
+	  - Code de justice administrative 22 bis, R222-1
+	  - Code de justice administrative. - art. R222-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-789 2004-07-29 art. 11 : champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 9 () JORF 3 août 2004
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R222-34 (Ab)
 
 
 #### Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon.
@@ -20214,10 +20257,43 @@ commissaire du gouvernement.
 	  - Code des tribunaux administratifs et des cours adm - art. R241-2 (Ab)
 
 
+###### Article R776-2-1
+
+Le président du tribunal administratif ou le magistrat qu'il délègue peut, par ordonnance :
+
+1° Donner acte des désistements ;
+
+2° Constater qu'il n'y a pas lieu de statuer sur un recours ;
+
+3° Rejeter les recours entachés d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Créé par**:
+
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 1 () JORF 3 août 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
 ###### Article R776-3
 
 Le tribunal administratif territorialement compétent est celui dans le ressort duquel a son siège le préfet qui a pris la
 décision.
+
+Toutefois, lorsque le recours est formé par un étranger placé dans un centre de rétention administrative, le tribunal
+administratif compétent est celui dans le ressort duquel est situé le centre où se trouve le requérant lors de l'introduction
+de sa requête.
 
 Lorsque le président d'un tribunal administratif est saisi de conclusions qu'il estime ressortir à la compétence du président
 d'un autre tribunal administratif, il lui transmet le dossier sans délai et par tous moyens.
@@ -20230,8 +20306,12 @@ d'un autre tribunal administratif, il lui transmet le dossier sans délai et par
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - SPEC_APPLI: Décret n°2004-789 2004-07-29 art 11 : Champ d'application
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 2 () JORF 3 août 2004
 
 	**Cité par**:
 
@@ -20395,7 +20475,7 @@ tribunal administratif lui transmet copie de celle-ci et des pièces qui y sont 
 
 ###### Article R776-9
 
-Le délai de quarante-huit heures imparti au président du tribunal administratif ou à son délégué pour statuer court à partir
+Le délai de soixante-douze heures imparti au président du tribunal administratif ou à son délégué pour statuer court à partir
 de l'heure d'enregistrement de la requête au greffe du tribunal.
 
 **Liens relatifs à cet article**
@@ -20404,9 +20484,12 @@ de l'heure d'enregistrement de la requête au greffe du tribunal.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 3 () JORF 3 août 2004
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 	**Anciens textes**:
@@ -20487,6 +20570,10 @@ par un avocat des observations orales. Elles peuvent également produire des doc
 documents apportent des éléments nouveaux, le magistrat demande à l'autre partie de les examiner et de lui faire part à
 l'audience de ses observations.
 
+Sans préjudice de l'article R. 776-8, les observations orales peuvent être présentées au nom de l'Etat par le préfet du
+département dans lequel est situé le centre de rétention administrative où se trouve l'étranger lors de l'introduction de son
+recours et, si le centre de rétention administrative est situé à Paris, par le préfet de police.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -20495,12 +20582,20 @@ l'audience de ses observations.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - SPEC_APPLI: Décret n°2004-789 2004-07-29 art 11 : Champ d'application
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 4 () JORF 3 août 2004
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R776-13-2 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R776-8 (V)
 
 	**Anciens textes**:
 
@@ -20509,7 +20604,8 @@ l'audience de ses observations.
 
 ###### Article R776-14
 
-Le jugement est prononcé à l'audience.
+Le jugement est prononcé à l'audience si l'étranger est retenu, au jour de celle-ci, par l'autorité administrative ou s'il
+l'était lorsqu'il a formé son recours.
 
 **Liens relatifs à cet article**
 
@@ -20517,16 +20613,19 @@ Le jugement est prononcé à l'audience.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 5 () JORF 3 août 2004
 
 	**Cité par**:
 
 	  - Arrêté du 23 novembre 2011 - art. 3 (V)
 	  - Décret n°2013-525 du 20 juin 2013 (V)
 	  - Code de justice administrative. - art. R776-17 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 	**Anciens textes**:
 
@@ -20593,8 +20692,8 @@ La minute du jugement est signée par le magistrat qui l'a rendu.
 
 ###### Article R776-17
 
-Le dispositif du jugement, assorti de la formule exécutoire prévue à l'article R. 751-1, est communiqué sur place aux parties
-présentes à l'audience qui en accusent aussitôt réception.
+Le dispositif du jugement prononcé dans les conditions prévues à l'article R. 776-14, assorti de la formule exécutoire prévue
+à l'article R. 751-1, est communiqué sur place aux parties présentes à l'audience qui en accusent aussitôt réception.
 
 S'il ne l'a pas été sur place, le jugement est notifié sans délai et par tous moyens aux parties qui en accusent réception.
 
@@ -20606,10 +20705,9 @@ La notification mentionne la possibilité de faire appel et le délai dans leque
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 6 () JORF 3 août 2004
 
 	**Cité par**:
 
@@ -20618,6 +20716,11 @@ La notification mentionne la possibilité de faire appel et le délai dans leque
 	**Cite**:
 
 	  - Code de justice administrative. - art. R751-1 (V)
+	  - Code de justice administrative. - art. R776-14 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 	**Anciens textes**:
 
@@ -20657,8 +20760,8 @@ Les frais d'interprète sont liquidés dans les conditions prévues par l'articl
 
 ###### Article R776-19
 
-Le préfet signataire de l'arrêté attaqué et l'étranger peuvent interjeter appel du jugement devant le président de la section
-du contentieux du Conseil d'Etat ou un conseiller d'Etat délégué par lui.
+Le préfet signataire de l'arrêté attaqué et l'étranger peuvent interjeter appel du jugement devant le président de la cour
+administrative d'appel ou un magistrat délégué par lui.
 
 **Liens relatifs à cet article**
 
@@ -20668,8 +20771,12 @@ du contentieux du Conseil d'Etat ou un conseiller d'Etat délégué par lui.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - SPEC_APPLI: Décret n°2004-789 2004-07-29 art 11 : Champ d'application
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-789 du 29 juillet 2004 - art. 10 () JORF 3 août 2004
 
 	**Cité par**:
 
