@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2003-01-04
+Version Consolidée au 2003-06-25
 
 # Partie législative
 
@@ -5658,19 +5658,27 @@ Lorsqu'il statue en application des articles 22 bis et 27 ter de l'ordonnance n�
 conditions d'entrée et de séjour des étrangers en France, le président de la section du contentieux, ou son délégué, peut
 statuer par ordonnance dans les cas prévus à l'article précédent.
 
+Il peut, dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas susceptibles d'entraîner l'infirmation
+du jugement attaqué.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance 45-2658 1945-11-02 art. 22 bis, art. 27 ter
+	  - Code de justice administrative. - art. R122-12 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 2 () JORF 25 juin 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R122-14
@@ -8675,9 +8683,11 @@ manifeste non susceptible d'être couverte en cours d'instance ;
 6° Statuer sur les requêtes relevant d'une série, qui présentent à juger en droit et en fait, pour la juridiction saisie, des
 questions identiques à celles qu'elle a déjà tranchées ensemble par une même décision passée en force de chose jugée.
 
-Les présidents des cours administratives d'appel et les présidents de formation de jugement des cours peuvent, en outre, par
-ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décision juridictionnelle frappée d'appel. Ils peuvent,
-de même, rejeter les requêtes dirigées contre des ordonnances prises en application des 1° à 6° du présent article.
+Les présidents des cours administratives d'appel et les présidents des formations de jugement des cours peuvent, en outre,
+par ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décision juridictionnelle frappée d'appel et les
+requêtes dirigées contre des ordonnances prises en application des 1° à 6° du présent article. Ils peuvent, de même, annuler
+une ordonnance prise en application des 1° à 5° du présent article à condition de régler l'affaire au fond par application de
+l'une de ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -8685,13 +8695,9 @@ de même, rejeter les requêtes dirigées contre des ordonnances prises en appli
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
 	**Modifié par**:
 
-	  - Décret n°2002-547 du 19 avril 2002 - art. 9 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+	  - Décret n°2003-543 du 24 juin 2003 - art. 3 () JORF 25 juin 2003
 
 	**Cité par**:
 
@@ -9071,7 +9077,7 @@ Les dispositions du 7° de l'article précédent sont applicables aux demandes d
 
 ###### Article R222-15
 
-Ce montant est déterminé par la valeur totale des indemnités demandées dans la requête introductive d'instance. Les demandes
+Ce montant est déterminé par la valeur totale des sommes demandées dans la requête introductive d'instance. Les demandes
 d'intérêts et celles qui sont présentées en application des dispositions de l'article L. 761-1 sont sans effet sur la
 détermination de ce montant.
 
@@ -9081,15 +9087,24 @@ incidente ou reconventionnelle n'est supérieure au taux de sa compétence.
 Lorsque des indemnités sont demandées, dans une même requête, par plusieurs demandeurs ou contre plusieurs défendeurs, la
 compétence de ce magistrat est déterminée par la plus élevée d'entre elles.
 
+**Nota:**
+
+Les dispositions de l'article 11 du décret n° 2003-543 s'appliqueront aux décisions des tribunaux administratifs rendues à
+compter du 1er septembre 2003.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 11 () JORF 25 juin 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cité par**:
 
@@ -9187,8 +9202,9 @@ formation de trois membres.
 La formation de jugement ou le président du tribunal peuvent, à tout moment de la procédure, décider d'inscrire une affaire
 au rôle du tribunal statuant dans l'une des formations prévues aux articles R. 222-20 et R. 222-21.
 
-Dans les cas mentionnés à l'article R. 222-13, le président du tribunal ou le magistrat désigné pour statuer peuvent décider
-d'inscrire l'affaire au rôle d'une chambre ou de l'une des formations de jugement mentionnées à l'alinéa précédent.
+Dans les cas mentionnés à l'article R. 222-13, le président du tribunal ou le magistrat désigné pour statuer peuvent, de leur
+propre initiative ou sur proposition du commissaire du Gouvernement décider d'inscrire l'affaire au rôle d'une chambre ou de
+l'une des formations de jugement mentionnées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -9196,9 +9212,13 @@ d'inscrire l'affaire au rôle d'une chambre ou de l'une des formations de jugeme
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 4 () JORF 25 juin 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cite**:
 
@@ -9548,10 +9568,10 @@ ayant au moins le grade de président, désigné en suivant l'ordre du tableau ;
 	  - Code des tribunaux administratifs et des cours adm - art. R29 (M)
 
 
-###### Article R222-32
+###### Article R222-31
 
-Les dispositions du premier alinéa de l'article R. 222-23 et celles de l'article R. 222-24 sont applicables à la désignation
-des commissaires du gouvernement dans les cours administratives d'appel.
+En cas d'absence ou d'empêchement, les présidents des cours administratives d'appel sont remplacés par le président de
+chambre le plus ancien dans l'ordre du tableau.
 
 **Liens relatifs à cet article**
 
@@ -9559,12 +9579,36 @@ des commissaires du gouvernement dans les cours administratives d'appel.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Créé par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 5 () JORF 25 juin 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R222-32
+
+Les dispositions des articles R. 222-23 et R. 222-24 sont applicables dans les cours administratives d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 6 () JORF 25 juin 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cite**:
 
+	  - Code de justice administrative. - art. R222-23 (M)
 	  - Code de justice administrative. - art. R222-24 (V)
 
 
@@ -10749,8 +10793,7 @@ administratifs au sein de ces juridictions.
 ###### Article R231-2
 
 Les premiers conseillers et les conseillers peuvent occuper les fonctions de rapporteur ou de commissaire du gouvernement
-dans les tribunaux administratifs ou, s'ils remplissent les conditions fixées à l'article L. 222-5, dans les cours
-administratives d'appel.
+dans les tribunaux administratifs ou dans les cours administratives d'appel.
 
 **Liens relatifs à cet article**
 
@@ -10762,13 +10805,13 @@ administratives d'appel.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 7 () JORF 25 juin 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L222-5 (Ab)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R231-3
@@ -18702,8 +18745,8 @@ de la formation de jugement, le rapporteur et le greffier d'audience.
 
 ###### Article R741-8
 
-Dans les tribunaux administratifs, si le président de la formation est rapporteur, la minute est signée, en outre, par
-l'assesseur le plus ancien dans l'ordre du tableau.
+Si le président de la formation est rapporteur, la minute est signée, en outre, par l'assesseur le plus ancien dans l'ordre
+du tableau.
 
 Lorsque l'affaire est jugée par un magistrat statuant seul, la minute du jugement est signée par ce magistrat et par le
 greffier d'audience.
@@ -18714,9 +18757,13 @@ greffier d'audience.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 9 () JORF 25 juin 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Anciens textes**:
 
@@ -20322,6 +20369,17 @@ Toute partie présente dans une instance devant le tribunal administratif ou qui
 qu'elle n'aurait produit aucune défense, peut interjeter appel contre toute décision juridictionnelle rendue dans cette
 instance.
 
+Toutefois, dans les litiges énumérés aux 1°, 4°, 5°, 6°, 7°, 8° et 9° de l'article R. 222-13, le tribunal administratif
+statue en premier et dernier ressort. Il en va de même pour les litiges visés aux 2° et 3° de cet article, sauf pour les
+recours comportant des conclusions tendant au versement ou à la décharge de sommes d'un montant supérieur au montant
+déterminé par les articles R. 222-14 et R. 222-15. Cette disposition ne fait pas obstacle à l'application des articles R.
+533-1 et R. 541-3.
+
+Par dérogation aux dispositions de l'alinéa précédent, en cas de connexité avec un litige susceptible d'appel, les décisions
+portant sur les actions visées au 7° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions
+statuant sur les recours en matière de taxe foncière lorsqu'elles statuent également, à la demande du même contribuable pour
+la même année et pour la même commune, sur des conclusions relatives à la taxe professionnelle.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -20336,9 +20394,21 @@ instance.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 11 () JORF 25 juin 2003
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R222-13 (M)
+	  - Code de justice administrative. - art. R222-14 (M)
+	  - Code de justice administrative. - art. R222-15 (M)
+	  - Code de justice administrative. - art. R533-1 (V)
+	  - Code de justice administrative. - art. R541-3 (V)
 
 	**Anciens textes**:
 
@@ -20761,6 +20831,35 @@ sérieux en l'état de l'instruction.
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
+###### Article R811-17-1
+
+A peine d'irrecevabilité, les conclusions tendant, en application des dispositions des articles R. 811-15 à R. 811-17, au
+sursis à l'exécution de la décision de première instance attaquée doivent être présentées par requête distincte du recours en
+appel et accompagnées d'une copie de ce recours.
+
+**Nota:**
+
+Les dispositions de l'article 12 du décret n° 2003-543 s'appliqueront aux instances engagées à partir du 1er septembre 2003.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 12 () JORF 25 juin 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative R811-15 à R811-17
+
+
 ###### Article R811-18
 
 A tout moment, la juridiction d'appel peut mettre fin au sursis qu'elle a ordonné.
@@ -20909,6 +21008,31 @@ A tout moment, il peut être mis fin par une formation de jugement au sursis qui
 	  - Code de justice administrative. - art. R821-5-1 (V)
 	  - Code de la santé publique - art. R4126-48 (V)
 	  - Code de la sécurité sociale. - art. R145-63 (V)
+
+
+###### Article R821-5-1
+
+A peine d'irrecevabilité, les conclusions tendant, en application de l'article R. 821-5, au sursis à l'exécution de la
+décision juridictionnelle attaquée doivent être présentées par requête distincte du pourvoi en cassation et accompagnées
+d'une copie de ce pourvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2003-543 du 24 juin 2003 - art. 13 () JORF 25 juin 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R821-5 (V)
 
 
 ###### Article R821-6
