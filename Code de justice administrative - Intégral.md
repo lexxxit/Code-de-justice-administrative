@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2003-12-24
+Version Consolidée au 2003-12-28
 
 # Partie législative
 
@@ -11751,15 +11751,31 @@ d'appel sont nommés sur proposition du Conseil supérieur des tribunaux adminis
 L'arrêté mentionné à l'alinéa précédent désigne le remplaçant du président dans le cas où celui-ci se trouverait dans
 l'impossibilité de poursuivre sa mission.
 
+Des correcteurs adjoints peuvent être désignés par arrêté du vice-président du Conseil d'Etat pour participer, avec les
+membres du jury, à la correction des épreuves écrites.
+
+Ces correcteurs assistent aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant aux
+épreuves qu'ils ont corrigées.
+
+**Nota:**
+
+Décret 2003-1158 du 26 décembre 2003 art. 2 : Le décret 2003-1258 est applicable aux concours de recrutement complémentaire
+de membres du corps des tribunaux administratifs et des cours administratives d'appel qui sont ouverts postérieurement à la
+date de sa publication au Journal officiel.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
+	  - Décret n°2003-1258 du 26 décembre 2003 - art. 1 () JORF 28 décembre 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cite**:
 
@@ -19116,10 +19132,6 @@ La notification de la décision peut, le cas échéant, être faite par la voie 
 La notification de la décision mentionne que copie de la décision doit être jointe à la requête d'appel ou au pourvoi en
 cassation.
 
-Sauf lorsqu'elle concerne une décision prise en application du titre II du livre V du présent code, la notification mentionne
-que la requête d'appel ou le pourvoi en cassation doit justifier de l'acquittement du droit de timbre prévu à l'article L.
-411-1 ou de ce que le requérant remplit les conditions permettant de bénéficier de l'aide juridictionnelle.
-
 Lorsque la décision rendue relève de la cour administrative d'appel et, sauf lorsqu'une disposition particulière a prévu une
 dispense de ministère d'avocat en appel, la notification mentionne que l'appel ne peut être présenté que par l'un des
 mandataires mentionnés à l'article R. 431-2.
@@ -19135,7 +19147,11 @@ devant le Conseil d'Etat ne peut être présenté que par le ministère d'un avo
 
 	**Modifié par**:
 
-	  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+	  - Décret n°2003-1257 du 26 décembre 2003 - art. 5 () JORF 28 décembre 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cité par**:
 
@@ -19146,7 +19162,6 @@ devant le Conseil d'Etat ne peut être présenté que par le ministère d'un avo
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L411-1 (M)
 	  - Code de justice administrative. - art. R431-2 (V)
 
 	**Anciens textes**:
