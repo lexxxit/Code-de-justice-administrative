@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-02-01
+Version Consolidée au 2004-03-02
 
 # Partie législative
 
@@ -1496,8 +1496,8 @@ fond jusqu'à ce que le Conseil d'Etat se soit prononcé sur la nature de la dis
 
 ###### Article L225-1
 
-Le tribunal administratif de Papeete peut valablement délibérer en se complétant, en cas d'absence ou d'empêchement d'un de
-ses membres, par l'adjonction d'un magistrat de l'ordre judiciaire.
+Le tribunal administratif de la Polynésie française peut valablement délibérer en se complétant, en cas d'absence ou
+d'empêchement d'un de ses membres, par l'adjonction d'un magistrat de l'ordre judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -1505,36 +1505,33 @@ ses membres, par l'adjonction d'un magistrat de l'ordre judiciaire.
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 16 1° JORF 2 mars 2004
 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours administratives d'appel L2-2 al. 2
 
 
-##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Papeete.
+##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de la Polynésie française.
 
 ###### Article L225-2
 
-Ainsi qu'il est dit à l'article 113 de la loi organique n° 96-312 du 12 avril 1996 portant statut d'autonomie de la Polynésie
-française, lorsqu'un recours pour excès de pouvoir invoque l'illégalité de délibérations de l'assemblée de la Polynésie
-française ou de sa commission permanente ou celle d'actes pris en application de ces délibérations fondée sur l'inexacte
-application de la répartition des compétences entre l'Etat, le territoire et les communes ou si ce moyen est soulevé
-d'office, le tribunal administratif transmet le dossier sans délai pour avis au Conseil d'Etat, par un jugement qui n'est
-susceptible d'aucun recours. Le Conseil d'Etat examine la question soulevée dans un délai de trois mois et il est sursis à
-toute décision sur le fond jusqu'à son avis ou, à défaut, jusqu'à l'expiration du délai de trois mois. Le tribunal
-administratif statue dans les deux mois à compter de la publication de l'avis au Journal officiel de la Polynésie française
-ou de l'expiration du délai imparti au Conseil d'Etat.
+Ainsi qu'il est dit à l'article 174 de la loi organique n° 2004-192 du 27 février 2004  portant statut d'autonomie de la
+Polynésie française :
 
-**Nota:**
-
-NOTA : L'article 113 de la loi organique 96-312 du 12 avril 1996 a été déclaré non conforme à la Constitution par décision du
-Conseil Constitutionnel n° 96-373 DC du 9 avril 1996.
+"Art. 174. - Lorsque le tribunal administratif est saisi d'un recours pour excès de pouvoir ou d'un recours en appréciation
+de légalité dirigé contre les actes mentionnés au 1° du A et au 1° du B du II de l'article 171 et que ce recours est fondé
+sur un moyen sérieux invoquant l'inexacte application de la répartition des compétences entre l'Etat, la Polynésie française
+et les communes ou que ce moyen est soulevé d'office, il transmet le dossier sans délai pour avis au Conseil d'Etat, par un
+jugement qui n'est susceptible d'aucun recours. Le Conseil d'Etat examine la question soulevée dans un délai de trois mois et
+il est sursis à toute décision sur le fond jusqu'à son avis ou, à défaut, jusqu'à l'expiration de ce délai. Le tribunal
+administratif statue dans un délai de deux mois à compter de la publication de l'avis au Journal officiel de la Polynésie
+française ou de l'expiration du délai imparti au Conseil d'Etat."
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°96-312 du 12 avril 1996 - art. 113 (Ab)
 
 	**Anciens textes**:
 
@@ -1544,6 +1541,15 @@ Conseil Constitutionnel n° 96-373 DC du 9 avril 1996.
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2004-192 2004-02-27 art. 174
+	  - Code de justice administrative 171
+
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 16 1°, 2° JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -1551,17 +1557,17 @@ Conseil Constitutionnel n° 96-373 DC du 9 avril 1996.
 	  - Code de justice administrative. - art. R225-2 (V)
 
 
-##### Section 2 : La saisine pour avis du tribunal administratif de Papeete.
+##### Section 2 : La saisine pour avis du tribunal administratif de la Polynésie française.
 
 ###### Article L225-3
 
-Ainsi qu'il est dit à l'article 114 de la loi organique n° 96-312 du 12 avril 1996 portant statut d'autonomie de la Polynésie
-française, " le président du gouvernement de la Polynésie française ou le président de l'assemblée de la Polynésie française
-peut saisir le tribunal administratif de Papeete d'une demande d'avis. Lorsqu'elle porte sur la répartition des compétences
-entre l'Etat, le territoire et les communes, la demande d'avis est examinée par le Conseil d'Etat auquel elle est transmise
-sans délai.
+Ainsi qu'il est dit à l'article 175 de la loi organique n° 2004-192 du 27 février 2004 précitée : 
 
-Le haut-commissaire en est immédiatement avisé par l'auteur de la demande. "
+" Art. 175.-Le président de la Polynésie française ou le président de l'assemblée de la Polynésie française peut saisir le
+tribunal administratif d'une demande d'avis. Lorsqu'elle porte sur la répartition des compétences entre l'Etat, la Polynésie
+française ou les communes, la demande d'avis est examinée par le Conseil d'Etat auquel elle est transmise sans délai. 
+
+Le haut-commissaire en est immédiatement informé par l'auteur de la demande. "
 
 **Liens relatifs à cet article**
 
@@ -1569,14 +1575,22 @@ Le haut-commissaire en est immédiatement avisé par l'auteur de la demande. "
 
 	  - Loi n°96-312 du 12 avril 1996 - art. 114 (Ab)
 
-	**Cite**:
-
-	  - Loi n°96-312 du 12 avril 1996 - art. 114 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2004-192 du 27 février 2004 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 16 1°, 2° JORF 2 mars 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2007-1720 du 7 décembre 2007 - art. 3
 
 	**Cité par**:
 
@@ -1776,6 +1790,11 @@ Ainsi qu'il est dit aux articles 112 et 196 de la loi organique n° 99-209 du 19
 les fonctions de membre du gouvernement de la Nouvelle-Calédonie et celles de membre d'une assemblée de province sont
 incompatibles avec les fonctions de magistrat des juridictions administratives.
 
+Ainsi qu'il est dit aux articles 74 et 109 de la loi organique n° 2004-192 du 27 février 2004  portant statut d'autonomie de
+la Polynésie française, les fonctions de président et de membre du gouvernement de la Polynésie française et le mandat de
+représentant à l'assemblée de la Polynésie française sont incompatibles avec les fonctions de magistrat des juridictions
+administratives.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1786,11 +1805,16 @@ incompatibles avec les fonctions de magistrat des juridictions administratives.
 
 	  - Loi n°99-209 du 19 mars 1999 - art. 112 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 196 (M)
+	  - Loi n°2004-192 2004-02-27 art. 74, art. 109
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 16 4° JORF 2 mars 2004
 
 	**Cité par**:
 
@@ -1806,6 +1830,9 @@ membre d'un tribunal administratif ou d'une cour administrative d'appel, peut ex
 
 A défaut d'option dans le délai mentionné à l'alinéa précédent, il est placé en position de disponibilité.
 
+Il en va de même du membre du corps des tribunaux administratifs et des cours administratives qui est élu ou nommé à l'une
+des fonctions ou mandats mentionnés au dernier alinéa de l'article L. 231-7.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1816,6 +1843,14 @@ A défaut d'option dans le délai mentionné à l'alinéa précédent, il est pl
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 16 5° JORF 2 mars 2004
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L231-7 (M)
 
 
 ###### Article L231-9
@@ -2516,8 +2551,10 @@ vice-président du gouvernement de la Nouvelle-Calédonie et les recours concern
 gouvernement, du congrès et des assemblées de province de Nouvelle-Calédonie conformément aux articles 72, 110, 111, 112,
 115, 116, 165, 195 et 197 de la même loi organique ;
 
-4° Les élections à l'assemblée de la Polynésie française, conformément à l'article 10 de la loi n° 52-1175 du 21 octobre 1952
-relative à la composition et à la formation de l'assemblée territoriale de la Polynésie française ;
+4° Les élections à l'assemblée de la Polynésie française, conformément à l'article 116 de la loi organique n° 2004-192 du 27
+février 2004 portant statut d'autonomie de la Polynésie française, ainsi que l'élection du président de la Polynésie
+française et les recours concernant la démission d'office des membres du gouvernement et des représentants à l'assemblée de
+la Polynésie française, conformément aux articles 82 et 117 de la même loi organique ;
 
 5° Les élections à l'assemblée territoriale de Wallis-et-Futuna, conformément à l'article 13-12 de la loi n° 61-814 du 29
 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer ;
@@ -2529,7 +2566,6 @@ juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'out
 
 	**Cite**:
 
-	  - Loi n°52-1175 1952-10-21 art. 10
 	  - Loi n°61-814 du 29 juillet 1961 - art. 13-12 (Ab)
 	  - Loi n°77-729 du 7 juillet 1977 - art. 25 (M)
 	  - Loi n°82-471 du 7 juin 1982 - art. 9 (M)
@@ -2543,6 +2579,7 @@ juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'out
 	  - Loi n°99-209 du 19 mars 1999 - art. 197 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 199 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 72 (V)
+	  - Loi n°2004-192 2004-02-27 art. 116, art. 82, art. 117
 	  - Code électoral - art. L361 (M)
 	  - Code électoral - art. L381 (V)
 
@@ -2550,6 +2587,10 @@ juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'out
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 16 6° JORF 2 mars 2004
 
 
 ###### Article L311-4
@@ -2679,6 +2720,34 @@ vue du renouveau du transport ferroviaire.
 	**Cité par**:
 
 	  - Code des relations entre le public et l'adminis... - art. L432-1 (V)
+
+
+###### Article L311-7
+
+Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort, conformément aux dispositions de la loi
+organique n° 2004-192 du 27 février 2004  portant statut d'autonomie de la Polynésie française :
+
+1° Des recours formés contre le règlement intérieur de l'assemblée de la Polynésie française ;
+
+2° Des recours juridictionnels spécifiques formés contre les actes prévus à l'article 140 de ladite loi organique ;
+
+3° Des recours dirigés contre les délibérations décidant l'organisation d'un référendum local prévues à l'article 159 de
+ladite loi organique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2004-192 2004-02-27 art. 140, art. 159
+
+	**Créé par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 16 8° JORF 2 mars 2004
 
 
 ### Titre II : La compétence d'appel
@@ -3323,26 +3392,26 @@ Toute personne qui y a intérêt peut intervenir à l'action introduite par le p
 Les demandes de suspension assortissant les requêtes du représentant de l'Etat dirigées contre les actes des communes sont
 régies par le 3e alinéa de l'article L. 2131-6 du code général des collectivités territoriales ci-après reproduit :
 
-" Art. L. 2131-6, alinéa 3. - Le représentant de l'Etat peut assortir son recours d'une demande de suspension. Il est fait
+"Art. L. 2131-6, alinéa 3. - Le représentant de l'Etat peut assortir son recours d'une demande de suspension. Il est fait
 droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux quant à
-la légalité de l'acte attaqué. Il est statué dans un délai d'un mois. "
+la légalité de l'acte attaqué. Il est statué dans un délai d'un mois."
 
-Les demandes de sursis à exécution assortissant les requêtes du représentant de l'Etat dirigées contre les actes d'autres
+Les demandes de suspension assortissant les requêtes du représentant de l'Etat dirigées contre les actes d'autres
 collectivités ou établissements suivent, de même, les règles fixées par les articles L. 2541-22, L. 2561-1, L. 3132-1, L.
 4142-1, L. 4411-1, L. 4421-1, L. 4431-1, L. 5211-3, L. 5331-3, L. 5332-1, L. 5421-2, L. 5711-1 et L. 5721-4 du code général
 des collectivités territoriales.
 
-Il en va de même pour les requêtes visées à l'article 2 de la loi n° 96-313 du 12 avril 1996 complétant le statut d'autonomie
-de la Polynésie française, à l'article 204 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et
-à l'article L. 121-39-2 du code des communes de la Nouvelle-Calédonie.
+Il en va de même pour les requêtes visées à l'article 172 de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française, à l'article 204 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-
+Calédonie et à l'article L. 121-39-2 du code des communes de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°96-313 du 12 avril 1996 - art. 2 (Ab)
 	  - Loi n°99-209 du 19 mars 1999 - art. 204 (V)
-	  - Code des communes L121-39-2 (NC)
+	  - Loi n°2004-192 2004-02-27 art. 172
+	  - Code des communes L121-39-2
 	  - Code général des collectivités territoriales - art. L2131-6 (M)
 	  - Code général des collectivités territoriales - art. L2541-22 (V)
 	  - Code général des collectivités territoriales - art. L2561-1 (M)
@@ -3363,10 +3432,9 @@ de la Polynésie française, à l'article 204 de la loi organique n° 99-209 du 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 2000-06-30 art. 1, 13 et 16 JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2004-193 2004-02-27 art. 16 7° JORF 2 mars 2004
 
 	**Anciens textes**:
 
@@ -4227,6 +4295,44 @@ Pour l'application des articles L. 774-1 à L. 774-8 dans les îles Wallis et Fu
 	  - Code de justice administrative - art. L774-1 (V)
 	  - Code de justice administrative - art. L774-2 (V)
 	  - Code de justice administrative - art. L774-7 (V)
+
+
+###### Article L774-11
+
+Pour l'application des articles L. 774-1 à L. 774-8 en Polynésie française : 
+
+1° Dans l'article L. 774-2, le mot : " préfet " est remplacé par les mots : " haut-commissaire " ; 
+
+2° Le délai de quinze jours prévu à l'article L. 774-2 est porté à un mois ; 
+
+3° Le délai d'appel de deux mois prévu à l'article L. 774-7 est porté à trois mois. 
+
+Le président de la Polynésie française, pour le domaine public de la Polynésie française, exerce les attributions dévolues au
+haut-commissaire dans les conditions prévues par le présent article. 
+
+Pour l'application de l'alinéa précédent, à l'article L. 774-2, le mot : " préfet " est remplacé par les mots : " président
+de la Polynésie française ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2004-193 2004-02-27 art. 16 9° JORF 2 mars 2004
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L774-1 (V)
+	  - Code de justice administrative - art. L774-2 (V)
+	  - Code de justice administrative - art. L774-7 (V)
+
+	**Anciens textes**:
+
+	  - Code des tribunaux administratifs et des cours adm - art. L21-1 (Ab)
 
 
 #### Chapitre 6 : Le contentieux des arrêtés de reconduite à la frontière.
