@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-08-03
 
 # Partie législative
 
@@ -8194,7 +8194,7 @@ Fort-de-France : Martinique ;
 
 Mamoudzou : Mayotte ;
 
-Saint-Denis : Réunion ;
+Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
 
 Saint-Pierre : Saint-Pierre-et-Miquelon ;
 
@@ -8212,10 +8212,6 @@ Nouvelle-Calédonie : Nouvelle-Calédonie.
 
 	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
-	**Modifié par**:
-
-	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V) JORF 28 juillet 2000 en vigueur le 1er janvier 2001
-
 	**Cité par**:
 
 	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
@@ -8229,6 +8225,10 @@ Nouvelle-Calédonie : Nouvelle-Calédonie.
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R4 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 7 JORF 3 août 2001
 
 
 ###### Article R221-4
@@ -8440,7 +8440,8 @@ Paris et les présidents de formation de jugement des tribunaux et des cours peu
 
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
-4° Rejeter les conclusions entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes irrecevables pour défaut de ministère d'avocat ou entachées d'une irrecevabilité manifeste non
+susceptible d'être couverte en cours d'instance ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
@@ -8449,7 +8450,8 @@ Paris et les présidents de formation de jugement des tribunaux et des cours peu
 questions identiques à celles qu'elle a déjà tranchées ensemble par une même décision passée en force de chose jugée.
 
 Les présidents des cours administratives d'appel et les présidents de formation de jugement des cours peuvent, en outre, par
-ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décision juridictionnelle frappée d'appel.
+ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décision juridictionnelle frappée d'appel. Ils peuvent,
+de même, rejeter les requêtes dirigées contre des ordonnances prises en application des 1° à 6° du présent article.
 
 **Liens relatifs à cet article**
 
@@ -8460,10 +8462,6 @@ ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décisi
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
 
 	**Cité par**:
 
@@ -8489,6 +8487,10 @@ ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décisi
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. L9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 1 JORF 3 août 2001
 
 
 ###### Article R222-2
@@ -12061,8 +12063,8 @@ sont portées devant le tribunal administratif dans le ressort duquel l'infracti
 
 ###### Article R312-17
 
-Les recours visés à l'article R. 311-2 sont portés devant le tribunal administratif de la résidence ou du siège des personnes
-faisant l'objet des décisions attaquées à la date desdites décisions.
+Les recours visés à l'article R. 311-2 sont portés devant le tribunal administratif dans le ressort duquel se situe la
+résidence ou le siège social du requérant à la date des décisions attaquées.
 
 **Liens relatifs à cet article**
 
@@ -12076,11 +12078,15 @@ faisant l'objet des décisions attaquées à la date desdites décisions.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cite**:
 
 	  - Code de justice administrative. - art. R311-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 3 JORF 3 août 2001
 
 
 ### Titre II : La compétence d'appel
@@ -13015,6 +13021,8 @@ lettre recommandée auprès des services postaux. "
 La requête doit, à peine d'irrecevabilité, être accompagnée, sauf impossibilité justifiée, de la décision attaquée ou, dans
 le cas mentionné à l'article R. 421-2, de la pièce justifiant de la date de dépôt de la réclamation.
 
+Cette décision ou cette pièce doit être accompagnée de copies dans les conditions fixées à l'article R. 411-3.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13028,7 +13036,7 @@ le cas mentionné à l'article R. 421-2, de la pièce justifiant de la date de d
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cité par**:
 
@@ -13038,7 +13046,12 @@ le cas mentionné à l'article R. 421-2, de la pièce justifiant de la date de d
 
 	**Cite**:
 
+	  - Code de justice administrative. - art. R411-3 (V)
 	  - Code de justice administrative. - art. R421-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 4 JORF 3 août 2001
 
 
 ###### Article R412-2
@@ -13542,7 +13555,8 @@ Toutefois, les dispositions du premier alinéa de l'article R. 431-2 ne sont pas
 
 3° Aux litiges d'ordre individuel concernant les agents publics ;
 
-4° Aux litiges en matière de pensions, d'aide sociale et d'emplois réservés et en matière d'indemnisation des rapatriés ;
+4° Aux litiges en matière de pensions, d'aide sociale, d'aide personnalisée au logement, d'emplois réservés et
+d'indemnisation des rapatriés ;
 
 5° Aux litiges dans lesquels le défendeur est une collectivité territoriale ou un établissement public en relevant ;
 
@@ -13569,6 +13583,10 @@ Toutefois, les dispositions du premier alinéa de l'article R. 431-2 ne sont pas
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R109 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 5 JORF 3 août 2001
 
 
 ###### Article R431-4
@@ -14882,6 +14900,32 @@ devant le Conseil d'Etat, dans la quinzaine de sa notification.
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
+#### Chapitre IV : Les régimes spéciaux de suspension
+
+###### Article R554-1
+
+L'appel ouvert contre les décisions du juge des référés prises en application des dispositions mentionnées à l'article L.
+554-1 est présenté dans la quinzaine de leur notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L554-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 6 JORF 3 août 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
 ## Livre VI : L'instruction
 
 ### Titre Ier : La procédure ordinaire
@@ -14972,18 +15016,14 @@ ainsi que l'information prévue à l'article R. 611-7 sont obligatoirement effec
 demande d'avis de réception.
 
 Les notifications des requêtes et mémoires mentionnent qu'en cas d'inobservation du délai imparti pour produire en
-application de l'article R. 611-9 ou de l'article R. 611-17, l'instruction pourra, sans mise en demeure préalable, être close
-dans les conditions prévues aux articles R. 613-1 et R. 613-2.
+application de l'article R. 611-10 ou de l'article R. 611-17, l'instruction pourra, sans mise en demeure préalable, être
+close dans les conditions prévues aux articles R. 613-1 et R. 613-2.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
 	**Cité par**:
 
@@ -14997,17 +15037,21 @@ dans les conditions prévues aux articles R. 613-1 et R. 613-2.
 
 	**Cite**:
 
-	  - Code de justice administrative R412-2, R621-1 à R626-3, R611-7, R611-9, R611-17, R613-1, R613-2
+	  - Code de justice administrative R412-2, R621-1 à R626-3, R611-7, R611-10, R611-17, R613-1, R613-2
 	  - Code de justice administrative. - art. R412-2 (V)
+	  - Code de justice administrative. - art. R611-10 (V)
 	  - Code de justice administrative. - art. R611-17 (V)
 	  - Code de justice administrative. - art. R611-7 (V)
-	  - Code de justice administrative. - art. R611-9 (V)
 	  - Code de justice administrative. - art. R613-1 (M)
 	  - Code de justice administrative. - art. R613-2 (V)
 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R139 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 7 JORF 3 août 2001
 
 
 ###### Article R611-4
@@ -15878,8 +15922,8 @@ interrompu par une demande d'aide juridictionnelle.
 ###### Article R612-3
 
 Lorsqu'une des parties appelées à produire un mémoire n'a pas respecté le délai qui lui a été imparti en exécution des
-articles R. 611-9, R. 611-17 et R. 611-26, le président de la formation de jugement ou, au Conseil d'Etat, le président de la
-sous-section chargée de l'instruction peut lui adresser une mise en demeure.
+articles R. 611-10, R. 611-17 et R. 611-26, le président de la formation de jugement ou, au Conseil d'Etat, le président de
+la sous-section chargée de l'instruction peut lui adresser une mise en demeure.
 
 En cas de force majeure, un nouveau et dernier délai peut être accordé.
 
@@ -15891,7 +15935,7 @@ En cas de force majeure, un nouveau et dernier délai peut être accordé.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cité par**:
 
@@ -15903,11 +15947,14 @@ En cas de force majeure, un nouveau et dernier délai peut être accordé.
 
 	  - Code de justice administrative. - art. R611-17 (V)
 	  - Code de justice administrative. - art. R611-26 (V)
-	  - Code de justice administrative. - art. R611-9 (V)
 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R150 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 7 JORF 3 août 2001
 
 
 ###### Article R612-4
@@ -19605,7 +19652,8 @@ Toutefois, sont dispensés de ministère d'avocat :
 
 4° Les litiges en matière de contributions directes, de taxes sur le chiffre d'affaires et de taxes assimilées ;
 
-5° Les litiges en matière de pensions, d'aide sociale, d'emplois réservés, d'indemnisation des rapatriés ;
+5° Les litiges en matière de pensions, d'aide sociale, d'aide personnalisée au logement, d'emplois réservés et
+d'indemnisation des rapatriés ;
 
 6° Les demandes d'exécution d'un arrêt de la cour administrative d'appel ou d'un jugement rendu par un tribunal administratif
 situé dans le ressort de la cour et frappé d'appel devant celle-ci.
@@ -19634,6 +19682,10 @@ situé dans le ressort de la cour et frappé d'appel devant celle-ci.
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R116 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 5 JORF 3 août 2001
 
 
 ###### Article R811-8
@@ -19812,7 +19864,7 @@ réformation du jugement attaqué, le rejet des conclusions à fin d'annulation 
 ###### Article R811-16
 
 Lorsqu'il est fait appel par une personne autre que le demandeur en première instance, la juridiction peut, à la demande de
-l'appelant, ordonner sous réserve des dispositions des articles R. 533-2 et R. 541-5 qu'il soit sursis à l'exécution du
+l'appelant, ordonner sous réserve des dispositions des articles R. 533-2 et R. 541-6 qu'il soit sursis à l'exécution du
 jugement déféré si cette exécution risque d'exposer l'appelant à la perte définitive d'une somme qui ne devrait pas rester à
 sa charge dans le cas où ses conclusions d'appel seraient accueillies.
 
@@ -19829,16 +19881,16 @@ sa charge dans le cas où ses conclusions d'appel seraient accueillies.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cite**:
 
 	  - Code de justice administrative. - art. R533-2 (V)
-	  - Code de justice administrative. - art. R541-5 (V)
+	  - Code de justice administrative. - art. R541-6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-710 2001-08-03 art. 7 JORF 3 août 2001
 
 
 ###### Article R811-17
