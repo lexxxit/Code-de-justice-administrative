@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2001-09-01
+Version Consolidée au 2001-12-12
 
 # Partie législative
 
@@ -3428,14 +3428,17 @@ d'Etat, ou un conseiller d'Etat délégué à cet effet, statue dans un délai d
 ###### Article L554-5
 
 La décision de suspension en matière de marchés des établissements publics de santé obéit aux règles définies à l'article L.
-714-10 du code de la santé publique ci-après reproduit :
+6145-6 du code de la santé publique ci-après reproduit :
 
-" Art. L. 714-10. - Les marchés des établissements publics de santé sont exécutoires dès leur réception par le directeur de
-l'agence régionale de l'hospitalisation. Celui-ci défère au tribunal administratif, dans les deux mois suivant cette
-réception, les décisions qu'il estime illégales. Il informe sans délai le président du conseil d'administration et lui
-communique toute précision sur les illégalités invoquées. Il peut assortir son recours d'une demande de suspension. Il est
-fait droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux
-quant à la légalité de l'acte attaqué. "
+" Art. L. 6145-6. - Les marchés des établissements publics de santé sont exécutoires dès leur réception par le représentant
+de l'Etat. Celui-ci défère au tribunal administratif, dans les deux mois suivant cette réception, les décisions qu'il estime
+illégales. Il informe sans délai le président du conseil d'administration et lui communique toute précision sur les
+illégalités invoquées. Il peut assortir son recours d'une demande de suspension. Il est fait droit à cette demande si l'un
+des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux quant à la légalité de l'acte
+attaqué.
+
+Toutefois, les marchés passés sans formalité préalable en raison de leur montant sont dispensés de l'obligation de
+transmission au représentant de l'Etat prévue au premier alinéa. Ces marchés sont exécutoires dès leur conclusion. "
 
 **Liens relatifs à cet article**
 
@@ -3444,14 +3447,13 @@ quant à la légalité de l'acte attaqué. "
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 2000-06-30 art. 1, 13 et 18 JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 11 () JORF 12 décembre 2001
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L714-10 (M)
+	  - Code de la santé publique - art. L6145-6 (M)
 
 	**Anciens textes**:
 
