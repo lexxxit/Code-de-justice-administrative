@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-06-30
 
 # Partie législative
 
@@ -4998,9 +4998,8 @@ ses attributions de gestion du corps des tribunaux administratifs et des cours a
 délégation du vice-président pour signer tous actes et arrêtés concernant la gestion des services administratifs du Conseil
 d'Etat et l'exécution du budget du Conseil d'Etat, des cours administratives d'appel et des tribunaux administratifs.
 
-Délégation peut également être donnée aux chefs de service du Conseil d'Etat et aux fonctionnaires du secrétariat général
-appartenant à un corps de catégorie A pour signer les ordonnances de paiement, de virement, de délégation, les pièces
-justificatives de dépense et les ordres de recette.
+Délégation peut également être donnée, aux mêmes fins, aux chefs de service du Conseil d'Etat et aux fonctionnaires du
+secrétariat général appartenant à un corps de catégorie A.
 
 **Liens relatifs à cet article**
 
@@ -5012,9 +5011,13 @@ justificatives de dépense et les ordres de recette.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2001-562 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R121-12
@@ -5430,7 +5433,8 @@ Les présidents de sous-sections peuvent, par ordonnance :
 
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
-4° Rejeter les conclusions entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes irrecevables pour défaut de ministère d'avocat ou entachées d'une irrecevabilité manifeste non
+susceptible d'être couverte en cours d'instance ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
@@ -5457,7 +5461,7 @@ Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis �
 
 	**Modifié par**:
 
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2001-562 du 29 juin 2001 - art. 2 () JORF 30 juin 2001
 
 	**Cité par**:
 
@@ -10236,8 +10240,7 @@ d'appel.
 
 Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints du Conseil d'Etat. Délégation peut
 également être donnée aux chefs de service du Conseil d'Etat et aux fonctionnaires du secrétariat général appartenant à un
-corps de catégorie A pour signer les ordonnances de paiement, de virement, de délégation, les pièces justificatives de
-dépense et les ordres de recette.
+corps de catégorie A.
 
 **Liens relatifs à cet article**
 
@@ -10249,9 +10252,13 @@ dépense et les ordres de recette.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2001-562 du 29 juin 2001 - art. 1 () JORF 30 juin 2001
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
 ###### Article R231-4
@@ -15790,16 +15797,16 @@ régularisation tient lieu de l'information prévue à l'article R. 611-7.
 
 ###### Article R612-2
 
-S'agissant des irrecevabilités prévues aux articles R. 411-2, R. 411-3, R. 412-1, R. 431-2 et R. 811-7, la demande de
-régularisation peut prendre la forme de la mise en demeure.
+S'agissant des irrecevabilités prévues aux articles R. 411-2, R. 411-3, R. 412-1, R. 431-2, R. 432-1, R. 811-7 et R. 821-3,
+la demande de régularisation peut prendre la forme de la mise en demeure.
 
 A l'expiration du délai, qui ne peut être inférieur à un mois, fixé dans une mise en demeure par le président de la formation
 de jugement ou, au Conseil d'Etat, par le président de la sous-section chargée de l'instruction, les irrecevabilités prévues
-aux articles R. 411-2, R. 411-3, R. 412-1, R. 431-2 et R. 811-7 ne sont plus susceptibles d'être couvertes en cours
-d'instance. La mise en demeure le mentionne.
+aux articles R. 411-2, R. 411-3, R. 412-1, R. 431-2, R. 432-1, R. 811-7 et R. 821-3, ne sont plus susceptibles d'être
+couvertes en cours d'instance. La mise en demeure le mentionne.
 
-Dans les cas prévus aux articles R. 411-2, R. 431-2 et R. 811-7, le délai prévu à l'alinéa précédent est interrompu par une
-demande d'aide juridictionnelle.
+Dans les cas prévus aux articles R. 411-2, R. 431-2, R. 432-1, R. 811-7 et R. 821-3, le délai prévu à l'alinéa précédent est
+interrompu par une demande d'aide juridictionnelle.
 
 **Liens relatifs à cet article**
 
@@ -15807,9 +15814,13 @@ demande d'aide juridictionnelle.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2001-562 du 29 juin 2001 - art. 3 () JORF 30 juin 2001
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cite**:
 
@@ -15817,6 +15828,8 @@ demande d'aide juridictionnelle.
 	  - Code de justice administrative. - art. R411-3 (V)
 	  - Code de justice administrative. - art. R412-1 (M)
 	  - Code de justice administrative. - art. R431-2 (V)
+	  - Code de justice administrative. - art. R432-1 (V)
+	  - Code de justice administrative. - art. R821-3 (V)
 
 	**Cité par**:
 
@@ -19942,7 +19955,7 @@ et des juridictions de pension.
 La notification d'une décision rendue en dernier ressort mentionne, s'il y a lieu, que le pourvoi en cassation devant le
 Conseil d'Etat contre cette décision ne peut être présenté que par le ministère d'un avocat au Conseil d'Etat et à la Cour de
 cassation. Lorsque la notification ne comporte pas cette mention, le requérant est invité par le Conseil d'Etat à régulariser
-son pourvoi dans les conditions fixées à l'article R. 612-1.
+son pourvoi dans les conditions fixées aux articles R. 612-1 et R. 612-2.
 
 **Liens relatifs à cet article**
 
@@ -19959,9 +19972,18 @@ son pourvoi dans les conditions fixées à l'article R. 612-1.
 
 	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2001-562 du 29 juin 2001 - art. 4 () JORF 30 juin 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2002-547 du 19 avril 2002 - art. 10 () JORF 21 avril 2002 en vigueur le 1er juin 2002
+
 	**Cite**:
 
 	  - Code de justice administrative. - art. R612-1 (M)
+	  - Code de justice administrative. - art. R612-2 (M)
 
 	**Cité par**:
 
@@ -20113,10 +20135,14 @@ conclusions à fin de sursis sont instruites par la sous-section dans les condit
 ###### Article R822-5
 
 En cas de désistement avant l'admission du pourvoi, ou si le requérant est réputé s'être désisté en application de l'article
-R. 612-5, le président de la sous-section donne acte du désistement par ordonnance.
+R. 611-22, le président de la sous-section donne acte du désistement par ordonnance.
 
 Lorsque le pourvoi devient sans objet avant son admission, le président de la sous-section peut constater par ordonnance
 qu'il n'y a plus lieu d'y statuer.
+
+Lorsque le pourvoi est irrecevable pour défaut de ministère d'avocat ou entaché d'une irrecevabilité manifeste non
+susceptible d'être couverte en cours d'instance, le président de la sous-section peut décider par ordonnance de ne pas
+l'admettre.
 
 **Liens relatifs à cet article**
 
@@ -20128,9 +20154,13 @@ qu'il n'y a plus lieu d'y statuer.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2001-562 du 29 juin 2001 - art. 4 () JORF 30 juin 2001
+
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-389 du 4 mai 2000 - art. 6 (M)
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cité par**:
 
@@ -20141,7 +20171,7 @@ qu'il n'y a plus lieu d'y statuer.
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R612-5 (V)
+	  - Code de justice administrative. - art. R611-22 (M)
 
 
 ###### Article R822-6
