@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-02-01
 
 # Partie législative
 
@@ -1582,6 +1582,25 @@ Le haut-commissaire en est immédiatement avisé par l'auteur de la demande. "
 
 	  - Code de justice administrative. - art. R225-5-1 (M)
 	  - Code de justice administrative. - art. R225-6 (M)
+
+
+#### Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna
+
+###### Article L225-4
+
+Dans les îles Wallis et Futuna, le tribunal administratif peut valablement délibérer en se complétant, en cas d'absence ou
+d'empêchement d'un de ses membres, par l'adjonction d'un magistrat de l'ordre judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2003-923 du 26 septembre 2003 - art. 4 () JORF 27 septembre 2003 en vigueur le 1er février 2004
 
 
 #### Chapitre VII : Les assistants de justice
@@ -4180,6 +4199,34 @@ du gouvernement ou le président de l'assemblée de province ".
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. L21-1 (Ab)
+
+
+###### Article L774-10
+
+Pour l'application des articles L. 774-1 à L. 774-8 dans les îles Wallis et Futuna : 
+
+1° A l'article L. 774-2, le mot : " préfet " est remplacé par les mots : " administrateur supérieur " ; 
+
+2° Le délai de quinze jours prévu à l'article L. 774-2 est porté à un mois ; 
+
+3° Le délai d'appel de deux mois prévu à l'article L. 774-7 est porté à trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2003-923 du 26 septembre 2003 - art. 4 () JORF 27 septembre 2003 en vigueur le 1er février 2004
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L774-1 (V)
+	  - Code de justice administrative - art. L774-2 (V)
+	  - Code de justice administrative - art. L774-7 (V)
 
 
 #### Chapitre 6 : Le contentieux des arrêtés de reconduite à la frontière.
@@ -8197,8 +8244,8 @@ Il peut également saisir de cette demande le vice-président du Conseil d'Etat.
 ###### Article R212-4
 
 Les attributions des préfets mentionnées aux articles R. 212-1 et R. 212-3 sont exercées, en Polynésie française et en
-Nouvelle-Calédonie, par les hauts-commissaires, à Mayotte, par le représentant du Gouvernement et, dans les Terres
-antarctiques et australes, par l'administrateur supérieur.
+Nouvelle-Calédonie, par les hauts-commissaires, à Mayotte, par le représentant de l'Etat et, à Wallis-et-Futuna et dans les
+Terres australes et antarctiques françaises, par l'administrateur supérieur.
 
 **Liens relatifs à cet article**
 
@@ -8210,10 +8257,9 @@ antarctiques et australes, par l'administrateur supérieur.
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de justice administrative. - art. R212-1 (V)
-	  - Code de justice administrative. - art. R212-3 (V)
+	  - Décret n°2004-2 2004-01-02 art. 2 4° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 
 ### Titre II : Organisation et fonctionnement
@@ -8343,7 +8389,9 @@ Saint-Pierre : Saint-Pierre-et-Miquelon ;
 
 Papeete : Polynésie française ;
 
-Nouvelle-Calédonie : Nouvelle-Calédonie.
+Nouvelle-Calédonie : Nouvelle-Calédonie ;
+
+Mata-Utu : îles Wallis et Futuna.
 
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et
 celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris-Charles-de-Gaulle.
@@ -8364,13 +8412,13 @@ celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise d
 	  - Arrêté du 1er décembre 2011 (Ab)
 	  - Code de justice administrative - art. R776-16 (VD)
 
-	**Modifié par**:
-
-	  - Décret n°2002-547 du 19 avril 2002 - art. 12 () JORF 21 avril 2002
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 1° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Anciens textes**:
 
@@ -8529,17 +8577,14 @@ Nancy : ressorts des tribunaux administratifs de Besançon, Châlons-en-Champagn
 
 Nantes : ressorts des tribunaux administratifs de Caen, Nantes, Orléans et Rennes ;
 
-Paris : ressorts des tribunaux administratifs de Cergy-Pontoise, Melun, Paris, Versailles, Nouvelle-Calédonie et Papeete.
+Paris : ressorts des tribunaux administratifs de Cergy-Pontoise, Melun, Paris, Versailles, Nouvelle-Calédonie, Mata-Utu et
+Papeete.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V) JORF 28 juillet 2000 en vigueur le 1er janvier 2001
 
 	**Cité par**:
 
@@ -8548,6 +8593,10 @@ Paris : ressorts des tribunaux administratifs de Cergy-Pontoise, Melun, Paris, V
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 2° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Anciens textes**:
 
@@ -10141,6 +10190,122 @@ française et au ministre chargé de l'outre-mer. Il est adressé au tribunal ad
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
+#### Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna
+
+###### Article R225-9
+
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mata-Utu et de
+Nouvelle-Calédonie. Ces tribunaux peuvent avoir des membres communs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
+	  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 1 I, art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2004-2 du 2 janvier 2004 - art. 1 (V) JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+
+###### Article R225-10
+
+Les fonctions de commissaire du Gouvernement auprès des tribunaux administratifs de Mata-Utu et de Nouvelle-Calédonie sont
+assurées par le ou les mêmes magistrats.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
+	  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+
+###### Article R225-11
+
+Le magistrat de l'ordre judiciaire appelé à faire partie du tribunal de Mata-Utu est choisi parmi les magistrats en fonction
+dans le ressort.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
+	  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+	**Cité par**:
+
+	  - Code de justice administrative. - art. R225-12 (V)
+
+
+###### Article R225-12
+
+Le magistrat mentionné à l'article R. 225-11 est désigné chaque année, dans la première quinzaine du mois de décembre, par le
+premier président de la cour d'appel. Un membre suppléant est désigné dans les mêmes conditions. Ce dernier peut être choisi
+parmi les magistrats en fonction en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
+	  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-2 du 2 janvier 2004 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R225-11 (V)
+
+
 #### Chapitre VI : Les greffes
 
 ##### Section 1 : Dispositions communes aux greffes des tribunaux administratifs et cours administratives d'appel
@@ -10333,8 +10498,8 @@ fonctionnaires des corps des personnels de préfecture ayant au moins le grade d
 
 ###### Article R226-8
 
-Le greffier en chef et les greffiers des tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie
-appartiennent à la fonction publique d'Etat et sont désignés par le président du tribunal administratif.
+Le greffier en chef et les greffiers des tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-
+Calédonie appartiennent à la fonction publique d'Etat et sont désignés par le président du tribunal administratif.
 
 **Liens relatifs à cet article**
 
@@ -10342,9 +10507,9 @@ appartiennent à la fonction publique d'Etat et sont désignés par le présiden
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Anciens textes**:
 
@@ -12221,8 +12386,7 @@ tribunal administratif ;
 6° Des litiges d'ordre administratif nés hors des territoires soumis à la juridiction d'un tribunal administratif ou d'un
 conseil du contentieux administratif ;
 
-7° Des litiges d'ordre administratif, autres que ceux relevant du contentieux local, nés dans le territoire des îles Wallis-
-et-Futuna ;
+7° Abrogé ;
 
 8° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier
 et dernier ressort du Conseil d'Etat ;
@@ -12250,13 +12414,13 @@ cinématographie en application de l'article 13 du code de l'industrie cinémato
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Modifié par**:
-
-	  - Décret n°2002-1326 du 29 octobre 2002 - art. 9 () JORF 6 novembre 2002
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 6° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Cité par**:
 
@@ -14214,8 +14378,8 @@ que les voies de recours, dans la notification de la décision.
 
 ###### Article R421-6
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie le délai de recours de deux mois prévu
-à l'article R. 421-1 est porté à trois mois.
+Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie le délai de recours de
+deux mois prévu à l'article R. 421-1 est porté à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -14226,6 +14390,10 @@ Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Cal�
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Cité par**:
 
@@ -14248,15 +14416,10 @@ de deux mois prévu à l'article R. 421-1.
 Toutefois, ne bénéficient pas de ces délais supplémentaires les requérants qui usent de la faculté prévue par les lois
 spéciales de déposer leurs requêtes à la préfecture ou à la sous-préfecture.
 
-Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, les
-délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le territoire.
+Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-
+Calédonie, les délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le territoire.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 643, 644
-	  - Code de justice administrative. - art. R421-1 (M)
 
 	**Anciens textes**:
 
@@ -14270,6 +14433,15 @@ délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R421-1 (M)
+	  - Nouveau code de procédure civile 643, 644
 
 	**Cité par**:
 
@@ -14615,6 +14787,16 @@ Devant le tribunal administratif de Mamoudzou, les recours, les mémoires en dé
 au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par le représentant du
 Gouvernement ou son délégué.
 
+Devant le tribunal administratif de Mata-Utu, les recours, les mémoires en défense et les mémoires en intervention présentés
+au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par l'administrateur supérieur
+ou son délégué.
+
+**Nota:**
+
+NOTA : L'article 7 du décret 82-389 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
+
+L'article 6 du décret 82-390 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -14629,6 +14811,10 @@ Gouvernement ou son délégué.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 7° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Cité par**:
 
@@ -16237,6 +16423,32 @@ Gouvernement.
 	  - Code des tribunaux administratifs et des cours adm - art. R144 (M)
 
 
+###### Article R611-15-1
+
+Devant le tribunal administratif de Mata-Utu, les demandes présentées contre une décision ou une délibération prise au nom ou
+pour le compte de l'Etat ou du territoire des îles Wallis et Futuna, et les demandes présentées contre l'Etat ou le
+territoire des îles Wallis et Futuna et mettant en cause leur responsabilité, sont communiquées par le tribunal administratif
+à l'administrateur supérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 8° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+	**Anciens textes**:
+
+	  - Code des tribunaux administratifs et des cours adm - art. R144 (M)
+
+
 ##### Section 3 : Dispositions applicables devant les cours administratives d'appel
 
 ###### Article R611-16
@@ -16815,6 +17027,9 @@ tribunal administratif au haut-commissaire si elle concerne une administration d
 Devant le tribunal administratif de Mamoudzou, la mise en demeure est adressée par le président du tribunal administratif au
 représentant du Gouvernement si elle concerne une administration de l'Etat ou de la collectivité territoriale.
 
+Devant le tribunal administratif de Mata-Utu, la mise en demeure est adressée à l'administrateur supérieur si elle concerne
+une administration de l'Etat ou du territoire des îles Wallis et Futuna.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -16824,6 +17039,10 @@ représentant du Gouvernement si elle concerne une administration de l'Etat ou d
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 9° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Anciens textes**:
 
@@ -16891,8 +17110,8 @@ close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun reco
 
 Les lettres recommandées avec demande d'avis de réception portant notification de cette ordonnance sont envoyées à toutes les
 parties en cause quinze jours au moins avant la date de la clôture fixée par l'ordonnance. Devant les tribunaux
-administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, le délai de notification est porté à un mois et
-l'ordonnance peut être notifiée par voie administrative.
+administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai de notification est porté à un mois
+et l'ordonnance peut être notifiée par voie administrative.
 
 **Liens relatifs à cet article**
 
@@ -16900,9 +17119,9 @@ l'ordonnance peut être notifiée par voie administrative.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Cité par**:
 
@@ -17224,9 +17443,9 @@ est adressé quatre jours au moins à l'avance, par lettre recommandée.
 
 Les observations faites par les parties, dans le cours des opérations, sont consignées dans le rapport.
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, le président du tribunal fixe par
-ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par lesquels cet avis est porté à
-leur connaissance.
+Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le président du tribunal
+fixe par ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par lesquels cet avis est
+porté à leur connaissance.
 
 **Liens relatifs à cet article**
 
@@ -17237,6 +17456,10 @@ leur connaissance.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Anciens textes**:
 
@@ -18132,8 +18355,8 @@ Dans les deux cas, l'avertissement est donné sept jours au moins avant l'audien
 être réduit à deux jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis
 d'audience.
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, le délai de sept jours est porté à dix
-jours.
+Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai de sept jours
+est porté à dix jours.
 
 **Liens relatifs à cet article**
 
@@ -18141,9 +18364,9 @@ jours.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Cité par**:
 
@@ -19196,19 +19419,21 @@ commissaire.
 
 Devant le tribunal administratif de Mamoudzou, l'expédition est adressée au représentant du gouvernement.
 
+Devant le tribunal administratif de Mata-Utu, l'expédition est adressée à l'administrateur supérieur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Modifié par**:
-
-	  - Décret n°2003-616 du 4 juillet 2003 - art. 3 () JORF 5 juillet 2003 en vigueur le 1er septembre 2003
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 10° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Cité par**:
 
@@ -19595,10 +19820,10 @@ préfecture ; dans ce dernier cas, il est fait application des dispositions de l
 
 ###### Article R772-4
 
-Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie, les requêtes en matière fiscale dont le contentieux
-ressortit à la juridiction administrative sont, sous réserve des articles 100 à 104 ter du décret du 5 août 1881 modifié et
-des articles 172 et 173 du décret du 30 décembre 1912 modifié, présentées et instruites par le tribunal administratif dans
-les formes prévues dans le présent code.
+Devant les tribunaux administratifs de Papeete, de Mata-Utu et de Nouvelle-Calédonie, les requêtes en matière fiscale dont le
+contentieux ressortit à la juridiction administrative sont, sous réserve des articles 100 à 104 ter du décret du 5 août 1881
+modifié et des articles 172 et 173 du décret du 30 décembre 1912 modifié, présentées et instruites par le tribunal
+administratif dans les formes prévues dans le présent code.
 
 Devant le tribunal administratif de Mamoudzou, les requêtes en matière d'impôts directs et de taxe sur le chiffre d'affaires
 ou assimilées dont l'assiette ou le recouvrement est confié à la direction des services fiscaux sont présentées, instruites
@@ -19618,6 +19843,10 @@ et jugées dans les formes prévues dans le livre des procédures fiscales appli
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 11° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Anciens textes**:
 
@@ -19691,8 +19920,8 @@ entendus dans une enquête.
 En matière électorale, les requêtes au Conseil d'Etat peuvent être déposées à la préfecture ou à la sous-préfecture du
 domicile du requérant.
 
-En Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte, les requêtes peuvent être déposées auprès des services
-du haut-commissaire ou du représentant du Gouvernement.
+En Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques
+françaises et à Mayotte, les requêtes peuvent être déposées auprès des services du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -19707,6 +19936,10 @@ du haut-commissaire ou du représentant du Gouvernement.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 12° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 
 ###### Article R773-5
@@ -20455,7 +20688,8 @@ de deux mois.
 
 ###### Article R811-4
 
-A Mayotte, en Polynésie française et en Nouvelle-Calédonie, le délai d'appel de deux mois est porté à trois mois.
+A Mayotte, en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, le délai d'appel de deux mois est
+porté à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -20471,6 +20705,14 @@ A Mayotte, en Polynésie française et en Nouvelle-Calédonie, le délai d'appel
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 13° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
+
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R229 (M)
@@ -20482,8 +20724,8 @@ Les délais supplémentaires de distance prévus aux articles 643 et 644 du nouv
 délais normalement impartis.
 
 Toutefois, ne bénéficient pas de ce délai supplémentaire ceux qui, en matière électorale, déposent leur requête à la
-préfecture ou à la sous-préfecture ou, en Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte, auprès des
-services du délégué du gouvernement.
+préfecture ou à la sous-préfecture ou, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à
+Mayotte, auprès des services du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -20500,6 +20742,10 @@ services du délégué du gouvernement.
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 14° JORF 3 janvier 2004 en vigueur le 1er février 2004
+
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R821-2 (V)
@@ -20507,10 +20753,6 @@ services du délégué du gouvernement.
 	  - Code de justice administrative. - art. R832-4 (V)
 	  - Code de justice administrative. - art. R833-2 (V)
 	  - Code électoral - art. R12 (V)
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 643, 644
 
 
 ###### Article R811-6
@@ -21439,8 +21681,8 @@ opposition que dans le délai de deux mois à compter de cette notification ou s
 
 ###### Article R832-3
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete et de Nouvelle-Calédonie, le délai pour former tierce opposition
-est porté à trois mois.
+Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai pour former
+tierce opposition est porté à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -21451,6 +21693,10 @@ est porté à trois mois.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Cité par**:
 
