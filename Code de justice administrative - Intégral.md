@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-03-01
+Version Consolidée au 2005-04-03
 
 # Partie législative
 
@@ -11928,8 +11928,7 @@ Ceux qui ont été recrutés par la voie du troisième concours sont placés au 
 
 Avant leur première entrée en fonctions, les premiers conseillers et les conseillers, quel que soit leur recrutement,
 reçoivent au Conseil d'Etat une formation complémentaire de six mois dont la durée est comptée comme services effectifs dans
-le corps des tribunaux administratifs et des cours administratives d'appel. Ils ne peuvent accomplir leur obligation de
-mobilité avant l'achèvement de cette période de formation.
+le corps des tribunaux administratifs et des cours administratives d'appel.
 
 **Liens relatifs à cet article**
 
@@ -11950,7 +11949,15 @@ mobilité avant l'achèvement de cette période de formation.
 	  - Arrêté du 1 juin 2004 - art. 6 (V)
 	  - Arrêté du 5 juillet 2004 - art. 2 (V)
 	  - Décret n°2004-675 du 5 juillet 2004 - art. 1 (V)
-	  - Code de justice administrative - art. R233-8 (V)
+	  - Code de justice administrative - art. R233-8 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2005-310 du 25 mars 2005 - art. 4 () JORF 3 avril 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 3
 
 
 ###### Article R233-3
@@ -12413,45 +12420,48 @@ classés au 5e échelon de leur grade.
 
 ###### Article R234-7
 
-Les dispositions du titre II du décret n° 59-308 du 14 février 1959 relatif aux conditions générales de notation et
-d'avancement des fonctionnaires ne sont pas applicables aux membres du corps des tribunaux administratifs et des cours
-administratives d'appel.
+Les membres du corps des tribunaux administratifs et des cours administratives d'appel font l'objet d'une évaluation et d'une
+notation dans les conditions prévues par les dispositions des titres Ier et II du décret n° 2002-682 du 29 avril 2002 relatif
+aux conditions générales d'évaluation, de notation et d'avancement des fonctionnaires de l'Etat. Pour l'application de ces
+dispositions, le chef de la mission permanente d'inspection des juridictions administratives conduit l'entretien d'évaluation
+des présidents exerçant les fonctions de président d'un tribunal administratif et exerce, à leur égard, le pouvoir de
+notation.
 
-Pour l'application du titre Ier du même décret, le pouvoir de notation à l'égard des présidents exerçant les fonctions de
-président d'un tribunal administratif appartient au chef de la mission permanente d'inspection des juridictions
-administratives.
-
-**Nota:**
-
-NOTA : Le décret 59-308 du 14 février 1959 est abrogé par le décret 2002-682 du 29 avril 2002 (art. 24) à compter du 1er
-janvier 2005.
+Les dispositions du titre III du même décret ne sont pas applicables aux membres du corps des tribunaux administratifs et des
+cours administratives d'appel.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-308 1959-02-14
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Cite**:
+
+	  - Décret n°2002-682 2002-04-29
+
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2005-310 du 25 mars 2005 - art. 3 () JORF 3 avril 2005
 
 
 #### Chapitre V : Positions
 
 ###### Article R235-1
 
-Sous réserve des dispositions de l'article R. 235-2, les membres du corps des tribunaux administratifs et des cours
-administratives d'appel ne peuvent être détachés ou placés en position de mise à disposition avant d'avoir accompli quatre
-années de services effectifs dans leur corps d'appartenance.
+Sous réserve des cas de détachement de plein droit, les conseillers et les premiers conseillers du corps des tribunaux
+administratifs et des cours administratives d'appel ne peuvent être détachés ou mis à disposition que s'ils comptent au moins
+quatre années de services effectifs dans le corps. Toutefois, cette exigence ne peut faire obstacle, après deux années de
+services effectifs, au placement dans l'une de ces positions en vue de l'accomplissement de la mobilité statutaire ou pour
+occuper l'un des emplois pour lesquels la nomination est laissée à la décision du Gouvernement.
 
-Les détachements ou mises à disposition auxquels il est procédé en application de l'alinéa précédent ainsi que les décisions
-de maintien dans l'une ou l'autre de ces positions sont prononcés sur la demande des intéressés, après avis du chef de la
-mission permanente d'inspection des juridictions administratives.
+Les détachements ou mises à disposition des membres du corps des tribunaux administratifs et des cours administratives
+d'appel ainsi que les décisions de maintien dans l'une ou l'autre de ces positions sont prononcés sur la demande des
+intéréssés, après avis du chef de la mission permanente d'inspection des juridictions administratives.
 
 **Liens relatifs à cet article**
 
@@ -12463,18 +12473,20 @@ mission permanente d'inspection des juridictions administratives.
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de justice administrative. - art. R235-2 (M)
+	  - Décret n°2005-310 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
 
 
 ###### Article R235-2
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel satisfont à l'obligation de mobilité
-dans les conditions définies par le décret n° 2004-708 du 16 juillet 2004. A la fin de la période au cours de laquelle ils
-ont accompli la mobilité, ils sont réintégrés de droit et au besoin en surnombre dans leur corps d'origine. Chacun d'eux doit
-retrouver, s'il le demande, une affectation dans la juridiction à laquelle il était précédemment affecté lorsqu'une vacance y
-est ouverte à la fin de sa période de mobilité.
+Les membres du corps des tribunaux administratifs et des cours administratives d'appel accomplissent la mobilité statutaire
+prévue par le décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps
+recrutés par la voie de l'Ecole nationale d'administration dans les conditions définies par ce décret. Toutefois, ils ne
+peuvent accomplir cette mobilité dans un cabinet d'avocats ou auprès d'un avocat au Conseil d'Etat et à la Cour de cassation.
+A la fin de la période au cours de laquelle ils ont accompli la mobilité, ils sont réintégrés de droit et au besoin en
+surnombre dans leur corps d'origine. Chacun d'eux doit retrouver, s'il le demande, une affectation dans la juridiction à
+laquelle il était précédemment affecté lorsqu'une vacance y est ouverte à la fin de sa période de mobilité.
 
 **Liens relatifs à cet article**
 
@@ -12492,7 +12504,7 @@ est ouverte à la fin de sa période de mobilité.
 
 	**Modifié par**:
 
-	  - Décret n°2004-708 du 16 juillet 2004 - art. 14 (V) JORF 17 juillet 2004
+	  - Décret n°2005-310 du 25 mars 2005 - art. 2 () JORF 3 avril 2005
 
 	**Cité par**:
 
