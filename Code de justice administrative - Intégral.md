@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -6716,10 +6716,9 @@ L'assemblée générale du Conseil d'Etat se réunit soit en formation plénièr
 
 ###### Article R123-13
 
-L'assemblée générale plénière, qui se réunit au moins douze fois par an et deux fois par trimestre, comprend, avec voix
-délibérative, le vice-président du Conseil d'Etat, les présidents de section et les conseillers d'Etat. Les maîtres des
-requêtes et auditeurs y ont accès et voix consultative. Ils ont voix délibérative dans les affaires dont ils sont
-rapporteurs.
+L'assemblée générale plénière comprend, avec voix délibérative, le vice-président du Conseil d'Etat, les présidents de
+section et les conseillers d'Etat. Les maîtres des requêtes et auditeurs y ont accès et voix consultative. Ils ont voix
+délibérative dans les affaires dont ils sont rapporteurs.
 
 **Liens relatifs à cet article**
 
@@ -6731,9 +6730,9 @@ rapporteurs.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2004-1387 du 21 décembre 2004 - art. 1 () JORF 23 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article R123-14
@@ -6866,11 +6865,12 @@ plénière au scrutin secret et à la majorité absolue des membres présents.
 
 ###### Article R123-19
 
-Le secrétaire général tient le procès-verbal de l'assemblée générale ; il signe et certifie les expéditions des actes, des
-décrets et des avis du Conseil d'Etat délivrées aux personnes qui ont qualité pour les réclamer.
+Le secrétaire général du Conseil d'Etat, ou l'un des secrétaires généraux adjoints, assure le secrétariat de l'assemblée
+générale. Il en tient le procès-verbal. Il signe et certifie les expéditions des projets de loi, d'ordonnance et de décret
+ainsi que des avis du Conseil d'Etat délivrées aux personnes qui ont qualité pour les réclamer.
 
-En cas d'absence ou d'empêchement du secrétaire général et des secrétaires généraux adjoints, un membre du Conseil désigné
-par le vice-président exerce les fonctions prévues à l'alinéa précédent.
+Le secrétaire général du Conseil d'Etat peut être suppléé dans l'exercice des fonctions prévues à l'alinéa précédent par le
+secrétaire d'une section administrative.
 
 **Liens relatifs à cet article**
 
@@ -6882,9 +6882,9 @@ par le vice-président exerce les fonctions prévues à l'alinéa précédent.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2004-1387 du 21 décembre 2004 - art. 2 () JORF 23 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -6906,8 +6906,22 @@ ministres intéressés, soit par le vice-président du Conseil d'Etat, soit par 
 compétente, soit à la demande de cette section ou de cette commission.
 
 Toutefois, le vice-président du Conseil d'Etat peut, sur proposition du président de la section ou de la commission
-compétente, décider de ne pas porter à l'ordre du jour de l'assemblée générale certains des projets mentionnés au 2° ci-
-dessus.
+compétente, décider de ne pas porter à l'ordre du jour de l'assemblée générale certains projets relevant des catégories ci-
+après :
+
+a) Projets de décret mentionnés au 2° ci-dessus ;
+
+b) Projets de loi ayant pour objet principal la ratification d'une ordonnance ;
+
+c) Projets de loi autorisant la ratification ou l'approbation d'une convention internationale ;
+
+d) Projets de loi ou d'ordonnance portant extension et, le cas échéant, adaptation de dispositions législatives à une ou
+plusieurs collectivités d'outre-mer ou à la Nouvelle-Calédonie ;
+
+e) Projets de loi ou d'ordonnance ayant pour objet principal la transposition en droit interne d'une directive
+communautaire ;
+
+f) Projets de loi ou d'ordonnance procédant à la codification de la législation.
 
 L'assemblée générale ordinaire peut décider le renvoi d'une affaire à l'assemblée générale plénière.
 
@@ -6921,9 +6935,9 @@ L'assemblée générale ordinaire peut décider le renvoi d'une affaire à l'ass
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2004-1387 du 21 décembre 2004 - art. 3 () JORF 23 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -6945,10 +6959,6 @@ L'assemblée générale ordinaire peut décider le renvoi d'une affaire à l'ass
 	  - Ordonnance n°2012-1222 du 2 novembre 2012 (V)
 	  - Ordonnance n°2012-1398 du 13 décembre 2012 (V)
 	  - ORDONNANCE n°2015-45 du 23 janvier 2015 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R123-21 (V)
 
 
 ##### Section 3 : La commission permanente
