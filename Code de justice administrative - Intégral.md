@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2002-06-01
+Version Consolidée au 2002-06-08
 
 # Partie législative
 
@@ -3186,23 +3186,15 @@ le cas contraire, les garanties supplémentaires à présenter sont diminuées �
 
 Le référé à l'égard des mesures conservatoires prises par le comptable à défaut de constitution par le contribuable de
 garanties suffisantes obéit aux règles définies par le 4e alinéa de l'article L. 277 du livre des procédures fiscales ci-
-après reproduit :
+après reproduit : 
 
-" Art. L. 277, alinéa 4. - Lorsque le comptable a fait procéder à une saisie conservatoire en application de l'alinéa
-précédent, le contribuable peut demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer
-la limitation ou l'abandon de cette mesure si elle comporte des conséquences difficilement réparables. Les dispositions des
+" Art. L. 277, alinéa 4. - Lorsque le comptable a fait procéder à une saisie conservatoire en application du quatrième
+alinéa, le contribuable peut demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer la
+limitation ou l'abandon de cette mesure si elle comporte des conséquences difficilement réparables. Les dispositions des
 troisième et quatrième alinéas de l'article L. 279 sont applicables à cette procédure, la juridiction d'appel étant, selon le
 cas, le tribunal administratif ou le tribunal de grande instance. "
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L277, L279, L279 A
-
-	**Anciens textes**:
-
-	  - Livre des procédures fiscales L277
 
 	**Codifié par**:
 
@@ -3211,7 +3203,15 @@ cas, le tribunal administratif ou le tribunal de grande instance. "
 
 	**Modifié par**:
 
-	  - Loi - art. 74 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L277 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L279 (V)
 
 	**Cité par**:
 
