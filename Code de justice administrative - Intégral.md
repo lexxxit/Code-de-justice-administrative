@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2001-06-30
+Version Consolidée au 2001-07-13
 
 # Partie législative
 
@@ -1317,6 +1317,39 @@ Dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte, l
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours administratives d'appel L2-2 al. 1er
+
+
+###### Article L223-2
+
+La procédure de saisine pour avis du tribunal administratif de Mamoudzou par le président du conseil général de Mayotte est
+régie par les dispositions de l'article L. 3552-7 du code général des collectivités territoriales ci-après reproduit :
+
+"Art. L. 3552-7. - Le président du conseil général peut saisir le tribunal administratif de Mamoudzou d'une demande d'avis
+portant sur l'interprétation du statut de Mayotte ou sur l'applicabilité dans cette collectivité d'un texte législatif ou
+réglementaire.
+
+"En cas de difficulté sérieuse, le président du tribunal administratif peut transmettre cette demande au Conseil d'Etat.
+
+"Le présent article est applicable sous réserve des dispositions du 7° de l'article L. 3571-1".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 71 () JORF 13 juillet 2001
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3552-7 (V)
 
 
 #### Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie
