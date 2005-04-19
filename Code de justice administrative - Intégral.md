@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-04-03
+Version Consolidée au 2005-04-20
 
 # Partie législative
 
@@ -20872,6 +20872,35 @@ cette partie dans les conditions prévues à l'article R. 776-17, troisième ali
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R241-20 (Ab)
+
+
+#### Chapitre 7 : Dispositions relatives à un référendum local.
+
+###### Article R777-1
+
+Le jugement des requêtes relatives à l'établissement de la liste des partis ou groupements habilités à participer à la
+campagne en vue d'un référendum local est régi par les dispositions du cinquième alinéa de l'article R. 1112-3 du code
+général des collectivités territoriales ci-après reproduites :
+
+"Art. R. 1112-3, cinquième alinéa. - Toute personne inscrite sur les listes électorales dans le ressort de la collectivité
+territoriale ayant décidé le référendum ainsi que tout groupe, parti ou groupement politique ayant déposé une demande
+d'habilitation peut, dans les vingt-quatre heures qui suivent la publication de la liste, saisir le tribunal administratif
+compétent. Le tribunal statue en premier et dernier ressort dans les trois jours suivant le dépôt de la requête. S'il
+l'estime fondée, le tribunal procède à la réformation de l'arrêté."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-433 du 4 mai 2005 - art. 3 () JORF 8 mai 2005
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R1112-3 (M)
 
 
 ## Livre VIII : Les voies de recours.
