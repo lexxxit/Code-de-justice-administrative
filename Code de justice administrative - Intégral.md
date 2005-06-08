@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-05-21
+Version Consolidée au 2005-06-09
 
 # Partie législative
 
@@ -4482,6 +4482,32 @@ de reconduite à la frontière que la décision fixant le pays de renvoi vise à
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R776-1 (V)
+
+
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer
+
+###### Article L781-1
+
+Lorsque des magistrats sont simultanément affectés dans deux ou plusieurs tribunaux administratifs d'outre-mer et que leur
+venue à l'audience n'est pas matériellement possible dans les délais prescrits par les dispositions en vigueur ou exigés par
+la nature de l'affaire, le ou les membres de la formation de jugement peuvent siéger et, le cas échéant, le commissaire du
+Gouvernement prononcer ses conclusions dans un autre tribunal dont ils sont membres, relié, en direct, à la salle d'audience,
+par un moyen de communication audiovisuelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-657 du 8 juin 2005 - art. 1 () JORF 9 juin 2005
+
+	**Cité par**:
+
+	  - Code de justice administrative. - art. R781-1 (V)
 
 
 ## Livre VIII : Les voies de recours
