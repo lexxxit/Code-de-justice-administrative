@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-06-09
+Version Consolidée au 2005-07-01
 
 # Partie législative
 
@@ -865,8 +865,8 @@ et s'il ne justifie de dix ans de services publics, tant civils que militaires.
 ###### Article L133-5
 
 Les auditeurs de 1re classe sont nommés par décret, sur la proposition du garde des sceaux, ministre de la justice. Sous
-réserve des dispositions de la loi n° 70-2 du 2 janvier 1970 tendant à faciliter l'accès des officiers à des emplois civils,
-ils sont choisis parmi les auditeurs de 2e classe.
+réserve des dispositions de l'article 62 de la loi n° 2005-270 du 24 mars 2005 portant statut général des militaires, ils
+sont choisis parmi les auditeurs de 2e classe.
 
 **Liens relatifs à cet article**
 
@@ -874,14 +874,18 @@ ils sont choisis parmi les auditeurs de 2e classe.
 
 	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 10 (Ab)
 
-	**Cite**:
-
-	  - Loi n°70-2 1970-01-02
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Cite**:
+
+	  - Loi n°2005-270 2005-03-24 art. 62
+
+	**Modifié par**:
+
+	  - Loi n°2005-270 du 24 mars 2005 - art. 101 () JORF 26 mars 2005 en vigueur au  1er juillet 2005
 
 
 ###### Article L133-6
