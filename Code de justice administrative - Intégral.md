@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-08-05
+Version Consolidée au 2005-08-11
 
 # Partie législative
 
@@ -20949,6 +20949,63 @@ l'estime fondée, le tribunal procède à la réformation de l'arrêté."
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. R1112-3 (M)
+
+
+### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.
+
+###### Article R781-1
+
+Lorsque, en application de l'article L. 781-1, un moyen de communication audiovisuelle est mis en oeuvre pour la tenue d'une
+audience, le président du tribunal dans lequel siège la formation de jugement peut désigner le greffier en chef, un greffier
+ou un autre agent du greffe de ce tribunal en qualité de greffier d'audience adjoint ; dans ce cas, la minute de la décision
+est signée par ce dernier en lieu et place du greffier d'audience. Le président peut, en outre, décider que les expéditions
+de la décision seront signées et délivrées par le greffier en chef du tribunal dans lequel siège la formation de jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L781-1 (V)
+
+
+###### Article R781-2
+
+Les prises de vue et de son sont assurées par des agents du greffe ou, à défaut et sauf lorsque l'audience se tient hors la
+présence du public, par tous autres agents publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
+
+
+###### Article R781-3
+
+Les caractéristiques techniques des moyens de communication audiovisuelle utilisés doivent assurer une retransmission fidèle,
+loyale et confidentielle à l'égard des tiers. Elles sont définies par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-974 du 10 août 2005 - art. 1 () JORF 11 août 2005
 
 
 ## Livre VIII : Les voies de recours.
