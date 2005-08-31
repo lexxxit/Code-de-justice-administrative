@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-08-11
+Version Consolidée au 2005-09-01
 
 # Partie législative
 
@@ -3138,9 +3138,10 @@ cet effet statue dans un délai de quarante-huit heures et exerce le cas échéa
 ###### Article L551-1
 
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
-de publicité et de mise en concurrence auxquelles est soumise la passation des marchés publics, des contrats de partenariat,
-des contrats visés au premier alinéa de l'article L. 6148-5 du code de la santé publique et des conventions de délégation de
-service public.
+de publicité et de mise en concurrence auxquelles est soumise la passation des marchés publics, des marchés mentionnés au 2°
+de l'article 24 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou
+privées non soumises au code des marchés publics, des contrats de partenariat, des contrats visés au premier alinéa de
+l'article L. 6148-5 du code de la santé publique et des conventions de délégation de service public.
 
 Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
 par ce manquement, ainsi que le représentant de l'Etat dans le département dans le cas où le contrat est conclu ou doit être
@@ -3182,26 +3183,26 @@ Le président du tribunal administratif ou son délégué statue en premier et d
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+	**Cite**:
+
+	  - Ordonnance 2005-649 2005-06-06 art. 24
+	  - Code de la santé publique - art. L6148-5 (M)
+
 	**Modifié par**:
 
-	  - Loi n°2004-806 du 9 août 2004 - art. 153 () JORF 11 août 2004
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 39 () JORF 7 juin 2005 en vigueur le 1er septembre 2005
 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. L22 (Ab)
 
-	**Cite**:
-
-	  - Code de la santé publique - art. L6148-5 (M)
-
 
 ###### Article L551-2
 
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
-de publicité ou de mise en concurrence auxquelles sont soumis les contrats visés à l'article 7-2 de la loi n° 92-1282 du 11
-décembre 1992 relative aux procédures de passation de certains contrats dans les secteurs de l'eau, de l'énergie, des
-transports et des télécommunications. Le juge ne peut statuer, avant la conclusion du contrat, que dans les conditions
-définies ci-après.
+de publicité ou de mise en concurrence auxquelles sont soumis les marchés mentionnés au 2° de l'article 33 de l'ordonnance n°
+2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des
+marchés publics. Le juge ne peut statuer, avant la conclusion du contrat, que dans les conditions définies ci-après.
 
 Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
 par ce manquement.
@@ -3232,10 +3233,6 @@ juge provient, en tout ou partie, d'une cause étrangère.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°92-1282 1992-12-11 art. 7-2
-
 	**Cité par**:
 
 	  - Loi n°92-1282 du 11 décembre 1992 - art. 7-2 (Ab)
@@ -3251,13 +3248,13 @@ juge provient, en tout ou partie, d'une cause étrangère.
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+	  - Ordonnance 2005-649 2005-06-06 art. 33
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2000-597 du 30 juin 2000 - art. 25 (M)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 39 () JORF 7 juin 2005 en vigueur le 1er septembre 2005
 
 	**Anciens textes**:
 
@@ -5761,8 +5758,10 @@ celles qui sont entachées d'une irrecevabilité manifeste non susceptible d'êt
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
 
-6° Statuer sur les requêtes relevant d'une série, qui présentent à juger en droit et en fait des questions identiques à
-celles que le Conseil d'Etat statuant au contentieux a déjà tranchées ensemble par une même décision.
+6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle appréciation ou qualification de faits,
+présentent à juger en droit des questions identiques à celles tranchées ensemble par une même décision du Conseil d'Etat
+statuant au contentieux ou examinées ensemble par un même avis rendu par le Conseil d'Etat en application de l'article L.
+113-1.
 
 Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis à exécution d'une décision juridictionnelle.
 
@@ -5779,11 +5778,7 @@ Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis �
 
 	**Modifié par**:
 
-	  - Décret n°2003-1257 du 26 décembre 2003 - art. 3 () JORF 28 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 1 () JORF 4 août 2005 en vigueur le 1er septembre 2005
 
 	**Cité par**:
 
@@ -5800,6 +5795,7 @@ Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis �
 
 	**Cite**:
 
+	  - Code de justice administrative. - art. L113-1 (V)
 	  - Code de justice administrative. - art. L761-1 (V)
 
 
@@ -6284,6 +6280,38 @@ du Conseil d'Etat sur la proposition du président de la section du contentieux.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R122-28-1
+
+Le secrétariat des séances est assuré par le secrétaire du contentieux, le secrétaire adjoint, les secrétaires de sous-
+section ainsi que par les agents de la section désignés à cet effet par le président de la section du contentieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 7 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+
+
+###### Article R122-28-2
+
+Le secrétaire du contentieux peut, avec l'accord du président de la section du contentieux, déléguer sa signature, pour une
+partie de ses attributions, à des agents affectés à la section du contentieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 7 () JORF 4 août 2005 en vigueur le 1er septembre 2005
 
 
 ###### Article R122-29
@@ -8633,7 +8661,7 @@ Bordeaux : quatre chambres ;
 
 Caen : deux chambres ;
 
-Cergy-Pontoise : six chambres ;
+Cergy-Pontoise : sept chambres ;
 
 Châlons-en-Champagne : trois chambres ;
 
@@ -8653,7 +8681,7 @@ Marseille : huit chambres ;
 
 Melun : six chambres ;
 
-Montpellier : six chambres ;
+Montpellier : sept chambres ;
 
 Nancy : deux chambres ;
 
@@ -8690,13 +8718,13 @@ Saint-Denis : deux chambres.
 	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
 	  - Code de justice administrative. - art. R222-17 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2005-961 du 9 août 2005 - art. 1 () JORF 10 août 2005 en vigueur le 1er septembre 2005
+
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours administratives d'appel R5 al. 1
-
-	**Modifié par**:
-
-	  - Décret n°2004-585 2004-06-11 art. 3 JORF 23 juin 2004 en vigueur le 1er septembre 2004
 
 
 ###### Article R221-5
@@ -8794,13 +8822,11 @@ Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et Versaille
 
 Le nombre de chambres de chaque cour administrative d'appel est fixé comme suit :
 
-Lyon et Marseille : six chambres ;
+Bordeaux, Lyon, Marseille et Paris : six chambres ;
 
-Bordeaux et Paris : cinq chambres ;
+Nancy, Nantes et Versailles : quatre chambres ;
 
-Nancy et Nantes : quatre chambres ;
-
-Douai et Versailles : trois chambres.
+Douai : trois chambres.
 
 **Liens relatifs à cet article**
 
@@ -8808,13 +8834,13 @@ Douai et Versailles : trois chambres.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2005-961 du 9 août 2005 - art. 2 () JORF 10 août 2005 en vigueur le 1er septembre 2005
+
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R8 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2004-585 2004-06-11 art. 5 JORF 23 juin 2004 en vigueur le 1er septembre 2004
 
 
 #### Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel
@@ -8838,8 +8864,11 @@ celles qui sont entachées d'une irrecevabilité manifeste non susceptible d'êt
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
 
-6° Statuer sur les requêtes relevant d'une série, qui présentent à juger en droit et en fait, pour la juridiction saisie, des
-questions identiques à celles qu'elle a déjà tranchées ensemble par une même décision passée en force de chose jugée.
+6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle appréciation ou qualification de faits,
+présentent à juger en droit, pour la juridiction saisie, des questions identiques à celles qu'elle a déjà tranchées ensemble
+par une même décision passée en force de chose jugée ou à celles tranchées ensemble par une même décision du Conseil d'Etat
+statuant au contentieux ou examinées ensemble par un même avis rendu par le Conseil d'Etat en application de l'article L.
+113-1.
 
 Les présidents des cours administratives d'appel et les présidents des formations de jugement des cours peuvent, en outre,
 par ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décision juridictionnelle frappée d'appel et les
@@ -8855,11 +8884,7 @@ l'une de ces dispositions.
 
 	**Modifié par**:
 
-	  - Décret n°2003-1257 du 26 décembre 2003 - art. 3 () JORF 28 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 2 () JORF 4 août 2005 en vigueur le 1er septembre 2005
 
 	**Cité par**:
 
@@ -8880,6 +8905,7 @@ l'une de ces dispositions.
 
 	**Cite**:
 
+	  - Code de justice administrative. - art. L113-1 (V)
 	  - Code de justice administrative. - art. L761-1 (V)
 
 	**Anciens textes**:
@@ -12619,10 +12645,10 @@ vertu des dispositions de l'article 13 (troisième alinéa) de la Constitution e
 5° Des recours dirigés contre les actes administratifs dont le champ d'application s'étend au-delà du ressort d'un seul
 tribunal administratif ;
 
-6° Des litiges d'ordre administratif nés hors des territoires soumis à la juridiction d'un tribunal administratif ou d'un
-conseil du contentieux administratif ;
+6° Des litiges d'ordre administratif nés hors des territoires soumis à la juridiction d'un tribunal administratif ;
 
-7° Abrogé ;
+7° Des actions en responsabilité dirigées contre l'Etat pour durée excessive de la procédure devant la juridiction
+administrative ;
 
 8° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier
 et dernier ressort du Conseil d'Etat ;
@@ -12652,11 +12678,11 @@ cinématographie en application de l'article 13 du code de l'industrie cinémato
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - SPEC_APPLI: Décret n°2005-911 2005-07-28 art. 10 : Spécificité d'application
 
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 6° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 6 () JORF 4 août 2005 en vigueur le 1er septembre 2005
 
 	**Cité par**:
 
@@ -19033,7 +19059,8 @@ prononcée en audience publique.
 
 ###### Article R741-2
 
-La décision mentionne que l'audience a été publique.
+La décision mentionne que l'audience a été publique, sauf s'il a été fait application des dispositions de l'article L. 731-1.
+Dans ce dernier cas, il est mentionné que l'audience a eu lieu ou s'est poursuivie hors la présence du public.
 
 Elle contient le nom des parties, l'analyse des conclusions et mémoires ainsi que les visas des dispositions législatives ou
 réglementaires dont elle fait application.
@@ -19055,9 +19082,9 @@ La décision fait apparaître la date de l'audience et la date à laquelle elle 
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 8 () JORF 4 août 2005 en vigueur le 1er septembre 2005
 
 	**Cité par**:
 
@@ -19065,6 +19092,7 @@ La décision fait apparaître la date de l'audience et la date à laquelle elle 
 
 	**Cite**:
 
+	  - Code de justice administrative. - art. L731-1 (V)
 	  - Code de justice administrative. - art. R731-3 (M)
 
 
@@ -19395,15 +19423,23 @@ ou réglementaires dont elles font application.
 
 Elles font apparaître la date à laquelle elles ont été signées.
 
+Dans le cas prévu au 6° des articles R. 122-12 et R. 222-1, l'ordonnance vise la décision ou l'avis par lequel ont été
+tranchées ou examinées les questions identiques à celles que la requête présente à juger.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 3 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R122-12 (M)
+	  - Code de justice administrative. - art. R222-1 (M)
 
 	**Cité par**:
 
@@ -21915,6 +21951,17 @@ Lorsque le pourvoi est irrecevable pour défaut de ministère d'avocat ou entach
 susceptible d'être couverte en cours d'instance, le président de la sous-section peut décider par ordonnance de ne pas
 l'admettre.
 
+Lorsqu'il est manifeste qu'aucun moyen sérieux n'est invoqué, le président de la sous-section peut également décider par
+ordonnance de ne pas admettre :
+
+1° Les pourvois relevant d'une série qui, sans appeler de nouvelle appréciation ou qualification de faits, présentent à juger
+en droit des questions identiques à celles que le Conseil d'Etat statuant au contentieux a déjà tranchées ensemble par une
+même décision ou examinées ensemble par un même avis rendu en application de l'article L. 113-1 ;
+
+2° Les pourvois dirigés contre les ordonnances prises en application de l'article R. 222-1 ;
+
+3° Les pourvois dirigés contre les ordonnances prises en application de l'article L. 522-3.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -21927,11 +21974,7 @@ l'admettre.
 
 	**Modifié par**:
 
-	  - Décret n°2001-562 du 29 juin 2001 - art. 4 () JORF 30 juin 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 4 () JORF 4 août 2005 en vigueur le 1er septembre 2005
 
 	**Cité par**:
 
@@ -21942,7 +21985,30 @@ l'admettre.
 
 	**Cite**:
 
+	  - Code de justice administrative. - art. L113-1 (V)
+	  - Code de justice administrative. - art. L522-3 (V)
+	  - Code de justice administrative. - art. R222-1 (M)
 	  - Code de justice administrative. - art. R611-22 (M)
+
+
+###### Article R822-5-1
+
+Dix jours au moins avant qu'intervienne une ordonnance prise sur le fondement du 1°, du 2° ou du 3° de l'article R. 822-5, le
+requérant ou son mandataire est avisé de cette éventualité, soit par voie électronique, soit par voie postale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-911 du 28 juillet 2005 - art. 5 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R822-5 (M)
 
 
 ###### Article R822-6
