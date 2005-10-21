@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-09-01
+Version Consolidée au 2005-10-22
 
 # Partie législative
 
@@ -16250,6 +16250,40 @@ L'appel ouvert contre les décisions du juge des référés prises en applicatio
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+#### Chapitre V : Le référé en matière d'informatique et libertés
+
+###### Article R555-1
+
+Lorsque le juge administratif est saisi par le président de la Commission nationale de l'informatique et des libertés, sur le
+fondement du III de l'article 45 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés, d'une demande en référé concernant la mise en oeuvre d'un traitement ou l'exploitation de données à caractère
+personnel par l'Etat, une collectivité territoriale, toute autre personne publique ainsi que toute personne privée chargée
+d'une mission de service public, il est statué suivant la procédure de référé instituée par les dispositions de l'article L.
+521-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 45 (V)
+	  - Code de justice administrative - art. L521-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-1309 du 20 octobre 2005 - art. 81 (V) JORF 22 octobre 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-1309 du 20 octobre 2005 - art. 113 (V)
+	  - Décret n°2005-1309 du 20 octobre 2005 - art. 94 (T)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-4 (Ab)
+	  - Code de l'organisation judiciaire - art. R213-5 (V)
 
 
 ## Livre VI : L'instruction
