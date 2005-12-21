@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-12-20
+Version Consolidée au 2005-12-22
 
 # Partie législative
 
@@ -8538,8 +8538,8 @@ Terres australes et antarctiques françaises, par l'administrateur supérieur.
 ###### Article R221-1
 
 Les tribunaux administratifs et les cours administratives d'appel sont désignés par le nom de la ville où ils siègent.
-Toutefois, le tribunal administratif qui siège à Nouméa est désigné sous le nom de : " tribunal administratif de Nouvelle-
-Calédonie ".
+Toutefois, le tribunal administratif qui siège à Nouméa est désigné sous le nom de : "tribunal administratif de Nouvelle-
+Calédonie", et celui qui siège à Papeete sous le nom de "tribunal administratif de la Polynésie française".
 
 **Liens relatifs à cet article**
 
@@ -8547,9 +8547,9 @@ Calédonie ".
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -10290,8 +10290,8 @@ publication de celle-ci au Journal officiel de la Nouvelle-Calédonie.
 
 ###### Article R225-1
 
-Le magistrat de l'ordre judiciaire appelé à faire partie du tribunal administratif de Papeete est choisi parmi les magistrats
-en fonctions dans le ressort.
+Le magistrat de l'ordre judiciaire appelé à faire partie du tribunal administratif de la Polynésie française est choisi parmi
+les magistrats en fonctions dans le ressort.
 
 **Liens relatifs à cet article**
 
@@ -10303,20 +10303,24 @@ en fonctions dans le ressort.
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R25 (M)
 
 
-##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Papeete.
+##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de la Polynésie française.
 
 ###### Article R225-2
 
-Le jugement du tribunal administratif de Papeete prononçant la transmission d'un dossier en application de l'article L. 225-2
-est adressé par le greffier de cette juridiction au secrétaire du contentieux du Conseil d'Etat, avec le dossier de
-l'affaire. Les parties, le haut-commissaire de la République en Polynésie française et le ministre chargé de l'outre-mer sont
-avisés de cette transmission par la notification qui leur est faite du jugement, dans les formes prévues aux articles R.
-751-2 à R. 751-8.
+Le jugement du tribunal administratif de la Polynésie française prononçant la transmission d'un dossier en application de
+l'article L. 225-2 est adressé par le greffier de cette juridiction au secrétaire du contentieux du Conseil d'Etat, avec le
+dossier de l'affaire. Les parties, le haut-commissaire de la République en Polynésie française et le ministre chargé de
+l'outre-mer sont avisés de cette transmission par la notification qui leur est faite du jugement, dans les formes prévues aux
+articles R. 751-2 à R. 751-8.
 
 **Liens relatifs à cet article**
 
@@ -10329,9 +10333,9 @@ avisés de cette transmission par la notification qui leur est faite du jugement
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Cite**:
 
@@ -10360,6 +10364,10 @@ de renvoi. Ce délai peut être réduit par décision du président de la sectio
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
 
 ###### Article R225-4
 
@@ -10373,11 +10381,11 @@ ou
 
 ou
 
-" Le Conseil d'Etat (section du contentieux, ne et ne sous-sections réunies) ",
+" Le Conseil d'Etat (section du contentieux, no et no sous-sections réunies) ",
 
 ou
 
-" Le Conseil d'Etat (section du contentieux, ne sous-section) ".
+" Le Conseil d'Etat (section du contentieux, no sous-section) ".
 
 **Liens relatifs à cet article**
 
@@ -10389,6 +10397,10 @@ ou
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
 	**Cite**:
 
 	  - Code de justice administrative. - art. L225-2 (M)
@@ -10397,9 +10409,9 @@ ou
 ###### Article R225-5
 
 L'avis du Conseil d'Etat est notifié aux parties, au haut-commissaire de la République et au ministre chargé de l'outre-mer.
-Il est adressé au tribunal administratif de Papeete, en même temps que lui est retourné le dossier de l'affaire. L'avis peut
-mentionner qu'il sera publié au Journal officiel de la République française. Le haut-commissaire assure la publication de
-celui-ci au Journal officiel de la Polynésie française.
+Il est adressé au tribunal administratif de la Polynésie française, en même temps que lui est retourné le dossier de
+l'affaire. L'avis peut mentionner qu'il sera publié au Journal officiel de la République française. Le haut-commissaire
+assure la publication de celui-ci au Journal officiel de la Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -10412,17 +10424,37 @@ celui-ci au Journal officiel de la Polynésie française.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 
-##### Section 2 : La saisine pour avis du tribunal administratif de Papeete.
+##### Section 2 : La saisine pour avis du tribunal administratif de la Polynésie française
+
+###### Article R225-5-1
+
+L'avis rendu par le tribunal administratif de la Polynésie française en application de l'article L. 225-3 est notifié à
+l'auteur de la demande d'avis, au haut-commissaire de la République et au ministre chargé de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L225-3 (M)
+
 
 ###### Article R225-6
 
-La transmission d'une demande d'avis par le tribunal administratif de Papeete en application de l'article L. 225-3 est
-adressée par le greffier de cette juridiction au secrétaire général du Conseil d'Etat.
+La transmission d'une demande d'avis par le tribunal administratif de la Polynésie française en application de l'article L.
+225-3 est adressée par le greffier de cette juridiction au secrétaire général du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -10435,9 +10467,9 @@ adressée par le greffier de cette juridiction au secrétaire général du Conse
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Cite**:
 
@@ -10459,15 +10491,15 @@ Conseil d'Etat.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 
 ###### Article R225-8
 
 L'avis du Conseil d'Etat est notifié à l'auteur de la demande d'avis, au haut-commissaire de la République en Polynésie
-française et au ministre chargé de l'outre-mer. Il est adressé au tribunal administratif de Papeete.
+française et au ministre chargé de l'outre-mer. Il est adressé au tribunal administratif de la Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -10480,9 +10512,64 @@ française et au ministre chargé de l'outre-mer. Il est adressé au tribunal ad
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
+
+##### Section 3 : Le contrôle juridictionnel spécifique des "lois du pays"
+
+###### Article R225-8-1
+
+La demande présentée en application de l'article 180 de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française par l'une des autorités mentionnées au deuxième alinéa de cet article est examinée
+conformément aux dispositions régissant la procédure devant le Conseil d'Etat statuant au contentieux.
+
+La décision est notifiée au président de la Polynésie française, au président de l'assemblée de la Polynésie française, au
+ministre chargé de l'outre-mer et au haut-commissaire de la République. Elle peut mentionner qu'elle sera publiée au Journal
+officiel de la République française.
+
+Le haut-commissaire assure sa publication au Journal officiel de la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Cite**:
+
+	  - Loi n°2004-192 2004-02-27 art. 180
+
+	**Créé par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
+
+##### Section 4 : Dispositions relatives à un référendum local
+
+###### Article R225-8-2
+
+Le jugement des requêtes relatives à l'établissement de la liste des groupes d'élus, partis ou groupements politiques
+habilités à participer à la campagne en vue d'un référendum local est régi par les dispositions du cinquième alinéa de
+l'article 19 du décret n° 2005-1611 du 20 décembre 2005 pris pour l'application du statut d'autonomie de la Polynésie
+française ci-après reproduites :
+
+Art. 19, cinquième alinéa. - Toute personne inscrite sur les listes électorales de la Polynésie française ainsi que tout
+groupe, parti ou groupement politique ayant déposé une demande d'habilitation, peut, dans les vingt-quatre heures qui suivent
+la publication de la liste, saisir le tribunal administratif de la Polynésie française. Le tribunal statue en premier et
+dernier ressort dans les trois jours suivant le dépôt de la requête. S'il l'estime fondée, le tribunal procède à la
+réformation de l'arrêté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 
 #### Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna
@@ -10789,12 +10876,12 @@ fonctionnaires des corps des personnels de préfecture ayant au moins le grade d
 	  - Code des tribunaux administratifs et des cours adm - art. R45 (Ab)
 
 
-##### Sous-section 2 : Règles particulières aux greffes des tribunaux administratifs de Papeete, de Mamoudzou et de la Nouvelle-Calédonie.
+##### Sous-section 2 : Règles particulières aux greffes des tribunaux administratifs de la Polynésie française, de Mamoudzou et de la Nouvelle-Calédonie. 
 
 ###### Article R226-8
 
-Le greffier en chef et les greffiers des tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-
-Calédonie appartiennent à la fonction publique d'Etat et sont désignés par le président du tribunal administratif.
+Le greffier en chef et les greffiers des tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de
+Nouvelle-Calédonie appartiennent à la fonction publique d'Etat et sont désignés par le président du tribunal administratif.
 
 **Liens relatifs à cet article**
 
@@ -10804,7 +10891,7 @@ Calédonie appartiennent à la fonction publique d'Etat et sont désignés par l
 
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -10823,6 +10910,10 @@ officiel de la Nouvelle-Calédonie ou de la Polynésie française.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R40 (M)
@@ -10837,6 +10928,10 @@ Le service de chaque bureau annexe du greffe est assuré par un greffier.
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -10854,6 +10949,10 @@ haut-commissaire.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R42 (M)
@@ -10869,6 +10968,10 @@ bureau annexe du greffe.
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -14461,10 +14564,12 @@ administrative responsable de ce bureau, d'un timbre indiquant la date de leur a
 ###### Article R413-3
 
 Les recours prévus aux articles 113, 116, 130 et 197 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-
-Calédonie sont déposés au Conseil d'Etat ou auprès du haut-commissaire de la République en Nouvelle-Calédonie.
+Calédonie et ceux prévus aux articles 82, 116, 117 et 123 de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française sont déposés au Conseil d'Etat ou auprès du haut-commissaire de la République, selon le
+cas, en Nouvelle-Calédonie ou en Polynésie française.
 
-Lorsque le recours est déposé auprès du haut-commissaire en Nouvelle-Calédonie, il est marqué d'un timbre à date qui indique
-la date de l'arrivée et il est transmis par le haut-commissaire au secrétariat du contentieux du Conseil d'Etat. Il en est
+Lorsque le recours est déposé auprès du haut-commissaire de la République, il est marqué d'un timbre à date qui indique la
+date de l'arrivée et il est transmis par le haut-commissaire au secrétariat du contentieux du Conseil d'Etat. Il en est
 délivré récépissé à la partie qui le demande.
 
 **Liens relatifs à cet article**
@@ -14475,6 +14580,7 @@ délivré récépissé à la partie qui le demande.
 	  - Loi n°99-209 du 19 mars 1999 - art. 116 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 130 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 197 (V)
+	  - Loi n°2004-192 2004-02-27 art. 82, art. 116, art. 117, art. 123
 
 	**Anciens textes**:
 
@@ -14483,6 +14589,10 @@ délivré récépissé à la partie qui le demande.
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 
 ###### Article R413-4
@@ -14728,8 +14838,8 @@ que les voies de recours, dans la notification de la décision.
 
 ###### Article R421-6
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie le délai de recours de
-deux mois prévu à l'article R. 421-1 est porté à trois mois.
+Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie le délai de
+recours de deux mois prévu à l'article R. 421-1 est porté à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -14737,21 +14847,13 @@ deux mois prévu à l'article R. 421-1 est porté à trois mois.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Cité par**:
 
 	  - Décret n°2012-765 du 10 mai 2012 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R421-1 (M)
 
 	**Anciens textes**:
 
@@ -14766,8 +14868,9 @@ de deux mois prévu à l'article R. 421-1.
 Toutefois, ne bénéficient pas de ces délais supplémentaires les requérants qui usent de la faculté prévue par les lois
 spéciales de déposer leurs requêtes à la préfecture ou à la sous-préfecture.
 
-Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-
-Calédonie, les délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le territoire.
+Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et
+de Nouvelle-Calédonie, les délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le
+territoire.
 
 **Liens relatifs à cet article**
 
@@ -14780,18 +14883,9 @@ Calédonie, les délais de recours sont augmentés d'un mois pour les personnes 
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R421-1 (M)
-	  - Nouveau code de procédure civile 643, 644
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Cité par**:
 
@@ -15133,9 +15227,9 @@ L'Etat est représenté en défense par le préfet ou le préfet de région lors
 l'activité des administrations civiles de l'Etat dans le département ou la région, à l'exception toutefois des actions et
 missions mentionnées à l'article 7 du décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 mai 1982.
 
-Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie, les recours, les mémoires en défense et les mémoires
-en intervention présentés au nom de l'Etat sont signés soit par le ministre chargé des territoires d'outre-mer ou son
-délégué, soit par le haut-commissaire ou son délégué.
+Devant les tribunaux administratifs de la Polynésie française et de Nouvelle-Calédonie, les recours, les mémoires en défense
+et les mémoires en intervention présentés au nom de l'Etat sont signés soit par le ministre chargé des territoires d'outre-
+mer ou son délégué, soit par le haut-commissaire ou son délégué.
 
 Devant le tribunal administratif de Mamoudzou, les recours, les mémoires en défense et les mémoires en intervention présentés
 au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par le représentant du
@@ -15147,34 +15241,25 @@ ou son délégué.
 
 **Nota:**
 
-NOTA : L'article 7 du décret 82-389 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
+L'article 7 du décret 82-389 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
 
 L'article 6 du décret 82-390 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°82-390 du 10 mai 1982 - art. 6 (M)
-	  - Décret n°82-389 du 10 mai 1982 - art. 7 (M)
-
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-2 2004-01-02 art. 2 7° JORF 3 janvier 2004 en vigueur le 1er février 2004
 
 	**Cité par**:
 
 	  - Décret n°2005-222 du 10 mars 2005 - art. 5 (V)
 	  - Code de justice administrative - art. R431-10-1 (V)
 	  - Code de justice administrative - art. R431-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -15250,7 +15335,9 @@ Dans ces cas, la requête doit être signée par la partie intéressée ou son m
 ###### Article R432-3
 
 Les recours prévus aux articles 113, 116, 130 et 197 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-
-Calédonie peuvent être formés sans l'intervention d'un avocat au Conseil d'Etat et à la Cour de cassation.
+Calédonie et ceux prévus aux articles 82, 116, 117 et 123 de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française peuvent être formés sans l'intervention d'un avocat au Conseil d'Etat et à la Cour de
+cassation.
 
 **Liens relatifs à cet article**
 
@@ -15260,6 +15347,7 @@ Calédonie peuvent être formés sans l'intervention d'un avocat au Conseil d'Et
 	  - Loi n°99-209 du 19 mars 1999 - art. 116 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 130 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 197 (V)
+	  - Loi n°2004-192 2004-02-27 art. 82, art. 116, art. 117, art. 123
 
 	**Anciens textes**:
 
@@ -15269,9 +15357,9 @@ Calédonie peuvent être formés sans l'intervention d'un avocat au Conseil d'Et
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 
 ###### Article R432-4
@@ -16768,10 +16856,10 @@ commissaire du gouvernement.
 
 ###### Article R611-14
 
-Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie, les demandes présentées contre une décision prise au
-nom ou pour le compte de l'Etat et les demandes présentées contre l'Etat et mettant en cause sa responsabilité ainsi que
-toutes les demandes présentées contre les délibérations ou actes des autorités locales sont communiquées par le tribunal
-administratif au haut-commissaire.
+Devant les tribunaux administratifs de la Polynésie française et de Nouvelle-Calédonie, les demandes présentées contre une
+décision prise au nom ou pour le compte de l'Etat et les demandes présentées contre l'Etat et mettant en cause sa
+responsabilité ainsi que toutes les demandes présentées contre les délibérations ou actes des autorités locales sont
+communiquées par le tribunal administratif au haut-commissaire.
 
 Les demandes présentées contre une délibération de l'Assemblée de la Polynésie française ou du Congrès de la Nouvelle-
 Calédonie sont communiquées au président de l'assemblée concernée.
@@ -16782,9 +16870,9 @@ Calédonie sont communiquées au président de l'assemblée concernée.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -17378,8 +17466,8 @@ En cas de force majeure, un nouveau et dernier délai peut être accordé.
 Lorsqu'elle concerne une administration de l'Etat, la mise en demeure est adressée à l'autorité compétente pour représenter
 l'Etat ; dans les autres cas, elle est adressée à la partie ou à son mandataire, s'il a été constitué.
 
-Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie, la mise en demeure est adressée par le président du
-tribunal administratif au haut-commissaire si elle concerne une administration de l'Etat.
+Devant les tribunaux administratifs de la Polynésie française et de Nouvelle-Calédonie, la mise en demeure est adressée par
+le président du tribunal administratif au haut-commissaire si elle concerne une administration de l'Etat.
 
 Devant le tribunal administratif de Mamoudzou, la mise en demeure est adressée par le président du tribunal administratif au
 représentant du Gouvernement si elle concerne une administration de l'Etat ou de la collectivité territoriale.
@@ -17393,13 +17481,9 @@ une administration de l'Etat ou du territoire des îles Wallis et Futuna.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 9° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -17467,8 +17551,9 @@ close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun reco
 
 Les lettres remises contre signature portant notification de cette ordonnance ou tous autres dispositifs permettant
 d'attester la date de réception de ladite ordonnance sont envoyés à toutes les parties en cause quinze jours au moins avant
-la date de la clôture fixée par l'ordonnance. Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de
-Nouvelle-Calédonie, le délai de notification est porté à un mois et l'ordonnance peut être notifiée par voie administrative.
+la date de la clôture fixée par l'ordonnance. Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de
+Mata-Utu et de Nouvelle-Calédonie, le délai de notification est porté à un mois et l'ordonnance peut être notifiée par voie
+administrative.
 
 **Liens relatifs à cet article**
 
@@ -17491,7 +17576,7 @@ Nouvelle-Calédonie, le délai de notification est porté à un mois et l'ordonn
 
 	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 9 () JORF 20 décembre 2005
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -17800,9 +17885,9 @@ est adressé quatre jours au moins à l'avance, par lettre recommandée.
 
 Les observations faites par les parties, dans le cours des opérations, sont consignées dans le rapport.
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le président du tribunal
-fixe par ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par lesquels cet avis est
-porté à leur connaissance.
+Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le
+président du tribunal fixe par ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par
+lesquels cet avis est porté à leur connaissance.
 
 **Liens relatifs à cet article**
 
@@ -17810,13 +17895,9 @@ porté à leur connaissance.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -18712,8 +18793,8 @@ Dans les deux cas, l'avertissement est donné sept jours au moins avant l'audien
 être réduit à deux jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis
 d'audience.
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai de sept jours
-est porté à dix jours.
+Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai
+de sept jours est porté à dix jours.
 
 **Liens relatifs à cet article**
 
@@ -18734,7 +18815,7 @@ est porté à dix jours.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 9 () JORF 20 décembre 2005
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Cite**:
 
@@ -19322,7 +19403,10 @@ ou
 
 Pour l'application des alinéas précédents, les jugements du tribunal administratif de Nouvelle-Calédonie portent la mention :
 
-" Le tribunal administratif de Nouvelle-Calédonie ".
+" Le tribunal administratif de Nouvelle-Calédonie " et ceux du tribunal administratif de la Polynésie française portent la
+mention :
+
+"Le tribunal administratif de la Polynésie française ".
 
 **Liens relatifs à cet article**
 
@@ -19330,9 +19414,9 @@ Pour l'application des alinéas précédents, les jugements du tribunal administ
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Cité par**:
 
@@ -19935,8 +20019,8 @@ Toutefois, lorsque la décision est rendue sur une demande présentée, en appli
 territoriales, par le préfet ou lorsqu'elle émane d'un tribunal administratif statuant dans l'une des matières mentionnées à
 l'article R. 811-10-1, la notification est adressée au préfet. Copie de la décision est alors adressée au ministre intéressé.
 
-Devant les tribunaux administratifs de Papeete et de Nouvelle-Calédonie, l'expédition est adressée dans tous les cas au haut-
-commissaire.
+Devant les tribunaux administratifs de la Polynésie française et de Nouvelle-Calédonie, l'expédition est adressée dans tous
+les cas au haut-commissaire.
 
 Devant le tribunal administratif de Mamoudzou, l'expédition est adressée au représentant du gouvernement.
 
@@ -19948,25 +20032,33 @@ Devant le tribunal administratif de Mata-Utu, l'expédition est adressée à l'a
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 10° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R*771-9 (VD)
 
-	**Cite**:
-
-	  - Code de justice administrative. - art. R811-10-1 (M)
-
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R216 (M)
+
+
+###### Article R751-8-1
+
+Les décisions qui se prononcent sur la légalité des actes des institutions de la Polynésie française sont notifiées, dans
+tous les cas, au président de l'assemblée de la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 
 ###### Article R751-9
@@ -20341,10 +20433,10 @@ préfecture ; dans ce dernier cas, il est fait application des dispositions de l
 
 ###### Article R772-4
 
-Devant les tribunaux administratifs de Papeete, de Mata-Utu et de Nouvelle-Calédonie, les requêtes en matière fiscale dont le
-contentieux ressortit à la juridiction administrative sont, sous réserve des articles 100 à 104 ter du décret du 5 août 1881
-modifié et des articles 172 et 173 du décret du 30 décembre 1912 modifié, présentées et instruites par le tribunal
-administratif dans les formes prévues dans le présent code.
+Devant les tribunaux administratifs de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, les requêtes en matière
+fiscale dont le contentieux ressortit à la juridiction administrative sont, sous réserve des articles 100 à 104 ter du décret
+du 5 août 1881 modifié et des articles 172 et 173 du décret du 30 décembre 1912 modifié, présentées et instruites par le
+tribunal administratif dans les formes prévues dans le présent code.
 
 Devant le tribunal administratif de Mamoudzou, les requêtes en matière d'impôts directs et de taxe sur le chiffre d'affaires
 ou assimilées dont l'assiette ou le recouvrement est confié à la direction des services fiscaux sont présentées, instruites
@@ -20352,22 +20444,13 @@ et jugées dans les formes prévues dans le livre des procédures fiscales appli
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°1881-08-05 art. 100 à 104 ter
-	  - Décret n°1912-12-30 art. 172, art. 173
-
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 11° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Anciens textes**:
 
@@ -22422,8 +22505,8 @@ opposition que dans le délai de deux mois à compter de cette notification ou s
 
 ###### Article R832-3
 
-Devant les tribunaux administratifs de Mamoudzou, de Papeete, de Mata-Utu et de Nouvelle-Calédonie, le délai pour former
-tierce opposition est porté à trois mois.
+Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai
+pour former tierce opposition est porté à trois mois.
 
 **Liens relatifs à cet article**
 
@@ -22431,13 +22514,9 @@ tierce opposition est porté à trois mois.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 5° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 	**Cité par**:
 
