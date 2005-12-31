@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2005-12-22
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -12124,7 +12124,7 @@ Les agents nommés alors qu'ils avaient atteint l'échelon le plus élevé de le
 ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination
 est inférieure à celle résultant d'un avancement à ce dernier échelon.
 
-Ceux qui ont été recrutés par la voie du troisième concours sont placés au 6e échelon du grade de conseiller.
+Ceux qui ont été recrutés par la voie du troisième concours sont placés au 7e échelon du grade de conseiller.
 
 **Liens relatifs à cet article**
 
@@ -12135,6 +12135,10 @@ Ceux qui ont été recrutés par la voie du troisième concours sont placés au 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2005-1706 du 28 décembre 2005 - art. 1 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -12261,20 +12265,22 @@ sept, le reste est ajouté au nombre de conseillers promus au grade de premier c
 
 ###### Article R233-6
 
-Les fonctionnaires civils ou militaires de l'Etat, les magistrats de l'ordre judiciaire, les professeurs et maîtres de
-conférences titulaires des universités et les fonctionnaires territoriaux recrutés au tour extérieur en qualité de membres
-des tribunaux administratifs et des cours administratives d'appel sont nommés et titularisés dans leur grade à l'échelon
-comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur grade antérieur. Les
-services effectifs et l'ancienneté d'échelon sont décomptés à partir de la date de nomination des intéressés dans le corps
-des tribunaux administratifs et des cours administratives d'appel. Ceux qui percevaient dans leur ancien corps ou cadre
-d'emplois une rémunération supérieure à celle qui est afférente au dernier échelon du grade auquel ils ont été recrutés
-bénéficient d'une indemnité compensatrice.
+Les magistrats et fonctionnaires recrutés au tour extérieur en qualité de membres du corps des tribunaux administratifs et
+des cours administratives d'appel sont nommés et titularisés dans leur grade à l'échelon comportant un indice égal ou, à
+défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur ancien grade. Les services effectifs et l'ancienneté
+d'échelon sont décomptés à partir de la date de nomination des intéressés dans le corps des tribunaux administratifs et des
+cours administratives d'appel. Ceux qui percevaient dans leur ancien corps ou cadre d'emplois une rémunération supérieure à
+celle qui est afférente au dernier échelon du grade auquel ils ont été recrutés bénéficient d'une indemnité compensatrice.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2005-1706 du 28 décembre 2005 - art. 2 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -12286,17 +12292,19 @@ bénéficient d'une indemnité compensatrice.
 
 ###### Article R233-7
 
-Les magistrats de l'ordre judiciaire, les professeurs et maîtres de conférences titulaires des universités, les
-fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale d'administration et les fonctionnaires
-territoriaux sont détachés dans le corps des tribunaux administratifs et des cours administratives d'appel à grade équivalent
-et à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps
-d'origine. Ils concourent pour l'avancement de grade et d'échelon avec les membres du corps.
+Les magistrats et fonctionnaires détachés dans le corps des tribunaux administratifs et des cours administratives d'appel le
+sont à grade équivalent et à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils
+détenaient dans leur corps d'origine. Ils concourent pour l'avancement de grade et d'échelon avec les membres du corps.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2005-1706 du 28 décembre 2005 - art. 3 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -12503,19 +12511,20 @@ maintien en activité jusqu'à la fin du semestre considéré.
 
 ###### Article R234-1
 
-Le grade de président comporte sept échelons dont trois sont fonctionnels ; ceux de premier conseiller et de conseiller en
-comportent respectivement six et sept.
+Le grade de président comporte sept échelons, dont trois sont fonctionnels ; ceux de premier conseiller et de conseiller en
+comportent chacun sept.
 
 Le temps à passer dans chacun des échelons pour accéder à l'échelon supérieur est fixé à :
 
 1° Un an et six mois pour les deux premiers échelons du grade de conseiller ;
 
-2° Un an pour les 3e et 4e échelons du grade de conseiller ;
+2° Un an pour les 3e et 4e échelons du grade de conseiller et pour les deux premiers échelons du grade de premier
+conseiller ;
 
-3° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les trois premiers échelons du grade de premier
-conseiller et pour le premier échelon du grade de président ;
+3° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les 3e et 4e échelons du grade de premier conseiller et
+pour le premier échelon du grade de président ;
 
-4° Trois ans pour les 4e et 5e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président.
+4° Trois ans pour les 5e et 6e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président.
 
 L'avancement d'échelon est prononcé par arrêté du vice-président du Conseil d'Etat.
 
@@ -12527,7 +12536,7 @@ L'avancement d'échelon est prononcé par arrêté du vice-président du Conseil
 
 	**Modifié par**:
 
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 4 () JORF 21 décembre 2002
+	  - Décret n°2005-1706 du 28 décembre 2005 - art. 4 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -12540,16 +12549,20 @@ L'avancement d'échelon est prononcé par arrêté du vice-président du Conseil
 ###### Article R234-2
 
 Les premiers conseillers sont nommés au choix après inscription au tableau d'avancement parmi les conseillers qui justifient
-de quatre années de services effectifs dans le corps et ont atteint le 7e échelon de leur grade.
+de trois années au moins de services effectifs dans le corps et ont atteint le 6e échelon de leur grade.
 
-Ils sont classés au 1er échelon du grade de premier conseiller et conservent dans la limite de deux ans l'ancienneté acquise
-dans l'échelon précédent.
+Ils sont classés au 1er échelon du grade de premier conseiller. Les conseillers promus au grade de premier conseiller après
+avoir atteint le 7e échelon de leur ancien grade conservent, dans la limite d'un an, l'ancienneté acquise dans cet échelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2005-1706 du 28 décembre 2005 - art. 5 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
@@ -12584,7 +12597,7 @@ administratifs et des cours administratives d'appel.
 Les présidents sont classés, lors de leur promotion, à l'échelon comportant un indice égal à celui dont ils bénéficiaient
 antérieurement. Ils conservent à cette occasion l'ancienneté acquise dans le précédent échelon dans la limite de la durée des
 services nécessaires pour accéder à l'échelon immédiatement supérieur. Toutefois les premiers conseillers promus au grade de
-président avant d'avoir atteint le 4e échelon de leur ancien grade sont classés au 1er échelon du grade de président sans
+président avant d'avoir atteint le 5e échelon de leur ancien grade sont classés au 1er échelon du grade de président sans
 ancienneté.
 
 **Liens relatifs à cet article**
@@ -12592,6 +12605,10 @@ ancienneté.
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2005-1706 du 28 décembre 2005 - art. 6 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article R234-5
