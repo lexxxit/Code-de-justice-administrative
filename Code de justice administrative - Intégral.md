@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2006-04-06
+Version Consolidée au 2006-05-25
 
 # Partie législative
 
@@ -2626,8 +2626,7 @@ financiers à l'encontre des prestataires de service d'investissement agréés ;
 
 7° De l'article L. 623-3 du code monétaire et financier ;
 
-8° De l'article L. 3634-4 du code de la santé publique contre les décisions de sanction de l'Agence française de lutte contre
-le dopage ;
+8° Des articles L. 232-24 et L. 241-8 du code du sport ;
 
 9° De l'article 40 de la loi n° 2000-108 du 10 février 2000 contre les décisions de sanction prises par la Commission de
 régulation de l'énergie.
@@ -2644,6 +2643,7 @@ régulation de l'énergie.
 	  - Loi n°2000-108 du 10 février 2000 - art. 40 (M)
 	  - Code des postes et des communications électronique - art. L36-11 (M)
 	  - Code des postes et des communications électronique - art. L5-3 (V)
+	  - Code du sport L. 232-24, L. 241-8
 	  - Code monétaire et financier - art. L623-3 (Ab)
 	  - Code de la santé publique - art. L3634-4 (M)
 	  - Code de la sécurité sociale. - art. L951-10 (M)
@@ -2659,7 +2659,7 @@ régulation de l'énergie.
 
 	**Modifié par**:
 
-	  - Loi n°2006-405 du 5 avril 2006 - art. 20 () JORF 6 avril 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
 
 
 ###### Article L311-5
@@ -3685,20 +3685,19 @@ L'article 15-12 II de la loi 83-663 a été abrogé et codifié à l'article L. 
 
 ###### Article L554-8
 
-La décision de suspension des actes pris en vertu de la délégation mentionnée à l'article 17 de la loi n° 84-610 du 16
-juillet 1984 obéit aux règles définies à l'alinéa 1 de l'article 17-1 de la même loi ci-après reproduit :
+La décision de suspension des actes pris en vertu de la délégation mentionnée à l'article L. 131-14 du code du sport obéit
+aux règles définies à l'article L. 131-20 du même code ci-après reproduit : 
 
-" Art. 17-1, alinéa 1. - Lorsque le ministre chargé des sports défère à la juridiction administrative les actes pris en vertu
-de la délégation mentionnée à l'article 17 qu'il estime contraires à la légalité, il peut assortir son recours d'une demande
-de suspension. Il est fait droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à
-créer un doute sérieux quant à la légalité de l'acte attaqué. Il est statué sur cette demande dans un délai d'un mois. "
+" Art. L. 131-20. - Lorsque le ministre chargé des sports défère à la juridiction administrative les actes pris en vertu de
+la délégation mentionnée à l'article L. 131-14 qu'il estime contraires à la légalité, il peut assortir son recours d'une
+demande de suspension. 
+
+Il est fait droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute
+sérieux quant à la légalité de l'acte attaqué. 
+
+Il est statué sur cette demande dans un délai d'un mois. "
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (M)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 17-1 (M)
 
 	**Anciens textes**:
 
@@ -3709,10 +3708,18 @@ créer un doute sérieux quant à la légalité de l'acte attaqué. Il est statu
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 2000-06-30 art. 1, 13 et 21 JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006 rectificatif JORF 7 juin 2006
+
+	**Cite**:
+
+	  - Code du sport. - art. L131-14 (V)
+	  - Code du sport. - art. L131-20 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du sport. - art. L131-20 (V)
 
 
 ###### Article L554-9
