@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2006-06-29
+Version Consolidée au 2006-07-21
 
 # Partie législative
 
@@ -8618,17 +8618,19 @@ Limoges : Corrèze, Creuse, Indre, Haute-Vienne ;
 
 Lyon : Ain, Ardèche, Loire, Rhône ;
 
-Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône, Vaucluse ;
+Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône ;
 
 Melun : Seine-et-Marne, Val-de-Marne ;
 
-Montpellier : Aude, Gard, Hérault, Lozère, Pyrénées-Orientales ;
+Montpellier : Aude, Hérault, Pyrénées-Orientales ;
 
 Nancy : Meurthe-et-Moselle, Meuse, Vosges ;
 
 Nantes : Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée ;
 
 Nice : Alpes-Maritimes, Var ;
+
+Nîmes : Gard, Lozère, Vaucluse ;
 
 Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ;
 
@@ -8677,21 +8679,21 @@ celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise d
 
 	**Cité par**:
 
+	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
+	  - Décret n°2002-547 du 19 avril 2002 - art. 15 (V)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 27 (V)
 	  - Arrêté du 23 décembre 2009 (Ab)
 	  - Arrêté du 15 décembre 2010 (Ab)
 	  - Arrêté du 1er décembre 2011 (Ab)
 	  - Code de justice administrative - art. R776-16 (VD)
-	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
-	  - Décret n°2002-547 du 19 avril 2002 - art. 15 (V)
-	  - Décret n°2008-452 du 13 mai 2008 - art. 27 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2006-903 du 19 juillet 2006 - art. 2 () JORF 21 juillet 2006
 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R4 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2004-585 2004-06-11 art. 2 JORF 23 juin 2004 en vigueur le 1er septembre 2004
 
 
 ###### Article R221-4
@@ -8704,11 +8706,11 @@ Bastia : deux chambres ;
 
 Besançon : deux chambres ;
 
-Bordeaux : quatre chambres ;
+Bordeaux : cinq chambres ;
 
 Caen : deux chambres ;
 
-Cergy-Pontoise : sept chambres ;
+Cergy-Pontoise : huit chambres ;
 
 Châlons-en-Champagne : trois chambres ;
 
@@ -8736,7 +8738,9 @@ Nantes : cinq chambres ;
 
 Nice : sept chambres ;
 
-Orléans : trois chambres ;
+Nîmes : trois chambres ;
+
+Orléans : quatre chambres ;
 
 Pau : deux chambres ;
 
@@ -8750,7 +8754,7 @@ Strasbourg : cinq chambres ;
 
 Toulouse : cinq chambres ;
 
-Versailles : huit chambres ;
+Versailles : neuf chambres ;
 
 Saint-Denis : deux chambres.
 
@@ -8767,7 +8771,7 @@ Saint-Denis : deux chambres.
 
 	**Modifié par**:
 
-	  - Décret n°2005-961 du 9 août 2005 - art. 1 () JORF 10 août 2005 en vigueur le 1er septembre 2005
+	  - Décret n°2006-903 du 19 juillet 2006 - art. 3 () JORF 21 juillet 2006
 
 	**Anciens textes**:
 
@@ -8836,7 +8840,7 @@ Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ;
 
 Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ;
 
-Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier et Nice ;
+Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice et Nîmes  ;
 
 Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ;
 
@@ -8852,13 +8856,13 @@ Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et Versaille
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Modifié par**:
-
-	  - Décret n°2004-585 2004-06-11 art. 4 JORF 23 juin 2004 en vigueur le 1er septembre 2004
-
 	**Cité par**:
 
 	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2006-903 du 19 juillet 2006 - art. 4 () JORF 21 juillet 2006
 
 	**Anciens textes**:
 
