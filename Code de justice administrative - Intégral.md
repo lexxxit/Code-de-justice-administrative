@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2006-07-21
+Version Consolidée au 2006-07-25
 
 # Partie législative
 
@@ -1277,6 +1277,36 @@ commission est prévue, la désignation peut porter sur un magistrat honoraire.
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R244 (M)
+
+
+##### Section 2 : Fonctionnement des tribunaux administratifs
+
+###### Article L222-2-1
+
+Le président du tribunal administratif peut désigner un magistrat administratif honoraire choisi parmi les magistrats
+inscrits, pour une durée de trois ans renouvelable, sur une liste arrêtée par le vice-président du Conseil d'Etat, pour
+statuer sur les litiges relatifs aux arrêtés de reconduite à la frontière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 76 () JORF 25 juillet 2006
+
+	**Cité par**:
+
+	  - Loi n°2011-672 du 16 juin 2011 - art. 109 (V)
+	  - Loi n°2016-274 du 7 mars 2016 - art. 27
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L512-2 (V)
 
 
 ##### Section 3 : Fonctionnement des cours administratives d'appel
@@ -4394,48 +4424,15 @@ de la Polynésie française ".
 	  - Code des tribunaux administratifs et des cours adm - art. L21-1 (Ab)
 
 
-#### Chapitre 6 : Le contentieux des arrêtés de reconduite à la frontière.
+#### Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière et des décisions relatives au séjour assorties d'une obligation de quitter le territoire français
 
 ###### Article L776-1
 
 Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les arrêtés
-préfectoraux de reconduite à la frontière obéissent, sous réserve des dispositions articles L. 514-1 et L. 532-1 du code de
-l'entrée et du séjour des étrangers et du droit d'asile, aux règles définies par les articles L. 512-2 à L. 512-5 du même
-code, ci-après reproduits :
-
-" Art. L. 512-2 : L'étranger qui fait l'objet d'un arrêté préfectoral de reconduite à la frontière peut, dans les quarante-
-huit heures suivant sa notification lorsque l'arrêté est notifié par voie administrative ou dans les sept jours lorsqu'il est
-notifié par voie postale, demander l'annulation de cet arrêté au président du tribunal administratif.
-
-Le président ou son délégué statue dans un délai de soixante-douze heures à compter de sa saisine. Il peut se transporter au
-siège de la juridiction la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application du titre V du
-présent livre.
-
-L'étranger peut demander au président du tribunal ou à son délégué le concours d'un interprète et la communication du dossier
-contenant les pièces sur la base desquelles la décision attaquée a été prise.
-
-L'audience est publique. Elle se déroule sans conclusions du commissaire du gouvernement, en présence de l'intéressé, sauf si
-celui-ci, dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au
-président ou à son délégué qu'il lui en soit désigné un d'office".
-
-"Art. L. 512-3 : Les dispositions du titre V du présent livre peuvent être appliquées dès l'intervention de l'arrêté de
-reconduite à la frontière.
-
-Cet arrêté ne peut être exécuté avant l'expiration d'un délai de quarante-huit heures suivant sa notification lorsque
-l'arrêté est notifié par voie administrative ou de sept jours lorsqu'il est notifié par voie postale ou, si le président du
-tribunal administratif ou son délégué est saisi, avant qu'il n'ait  statué".
-
-"Art. L. 512-4 : Si l'arrêté de reconduite à la frontière est annulé, il est immédiatement mis fin aux mesures de
-surveillance prévues au titre V du présent livre et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce
-que le préfet ait à nouveau statué sur son cas".
-
-"Art. L. 512-5 : Le jugement du président du tribunal administratif ou de son délégué est susceptible d'appel dans un délai
-d'un mois devant le président de la section du contentieux du Conseil d'Etat ou un conseiller d'Etat délégué par lui. Cet
-appel n'est pas suspensif.
-
-A compter d'une date fixée par décret en Conseil d'Etat, cet appel sera interjeté, dans les mêmes conditions, devant le
-président de la cour administrative d'appel territorialement compétente ou un membre de cette cour désigné par lui. Le même
-décret fixe les conditions d'application de cette disposition".
+préfectoraux de reconduite à la frontière ainsi que contre les décisions relatives au séjour lorsqu'elles sont assorties
+d'une obligation de quitter le territoire français obéissent, sous réserve des dispositions des articles L. 514-1, L. 514-2
+et L. 532-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, aux règles définies par les articles L. 512-1
+et L. 512-2 à L. 512-4 du même code.
 
 **Liens relatifs à cet article**
 
@@ -4446,7 +4443,14 @@ décret fixe les conditions d'application de cette disposition".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
+	  - Loi n°2006-911 2006-07-24 art. 76 II, III JORF 25 juillet 2006
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 76 () JORF 25 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L532-1 (V)
 
 	**Cité par**:
 
@@ -4462,13 +4466,14 @@ décret fixe les conditions d'application de cette disposition".
 
 Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les décisions fixant
 le pays de renvoi qui accompagnent les arrêtés préfectoraux de reconduite à la frontière obéissent aux règles définies par
-l'article L. 513-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, ci-après reproduit :
+l'article L. 513-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, ci-après reproduit : 
 
-"Art. L. 513-3 : La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même.
+" Art.L. 513-3 : La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même. 
 
-Le recours contentieux contre cette décision n'est suspensif d'exécution, dans les conditions prévues au second alinéa de
-l'article L. 512-3, que s'il est présenté au président du tribunal administratif en même temps que le recours contre l'arrêté
-de reconduite à la frontière que la décision fixant le pays de renvoi vise à exécuter".
+Lorsque la décision fixant le pays de renvoi vise à exécuter une mesure de reconduite à la frontière, le recours contentieux
+contre cette décision n'est suspensif d'exécution, dans les conditions prévues au dernier alinéa de l'article L. 512-3, que
+s'il est présenté au président du tribunal administratif en même temps que le recours contre la mesure de reconduite à la
+frontière qu'elle vise à exécuter ".
 
 **Liens relatifs à cet article**
 
@@ -4483,7 +4488,8 @@ de reconduite à la frontière que la décision fixant le pays de renvoi vise à
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 64
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 76 () JORF 25 juillet 2006
 
 	**Cité par**:
 
