@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2006-07-25
+Version Consolidée au 2006-09-01
 
 # Partie législative
 
@@ -6268,6 +6268,24 @@ derniers, par le président de sous-section le plus ancien dans ses fonctions.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+##### Section 2 bis : Tableau national des experts près le Conseil d'Etat
+
+###### Article R122-25-1
+
+Il peut être établi, chaque année, pour l'information des juges, un tableau national des experts près le Conseil d'Etat
+dressé par le président de la section du contentieux, après consultation des présidents de cour administrative d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-964 du 1 août 2006 - art. 1 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 
 ##### Section 3 : Le secrétariat de la section du contentieux
@@ -17129,8 +17147,8 @@ nouveaux documents ou éléments probants seront produits, la procédure d'instr
 ###### Article R611-22
 
 Lorsque la requête ou le recours mentionne l'intention du requérant ou du ministre de présenter un mémoire complémentaire, la
-production annoncée doit parvenir au secrétariat du contentieux du Conseil d'Etat dans un délai de quatre mois à compter de
-la date à laquelle la requête a été enregistrée.
+production annoncée doit parvenir au secrétariat du contentieux du Conseil d'Etat dans un délai de trois mois à compter de la
+date à laquelle la requête a été enregistrée.
 
 Si ce délai n'est pas respecté, le requérant ou le ministre est réputé s'être désisté à la date d'expiration de ce délai,
 même si le mémoire complémentaire a été ultérieurement produit. Le Conseil d'Etat donne acte de ce désistement.
@@ -17145,9 +17163,9 @@ même si le mémoire complémentaire a été ultérieurement produit. Le Conseil
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2006-964 du 1 août 2006 - art. 6 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -17162,9 +17180,6 @@ sursis à exécution de la décision juridictionnelle attaquée.
 Il est de quinze jours lorsque le pourvoi en cassation est dirigé contre une décision prise par le juge des référés en
 application du livre V, sauf s'il s'agit des procédures visées aux articles L. 552-1 et L. 552-2.
 
-Il est de deux mois lorsqu'il est fait appel d'un jugement rendu en application des articles L. 512-2 à L. 512-5 et L. 513-3
-du code de l'entrée et du séjour des étrangers et du droit d'asile.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -17175,18 +17190,12 @@ du code de l'entrée et du séjour des étrangers et du droit d'asile.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
+	  - Décret n°2006-964 du 1 août 2006 - art. 7 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-2 à L512-5, L513-3
 	  - Code de justice administrative. - art. L552-1 (V)
 	  - Code de justice administrative. - art. L552-2 (M)
 
@@ -18814,9 +18823,10 @@ présenter ses conclusions et arrêté par le président de la cour.
 Toute partie est avertie, par une notification faite par lettre recommandée avec demande d'avis de réception ou par la voie
 administrative mentionnée à l'article R. 611-4, du jour où l'affaire sera appelée à l'audience.
 
-Dans les deux cas, l'avertissement est donné sept jours au moins avant l'audience. Toutefois, en cas d'urgence, ce délai peut
-être réduit à deux jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis
-d'audience.
+L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 732-1 et R. 732-2.
+
+L'avertissement est donné sept jours au moins avant l'audience. Toutefois, en cas d'urgence, ce délai peut être réduit à deux
+jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis d'audience.
 
 Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai
 de sept jours est porté à dix jours.
@@ -18840,11 +18850,7 @@ de sept jours est porté à dix jours.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R611-4 (V)
+	  - Décret n°2006-964 du 1 août 2006 - art. 2 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 	**Anciens textes**:
 
@@ -18895,6 +18901,8 @@ président de la section du contentieux.
 Les parties qui ne sont pas représentées par un avocat au Conseil d'Etat et à la Cour de cassation sont informées de
 l'inscription au rôle de leur affaire.
 
+L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 733-1, R. 733-2 et R. 733-3.
+
 Les rôles sont affichés au secrétariat du contentieux.
 
 **Liens relatifs à cet article**
@@ -18907,9 +18915,22 @@ Les rôles sont affichés au secrétariat du contentieux.
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Modifié par**:
+
+	  - Décret n°2006-964 du 1 août 2006 - art. 3 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
 	**Cité par**:
 
 	  - Code de justice administrative - art. R122-24 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R731-1 (M)
+	  - Code de justice administrative. - art. R731-2 (M)
+	  - Code de justice administrative. - art. R731-3 (M)
+	  - Code de justice administrative. - art. R733-1 (V)
+	  - Code de justice administrative. - art. R733-2 (V)
+	  - Code de justice administrative. - art. R733-3 (V)
 
 
 ### Titre II : L'abstention et la récusation
@@ -19092,6 +19113,8 @@ contestée devant le juge d'appel ou de cassation qu'avec le jugement ou l'arrê
 
 ### Titre III : La tenue de l'audience et le délibéré
 
+#### Chapitre Ier : Dispositions générales
+
 ###### Article R731-1
 
 Le président de la formation de jugement veille à l'ordre de l'audience. Tout ce qu'il ordonne pour l'assurer doit être
@@ -19107,7 +19130,7 @@ Les membres de la juridiction disposent des mêmes pouvoirs sur les lieux où il
 
 	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 5 () JORF 20 décembre 2005
+	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -19135,7 +19158,7 @@ préjudice des poursuites pénales ou disciplinaires qui pourraient être exerc�
 
 	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 5 () JORF 20 décembre 2005
+	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -19146,11 +19169,95 @@ préjudice des poursuites pénales ou disciplinaires qui pourraient être exerc�
 
 ###### Article R731-3
 
-Devant les tribunaux administratifs et les cours administratives d'appel, après le rapport qui est fait sur chaque affaire
-par un membre de la formation de jugement ou par le magistrat mentionné à l'article R. 222-13, les parties peuvent présenter
-soit en personne, soit par un avocat au Conseil d'Etat et à la Cour de cassation, soit par un avocat, des observations orales
-à l'appui de leurs conclusions écrites. Le président a la faculté de leur retirer la parole si elles ne sont pas en mesure de
-discuter leur cause avec la modération ou la clarté requises.
+Postérieurement au prononcé des conclusions du commissaire du Gouvernement, toute partie à l'instance peut adresser au
+président de la formation de jugement une note en délibéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R711-2 (V)
+	  - Code de justice administrative - art. R741-2 (VD)
+	  - Code de justice administrative. - art. R712-1 (V)
+	  - Code de justice administrative. - art. R778-4 (VD)
+
+	**Anciens textes**:
+
+	  - Code de justice administrative. - art. R731-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de justice administrative. - art. R732-1 (V)
+
+
+###### Article R731-4
+
+Peuvent être autorisés à assister au délibéré, outre les membres de la juridiction et leurs collaborateurs, les juges,
+avocats stagiaires, professeurs des universités et maîtres de conférences accomplissant auprès de celle-ci un stage ou admis,
+à titre exceptionnel, à suivre ses travaux, qu'ils soient de nationalité française ou étrangère.
+
+Le chef de la juridiction, après avis du président de la formation de jugement ou, au Conseil d'Etat, le président de la
+formation de jugement délivre l'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
+	**Anciens textes**:
+
+	  - Code de justice administrative. - art. R731-8 (T)
+
+
+###### Article R731-5
+
+Les personnes qui, à un titre quelconque, participent ou assistent au délibéré sont soumises à l'obligation d'en respecter le
+secret, sous les sanctions prévues par l'article 226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Modifié par**:
+
+	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de justice administrative. - art. R731-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de justice administrative. - art. R731-9 (T)
+
+
+#### Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel
+
+###### Article R732-1
+
+Après le rapport qui est fait sur chaque affaire par un membre de la formation de jugement ou par le magistrat mentionné à
+l'article R. 222-13, les parties peuvent présenter soit en personne, soit par un avocat au Conseil d'Etat et à la Cour de
+cassation, soit par un avocat, des observations orales à l'appui de leurs conclusions écrites. Le président a la faculté de
+leur retirer la parole si elles ne sont pas en mesure de discuter leur cause avec la modération ou la clarté requises.
 
 La formation de jugement peut également entendre les agents de l'administration compétente ou les appeler devant elle pour
 fournir des explications.
@@ -19166,19 +19273,15 @@ Le commissaire du gouvernement prononce ensuite ses conclusions.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Modifié par**:
-
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 5 () JORF 20 décembre 2005
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
-	  - Code de justice administrative - art. R711-2 (V)
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 2 (V)
 	  - Code de justice administrative - art. R741-2 (VD)
-	  - Code de justice administrative. - art. R712-1 (V)
+	  - Code de justice administrative. - art. R711-2 (VD)
 	  - Code de justice administrative. - art. R778-4 (VD)
 
 	**Cite**:
@@ -19187,40 +19290,12 @@ Le commissaire du gouvernement prononce ensuite ses conclusions.
 
 	**Anciens textes**:
 
-	  - Code de justice administrative. - art. R731-5 (M)
-	  - Code des tribunaux administratifs et des cours adm - art. R196 (M)
-	  - Code des tribunaux administratifs et des cours adm - art. R197 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de justice administrative. - art. R732-1 (V)
+	  - Code de justice administrative. - art. R731-3 (M)
 
 
-###### Article R731-4
+###### Article R732-2
 
-Devant le Conseil d'Etat, après le rapport, les avocats des parties peuvent présenter leurs observations orales. Le
-commissaire du gouvernement prononce ensuite ses conclusions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 67 (Ab)
-	  - Code de justice administrative. - art. R731-8 (T)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 5 () JORF 20 décembre 2005
-
-
-###### Article R731-5
-
-Postérieurement au prononcé des conclusions du commissaire du Gouvernement, toute partie à l'instance peut adresser au
-président de la formation de jugement une note en délibéré.
+La décision est délibérée hors la présence des parties et du commissaire du Gouvernement.
 
 **Liens relatifs à cet article**
 
@@ -19230,23 +19305,37 @@ président de la formation de jugement une note en délibéré.
 
 	**Créé par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
+	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
-	**Transféré par**:
+	**Cité par**:
+
+	  - Code de justice administrative. - art. R711-2 (V)
+	  - Code de justice administrative. - art. R778-4 (VD)
+
+
+#### Chapitre III : Dispositions applicables au Conseil d'Etat
+
+###### Article R733-1
+
+Après le rapport, les avocats au Conseil d'Etat représentant les parties peuvent présenter leurs observations orales. Le
+commissaire du Gouvernement prononce ensuite ses conclusions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
 
 	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de justice administrative. - art. R731-3 (M)
-	  - Code de justice administrative. - art. R731-3 (V)
-
-	**Anciens textes**:
-
-	  - Code de justice administrative. - art. R731-9 (T)
+	  - Code de justice administrative. - art. R712-1 (VD)
 
 
-###### Article R731-6
+###### Article R733-2
 
 La décision est délibérée hors la présence des parties.
 
@@ -19258,40 +19347,19 @@ La décision est délibérée hors la présence des parties.
 
 	**Créé par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
+	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Décret n°2006-964 du 1 août 2006 - art. 4 () JORF 3 août 2006 en vigueur le 1er septembre 2006
-
-
-###### Article R731-7
-
-Le commissaire du Gouvernement assiste au délibéré. Il n'y prend pas part.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-964 du 1 août 2006 - art. 4 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Code de justice administrative. - art. R712-1 (V)
 
 
-###### Article R731-8
+###### Article R733-3
 
-Peuvent aussi être autorisés à assister au délibéré, outre les membres de la juridiction et leurs collaborateurs, les juges,
-avocats stagiaires, professeurs des universités et maîtres de conférences accomplissant auprès de celle-ci un stage ou admis,
-à titre exceptionnel, à suivre ses travaux, qu'ils soient de nationalité française ou étrangère.
+Sauf demande contraire d'une partie, le commissaire du Gouvernement assiste au délibéré. Il n'y prend pas part.
 
-Le chef de la juridiction, après avis du président de la formation de jugement ou, au Conseil d'Etat, le président de la
-formation de jugement délivre l'autorisation.
+La demande prévue à l'alinéa précédent est présentée par écrit. Elle peut l'être à tout moment de la procédure avant le
+délibéré.
 
 **Liens relatifs à cet article**
 
@@ -19300,46 +19368,12 @@ formation de jugement délivre l'autorisation.
 	  - Décret n°2000-389 2000-05-04
 
 	**Créé par**:
-
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
-
-	**Transféré par**:
 
 	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de justice administrative. - art. R731-4 (M)
-	  - Code de justice administrative. - art. R731-4 (V)
-
-
-###### Article R731-9
-
-Les personnes qui, à un titre quelconque, participent ou assistent au délibéré sont soumises à l'obligation d'en respecter le
-secret, sous les sanctions prévues par l'article 226-13 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 6 () JORF 20 décembre 2005
-
-	**Transféré par**:
-
-	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de justice administrative. - art. R731-5 (M)
-	  - Code de justice administrative. - art. R731-5 (V)
+	  - Code de justice administrative. - art. R712-1 (V)
 
 
 ### Titre IV : La décision
@@ -22264,7 +22298,7 @@ même décision ou examinées ensemble par un même avis rendu en application de
 
 2° Les pourvois dirigés contre les ordonnances prises en application de l'article R. 222-1 ;
 
-3° Les pourvois dirigés contre les ordonnances prises en application de l'article L. 522-3.
+3° Les pourvois dirigés contre les ordonnances prises en application des articles L. 521-1, L. 521-3, L. 521-4 et L. 522-3.
 
 **Liens relatifs à cet article**
 
@@ -22278,7 +22312,7 @@ même décision ou examinées ensemble par un même avis rendu en application de
 
 	**Modifié par**:
 
-	  - Décret n°2005-911 du 28 juillet 2005 - art. 4 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+	  - Décret n°2006-964 du 1 août 2006 - art. 8 () JORF 3 août 2006 en vigueur le 1er septembre 2006
 
 	**Cité par**:
 
@@ -22290,6 +22324,9 @@ même décision ou examinées ensemble par un même avis rendu en application de
 	**Cite**:
 
 	  - Code de justice administrative. - art. L113-1 (V)
+	  - Code de justice administrative. - art. L521-1 (V)
+	  - Code de justice administrative. - art. L521-3 (V)
+	  - Code de justice administrative. - art. L521-4 (V)
 	  - Code de justice administrative. - art. L522-3 (V)
 	  - Code de justice administrative. - art. R222-1 (M)
 	  - Code de justice administrative. - art. R611-22 (M)
