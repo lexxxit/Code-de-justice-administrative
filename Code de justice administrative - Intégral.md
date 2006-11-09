@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2006-09-01
+Version Consolidée au 2006-11-10
 
 # Partie législative
 
@@ -16466,6 +16466,31 @@ d'une mission de service public, il est statué suivant la procédure de référ
 	  - Code de l'organisation judiciaire - art. R213-5 (V)
 
 
+#### Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation
+
+###### Article R556-1
+
+Lorsque le juge administratif est saisi par le maire, sur le fondement de l'article L. 129-3 du code de la construction et de
+l'habitation ou de l'article L. 511-3 du même code, d'une demande tendant à la désignation d'un expert, il est statué suivant
+la procédure de référé prévue à l'article R. 532-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1359 du 8 novembre 2006 - art. 4 () JORF 10 novembre 2006
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R532-1 (V)
+	  - Code de la construction et de l'habitation. - art. L129-3 (M)
+	  - Code de la construction et de l'habitation. - art. L511-3 (M)
+
+
 ## Livre VI : L'instruction
 
 ### Titre Ier : La procédure ordinaire
@@ -20652,32 +20677,6 @@ collective, au représentant unique des demandeurs ou défendeurs.
 	**Cité par**:
 
 	  - Décret n°2005-222 du 10 mars 2005 - art. 7 (V)
-
-
-#### Chapitre 5 : Le contentieux des édifices menacant ruine.
-
-###### Article R775-1
-
-L'introduction, l'instruction et le jugement des instances en matière d'édifices menaçant ruine sont régis par les
-dispositions du titre Ier du livre V du code de la construction et de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1359 2006-11-08 art. 6 2° JORF 10 novembre 2006
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R241 (Ab)
 
 
 #### Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière
