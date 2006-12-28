@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2006-11-10
+Version Consolidée au 2006-12-29
 
 # Partie législative
 
@@ -5805,8 +5805,8 @@ Les présidents de sous-sections peuvent, par ordonnance :
 
 3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
 
-4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de production de la décision attaquée, ainsi que
-celles qui sont entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes manifestement irrecevables, lorsque la juridiction n'est pas tenue d'inviter leur auteur à les
+régulariser ou qu'elles n'ont pas été régularisées à l'expiration du délai imparti par une demande en ce sens ;
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
 761-1 ou la charge des dépens ;
@@ -5814,9 +5814,19 @@ celles qui sont entachées d'une irrecevabilité manifeste non susceptible d'êt
 6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle appréciation ou qualification de faits,
 présentent à juger en droit des questions identiques à celles tranchées ensemble par une même décision du Conseil d'Etat
 statuant au contentieux ou examinées ensemble par un même avis rendu par le Conseil d'Etat en application de l'article L.
-113-1.
+113-1 ;
+
+7° Rejeter, après l'expiration du délai de recours ou, lorsqu'un mémoire complémentaire a été annoncé, après la production de
+ce mémoire, les requêtes ne comportant que des moyens de légalité externe manifestement infondés, des moyens irrecevables,
+des moyens inopérants ou des moyens qui ne sont assortis que de faits manifestement insusceptibles de venir à leur soutien ou
+ne sont manifestement pas assortis des précisions permettant d'en apprécier le bien-fondé.
 
 Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis à exécution d'une décision juridictionnelle.
+
+**Nota:**
+
+Décret 2006-1708 du 23 décembre 2006 art. 12 : Le 4° de l'article R. 122-12 entre en vigueur le 1er janvier 2007. Le 7° de
+l'article R. 122-12 est applicable aux requêtes enregistrées à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -5829,9 +5839,15 @@ Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis �
 
 	  - Décret n°2000-389 2000-05-04
 
+	**Cite**:
+
+	  - Décret n°2006-1708 2006-12-23
+	  - Code de justice administrative. - art. L113-1 (V)
+	  - Code de justice administrative. - art. L761-1 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2005-911 du 28 juillet 2005 - art. 1 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 6 () JORF 29 décembre 2006
 
 	**Cité par**:
 
@@ -5845,11 +5861,6 @@ Ils peuvent, en outre, rejeter par ordonnance des conclusions à fin de sursis �
 	  - Code de justice administrative - art. R773-19 (V)
 	  - Code de justice administrative. - art. R122-13 (M)
 	  - Code de justice administrative. - art. R511-12 (MMN)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L113-1 (V)
-	  - Code de justice administrative. - art. L761-1 (V)
 
 
 ###### Article R122-13
@@ -8925,31 +8936,41 @@ Douai : trois chambres.
 ###### Article R222-1
 
 Les présidents de tribunal administratif et de cour administrative d'appel, le vice-président du tribunal administratif de
-Paris et les présidents de formation de jugement des tribunaux et des cours peuvent, par ordonnance :
+Paris et les présidents de formation de jugement des tribunaux et des cours peuvent, par ordonnance : 
 
-1° Donner acte des désistements ;
+1° Donner acte des désistements ; 
 
-2° Rejeter les requêtes ne relevant manifestement pas de la compétence de la juridiction administrative ;
+2° Rejeter les requêtes ne relevant manifestement pas de la compétence de la juridiction administrative ; 
 
-3° Constater qu'il n'y a pas lieu de statuer sur une requête ;
+3° Constater qu'il n'y a pas lieu de statuer sur une requête ; 
 
-4° Rejeter les requêtes irrecevables pour défaut d'avocat, pour défaut de production de la décision attaquée, ainsi que
-celles qui sont entachées d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance ;
+4° Rejeter les requêtes manifestement irrecevables, lorsque la juridiction n'est pas tenue d'inviter leur auteur à les
+régulariser ou qu'elles n'ont pas été régularisées à l'expiration du délai imparti par une demande en ce sens ; 
 
 5° Statuer sur les requêtes qui ne présentent plus à juger de questions autres que la condamnation prévue à l'article L.
-761-1 ou la charge des dépens ;
+761-1 ou la charge des dépens ; 
 
 6° Statuer sur les requêtes relevant d'une série, qui, sans appeler de nouvelle appréciation ou qualification de faits,
 présentent à juger en droit, pour la juridiction saisie, des questions identiques à celles qu'elle a déjà tranchées ensemble
 par une même décision passée en force de chose jugée ou à celles tranchées ensemble par une même décision du Conseil d'Etat
 statuant au contentieux ou examinées ensemble par un même avis rendu par le Conseil d'Etat en application de l'article L.
-113-1.
+113-1 ; 
+
+7° Rejeter, après l'expiration du délai de recours ou, lorsqu'un mémoire complémentaire a été annoncé, après la production de
+ce mémoire, les requêtes ne comportant que des moyens de légalité externe manifestement infondés, des moyens irrecevables,
+des moyens inopérants ou des moyens qui ne sont assortis que de faits manifestement insusceptibles de venir à leur soutien ou
+ne sont manifestement pas assortis des précisions permettant d'en apprécier le bien-fondé. 
 
 Les présidents des cours administratives d'appel et les présidents des formations de jugement des cours peuvent, en outre,
 par ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décision juridictionnelle frappée d'appel et les
 requêtes dirigées contre des ordonnances prises en application des 1° à 6° du présent article. Ils peuvent, de même, annuler
 une ordonnance prise en application des 1° à 5° du présent article à condition de régler l'affaire au fond par application de
 l'une de ces dispositions.
+
+**Nota:**
+
+Décret 2006-1708 du 23 décembre 2006 art. 12 : Le 4° de l'article R. 222-1 entre en vigueur le 1er janvier 2007. Le 7° de
+l'article R. 222-1 est applicable aux requêtes enregistrées à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -8959,7 +8980,12 @@ l'une de ces dispositions.
 
 	**Modifié par**:
 
-	  - Décret n°2005-911 du 28 juillet 2005 - art. 2 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 7 () JORF 29 décembre 2006
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L113-1 (V)
+	  - Code de justice administrative - art. L761-1 (V)
 
 	**Cité par**:
 
@@ -8977,11 +9003,6 @@ l'une de ces dispositions.
 	  - Code de justice administrative - art. R777-3-3 (VD)
 	  - Code de justice administrative - art. R811-1 (VD)
 	  - Code de justice administrative - art. R822-5 (VD)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L113-1 (V)
-	  - Code de justice administrative. - art. L761-1 (V)
 
 	**Anciens textes**:
 
@@ -9885,11 +9906,12 @@ Les dispositions des articles R. 222-23 et R. 222-24 sont applicables dans les c
 
 ###### Article R222-33
 
-Lorsque la cour administrative d'appel statue en appel d'une décision rendue en application des articles L. 512-2 à L. 512-5
-ou L. 513-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, la décision est rendue par le président de la
-cour ou le magistrat qu'il délègue.
+Lorsque la cour administrative d'appel statue en appel d'une décision rendue en application de la seconde phrase du deuxième
+alinéa de l'article L. 512-1, de l'article L. 512-2 ou du second alinéa de l'article L. 513-3 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, la décision est rendue par le président de la cour ou le magistrat qu'il désigne à
+cette fin parmi les membres de la juridiction.
 
-Le président ou le magistrat qu'il délègue peut statuer par ordonnance dans les cas prévus à l'article R. 222-1. Il peut,
+Le président ou le magistrat qu'il désigne peut statuer par ordonnance dans les cas prévus à l'article R. 222-1. Il peut,
 dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas susceptibles d'entraîner l'infirmation de la
 décision attaquée.
 
@@ -9897,7 +9919,7 @@ décision attaquée.
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Liens**:
 
@@ -9905,13 +9927,18 @@ décision attaquée.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1248 du 24 novembre 2004 - art. 3 (V) JORF 25 novembre 2004 en  vigueur le 1er mars 2005
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 8 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L513-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-2 à L512-5, L513-3
-	  - Code de justice administrative. - art. R222-1 (M)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
+	  - Code de justice administrative - art. R222-1
 
 	**Cité par**:
 
@@ -20679,6 +20706,234 @@ collective, au représentant unique des demandeurs ou défendeurs.
 	  - Décret n°2005-222 du 10 mars 2005 - art. 7 (V)
 
 
+#### Chapitre V : Le contentieux des décisions relatives au séjour assorties d'une obligation de quitter le territoire français.
+
+###### Article R775-1
+
+Les requêtes dirigées contre les décisions relatives au séjour mentionnées au I de l'article L. 511-1 du code de l'entrée et
+du séjour des étrangers et du droit d'asile assorties d'une obligation de quitter le territoire français sont présentées,
+instruites et jugées selon les dispositions du présent code, sous réserve des dispositions du présent chapitre.
+
+Toutefois, lorsque l'étranger est placé en rétention avant que le tribunal ait rendu sa décision, les dispositions du
+chapitre VI du présent titre sont alors applicables au jugement des conclusions dirigées contre l'obligation de quitter le
+territoire français et la décision fixant le pays de renvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006 rectificatif JORF 6 janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
+
+
+###### Article R775-2
+
+Le délai de recours est d'un mois à compter de la notification de la décision attaquée. Il n'est pas prorogé par l'exercice
+d'un recours administratif préalable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+
+###### Article R775-3
+
+Lorsqu'une décision relative au séjour assortie d'une obligation de quitter le territoire français fait l'objet de deux ou
+plusieurs requêtes, celle-ci peuvent faire l'objet d'un enregistrement unique et d'une instruction commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+
+###### Article R775-4
+
+Le président de la formation de jugement peut, dès l'enregistrement de la requête, faire usage du pouvoir prévu au premier
+alinéa de l'article R. 613-1 de fixer la date à laquelle l'instruction sera close. Il peut, par la même ordonnance, fixer la
+date et l'heure de l'audience au cours de laquelle l'affaire sera appelée. Dans ce cas, l'ordonnance tient lieu de
+l'avertissement prévu à l'article R. 711-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R613-1 (M)
+	  - Code de justice administrative. - art. R711-2 (M)
+
+
+###### Article R775-5
+
+Lorsqu'une requête sommaire mentionne l'intention du requérant de présenter un mémoire complémentaire, la production annoncée
+doit parvenir au greffe du tribunal administratif dans un délai de quinze jours à compter de la date à laquelle la requête a
+été enregistrée.
+
+Si ce délai n'est pas respecté, le requérant est réputé s'être désisté à la date d'expiration de ce délai, même si le mémoire
+complémentaire a été ultérieurement produit. Il est donné acte de ce désistement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+
+###### Article R775-6
+
+Les délais donnés aux parties pour fournir leurs observations doivent être observés, faute de quoi il peut être passé outre
+sans mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+
+###### Article R775-7
+
+Les décisions prises pour l'instruction des affaires sont notifiées aux parties par tous moyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+
+###### Article R775-8
+
+En cas de notification au tribunal administratif par le préfet ou, à Paris, par le préfet de police de sa décision de
+placement en rétention de l'étranger avant que le tribunal ait rendu sa décision, le président du tribunal ou le magistrat
+qu'il désigne transmet, s'il y a lieu, l'affaire, dans les formes prévues au premier alinéa de l'article R. 351-6, au
+tribunal administratif dans le ressort duquel est situé le centre de rétention administrative dans lequel l'étranger est
+placé, sauf si elle est en état d'être jugée. Les actes de procédure accomplis régulièrement devant le tribunal administratif
+saisi en premier lieu restent valables devant le tribunal auquel est transmise l'affaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R351-6 (M)
+
+
+###### Article R775-9
+
+Le jugement est notifié aux parties par tous moyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+
+###### Article R775-10
+
+Le délai d'appel est d'un mois. Il court contre toute partie à l'instance à compter du jour où la notification du jugement
+lui a été faite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+
+
 #### Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière
 
 ###### Article R776-1
@@ -20907,8 +21162,8 @@ L'autorité qui a reçu la requête la transmet sans délai et par tous moyens a
 
 ###### Article R776-7
 
-A son arrivée au greffe, la requête est inscrite sur un registre d'ordre spécial tenu par le greffier en chef. Elle est, en
-outre, marquée, ainsi que les pièces qui y sont jointes, d'un timbre indiquant la date et l'heure de leur arrivée.
+A son arrivée au greffe, la requête est marquée, ainsi que les pièces qui y sont jointes, d'un timbre indiquant la date et
+l'heure de leur arrivée.
 
 **Liens relatifs à cet article**
 
@@ -20927,6 +21182,10 @@ outre, marquée, ainsi que les pièces qui y sont jointes, d'un timbre indiquant
 	  - Code de justice administrative - art. R777-1-4 (VD)
 	  - Code de justice administrative - art. R777-2-3 (VD)
 	  - Code de justice administrative - art. R777-3-6 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 9 () JORF 29 décembre 2006
 
 	**Anciens textes**:
 
