@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2006-12-29
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -9276,7 +9276,8 @@ de greffe de catégorie A.
 ###### Article R222-13
 
 Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin et ayant atteint au moins le grade de
-premier conseiller statue en audience publique et après audition du commissaire du gouvernement :
+premier conseiller ou ayant une ancienneté minimale de deux ans statue en audience publique et après audition du commissaire
+du gouvernement :
 
 1° Sur les litiges relatifs aux déclarations de travaux exemptés de permis de construire ;
 
@@ -9299,7 +9300,9 @@ articles R. 222-14 et R. 222-15 ;
 
 8° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ;
 
-9° Sur les litiges relatifs aux bâtiments menaçant ruine.
+9° Sur les litiges relatifs aux bâtiments menaçant ruine ;
+
+10° Sur les litiges relatifs au permis de conduire.
 
 **Liens relatifs à cet article**
 
@@ -9309,7 +9312,7 @@ articles R. 222-14 et R. 222-15 ;
 
 	**Modifié par**:
 
-	  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 3 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -9336,7 +9339,7 @@ articles R. 222-14 et R. 222-15 ;
 
 ###### Article R222-14
 
-Les dispositions du 7° de l'article précédent sont applicables aux demandes dont le montant n'excède pas 8000 euros.
+Les dispositions du 7° de l'article précédent sont applicables aux demandes dont le montant n'excède pas 10 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -9344,13 +9347,13 @@ Les dispositions du 7° de l'article précédent sont applicables aux demandes d
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Modifié par**:
-
-	  - Décret n°2001-373 du 27 avril 2001 - art. 2 () JORF 29 avril 2001 en vigueur le 1er janvier 2002
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 3 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -17459,56 +17462,6 @@ régularisation tient lieu de l'information prévue à l'article R. 611-7.
 	  - Code des tribunaux administratifs et des cours adm - art. R149-1 (Ab)
 
 
-###### Article R612-2
-
-S'agissant des irrecevabilités prévues aux articles R. 411-3, R. 412-1, R. 431-2, R. 432-1, R. 811-7 et R. 821-3, la demande
-de régularisation peut prendre la forme de la mise en demeure.
-
-A l'expiration du délai, qui ne peut être inférieur à un mois, fixé dans une mise en demeure par le président de la formation
-de jugement ou, au Conseil d'Etat, par le président de la sous-section chargée de l'instruction, les irrecevabilités prévues
-aux articles R. 411-3, R. 412-1, R. 431-2, R. 432-1, R. 811-7 et R. 821-3 ne sont plus susceptibles d'être couvertes en cours
-d'instance. La mise en demeure le mentionne.
-
-Dans les cas prévus aux articles R. 431-2, R. 432-1, R. 811-7 et R. 821-3, le délai prévu à l'alinéa précédent est interrompu
-par une demande d'aide juridictionnelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2003-1257 du 26 décembre 2003 - art. 4 () JORF 28 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2006-1708 du 23 décembre 2006 - art. 11 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R411-3 (V)
-	  - Code de justice administrative. - art. R412-1 (M)
-	  - Code de justice administrative. - art. R431-2 (V)
-	  - Code de justice administrative. - art. R432-1 (V)
-	  - Code de justice administrative. - art. R821-3 (V)
-
-	**Cité par**:
-
-	  - Code de justice administrative. - art. R811-7 (M)
-	  - Code de justice administrative. - art. R821-4 (Ab)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R149-1 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R149-2 (Ab)
-
-
 ###### Article R612-3
 
 Lorsqu'une des parties appelées à produire un mémoire n'a pas respecté le délai qui lui a été imparti en exécution des
@@ -21506,7 +21459,7 @@ Les frais d'interprète sont liquidés dans les conditions prévues par l'articl
 ###### Article R776-19
 
 Le préfet signataire de l'arrêté attaqué et l'étranger peuvent interjeter appel du jugement devant le président de la cour
-administrative d'appel ou un magistrat délégué par lui.
+administrative d'appel ou un magistrat désigné par lui. Cet appel n'est pas suspensif.
 
 **Liens relatifs à cet article**
 
@@ -21521,7 +21474,7 @@ administrative d'appel ou un magistrat délégué par lui.
 
 	**Modifié par**:
 
-	  - Décret n°2004-789 du 29 juillet 2004 - art. 10 () JORF 3 août 2004
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 10 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -21663,8 +21616,9 @@ déterminé par les articles R. 222-14 et R. 222-15. Cette disposition ne fait p
 
 Par dérogation aux dispositions de l'alinéa précédent, en cas de connexité avec un litige susceptible d'appel, les décisions
 portant sur les actions visées au 7° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions
-statuant sur les recours en matière de taxe foncière lorsqu'elles statuent également, à la demande du même contribuable pour
-la même année et pour la même commune, sur des conclusions relatives à la taxe professionnelle.
+statuant sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à la taxe
+professionnelle, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la valeur
+des mêmes biens appréciée la même année.
 
 **Liens relatifs à cet article**
 
@@ -21680,13 +21634,13 @@ la même année et pour la même commune, sur des conclusions relatives à la ta
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Modifié par**:
-
-	  - Décret n°2003-543 du 24 juin 2003 - art. 11 () JORF 25 juin 2003
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+	**Modifié par**:
+
+	  - Décret n°2006-1708 du 23 décembre 2006 - art. 5 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
