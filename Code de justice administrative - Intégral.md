@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-02-06
+Version Consolidée au 2007-02-22
 
 # Partie législative
 
@@ -1344,12 +1344,16 @@ vice-président du Conseil d'Etat délibérant avec les présidents de section.
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon.
+#### Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
 
 ###### Article L223-1
 
-Dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte, les tribunaux administratifs peuvent comprendre,
-à titre permanent ou comme membres suppléants, des magistrats de l'ordre judiciaire.
+Dans les départements et régions d'outre-mer, à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon,
+les tribunaux administratifs peuvent comprendre, à titre permanent ou comme membres suppléants, des magistrats de l'ordre
+judiciaire.
+
+Les tribunaux administratifs de Saint-Barthélemy, de Saint-Martin et celui territorialement compétent pour la Guadeloupe
+peuvent avoir le même siège.
 
 **Liens relatifs à cet article**
 
@@ -1357,6 +1361,10 @@ Dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte, l
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
 
 	**Anciens textes**:
 
@@ -1365,16 +1373,8 @@ Dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte, l
 
 ###### Article L223-2
 
-La procédure de saisine pour avis du tribunal administratif de Mamoudzou par le président du conseil général de Mayotte est
-régie par les dispositions de l'article L. 3552-7 du code général des collectivités territoriales ci-après reproduit :
-
-"Art. L. 3552-7. - Le président du conseil général peut saisir le tribunal administratif de Mamoudzou d'une demande d'avis
-portant sur l'interprétation du statut de Mayotte ou sur l'applicabilité dans cette collectivité d'un texte législatif ou
-réglementaire.
-
-"En cas de difficulté sérieuse, le président du tribunal administratif peut transmettre cette demande au Conseil d'Etat.
-
-"Le présent article est applicable sous réserve des dispositions du 7° de l'article L. 3571-1".
+La procédure de saisine pour avis du tribunal administratif de Mayotte par le président du conseil général de Mayotte est
+régie par les dispositions de l'article LO 6162-10.
 
 **Liens relatifs à cet article**
 
@@ -1383,17 +1383,116 @@ réglementaire.
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 2 (Ab)
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+	  - Loi n°2007-224 du 21 février 2007 - art. 25 () JORF 22 février 2007
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 71 () JORF 13 juillet 2001
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L3552-7 (V)
+	  - Code général des collectivités territoriales - art. LO6162-10
+
+
+###### Article L223-3
+
+La procédure de saisine pour avis du tribunal administratif de Saint-Barthélemy par le président du conseil territorial de
+Saint-Barthélemy est régie par les dispositions de l'article LO 6252-14 du code général des collectivités territoriales ci-
+après reproduit : 
+
+" Art. LO 6252-14 : Le président du conseil territorial peut, après délibération du conseil exécutif, saisir le tribunal
+administratif d'une demande d'avis portant sur l'interprétation du statut de Saint-Barthélemy ou sur l'applicabilité dans la
+collectivité d'un texte législatif ou réglementaire. 
+
+En cas de difficulté sérieuse, le président du tribunal administratif peut transmettre cette demande au Conseil d'Etat. 
+
+Lorsque la demande d'avis porte sur la répartition des compétences entre l'Etat et la collectivité, elle est examinée par le
+Conseil d'Etat auquel elle est transmise sans délai. Le représentant de l'Etat en est immédiatement informé. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. LO6252-14 (V)
+
+
+###### Article L223-4
+
+La procédure de saisine pour avis du tribunal administratif de Saint-Martin par le président du conseil territorial de Saint-
+Martin est régie par les dispositions de l'article LO 6352-14 du code général des collectivités territoriales ci-après
+reproduit : 
+
+" Art. LO 6352-14.-Le président du conseil territorial peut, après délibération du conseil exécutif, saisir le tribunal
+administratif d'une demande d'avis portant sur l'interprétation du statut de Saint-Martin ou sur l'applicabilité dans la
+collectivité d'un texte législatif ou réglementaire. 
+
+En cas de difficulté sérieuse, le président du tribunal administratif peut transmettre cette demande au Conseil d'Etat. 
+
+Lorsque la demande d'avis porte sur la répartition des compétences entre l'Etat et la collectivité, elle est examinée par le
+Conseil d'Etat auquel elle est transmise sans délai. Le représentant de l'Etat en est immédiatement informé. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. LO6352-14 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6352-14 (V)
+
+
+###### Article L223-5
+
+La procédure de saisine pour avis du tribunal administratif de Saint-Pierre-et-Miquelon par le président du conseil
+territorial de Saint-Pierre-et-Miquelon est régie par les dispositions de l'article LO 6462-9 du code général des
+collectivités territoriales ci-après reproduit : 
+
+" Art. LO 6462-9.-Le président du conseil territorial peut saisir le tribunal administratif d'une demande d'avis portant sur
+l'interprétation du statut de Saint-Pierre-et-Miquelon ou sur l'applicabilité dans cette collectivité d'un texte législatif
+ou réglementaire. 
+
+En cas de difficulté sérieuse, le président du tribunal administratif peut transmettre cette demande au Conseil d'Etat. 
+
+Lorsque la demande d'avis porte sur la répartition des compétences entre l'Etat, la collectivité ou les communes, elle est
+examinée par le Conseil d'Etat auquel elle est transmise sans délai. Le représentant de l'Etat en est immédiatement informé.
+"
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. LO6462-9 (V)
 
 
 #### Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie
@@ -1823,15 +1922,22 @@ de ce tribunal ou de cette cour depuis moins de cinq ans la profession d'avocat.
 ###### Article L231-7
 
 L'exercice des fonctions de membre du corps des tribunaux administratifs et des cours administratives d'appel est
-incompatible avec l'exercice des fonctions de président d'un conseil régional ou général.
+incompatible avec l'exercice des fonctions de président d'un conseil régional ou général. 
 
 Ainsi qu'il est dit aux articles 112 et 196 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie,
 les fonctions de membre du gouvernement de la Nouvelle-Calédonie et celles de membre d'une assemblée de province sont
-incompatibles avec les fonctions de magistrat des juridictions administratives.
+incompatibles avec les fonctions de magistrat des juridictions administratives. 
 
-Ainsi qu'il est dit aux articles 74 et 109 de la loi organique n° 2004-192 du 27 février 2004  portant statut d'autonomie de
+Ainsi qu'il est dit aux articles 74 et 109 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de
 la Polynésie française, les fonctions de président et de membre du gouvernement de la Polynésie française et le mandat de
 représentant à l'assemblée de la Polynésie française sont incompatibles avec les fonctions de magistrat des juridictions
+administratives. 
+
+Conformément à l'article LO 465 du code électoral, le mandat de conseiller général de Mayotte est incompatible avec les
+fonctions de magistrat des juridictions administratives. 
+
+Conformément aux articles LO 493, LO 520 et LO 548 du même code, le mandat de conseiller territorial de Saint-Barthélemy, de
+Saint-Martin ou de Saint-Pierre-et-Miquelon est incompatible avec les fonctions de magistrat des juridictions
 administratives.
 
 **Liens relatifs à cet article**
@@ -1843,8 +1949,14 @@ administratives.
 	**Cite**:
 
 	  - Loi n°99-209 du 19 mars 1999 - art. 112 (V)
-	  - Loi n°99-209 du 19 mars 1999 - art. 196 (M)
-	  - Loi n°2004-192 2004-02-27 art. 74, art. 109
+	  - Loi n°99-209 du 19 mars 1999 - art. 196 (V)
+	  - Loi n°2004-192 du 27 février 2004 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 109 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 74 (V)
+	  - Code électoral - art. LO465 (VT)
+	  - Code électoral - art. LO493 (V)
+	  - Code électoral - art. LO520 (V)
+	  - Code électoral - art. LO548 (V)
 
 	**Codifié par**:
 
@@ -1853,7 +1965,7 @@ administratives.
 
 	**Modifié par**:
 
-	  - Loi n°2004-193 2004-02-27 art. 16 4° JORF 2 mars 2004
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
 
 	**Cité par**:
 
@@ -1867,10 +1979,14 @@ général ou régional doit exercer son option dans les quinze jours de l'élect
 jours de la décision définitive. Dans les mêmes conditions de délai, le président d'un conseil général ou régional, nommé
 membre d'un tribunal administratif ou d'une cour administrative d'appel, peut exercer son option.
 
-A défaut d'option dans le délai mentionné à l'alinéa précédent, il est placé en position de disponibilité.
+A défaut d'option dans le délai mentionné à l'alinéa précédent, il est placé en position de disponibilité. 
 
 Il en va de même du membre du corps des tribunaux administratifs et des cours administratives qui est élu ou nommé à l'une
-des fonctions ou mandats mentionnés au dernier alinéa de l'article L. 231-7.
+des fonctions ou mandats mentionnés aux quatre derniers alinéas de l'article L. 231-7.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -1885,11 +2001,11 @@ des fonctions ou mandats mentionnés au dernier alinéa de l'article L. 231-7.
 
 	**Modifié par**:
 
-	  - Loi n°2004-193 2004-02-27 art. 16 5° JORF 2 mars 2004
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L231-7 (M)
+	  - Code de justice administrative - art. L231-7 (VT)
 
 
 ###### Article L231-9
@@ -2600,51 +2716,70 @@ prononcés en vertu de l'article 61 du code civil.
 
 ###### Article L311-3
 
-Le Conseil d'Etat est compétent en premier et dernier ressort pour connaître des protestations dirigées contre :
+Le Conseil d'Etat est compétent en premier et dernier ressort pour connaître des protestations dirigées contre : 
 
 1° L'élection des représentants au Parlement européen, conformément à l'article 25 de la loi n° 77-729 du 7 juillet 1977
-relative à l'élection des représentants au Parlement européen ;
+relative à l'élection des représentants au Parlement européen ; 
 
 2° Les élections aux conseils régionaux et à l'assemblée de Corse conformément aux articles L. 361 et L. 381 du code
-électoral ;
+électoral ; 
 
 3° Les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie, conformément à l'article 199 de la loi
 organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, ainsi que l'élection des membres, du président et du
 vice-président du gouvernement de la Nouvelle-Calédonie et les recours concernant la démission d'office des membres du
 gouvernement, du congrès et des assemblées de province de Nouvelle-Calédonie conformément aux articles 72, 110, 111, 112,
-115, 116, 165, 195 et 197 de la même loi organique ;
+115, 116, 165, 195 et 197 de la même loi organique ; 
 
 4° Les élections à l'assemblée de la Polynésie française, conformément à l'article 116 de la loi organique n° 2004-192 du 27
 février 2004 portant statut d'autonomie de la Polynésie française, ainsi que l'élection du président de la Polynésie
 française et les recours concernant la démission d'office des membres du gouvernement et des représentants à l'assemblée de
-la Polynésie française, conformément aux articles 82 et 117 de la même loi organique ;
+la Polynésie française, conformément aux articles 82 et 117 de la même loi organique ; 
 
 5° Les élections à l'assemblée territoriale de Wallis-et-Futuna, conformément à l'article 13-12 de la loi n° 61-814 du 29
-juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer ;
+juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer ; 
 
-6° Les élections à l'Assemblée des Français de l'étranger, conformément à l'article 9 de la loi n° 82-471 du 7 juin 1982
-relative à l'Assemblée des Français de l'étranger.
+6° Les élections au conseil territorial de Saint-Barthélemy, conformément à l'article LO 497 du code électoral, ainsi que
+l'élection du président du conseil territorial et des membres du conseil exécutif et les recours concernant la démission
+d'office des membres du conseil territorial conformément à l'article LO 495 du même code ; 
+
+7° Les élections au conseil territorial de Saint-Martin, conformément à l'article LO 524 du même code, ainsi que l'élection
+du président du conseil territorial et des membres du conseil exécutif et les recours concernant la démission d'office des
+membres du conseil territorial conformément à l'article LO 522 du même code ; 
+
+8° Les élections au conseil territorial de Saint-Pierre-et-Miquelon, conformément à l'article LO 552 du même code, ainsi que
+l'élection du président du conseil territorial et des membres du conseil exécutif et les recours concernant la démission
+d'office des membres du conseil territorial conformément à l'article LO 550 du même code ; 
+
+9° Les élections à l'Assemblée des Français de l'étranger, conformément à l'article 9 de la loi n° 82-471 du 7 juin 1982
+relative à l'Assemblée des Français de l'étranger ; 
+
+10° Les consultations organisées en application des articles 72-4 et 73 de la Constitution.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Constitution du 4 octobre 1958 - art. 72-4 (V)
 	  - Loi n°61-814 du 29 juillet 1961 - art. 13-12 (Ab)
-	  - Loi n°77-729 du 7 juillet 1977 - art. 25 (M)
-	  - Loi n°82-471 du 7 juin 1982 - art. 9 (M)
+	  - Loi n°77-729 du 7 juillet 1977 - art. 25 (V)
+	  - Loi n°82-471 du 7 juin 1982 - art. 9 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 110 (V)
-	  - Loi n°99-209 du 19 mars 1999 - art. 111 (V)
-	  - Loi n°99-209 du 19 mars 1999 - art. 112 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 115 (V)
-	  - Loi n°99-209 du 19 mars 1999 - art. 116 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 165 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 195 (V)
-	  - Loi n°99-209 du 19 mars 1999 - art. 197 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 199 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 72 (V)
-	  - Loi n°2004-192 2004-02-27 art. 116, art. 82, art. 117
-	  - Code électoral - art. L361 (M)
+	  - Loi n°2004-192 du 27 février 2004 - art. 116 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 117 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 82 (V)
+	  - Code électoral - art. L361 (V)
 	  - Code électoral - art. L381 (V)
+	  - Code électoral - art. LO495 (V)
+	  - Code électoral - art. LO497 (V)
+	  - Code électoral - art. LO522 (V)
+	  - Code électoral - art. LO524 (V)
+	  - Code électoral - art. LO550 (V)
+	  - Code électoral - art. LO552 (V)
 
 	**Codifié par**:
 
@@ -2653,7 +2788,7 @@ relative à l'Assemblée des Français de l'étranger.
 
 	**Modifié par**:
 
-	  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
 
 
 ###### Article L311-4
@@ -2812,6 +2947,130 @@ ladite loi organique.
 	**Créé par**:
 
 	  - Loi n°2004-193 2004-02-27 art. 16 8° JORF 2 mars 2004
+
+
+###### Article L311-8
+
+Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort, conformément aux dispositions des articles LO
+3445-5, LO 3445-7, LO 4435-5 et LO 4435-7 du code général des collectivités territoriales, des recours juridictionnels formés
+contre les délibérations des conseils généraux des départements d'outre-mer et des conseils régionaux des régions d'outre-mer
+pris sur le fondement des deuxième et troisième alinéas de l'article 73 de la Constitution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 73 (V)
+	  - Code général des collectivités territoriales - art. LO3445-5 (V)
+	  - Code général des collectivités territoriales - art. LO3445-7 (VT)
+	  - Code général des collectivités territoriales - art. LO4435-7 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+
+###### Article L311-9
+
+Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort, conformément aux articles LO 6161-4 et LO
+6161-6 du code général des collectivités territoriales, des recours juridictionnels formés contre les délibérations du
+conseil général de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Rapport
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6161-4
+	  - Code général des collectivités territoriales - art. LO6161-6
+
+
+###### Article L311-10
+
+Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort, conformément aux articles LO 6243-1, LO 6251-7
+et LO 6251-9 du code général des collectivités territoriales, des recours juridictionnels formés contre les délibérations du
+conseil territorial de Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6243-1 (V)
+	  - Code général des collectivités territoriales - art. LO6251-7 (V)
+	  - Code général des collectivités territoriales - art. LO6251-9 (V)
+
+
+###### Article L311-11
+
+Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort, conformément aux articles LO 6343-1, LO 6351-7
+et LO 6351-9 du code général des collectivités territoriales, des recours juridictionnels formés contre les délibérations du
+conseil territorial de Saint-Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6343-1 (V)
+	  - Code général des collectivités territoriales - art. LO6351-7 (V)
+	  - Code général des collectivités territoriales - art. LO6351-9 (V)
+
+
+###### Article L311-12
+
+Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort, conformément aux articles LO 6461-7 et LO
+6461-9 du code général des collectivités territoriales, des recours juridictionnels formés contre les délibérations du
+conseil territorial de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6461-7 (V)
+	  - Code général des collectivités territoriales - art. LO6461-9 (V)
 
 
 ### Titre II : La compétence d'appel
