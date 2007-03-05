@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-02-22
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -4777,6 +4777,30 @@ frontière qu'elle vise à exécuter ".
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R776-1 (V)
+
+
+#### Chapitre VIII : Le contentieux du droit au logement
+
+###### Article L778-1
+
+Le jugement des litiges relatifs à la garantie du droit au logement prévue par l'article L. 441-2-3 du code de la
+construction et de l'habitation est régi par l'article L. 441-2-3-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-290 du 5 mars 2007 - art. 9 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-2-3 (V)
+	  - Code de la construction et de l'habitation. - art. L441-2-3-1 (V)
 
 
 ### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer
