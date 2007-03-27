@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-03-06
+Version Consolidée au 2007-03-28
 
 # Partie législative
 
@@ -15553,9 +15553,9 @@ doivent faire élection de domicile dans le ressort de ce tribunal.
 
 ###### Article R431-9
 
-Sous réserve des dispositions de l'article R. 431-10 et des dispositions spéciales attribuant compétence à une autre
-autorité, les recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le
-ministre intéressé.
+Sous réserve des dispositions de l'article R. 431-10 du présent code, des dispositions des articles R. 5312-33 et R. 5312-34
+du code du travail et des dispositions spéciales attribuant compétence à une autre autorité, les recours, les mémoires en
+défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le ministre intéressé.
 
 Les ministres peuvent déléguer leur signature dans les conditions prévues par la réglementation en vigueur.
 
@@ -15566,12 +15566,6 @@ décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 
 
 2° Au préfet de zone, au préfet de région et au préfet dans les autres cas.
 
-**Nota:**
-
-NOTA : L'article 7 du décret n° 82-389 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
-
-L'article 6 du décret n° 82-390 a été abrogé par le décret n° 2004-374 du 29 avril 2004 (art. 87).
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -15579,22 +15573,16 @@ L'article 6 du décret n° 82-390 a été abrogé par le décret n° 2004-374 du
 	  - Décret n°82-390 du 10 mai 1982 - art. 6 (M)
 	  - Décret n°82-389 du 10 mai 1982 - art. 7 (M)
 	  - Code de justice administrative. - art. R431-10 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2003-616 du 4 juillet 2003 - art. 1 () JORF 5 juillet 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Code du travail - art. R311-4-26 (M)
 
 	**Cité par**:
 
 	  - Décret n°2005-222 du 10 mars 2005 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Décret n°2007-445 du 27 mars 2007 - art. 23 () JORF 28 mars 2007
 
 	**Anciens textes**:
 
@@ -16801,6 +16789,34 @@ d'une mission de service public, il est statué suivant la procédure de référ
 	  - Décret n°2005-1309 du 20 octobre 2005 - art. 94 (T)
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*312-4 (Ab)
 	  - Code de l'organisation judiciaire - art. R213-5 (V)
+
+
+###### Article R555-2
+
+Lorsque le juge administratif est saisi, sur le fondement du I de l'article 39 de la loi n° 78-17 du 6 janvier 1978 relative
+à l'informatique, aux fichiers et aux libertés, d'une demande en référé relative au prononcé de toutes mesures utiles de
+nature à éviter toute dissimulation ou toute disparition de données à caractère personnel par l'Etat, une collectivité
+territoriale, toute autre personne publique ainsi que toute personne privée chargée d'une mission de service public, il est
+statué suivant la procédure de référé instituée par les dispositions de l'article L. 521-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (V)
+	  - Code de justice administrative - art. L521-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Cité par**:
+
+	  - Décret n°2005-1309 du 20 octobre 2005 - art. 113 (V)
+
+	**Créé par**:
+
+	  - Décret n°2007-451 du 25 mars 2007 - art. 18 () JORF 28 mars 2007
 
 
 #### Chapitre VI : Le référé en matière de bâtiments menaçant ruine et de sécurité des immeubles collectifs à usage principal d'habitation
