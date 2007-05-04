@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-05-05
 
 # Partie législative
 
@@ -15553,15 +15553,17 @@ doivent faire élection de domicile dans le ressort de ce tribunal.
 ###### Article R431-9
 
 Sous réserve des dispositions de l'article R. 431-10 du présent code, des dispositions des articles R. 5312-33 et R. 5312-34
-du code du travail et des dispositions spéciales attribuant compétence à une autre autorité, les recours, les mémoires en
-défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le ministre intéressé.
+du code du travail et des dispositions spéciales attribuant compétence à une autre autorité en particulier, au directeur
+général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique
+hospitalière, les recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés par
+le ministre intéressé. 
 
-Les ministres peuvent déléguer leur signature dans les conditions prévues par la réglementation en vigueur.
+Les ministres peuvent déléguer leur signature dans les conditions prévues par la réglementation en vigueur. 
 
-En outre, la compétence des ministres peut être déléguée par décret :
+En outre, la compétence des ministres peut être déléguée par décret : 
 
 1° Aux chefs des services déconcentrés des administrations civiles de l'Etat dans les matières énumérées à l'article 7 du
-décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 mai 1982 ;
+décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 mai 1982 ; 
 
 2° Au préfet de zone, au préfet de région et au préfet dans les autres cas.
 
@@ -15572,7 +15574,12 @@ décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 
 	  - Décret n°82-390 du 10 mai 1982 - art. 6 (M)
 	  - Décret n°82-389 du 10 mai 1982 - art. 7 (M)
 	  - Code de justice administrative. - art. R431-10 (M)
-	  - Code du travail - art. R311-4-26 (M)
+	  - Code du travail - art. R5312-33 (Ab)
+	  - Code du travail - art. R5312-34 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
 
 	**Cité par**:
 
@@ -15580,8 +15587,7 @@ décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
-	  - Décret n°2007-445 du 27 mars 2007 - art. 23 () JORF 28 mars 2007
+	  - Décret n°2007-704 du 4 mai 2007 - art. 25 () JORF 5 mai 2007
 
 	**Anciens textes**:
 
@@ -22334,6 +22340,28 @@ créances de l'Etat étrangères à l'impôt et au domaine.
 	**Cite**:
 
 	  - Code de justice administrative - art. R811-10
+
+
+###### Article R811-10-3
+
+Par dérogation aux dispositions de l'article R. 811-10, le directeur général du Centre national de gestion des praticiens
+hospitaliers et des personnels de direction de la fonction publique hospitalière présente devant la cour administrative
+d'appel les mémoires et observations produits au nom de l'Etat, lorsque le litige est né d'une décision prise par le
+directeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2007-704 du 4 mai 2007 - art. 25 () JORF 5 mai 2007
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R811-10 (V)
 
 
 ###### Article R811-11
