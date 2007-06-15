@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-05-05
+Version Consolidée au 2007-06-16
 
 # Partie législative
 
@@ -16830,7 +16830,7 @@ statué suivant la procédure de référé instituée par les dispositions de l'
 
 Lorsque le juge administratif est saisi par le maire, sur le fondement de l'article L. 129-3 du code de la construction et de
 l'habitation ou de l'article L. 511-3 du même code, d'une demande tendant à la désignation d'un expert, il est statué suivant
-la procédure de référé prévue à l'article R. 532-1.
+la procédure de référé prévue à l'article R. 531-1.
 
 **Liens relatifs à cet article**
 
@@ -16838,15 +16838,15 @@ la procédure de référé prévue à l'article R. 532-1.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1359 du 8 novembre 2006 - art. 4 () JORF 10 novembre 2006
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 1 () JORF 16 juin 2007
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R532-1 (V)
-	  - Code de la construction et de l'habitation. - art. L129-3 (M)
-	  - Code de la construction et de l'habitation. - art. L511-3 (M)
+	  - Code de justice administrative - art. R531-1 (V)
+	  - Code de la construction et de l'habitation. - art. L129-3 (VT)
+	  - Code de la construction et de l'habitation. - art. L511-3 (V)
 
 
 ## Livre VI : L'instruction
@@ -21869,6 +21869,158 @@ fondée, le tribunal procède à la réformation de l'arrêté. "
 	  - Décret n°2005-1551 du 6 décembre 2005 - art. 6 () JORF 13 décembre 2005
 
 
+#### Chapitre 9 : Le contentieux du stationnement des résidences mobiles des gens du voyage
+
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.
+
+###### Article R779-1
+
+Les requêtes dirigées contre les décisions de mise en demeure de quitter les lieux mentionnées au II bis de l'article 9 de la
+loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage sont présentées, instruites et
+jugées selon les dispositions du présent code applicables aux requêtes en annulation, sous réserve des dispositions du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Cite**:
+
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 9 (M)
+
+	**Créé par**:
+
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+
+
+###### Article R779-2
+
+Les requêtes sont présentées dans le délai d'exécution fixé par la décision de mise en demeure. Le délai de recours n'est pas
+prorogé par l'exercice d'un recours administratif préalable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+
+
+###### Article R779-3
+
+Le délai de soixante-douze heures imparti au président du tribunal administratif ou à son délégué pour statuer court à partir
+de l'heure d'enregistrement de la requête au greffe du tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+
+
+###### Article R779-4
+
+Les parties sont convoquées à l'audience sans délai et par tous moyens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+
+
+###### Article R779-5
+
+Le juge statue au terme d'une procédure contradictoire écrite ou orale. L'instruction est close dans les conditions prévues
+au second alinéa de l'article R. 613-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R613-2 (V)
+
+
+###### Article R779-6
+
+Les dispositions des articles R. 522-2, R. 522-4, R. 522-7, R. 522-9 et R. 522-11 à R. 522-13 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+
+	**Cite**:
+
+	  - Code de justice administrative R522-2, R522-4, R522-7, R522-9, R522-11 à R522-13
+	  - Code de justice administrative. - art. R522-2 (V)
+	  - Code de justice administrative. - art. R522-4 (V)
+	  - Code de justice administrative. - art. R522-7 (V)
+	  - Code de justice administrative. - art. R522-9 (V)
+
+
+###### Article R779-7
+
+Le délai d'appel est d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+
+
+###### Article R779-8
+
+Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il désigne à cet effet. Sauf mention
+expresse contraire dans la décision de désignation, les magistrats désignés au titre de l'article R. 222-13 assurent
+également ces fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 2000-05-04
+
+	**Créé par**:
+
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. R222-13 (M)
+
+
 ### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.
 
 ###### Article R781-1
@@ -22281,7 +22433,10 @@ matières suivantes :
 
 8° Police des débits de boisson ;
 
-9° Hospitalisation sous contrainte.
+9° Hospitalisation sous contrainte ;
+
+10° Mise en demeure de quitter les lieux en application de l'article 9 de la loi n° 2000-614 du 5 juillet 2000 relative à
+l'accueil et à l'habitat des gens du voyage.
 
 Les dispositions du présent article ne sont pas applicables dans la collectivité départementale de Mayotte.
 
@@ -22291,21 +22446,18 @@ Les dispositions du présent article ne sont pas applicables dans la collectivit
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2003-616 du 4 juillet 2003 - art. 2 () JORF 5 juillet 2003 en vigueur le 1er septembre 2003
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 9 (M)
+	  - Code de justice administrative. - art. R811-10 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2007-1018 du 14 juin 2007 - art. 3 () JORF 16 juin 2007
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R751-8 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R811-10 (V)
 
 
 ###### Article R811-10-2
