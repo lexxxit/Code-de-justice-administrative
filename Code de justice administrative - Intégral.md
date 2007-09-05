@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-07-20
+Version Consolidée au 2007-09-06
 
 # Partie législative
 
@@ -9372,15 +9372,18 @@ L'assemblée générale du tribunal administratif ou de la cour administrative d
 réunit au moins une fois par an. Elle est convoquée et présidée par le président du tribunal ou de la cour. Elle examine les
 sujets d'intérêt commun. Son rôle est consultatif.
 
+Le président du tribunal ou de la cour convoque au moins une fois par an une réunion plénière des agents de greffe de la
+juridiction. Il l'informe des sujets d'ordre général intéressant le greffe et recueille ses observations.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 1 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -9491,7 +9494,7 @@ affaires entre ces formations sont décidées par le président de la juridictio
 Le président fait connaître au Conseil supérieur des tribunaux administratifs et des cours administratives d'appel son avis
 sur l'avancement des membres de la juridiction qu'il préside.
 
-Il formule ses propositions sur la nomination et l'avancement du personnel des greffes affecté à son tribunal.
+Il formule ses propositions sur la nomination et l'avancement du personnel des greffes affecté dans sa juridiction.
 
 **Liens relatifs à cet article**
 
@@ -9501,7 +9504,7 @@ Il formule ses propositions sur la nomination et l'avancement du personnel des g
 
 	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 3 () JORF 20 décembre 2005
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 2 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -11072,13 +11075,21 @@ parmi les magistrats en fonction en Nouvelle-Calédonie.
 
 ###### Article R226-1
 
-Au siège de chaque tribunal administratif, le greffe comprend un greffier en chef et, s'il y a lieu, un ou plusieurs
-greffiers.
+Le greffe de chaque tribunal administratif comprend un greffier en chef et, s'il y a lieu, un ou plusieurs greffiers et
+d'autres agents de greffe.
 
-Au siège de chaque cour administrative d'appel, le greffe comprend un greffier en chef et des greffiers.
+Le greffe de chaque cour administrative d'appel comprend un greffier en chef, des greffiers et d'autres agents de greffe.
 
-Le greffier en chef et les greffiers sont choisis parmi les fonctionnaires des corps des personnels de préfecture, selon le
-cas par le président du tribunal administratif ou le président de la cour administrative d'appel.
+Sous l'autorité du chef de juridiction, le greffier en chef encadre les services du greffe et veille au bon déroulement de la
+procédure juridictionnelle. Il assiste le chef de juridiction dans la gestion des agents du greffe ainsi que dans celle des
+locaux, des matériels et des crédits de la juridiction.
+
+Sous l'autorité du chef de juridiction, du président de section ou du président de chambre, le greffier est chargé du bon
+déroulement de la procédure juridictionnelle pour les dossiers qui lui sont confiés. Il encadre les agents de greffe chargés
+de le seconder.
+
+Le greffier en chef et les greffiers sont choisis parmi les fonctionnaires des corps de l'intérieur et de l'outre-mer, selon
+le cas par le président du tribunal administratif ou le président de la cour administrative d'appel.
 
 Les greffiers en chef doivent avoir au moins le grade d'attaché et les greffiers au moins celui de secrétaire administratif.
 
@@ -11088,9 +11099,9 @@ Les greffiers en chef doivent avoir au moins le grade d'attaché et les greffier
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 3 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -11099,9 +11110,14 @@ Les greffiers en chef doivent avoir au moins le grade d'attaché et les greffier
 
 ###### Article R226-2
 
-Le nombre des greffiers et celui des autres employés du greffe sont arrêtés par le secrétaire général du Conseil d'Etat,
-après avis des présidents de juridiction et sur proposition du secrétaire général des tribunaux administratifs et des cours
+Le nombre des greffiers et celui des autres agents du greffe sont arrêtés par le secrétaire général du Conseil d'Etat, après
+avis des présidents de juridiction et sur proposition du secrétaire général des tribunaux administratifs et des cours
 administratives d'appel.
+
+Le nombre et la répartition des postes offerts aux concours d'accès aux corps de l'intérieur et de l'outre-mer dans les
+greffes des tribunaux administratifs et des cours administratives d'appel sont fixés sur proposition du vice-président du
+Conseil d'Etat. Lorsque des postes sont offerts dans les greffes, le jury du concours comporte au moins un membre nommé sur
+proposition du vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -11111,11 +11127,7 @@ administratives d'appel.
 
 	**Modifié par**:
 
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 3 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 4 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -11124,8 +11136,10 @@ administratives d'appel.
 
 ###### Article R226-3
 
-Les greffiers en chef et les greffiers ainsi que l'ensemble des personnels de greffe sont régis, notamment en ce qui concerne
+Les greffiers en chef et les greffiers ainsi que l'ensemble des agents de greffe sont régis, notamment en ce qui concerne
 l'avancement et la discipline, par les règles applicables aux corps de fonctionnaires auxquels ils appartiennent.
+
+Leur mise à disposition ne peut être prononcée sans l'accord du vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -11133,9 +11147,9 @@ l'avancement et la discipline, par les règles applicables aux corps de fonction
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 5 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -11220,40 +11234,6 @@ président.
 
 ##### Section 2 : Dispositions particulières à certains greffes
 
-##### Sous-section 1 : Règles particulières au greffe du tribunal administratif de Paris et à la cour administrative d'appel de Paris.
-
-###### Article R226-7
-
-Le personnel du greffe du tribunal administratif de Paris et de la cour administrative d'appel de Paris appartient aux corps
-de fonctionnaires d'administration centrale du ministère de l'intérieur.
-
-Les greffiers en chef du tribunal administratif de Paris et de la cour administrative d'appel de Paris sont choisi parmi les
-fonctionnaires d'administration centrale du ministère de l'intérieur ayant au moins le grade d'attaché principal ou parmi les
-fonctionnaires des corps des personnels de préfecture ayant au moins le grade d'attaché principal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R37 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R38 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R45 (Ab)
-
-
-##### Sous-section 2 : Règles particulières aux greffes des tribunaux administratifs de la Polynésie française, de Mamoudzou et de la Nouvelle-Calédonie. 
-
 ###### Article R226-8
 
 Le greffier en chef et les greffiers des tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de
@@ -11267,7 +11247,7 @@ Nouvelle-Calédonie appartiennent à la fonction publique d'Etat et sont désign
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -11288,7 +11268,7 @@ officiel de la Nouvelle-Calédonie ou de la Polynésie française.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -11307,7 +11287,7 @@ Le service de chaque bureau annexe du greffe est assuré par un greffier.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -11327,7 +11307,7 @@ haut-commissaire.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -11347,19 +11327,17 @@ bureau annexe du greffe.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R43 (M)
 
 
-##### Sous-section 3 : Règles particulières au greffe du tribunal administratif de Saint-Pierre-et-Miquelon
-
 ###### Article R226-13
 
-Le service du greffe du tribunal administratif de Saint-Pierre est assuré par un greffier et un greffier adjoint qui a au
-moins le grade de secrétaire administratif.
+Le service du greffe du tribunal administratif de Saint-Pierre est assuré par un greffier qui a au moins le grade de
+secrétaire administratif et, s'il y a lieu, par un greffier adjoint.
 
 **Liens relatifs à cet article**
 
@@ -11367,9 +11345,10 @@ moins le grade de secrétaire administratif.
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 7 () JORF 6 septembre 2007
 
 	**Anciens textes**:
 
@@ -12408,25 +12387,27 @@ réservée à ses avis et propositions ;
 2° Il définit les actions de formation à entreprendre au profit des personnels des greffes des tribunaux et des cours et en
 suit la mise en oeuvre ;
 
-3° Il recense les besoins des tribunaux et des cours en matériel, en moyens techniques et en documentation et propose au
-vice-président du Conseil d'Etat les modalités de répartition des moyens correspondants, compte tenu, notamment, des crédits
+3° Il participe à la détermination des besoins des tribunaux et des cours en matériel, en moyens techniques et en
+documentation et à la définition des modalités de répartition des moyens correspondants, compte tenu, notamment, des crédits
 budgétaires disponibles ;
 
 4° Il participe à la définition des règles générales d'organisation et de fonctionnement des greffes des tribunaux et des
 cours et en suit la mise en oeuvre ;
 
-5° Il participe avec voix consultative aux commissions administratives paritaires du cadre national des personnels des
-préfectures lorsque l'ordre du jour appelle l'examen de questions intéressant la situation administrative des fonctionnaires
-de ce cadre affectés dans un greffe de tribunal ou de cour ;
+5° Il participe avec voix consultative aux commissions administratives paritaires nationales des corps de l'intérieur et de
+l'outre-mer lorsque l'ordre du jour appelle l'examen de questions intéressant la situation administrative des fonctionnaires
+de ces corps affectés dans un greffe de tribunal ou de cour ;
 
 6° Il participe avec voix consultative aux comités techniques paritaires centraux du ministère de l'intérieur lorsque l'ordre
-du jour appelle l'examen de questions relatives à l'organisation et au fonctionnement des greffes des tribunaux et des cours,
-à la répartition de leurs effectifs et à la formation de leurs personnels ;
+du jour appelle l'examen de questions intéressant les personnels affectés dans les greffes des tribunaux administratifs et
+des cours administratives d'appel ;
 
 7° Il réalise, à la demande du Conseil supérieur ou de son président, toutes études relatives à l'organisation et au
 fonctionnement des tribunaux et des cours ou à la procédure suivie devant eux ;
 
 8° Il rend compte périodiquement de l'exécution de ses missions au Conseil supérieur.
+
+Il peut se faire représenter pour l'exercice des attributions mentionnées aux 5° et 6°.
 
 **Liens relatifs à cet article**
 
@@ -12438,9 +12419,9 @@ fonctionnement des tribunaux et des cours ou à la procédure suivie devant eux 
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2007-1309 du 4 septembre 2007 - art. 8 () JORF 6 septembre 2007
 
 	**Cite**:
 
