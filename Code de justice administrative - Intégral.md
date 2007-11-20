@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-11-21
 
 # Partie législative
 
@@ -4776,6 +4776,34 @@ frontière qu'elle vise à exécuter ".
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R776-1 (V)
+
+
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile
+
+###### Article L777-1
+
+Les modalités selon lesquelles le président du tribunal administratif ou le magistrat qu'il a désigné examine les recours en
+annulation formés contre les décisions de refus d'entrée sur le territoire français au titre de l'asile obéissent aux règles
+fixées par l'article L. 213-9 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
+	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+	**Créé par**:
+
+	  - Loi n°2007-1631 du 20 novembre 2007 - art. 27 () JORF 21 novembre 2007
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R777-1 (VD)
 
 
 #### Chapitre VIII : Le contentieux du droit au logement
