@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-11-21
+Version Consolidée au 2007-11-28
 
 # Partie législative
 
@@ -20987,13 +20987,9 @@ françaises et à Mayotte, les requêtes peuvent être déposées auprès des se
 
 	  - Décret n°2000-389 2000-05-04
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 12° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2007-1670 du 26 novembre 2007 - art. 12 () JORF 28 novembre 2007
 
 
 ###### Article R773-5
