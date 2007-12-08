@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-11-28
+Version Consolidée au 2007-12-09
 
 # Partie législative
 
@@ -1652,87 +1652,26 @@ d'empêchement d'un de ses membres, par l'adjonction d'un magistrat de l'ordre j
 	  - Code des tribunaux administratifs et des cours administratives d'appel L2-2 al. 2
 
 
-##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de la Polynésie française.
-
 ###### Article L225-2
 
-Ainsi qu'il est dit à l'article 174 de la loi organique n° 2004-192 du 27 février 2004  portant statut d'autonomie de la
-Polynésie française :
-
-"Art. 174. - Lorsque le tribunal administratif est saisi d'un recours pour excès de pouvoir ou d'un recours en appréciation
-de légalité dirigé contre les actes mentionnés au 1° du A et au 1° du B du II de l'article 171 et que ce recours est fondé
-sur un moyen sérieux invoquant l'inexacte application de la répartition des compétences entre l'Etat, la Polynésie française
-et les communes ou que ce moyen est soulevé d'office, il transmet le dossier sans délai pour avis au Conseil d'Etat, par un
-jugement qui n'est susceptible d'aucun recours. Le Conseil d'Etat examine la question soulevée dans un délai de trois mois et
-il est sursis à toute décision sur le fond jusqu'à son avis ou, à défaut, jusqu'à l'expiration de ce délai. Le tribunal
-administratif statue dans un délai de deux mois à compter de la publication de l'avis au Journal officiel de la Polynésie
-française ou de l'expiration du délai imparti au Conseil d'Etat."
+Le tribunal administratif de la Polynésie française exerce les attributions que lui confie la loi organique n° 2004-192 du 27
+février 2004 portant statut d'autonomie de la Polynésie française, notamment ses articles 159-1, 174 et 175.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°96-312 du 12 avril 1996 - art. 113 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Cite**:
 
-	  - Loi n°2004-192 2004-02-27 art. 174
-	  - Code de justice administrative 171
+	  - Loi n°2004-192 du 27 février 2004 - art. 159-1 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 174 (V)
 
 	**Modifié par**:
-
-	  - Loi n°2004-193 2004-02-27 art. 16 1°, 2° JORF 2 mars 2004
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R225-4 (V)
-	  - Code de justice administrative. - art. R225-2 (V)
-
-
-##### Section 2 : La saisine pour avis du tribunal administratif de la Polynésie française.
-
-###### Article L225-3
-
-Ainsi qu'il est dit à l'article 175 de la loi organique n° 2004-192 du 27 février 2004 précitée : 
-
-" Art. 175.-Le président de la Polynésie française ou le président de l'assemblée de la Polynésie française peut saisir le
-tribunal administratif d'une demande d'avis. Lorsqu'elle porte sur la répartition des compétences entre l'Etat, la Polynésie
-française ou les communes, la demande d'avis est examinée par le Conseil d'Etat auquel elle est transmise sans délai. 
-
-Le haut-commissaire en est immédiatement informé par l'auteur de la demande. "
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°96-312 du 12 avril 1996 - art. 114 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cite**:
-
-	  - Loi n°2004-192 du 27 février 2004 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2004-193 2004-02-27 art. 16 1°, 2° JORF 2 mars 2004
-
-	**Abrogé par**:
 
 	  - Loi n°2007-1720 du 7 décembre 2007 - art. 3
 
 	**Cité par**:
 
-	  - Code de justice administrative. - art. R225-5-1 (M)
-	  - Code de justice administrative. - art. R225-6 (M)
+	  - Code de justice administrative - art. R225-4 (V)
+	  - Code de justice administrative. - art. R225-2 (V)
 
 
 #### Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna
@@ -2923,29 +2862,33 @@ vue du renouveau du transport ferroviaire.
 ###### Article L311-7
 
 Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort, conformément aux dispositions de la loi
-organique n° 2004-192 du 27 février 2004  portant statut d'autonomie de la Polynésie française :
+organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française : 
 
-1° Des recours formés contre le règlement intérieur de l'assemblée de la Polynésie française ;
+1° Des recours formés contre le règlement intérieur de l'assemblée de la Polynésie française ; 
 
-2° Des recours juridictionnels spécifiques formés contre les actes prévus à l'article 140 de ladite loi organique ;
+2° Des recours prévus par les articles 70 et 82 de ladite loi organique ; 
 
-3° Des recours dirigés contre les délibérations décidant l'organisation d'un référendum local prévues à l'article 159 de
+3° Des recours prévus par les articles 116 et 117 de ladite loi organique ; 
+
+4° Des recours juridictionnels spécifiques formés contre les actes prévus à l'article 140 de ladite loi organique ; 
+
+5° Des recours dirigés contre les délibérations décidant l'organisation d'un référendum local prévues à l'article 159 de
 ladite loi organique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Cite**:
 
-	  - Loi n°2004-192 2004-02-27 art. 140, art. 159
+	  - Loi organique n°2004-192 du 27 février 2004
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 116
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 140 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 159
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 70 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 82 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-193 2004-02-27 art. 16 8° JORF 2 mars 2004
+	  - Loi n°2007-1720 du 7 décembre 2007 - art. 3
 
 
 ###### Article L311-8
@@ -3712,55 +3655,49 @@ Toute personne qui y a intérêt peut intervenir à l'action introduite par le p
 ###### Article L554-1
 
 Les demandes de suspension assortissant les requêtes du représentant de l'Etat dirigées contre les actes des communes sont
-régies par le 3e alinéa de l'article L. 2131-6 du code général des collectivités territoriales ci-après reproduit :
+régies par le 3e alinéa de l'article L. 2131-6 du code général des collectivités territoriales ci-après reproduit : 
 
-"Art. L. 2131-6, alinéa 3. - Le représentant de l'Etat peut assortir son recours d'une demande de suspension. Il est fait
+" Art. L. 2131-6, alinéa 3. - Le représentant de l'Etat peut assortir son recours d'une demande de suspension. Il est fait
 droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux quant à
-la légalité de l'acte attaqué. Il est statué dans un délai d'un mois."
+la légalité de l'acte attaqué. Il est statué dans un délai d'un mois. " 
 
 Les demandes de suspension assortissant les requêtes du représentant de l'Etat dirigées contre les actes d'autres
 collectivités ou établissements suivent, de même, les règles fixées par les articles L. 2541-22, L. 2561-1, L. 3132-1, L.
 4142-1, L. 4411-1, L. 4421-1, L. 4431-1, L. 5211-3, L. 5331-3, L. 5332-1, L. 5421-2, L. 5711-1 et L. 5721-4 du code général
-des collectivités territoriales.
+des collectivités territoriales. 
 
-Il en va de même pour les requêtes visées à l'article 172 de la loi organique n° 2004-192 du 27 février 2004 portant statut
-d'autonomie de la Polynésie française, à l'article 204 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-
-Calédonie et à l'article L. 121-39-2 du code des communes de la Nouvelle-Calédonie.
+Il en va de même pour les requêtes visées aux articles 172 et 172-1 de la loi organique n° 2004-192 du 27 février 2004
+portant statut d'autonomie de la Polynésie française, à l'article 204 de la loi organique n° 99-209 du 19 mars 1999 relative
+à la Nouvelle-Calédonie et à l'article L. 121-39-2 du code des communes de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 204 (V)
-	  - Loi n°2004-192 2004-02-27 art. 172
-	  - Code des communes L121-39-2
-	  - Code général des collectivités territoriales - art. L2131-6 (M)
+	  - Loi n°99-209 du 19 mars 1999 - art. 204
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 172
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-2
 	  - Code général des collectivités territoriales - art. L2541-22 (V)
-	  - Code général des collectivités territoriales - art. L2561-1 (M)
-	  - Code général des collectivités territoriales - art. L3132-1 (M)
-	  - Code général des collectivités territoriales - art. L4142-1 (M)
+	  - Code général des collectivités territoriales - art. L2561-1 (V)
+	  - Code général des collectivités territoriales - art. L3132-1 (V)
+	  - Code général des collectivités territoriales - art. L4142-1 (V)
 	  - Code général des collectivités territoriales - art. L4411-1 (V)
 	  - Code général des collectivités territoriales - art. L4421-1 (V)
 	  - Code général des collectivités territoriales - art. L4431-1 (V)
-	  - Code général des collectivités territoriales - art. L5211-3 (M)
+	  - Code général des collectivités territoriales - art. L5211-3 (V)
 	  - Code général des collectivités territoriales - art. L5331-3 (V)
 	  - Code général des collectivités territoriales - art. L5332-1 (V)
 	  - Code général des collectivités territoriales - art. L5421-2 (V)
-	  - Code général des collectivités territoriales - art. L5711-1 (M)
-	  - Code général des collectivités territoriales - art. L5721-4 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Code général des collectivités territoriales - art. L5711-1 (V)
+	  - Code général des collectivités territoriales - art. L5721-4 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2004-193 2004-02-27 art. 16 7° JORF 2 mars 2004
+	  - Loi n°2007-1720 du 7 décembre 2007 - art. 3
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code général des collectivités territoriales - art. L2131-6 (M)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2131-6 (V)
 
 	**Cité par**:
 
