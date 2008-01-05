@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2007-12-29
+Version Consolidée au 2008-01-06
 
 # Partie législative
 
@@ -13077,30 +13077,22 @@ intéréssés, après avis du chef de la mission permanente d'inspection des jur
 ###### Article R235-2
 
 Les membres du corps des tribunaux administratifs et des cours administratives d'appel accomplissent la mobilité statutaire
-prévue par le décret n° 2004-708 du 16 juillet 2004 relatif à la mobilité et au détachement des fonctionnaires des corps
+prévue par le décret n° 2008-15 du 4 janvier 2008 relatif à la mobilité et au détachement des fonctionnaires des corps
 recrutés par la voie de l'Ecole nationale d'administration dans les conditions définies par ce décret. Toutefois, ils ne
-peuvent accomplir cette mobilité dans un cabinet d'avocats ou auprès d'un avocat au Conseil d'Etat et à la Cour de cassation.
-A la fin de la période au cours de laquelle ils ont accompli la mobilité, ils sont réintégrés de droit et au besoin en
-surnombre dans leur corps d'origine. Chacun d'eux doit retrouver, s'il le demande, une affectation dans la juridiction à
+peuvent accomplir cette mobilité dans un cabinet d'avocats ou auprès d'un avocat au Conseil d'Etat et à la Cour de
+cassation.A la fin de la période au cours de laquelle ils ont accompli la mobilité, ils sont réintégrés de droit et au besoin
+en surnombre dans leur corps d'origine. Chacun d'eux doit retrouver, s'il le demande, une affectation dans la juridiction à
 laquelle il était précédemment affecté lorsqu'une vacance y est ouverte à la fin de sa période de mobilité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Cite**:
 
-	  - Décret n°2004-708 2004-07-16
+	  - Décret n°2008-15 du 4 janvier 2008
 
 	**Modifié par**:
 
-	  - Décret n°2005-310 du 25 mars 2005 - art. 2 () JORF 3 avril 2005
+	  - Décret n°2008-15 du 4 janvier 2008 - art. 7 (V)
 
 	**Cité par**:
 
