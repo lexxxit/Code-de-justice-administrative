@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-01-06
+Version Consolidée au 2008-05-01
 
 # Partie législative
 
@@ -5455,25 +5455,16 @@ des dispositions de l'article R. 122-3.
 ###### Article R121-3
 
 Les conseillers d'Etat en service ordinaire sont affectés soit à une section administrative, soit à la section du
-contentieux, soit à la fois à une section administrative et à la section du contentieux, soit à la fois à la section du
-rapport et des études et à une autre section administrative, soit à trois sections, dont la section du contentieux et la
-section du rapport et des études. Les présidents adjoints ainsi que les présidents des sous-sections de la section du
-contentieux sont affectés uniquement à cette section  ; ils peuvent toutefois être affectés à la section du rapport et des
-études.
+contentieux, soit à deux sections administratives, soit à la fois à une section administrative et à la section du
+contentieux, soit à trois sections, dont la section du contentieux et la section du rapport et des études. Les présidents
+adjoints ainsi que les présidents des sous-sections de la section du contentieux sont affectés uniquement à cette section ;
+ils peuvent toutefois être affectés à la section du rapport et des études.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 2
 
 	**Cité par**:
 
@@ -5492,21 +5483,20 @@ a) Les maîtres des requêtes et auditeurs chargés de diriger le centre de docu
 uniquement soit à la section du contentieux, soit à une section administrative ;
 
 b) Les maîtres des requêtes et auditeurs qui comptent moins de trois années au Conseil sont affectés uniquement à la section
-du contentieux.
+du contentieux ;
+
+c) Les maîtres des requêtes qui comptent plus de quatre années au Conseil peuvent être affectés uniquement à la section du
+contentieux, à une section administrative ou à deux sections administratives.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 2 (Ab)
+	  - Décret n°2008-225 du 6 mars 2008 - art. 3
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2010-164 du 22 février 2010 - art. 3
 
 
 ###### Article R121-5
@@ -6040,22 +6030,15 @@ exceptionnel, par l'appel d'un maître des requêtes pris dans l'ordre du tablea
 sont désignés par le président de la section du contentieux. En cas d'absence ou d'empêchement du président, la sous-section
 est présidée par l'assesseur le plus ancien.
 
-Lorsqu'elle siège en formation d'instruction, une sous-section peut délibérer en nombre pair. Les conseillers d'Etat ont voix
-délibérative. En cas de partage, on appelle le plus ancien rapporteur dans l'ordre du tableau présent à la séance.
+Lorsqu'elle siège en formation d'instruction, une sous-section peut délibérer en nombre pair. Le président, les assesseurs et
+les rapporteurs ont voix délibérative dans toutes les affaires. En cas de partage égal, la voix du président est
+prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 35 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 5
 
 
 ##### Section 2 : Les formations de jugement
@@ -6389,41 +6372,35 @@ délibérer.
 
 ###### Article R122-20
 
-L'assemblée du contentieux comprend :
+L'assemblée du contentieux comprend : 
 
-1° Le vice-président du Conseil d'Etat ;
+1° Le vice-président du Conseil d'Etat ; 
 
-2° Les présidents de section ;
+2° Les présidents de section ; 
 
-3° Les trois présidents adjoints de la section du contentieux ;
+3° Les trois présidents adjoints de la section du contentieux ; 
 
 4° Le président de la sous-section sur le rapport de laquelle l'affaire est jugée ou, si l'instruction a été faite dans les
 conditions prévues au premier alinéa de l'article R. 611-20, le président de la sous-section à laquelle l'affaire a été
-initialement attribuée ;
+initialement attribuée ; 
 
-5° Le rapporteur.
+5° Les quatre présidents de sous-section les plus anciens dans leurs fonctions en dehors du précédent ; 
 
-La présidence de l'assemblée du contentieux appartient au vice-président du Conseil d'Etat.
+6° Le rapporteur. 
+
+La présidence de l'assemblée du contentieux appartient au vice-président du Conseil d'Etat. 
 
 L'assemblée ne peut valablement siéger que si neuf de ses membres ou leurs suppléants sont présents.
 
-En cas de partage égal, la voix du président est prépondérante.
-
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 41 (Ab)
-	  - Décret n°63-766 du 30 juillet 1963 - art. 44 (Ab)
-	  - Décret n°63-766 du 30 juillet 1963 - art. 45 (Ab)
+	  - Décret n°2008-225 du 6 mars 2008 - art. 8
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Code de justice administrative - art. R611-20
 
 	**Cité par**:
 
@@ -6434,35 +6411,30 @@ En cas de partage égal, la voix du président est prépondérante.
 
 En cas d'empêchement du vice-président du Conseil d'Etat, la présidence de l'assemblée du contentieux est exercée par le
 président de la section du contentieux. Pour compléter l'assemblée, le vice-président du Conseil d'Etat est suppléé par le
-président de section administrative le premier inscrit au tableau, lui-même suppléé par un des conseillers d'Etat mentionnés
-au troisième alinéa du présent article. 
+président de section administrative le premier inscrit au tableau, lui-même suppléé par l'un des présidents adjoints de cette
+section dans l'ordre du tableau. 
 
 En cas d'empêchement, le président de la section du contentieux est suppléé, pour compléter l'assemblée, par les présidents
-adjoints de ladite section dans l'ordre d'ancienneté de leurs fonctions ; ces derniers sont suppléés dans l'ordre
-d'ancienneté de leurs fonctions par les présidents de sous-section autres que celui siégeant en application du 4° de
-l'article R. 122-20 ci-dessus. 
+adjoints de ladite section dans l'ordre d'ancienneté de leurs fonctions. Ces derniers, ainsi que les présidents de sous-
+section mentionnés au 5° de l'article R. 122-20, sont suppléés dans l'ordre d'ancienneté de leurs fonctions par les
+présidents de sous-section autres que ceux siégeant en application des 4° et 5° du même article. 
 
-En cas d'empêchement, les présidents de section administrative sont suppléés par des conseillers d'Etat en service ordinaire,
-désignés par le vice-président du Conseil d'Etat au début de chaque année, après avis des présidents de section
-administrative, à raison de deux conseillers d'Etat en service ordinaire pour chaque président de section administrative. 
+En cas d'empêchement d'un président de section administrative, celui-ci est suppléé par l'un des présidents adjoints de cette
+section dans l'ordre du tableau. 
 
 En cas d'empêchement, le président de sous-section mentionné au 4° de l'article R. 122-20 est suppléé par l'un des assesseurs
-de sa sous-section dans l'ordre du tableau.
+de sa sous-section dans l'ordre du tableau. 
+
+Lorsque l'assemblée du contentieux est saisie d'un recours contre un acte pris après avis du Conseil d'Etat, le président de
+la section administrative qui a eu à délibérer de cet avis ne siège pas. Il est suppléé par le plus ancien dans l'ordre du
+tableau des présidents adjoints des autres sections administratives, à l'exception de ceux siégeant en application du premier
+et du troisième alinéas.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 42 (Ab)
-	  - Décret n°63-766 du 30 juillet 1963 - art. 43 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 9
 
 	**Cité par**:
 
@@ -6470,7 +6442,35 @@ de sa sous-section dans l'ordre du tableau.
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R122-20 (V)
+	  - Code de justice administrative - art. R122-20
+
+
+###### Article R122-21-1
+
+Sans préjudice des dispositions de l'article R. 721-1, les membres du Conseil d'Etat ne peuvent participer au jugement des
+recours dirigés contre les actes pris après avis du Conseil d'Etat, s'ils ont pris part à la délibération de cet avis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-225 du 6 mars 2008 - art. 10
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R721-1
+
+
+###### Article R122-21-2
+
+Lorsque le Conseil d'Etat est saisi d'un recours contre un acte pris après avis d'une de ses formations consultatives, la
+liste des membres ayant pris part à la délibération de cet avis est communiquée au requérant qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-225 du 6 mars 2008 - art. 10
 
 
 ###### Article R122-22
@@ -6815,21 +6815,15 @@ Les sections administratives du Conseil d'Etat sont :
 
 - la section sociale ;
 
+- la section de l'administration ;
+
 - la section du rapport et des études.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 11
 
 	**Cité par**:
 
@@ -6839,27 +6833,14 @@ Les sections administratives du Conseil d'Etat sont :
 
 ###### Article R123-3
 
-Les affaires ressortissant aux différents départements ministériels sont réparties entre les quatre premières de ces sections
-conformément aux dispositions d'un arrêté du Premier ministre et du garde des sceaux, ministre de la justice.
-
-Toutes les affaires relevant d'un département ministériel sont soumises à la même section.
-
-Cependant, l'examen de certaines catégories d'affaires, notamment de celles concernant la fonction publique, peut être
-attribué à une section déterminée, quel que soit le département ministériel d'origine.
+Les affaires sont réparties entre les cinq premières de ces sections conformément aux dispositions d'un arrêté du Premier
+ministre et du garde des sceaux, ministre de la justice, pris sur proposition du vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 12
 
 	**Cité par**:
 
@@ -6934,30 +6915,28 @@ Le rapport est remis au Président de la République.
 
 ###### Article R123-6
 
-Chaque section administrative est composée d'un président, de conseillers d'Etat en service ordinaire au nombre de sept au
+Chaque section administrative est composée d'un président, de conseillers d'Etat en service ordinaire au nombre de six au
 minimum dont l'un choisi parmi les assesseurs des sous-sections de la section du contentieux, de conseillers d'Etat en
-service extraordinaire, de maîtres des requêtes et d'auditeurs.
+service extraordinaire, de maîtres des requêtes et d'auditeurs. 
 
-Dans le cas prévu au dernier alinéa de l'article R. 123-3 comme dans celui où une affaire attribuée à une section ressortit à
-plusieurs départements ministériels relevant de sections différentes, un ou plusieurs conseillers appartenant à chacune des
-sections intéressées peuvent être appelés à prendre part aux délibérations de la section compétente.
+Un ou plusieurs conseillers d'Etat en service ordinaire affectés à la section sont nommés présidents adjoints de celle-ci par
+arrêté du vice-président pris après avis des présidents de section. Ils assistent le président de la section dans l'exercice
+de ses attributions et le suppléent en tant que de besoin. Sont de droit présidents adjoints de la section administrative à
+laquelle ils sont affectés les présidents de section maintenus en activité, en application de l'article 1er de la loi n°
+86-1304 du 23 décembre 1986 relative à la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de
+l'Etat. 
 
-Les conseillers d'Etat ont voix délibérative dans toutes les affaires. Les maîtres des requêtes et auditeurs ont voix
-délibérative dans les affaires dont ils sont rapporteurs et voix consultative dans les autres affaires.
+Dans le cas où une affaire attribuée à une section ressortit à des secteurs relevant de sections différentes, un ou plusieurs
+conseillers appartenant à chacune des sections intéressées peuvent être appelés à prendre part aux délibérations de la
+section compétente. 
+
+Les membres de la section ont voix délibérative dans toutes les affaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1
 
 	**Cité par**:
 
@@ -6965,6 +6944,25 @@ délibérative dans les affaires dont ils sont rapporteurs et voix consultative 
 	  - Décret n°2009-151 du 10 février 2009 (V)
 	  - Code de justice administrative - art. R123-10 (V)
 	  - Code de justice administrative - art. R123-23 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-225 du 6 mars 2008 - art. 13
+
+
+###### Article R123-6-1
+
+Chaque section administrative se réunit en formation plénière lorsque son président estime que l'importance des affaires
+inscrites à l'ordre du jour le justifie. 
+
+Dans les autres cas, elle se réunit en formation ordinaire dans une composition fixée par son président. La formation
+ordinaire comprend au moins sept membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-225 du 6 mars 2008 - art. 14
 
 
 ###### Article R123-7
@@ -6993,30 +6991,13 @@ rapport et des études.
 
 ###### Article R123-8
 
-Les sections administratives ne peuvent délibérer valablement que si le président et trois conseillers d'Etat dont deux en
-service ordinaire ou, en l'absence du président, quatre conseillers d'Etat dont trois en service ordinaire sont présents.
-
-Dans le cas où, par suite de vacance, d'absence ou d'empêchement d'un ou de plusieurs conseillers d'Etat, une section ne se
-trouve pas en nombre pour délibérer, elle est complétée, par arrêté du vice-président du Conseil d'Etat pris après avis des
-présidents de section, par l'appel de conseillers d'Etat affectés à d'autre sections. En cas d'urgence, la décision est prise
-par le président de la section.
-
-Toutefois, lorsqu'il s'agit de pourvoir à un remplacement pour une seule séance, la section peut être complétée par l'appel
-du maître des requêtes le plus ancien affecté à cette formation, présent à la séance, lequel siège avec voix délibérative.
+Outre le président, une section administrative ne peut valablement délibérer que si trois membres sont présents.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 15
 
 	**Cité par**:
 
@@ -7026,9 +7007,8 @@ du maître des requêtes le plus ancien affecté à cette formation, présent à
 
 ###### Article R123-9
 
-En cas d'absence ou d'empêchement du président d'une section administrative, la présidence est exercée par un conseiller
-d'Etat en service ordinaire affecté à la section, désigné par arrêté du vice-président pris après avis des présidents de
-section ou, à défaut, par le conseiller d'Etat en service ordinaire le premier inscrit au tableau.
+Le président d'une section administrative peut décider que la présidence de la séance est exercée par un président adjoint
+ou, à défaut, par le conseiller d'Etat en service ordinaire le premier inscrit au tableau.
 
 Le vice-président du Conseil d'Etat peut présider les séances des sections administratives.
 
@@ -7036,17 +7016,9 @@ En cas de partage égal, la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 16
 
 	**Cité par**:
 
@@ -7161,47 +7133,29 @@ délibérative dans les affaires dont ils sont rapporteurs.
 
 L'assemblée générale ordinaire comprend avec voix délibérative :
 
-1° Le vice-président du Conseil d'Etat et les présidents de section  ;
+1° Le vice-président du Conseil d'Etat et les présidents de section ;
 
 2° L'un des présidents adjoints de la section du contentieux suppléé, le cas échéant, par un autre président adjoint ;
 
-3° Douze conseillers d'Etat désignés chaque année par le vice-président du Conseil d'Etat sur proposition du président de la
-section du contentieux parmi les conseillers affectés à cette section ;
+3° Les présidents adjoints des sections administratives ;
 
-4° Trois conseillers d'Etat dont deux au moins en service ordinaire par section administrative, désignés chaque année par le
-vice-président du Conseil d'Etat sur proposition du président de la section administrative intéressée.
+4° Dix conseillers d'Etat désignés chaque année par le vice-président du Conseil d'Etat sur proposition du président de la
+section du contentieux parmi les conseillers affectés à cette section ; 
 
-Un suppléant est désigné pour chacun des conseillers d'Etat prévus aux 3° et 4° ci-dessus. Le tiers desdits conseillers et
-des suppléants est renouvelé chaque année.
+5° Un conseiller d'Etat par section administrative, désigné chaque année par le vice-président du Conseil d'Etat sur
+proposition du président de la section administrative intéressée.
+
+Deux suppléants sont désignés, pour chacun des conseillers d'Etat prévus aux 3°, 4° et 5°, parmi les conseillers d'Etat et
+les maîtres des requêtes. Ceux-ci ont alors voix délibérative. 
 
 Les autres membres du Conseil d'Etat ont accès à l'assemblée générale ordinaire avec voix consultative ; ils ont voix
 délibérative dans les affaires dont ils sont rapporteurs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R123-15
-
-Les ministres ont rang et séance à l'assemblée générale du Conseil d'Etat. Chacun a voix délibérative pour les affaires qui
-dépendent de son département.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2008-225 du 6 mars 2008 - art. 18
+	  - Décret n°2008-225 du 6 mars 2008 - art. 17
 
 
 ###### Article R123-16
@@ -7230,9 +7184,10 @@ Conseil d'Etat ou, à son défaut, au président de section inscrit le premier a
 
 ###### Article R123-17
 
-L'assemblée générale du Conseil d'Etat, dans chacune des deux formations prévues à l'article R. 123-12, ne peut délibérer que
-si la moitié au moins des membres ayant voix délibérative sont présents. Toutefois, pendant la période des vacances
-annuelles, ce quorum est ramené au quart des membres ayant voix délibérative.
+L'assemblée générale du Conseil d'Etat ne peut délibérer que si la moitié au moins des membres ayant voix délibérative sont
+présents. Toutefois, ce quorum est ramené au quart des membres ayant voix délibérative lorsque l'assemblée générale se réunit
+en formation plénière ainsi que, quelle que soit la formation dans laquelle elle se réunit, pendant la période des vacances
+annuelles.
 
 Le président a la police de l'assemblée et dirige les débats.
 
@@ -7240,25 +7195,13 @@ En cas de partage égal, la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 18 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 19
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R123-23 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R123-12 (V)
 
 
 ###### Article R123-18
@@ -7317,49 +7260,44 @@ secrétaire d'une section administrative.
 
 Sont portés à l'ordre du jour de l'assemblée générale ordinaire du Conseil d'Etat ou, sur décision du vice-président, après
 avis du président de la section ou de la commission compétente, à l'ordre du jour de l'assemblée générale plénière du Conseil
-d'Etat :
+d'Etat : 
 
-1° Les projets de lois et d'ordonnances, sous réserve des dispositions de l'article R. 123-21 ;
+1° Les projets de lois et d'ordonnances, sous réserve des dispositions de l'article R. 123-21 ; 
 
-2° Les projets de décrets pris en vertu de l'article 37 de la Constitution ;
+2° Les projets de décrets pris en vertu de l'article 37 de la Constitution ; 
 
 3° Les affaires qui, en raison de leur importance, sont renvoyées à l'examen de l'assemblée générale soit à la demande des
 ministres intéressés, soit par le vice-président du Conseil d'Etat, soit par le président de la section ou de la commission
-compétente, soit à la demande de cette section ou de cette commission.
+compétente, soit à la demande de cette section ou de cette commission. 
 
 Toutefois, le vice-président du Conseil d'Etat peut, sur proposition du président de la section ou de la commission
 compétente, décider de ne pas porter à l'ordre du jour de l'assemblée générale certains projets relevant des catégories ci-
-après :
+après : 
 
-a) Projets de décret mentionnés au 2° ci-dessus ;
+a) Projets de décret mentionnés au 2° ci-dessus ; 
 
-b) Projets de loi ayant pour objet principal la ratification d'une ordonnance ;
+b) Projets de loi ayant pour objet principal la ratification d'une ordonnance ; 
 
-c) Projets de loi autorisant la ratification ou l'approbation d'une convention internationale ;
+c) Projets de loi autorisant la ratification ou l'approbation d'une convention internationale ; 
 
 d) Projets de loi ou d'ordonnance portant extension et, le cas échéant, adaptation de dispositions législatives à une ou
-plusieurs collectivités d'outre-mer ou à la Nouvelle-Calédonie ;
+plusieurs collectivités d'outre-mer ou à la Nouvelle-Calédonie ; 
 
 e) Projets de loi ou d'ordonnance ayant pour objet principal la transposition en droit interne d'une directive
-communautaire ;
+communautaire ; 
 
-f) Projets de loi ou d'ordonnance procédant à la codification de la législation.
+f) Projets de loi ou d'ordonnance procédant à la codification de la législation ; 
+
+g) Projets de loi ou d'ordonnance ne soulevant pas de difficulté. 
 
 L'assemblée générale ordinaire peut décider le renvoi d'une affaire à l'assemblée générale plénière.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2004-1387 du 21 décembre 2004 - art. 3 () JORF 23 décembre 2004 en vigueur le 1er janvier 2005
+	  - Constitution du 4 octobre 1958 - art. 37 (V)
+	  - Code de justice administrative - art. R123-21
 
 	**Cité par**:
 
@@ -7381,6 +7319,10 @@ L'assemblée générale ordinaire peut décider le renvoi d'une affaire à l'ass
 	  - Ordonnance n°2012-1222 du 2 novembre 2012 (V)
 	  - Ordonnance n°2012-1398 du 13 décembre 2012 (V)
 	  - ORDONNANCE n°2015-45 du 23 janvier 2015 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-225 du 6 mars 2008 - art. 20
 
 
 ##### Section 3 : La commission permanente
@@ -7423,30 +7365,24 @@ La commission permanente comprend :
 des sceaux, ministre de la justice, faite après présentation par le vice-président du Conseil d'Etat ainsi que, le cas
 échéant, le ou les présidents de la ou des autres sections intéressées ;
 
-3° Douze conseillers d'Etat et douze conseillers d'Etat suppléants désignés par arrêté du vice-président du Conseil d'Etat,
-après avis des présidents de section, à raison de deux titulaires et de deux suppléants par section. La commission permanente
-peut être complétée, selon la nature des affaires dont elle est saisie, par un et éventuellement deux conseillers désignés
-par le vice-président sur la proposition du président de la section qui aurait été normalement compétente pour examiner
-l'affaire si l'urgence n'avait pas été déclarée ;
+3° Deux conseillers d'Etat par section désignés par arrêté du vice-président du Conseil d'Etat après avis du président de la
+section intéressée.
 
-4° Des maîtres des requêtes et auditeurs désignés dans les mêmes conditions.
+Deux suppléants sont désignés, pour chacun des conseillers d'Etat prévus au 3°, selon les mêmes modalités, parmi les
+conseillers d'Etat et les maîtres des requêtes de la section. Ceux-ci ont alors voix délibérative. 
+
+La commission permanente peut être complétée, selon la nature des affaires dont elle est saisie, par un et éventuellement
+deux conseillers désignés par le vice-président sur la proposition du président de la section qui aurait été normalement
+compétente pour examiner l'affaire si l'urgence n'avait pas été déclarée.
 
 En outre, tout membre du Conseil d'Etat peut être spécialement désigné par le vice-président pour le rapport d'une affaire
 déterminée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 23 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 21
 
 	**Cité par**:
 
@@ -7543,23 +7479,16 @@ Le Gouvernement de la République est représenté dans les conditions prévues 
 
 ###### Article R123-26
 
-Les ministres et le vice-président du Conseil d'Etat peuvent appeler à prendre part, avec voix consultative, aux séances des
-sections administratives et des commissions, y compris la commission permanente, ainsi que de l'assemblée générale, les
-personnes que leurs connaissances spéciales mettraient en mesure d'éclairer les discussions.
+Le vice-président du Conseil d'Etat et le président de la section administrative intéressée peuvent appeler à prendre part,
+avec voix consultative, aux séances des sections administratives et des commissions, y compris la commission permanente,
+ainsi que de l'assemblée générale, les personnes que leurs connaissances spéciales mettraient en mesure d'éclairer les
+discussions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 26 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 22
 
 
 ### Titre III : Dispositions statutaires
@@ -13752,26 +13681,19 @@ collectivité ou l'organisme objet des décisions attaquées.
 
 ###### Article R312-16
 
-Les contestations relatives à l'application de la contribution spéciale instituée par l'article L. 341-7 du code du travail
-sont portées devant le tribunal administratif dans le ressort duquel l'infraction a été constatée.
+Les contestations relatives à l'application de la contribution spéciale instituée par les articles L. 8253-1 et L. 8253-7 du
+code du travail sont portées devant le tribunal administratif dans le ressort duquel l'infraction a été constatée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R60 (Ab)
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code du travail - art. L341-7 (Ab)
+	  - Code du travail - art. L8253-1 (V)
+	  - Code du travail - art. L8253-7 (V)
 
 
 ###### Article R312-17
