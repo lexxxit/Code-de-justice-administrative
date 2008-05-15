@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-05-16
 
 # Partie législative
 
@@ -8771,22 +8771,20 @@ Il peut également saisir de cette demande le vice-président du Conseil d'Etat.
 ###### Article R212-4
 
 Les attributions des préfets mentionnées aux articles R. 212-1 et R. 212-3 sont exercées, en Polynésie française et en
-Nouvelle-Calédonie, par les hauts-commissaires, à Mayotte, par le représentant de l'Etat et, à Wallis-et-Futuna et dans les
-Terres australes et antarctiques françaises, par l'administrateur supérieur.
+Nouvelle-Calédonie, par les hauts-commissaires, à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon
+par le représentant de l'Etat et, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises, par
+l'administrateur supérieur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 4° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2008-452 du 13 mai 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R212-1
+	  - Code de justice administrative - art. R212-3
 
 
 ### Titre II : Organisation et fonctionnement
@@ -8798,22 +8796,17 @@ Terres australes et antarctiques françaises, par l'administrateur supérieur.
 ###### Article R221-1
 
 Les tribunaux administratifs et les cours administratives d'appel sont désignés par le nom de la ville où ils siègent.
-Toutefois, le tribunal administratif qui siège à Nouméa est désigné sous le nom de : "tribunal administratif de Nouvelle-
-Calédonie", et celui qui siège à Papeete sous le nom de "tribunal administratif de la Polynésie française".
+Toutefois, le tribunal administratif qui siège à Mamoudzou est désigné sous le nom de : "tribunal administratif de Mayotte",
+celui qui siège à Saint-Pierre sous le nom de : "tribunal administratif de Saint-Pierre-et-Miquelon", celui qui siège à
+Papeete sous le nom de "tribunal administratif de la Polynésie française" et celui qui siège à Nouméa sous le nom de
+"tribunal administratif de Nouvelle-Calédonie". Les tribunaux administratifs de Saint-Barthélemy et de Saint-Martin sont
+désignés sous cette même dénomination.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R1 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 3
 
 
 ###### Article R221-2
@@ -8914,9 +8907,13 @@ Mamoudzou : Mayotte ;
 
 Mata-Utu : îles Wallis et Futuna ;
 
-Nouvelle-Calédonie : Nouvelle-Calédonie ;
+Nouméa : Nouvelle-Calédonie ;
 
-Polynésie française : Polynésie française ;
+Papeete : Polynésie française, Clipperton ;
+
+Saint-Barthélemy : Saint-Barthélemy ; 
+
+Saint-Martin : Saint-Martin ; 
 
 Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
 
@@ -8925,11 +8922,9 @@ Saint-Pierre : Saint-Pierre-et-Miquelon.
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et
 celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris - Charles-de-Gaulle.
 
+Le siège des tribunaux administratifs de Saint-Barthélemy et de Saint-Martin est fixé à Basse-Terre.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
 
 	**Cité par**:
 
@@ -8943,11 +8938,7 @@ celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise d
 
 	**Modifié par**:
 
-	  - Décret n°2006-903 du 19 juillet 2006 - art. 2 () JORF 21 juillet 2006
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R4 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 4
 
 
 ###### Article R221-4
@@ -9088,13 +9079,13 @@ au 7e échelon de son grade.
 Le siège et le ressort des cours administratives d'appel sont fixés comme suit :
 
 Bordeaux : ressort des tribunaux administratifs de Bordeaux, Limoges, Pau, Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-de-
-France, Mamoudzou, Saint-Denis et Saint-Pierre ;
+France, Saint-Denis, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon ;
 
 Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ;
 
 Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ;
 
-Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice et Nîmes  ;
+Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice et Nîmes ;
 
 Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ;
 
@@ -9106,21 +9097,13 @@ Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et Versaille
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Cité par**:
 
 	  - Décret n°2000-707 du 27 juillet 2000 - art. 7 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2006-903 du 19 juillet 2006 - art. 4 () JORF 21 juillet 2006
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R7 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 5
 
 
 ###### Article R221-8
@@ -10179,79 +10162,54 @@ décision attaquée.
 
 #### Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon.
 
+#### Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
+
 ###### Article R223-1
 
 Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Basse-Terre, de
-Cayenne, de Fort-de-France et de Saint-Pierre. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces
-tribunaux peuvent avoir des membres communs.
+Cayenne, de Fort-de-France de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon. Il est assisté d'un ou
+plusieurs magistrats ayant le grade de président. Ces tribunaux peuvent avoir des membres communs. 
 
-Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mamoudzou et de
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mayotte et de
 Saint-Denis. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces tribunaux peuvent avoir des membres
 communs.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2002-1083 du 7 août 2002 - art. 4 () JORF 11 août 2002 en vigueur le 1er septembre 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R23 (M)
-	  - Code des tribunaux administratifs et des cours adm - art. R24 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 7
 
 
 ###### Article R223-2
 
 Les fonctions de commissaire du gouvernement auprès des tribunaux administratifs de Basse-Terre, de Cayenne, de Fort-de-
-France et de Saint-Pierre sont assurées par le ou les mêmes magistrats. Il en va de même pour les fonctions de commissaire du
-gouvernement auprès des tribunaux administratifs de Mamoudzou et de Saint-Denis.
+France de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon sont assurées par le ou les mêmes magistrats. Il
+en va de même pour les fonctions de commissaire du gouvernement auprès des tribunaux administratifs de Mayotte et de Saint-
+Denis.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. L2-3 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 7
 
 
 ###### Article R223-3
 
-Les magistrats de l'ordre judiciaire appelés à faire partie des tribunaux administratifs des départements d'outre-mer, de
-Mayotte et de Saint-Pierre-et-Miquelon sont choisis parmi les magistrats en fonctions dans le ressort.
+Les magistrats de l'ordre judiciaire appelés à faire partie des tribunaux administratifs                  des départements et
+régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon sont choisis parmi les
+magistrats en fonctions dans le ressort.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-452 du 13 mai 2008 - art. 8
 
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R223-4 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R21 (M)
 
 
 ###### Article R223-4
@@ -10277,6 +10235,135 @@ désigné dans les mêmes conditions.
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R22 (M)
+
+
+##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir ou d'un recours en appréciation de légalité transmis par les tribunaux administratifs de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
+
+###### Article R223-5
+
+Les jugements des tribunaux administratifs de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon prononçant la
+transmission d'un dossier en application des articles LO 6242-5, LO 6342-5 ou LO 6452-5 du code général des collectivités
+territoriales sont adressés par le greffier de ces juridictions au secrétaire du contentieux du Conseil d'Etat. Les parties,
+le représentant de l'Etat dans ces collectivités et le ministre chargé de l'outre-mer sont avisés de cette transmission par
+la notification qui leur est faite du jugement, dans les formes prévues aux articles R. 751-2 à R. 751-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 9
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6242-5
+	  - Code général des collectivités territoriales - art. LO6342-5
+	  - Code général des collectivités territoriales - art. LO6452-5
+	  - Code de justice administrative - art. R751-2
+
+
+###### Article R223-6
+
+Le dossier est, sous réserve des dispositions ci-après, examiné conformément aux dispositions régissant la procédure devant
+le Conseil d'Etat statuant au contentieux. Les parties et le ministre chargé de l'outre-mer peuvent produire des observations
+devant le Conseil d'Etat, dans le délai d'un mois à partir de la notification qui leur a été faite du jugement de renvoi. Ce
+délai peut être réduit par décision du président de la section du contentieux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 9
+
+
+###### Article R223-7
+
+Les avis du Conseil d'Etat rendus en application des dispositions des deux articles précédents portent l'une des mentions
+suivantes : 
+
+" Le Conseil d'Etat " 
+
+ou 
+
+" le Conseil d'Etat (section du contentieux) " 
+
+ou 
+
+" le Conseil d'Etat (section du contentieux, n° et n° sous-sections réunies) " 
+
+ou 
+
+" le Conseil d'Etat (section du contentieux, n° sous-section) ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 9
+
+
+###### Article R223-8
+
+L'avis du Conseil d'Etat est notifié au président du conseil territorial de la collectivité intéressée en application des
+articles LO 6242-6, 
+LO 6342-6 ou LO 6452-6 du code général des collectivités territoriales, ainsi qu'aux parties, au représentant de l'Etat et au
+ministre chargé de l'outre-mer. Il est adressé au tribunal administratif de la collectivité, en même temps que lui est
+retourné le dossier de l'affaire. L'avis mentionne qu'il sera publié au Journal officiel de la République française. Le
+représentant de l'Etat assure la publication de celui-ci au Journal officiel de la collectivité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 9
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6242-6
+	  - Code général des collectivités territoriales - art. LO6342-6
+	  - Code général des collectivités territoriales - art. LO6452-6
+
+
+##### Section 2 : Le contrôle juridictionnel spécifique des actes des conseils territoriaux de Saint-Barthélemy et de Saint-Martin intervenant dans le domaine de la loi
+
+###### Article R223-9
+
+La décision du Conseil d'Etat statuant en application des articles LO 6243-1 ou LO 6343-1 du code général des collectivités
+territoriales est notifiée aux parties, au président du conseil territorial, au représentant de l'Etat et au ministre chargé
+de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 9
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6243-1
+	  - Code général des collectivités territoriales - art. LO6343-1
+
+
+###### Article R223-10
+
+Les demandes présentées par la juridiction saisie, en application des articles LO 6243-5 ou LO 6343-5 du code général des
+collectivités territoriales, sont examinées conformément aux dispositions régissant la procédure devant le Conseil d'Etat
+statuant au contentieux. 
+
+La décision du Conseil d'Etat est adressée à la juridiction qui a saisi le Conseil d'Etat. Copie en est adressée au
+représentant de l'Etat ainsi qu'au ministre chargé de l'outre-mer. La décision peut mentionner qu'elle sera publiée au
+Journal officiel de la République française. Le représentant de l'Etat assure la publication de celle-ci au Journal officiel
+de la collectivité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 9
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6243-5
+	  - Code général des collectivités territoriales - art. LO6343-5
 
 
 #### Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie
@@ -10606,6 +10693,8 @@ les magistrats en fonctions dans le ressort.
 
 
 ##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de la Polynésie française.
+
+##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir ou d'un recours en appréciation de légalité transmis par le tribunal administratif de la Polynésie française
 
 ###### Article R225-2
 
@@ -11150,22 +11239,14 @@ président.
 
 ###### Article R226-8
 
-Le greffier en chef et les greffiers des tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de
+Le greffier en chef et les greffiers des tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de
 Nouvelle-Calédonie appartiennent à la fonction publique d'Etat et sont désignés par le président du tribunal administratif.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R39 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 
 ###### Article R226-9
@@ -11250,23 +11331,26 @@ bureau annexe du greffe.
 
 ###### Article R226-13
 
-Le service du greffe du tribunal administratif de Saint-Pierre est assuré par un greffier qui a au moins le grade de
-secrétaire administratif et, s'il y a lieu, par un greffier adjoint.
+Le service du greffe du tribunal administratif de Saint-Pierre-et-Miquelon est assuré par un greffier qui a au moins le grade
+de secrétaire administratif et, s'il y a lieu, par un greffier adjoint.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2007-1309 du 4 septembre 2007 - art. 6 () JORF 6 septembre 2007
-	  - Décret n°2007-1309 du 4 septembre 2007 - art. 7 () JORF 6 septembre 2007
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
-	**Anciens textes**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. R44 (Ab)
+###### Article R226-14
+
+Le service du greffe des tribunaux administratifs de Saint-Barthélemy et de Saint-Martin est assuré par le greffe du tribunal
+administratif de Basse-Terre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 11
 
 
 #### Chapitre VII : Les assistants de justice
@@ -15132,54 +15216,51 @@ que les voies de recours, dans la notification de la décision.
 
 ###### Article R421-6
 
-Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie le délai de
+Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie le délai de
 recours de deux mois prévu à l'article R. 421-1 est porté à trois mois.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 	**Cité par**:
 
 	  - Décret n°2012-765 du 10 mai 2012 - art. 2 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. R103 (M)
+	  - Code de justice administrative - art. R421-1
 
 
 ###### Article R421-7
 
-Les délais supplémentaires de distance prévus aux articles 643 et 644 du nouveau code de procédure civile s'ajoutent au délai
-de deux mois prévu à l'article R. 421-1.
+Lorsque la demande est portée devant un tribunal administratif qui a son siège en France métropolitaine, le délai de recours
+prévu à l'article R. 421-1 est augmenté d'un mois pour les personnes qui demeurent en Guadeloupe, en Guyane, à la Martinique,
+à La Réunion, à Saint-Barthélemy, à Saint-Martin, à Mayotte, à Saint-Pierre-et-Miquelon, en Polynésie française, dans les
+îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises. 
 
-Toutefois, ne bénéficient pas de ces délais supplémentaires les requérants qui usent de la faculté prévue par les lois
-spéciales de déposer leurs requêtes à la préfecture ou à la sous-préfecture.
+Lorsque la demande est présentée devant le tribunal administratif de Basse-Terre, de Fort-de-France, de Cayenne, de Saint-
+Denis, de Saint-Barthélemy, de Saint-Martin, de Mayotte, de Saint-Pierre-et-Miquelon, de la Polynésie française, de Mata-Utu
+ou de Nouvelle-Calédonie, ce délai est augmenté d'un mois pour les personnes qui ne demeurent pas dans la collectivité
+territoriale dans le ressort de laquelle le tribunal administratif a son siège. 
 
-Lorsque la demande est présentée devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et
-de Nouvelle-Calédonie, les délais de recours sont augmentés d'un mois pour les personnes qui ne demeurent pas dans le
-territoire.
+Ce même délai est augmenté de deux mois pour les personnes qui demeurent à l'étranger. 
+
+Toutefois, ne bénéficient pas des délais supplémentaires de distance les requérants qui usent de la faculté prévue par les
+lois spéciales de déposer leurs requêtes auprès des services du représentant de l'Etat ou de son délégué dans les
+arrondissements, les subdivisions ou les circonscriptions administratives.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 50 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R105 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2008-452 du 13 mai 2008 - art. 12
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R421-1
 
 	**Cité par**:
 
@@ -15513,31 +15594,26 @@ décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 
 
 L'Etat est représenté en défense par le préfet ou le préfet de région lorsque le litige, quelle que soit sa nature, est né de
 l'activité des administrations civiles de l'Etat dans le département ou la région, à l'exception toutefois des actions et
-missions mentionnées à l'article 7 du décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 mai 1982.
+missions mentionnées à l'article 33 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation
+et à l'action des services de l'Etat dans les régions et les départements. 
 
 Devant les tribunaux administratifs de la Polynésie française et de Nouvelle-Calédonie, les recours, les mémoires en défense
-et les mémoires en intervention présentés au nom de l'Etat sont signés soit par le ministre chargé des territoires d'outre-
-mer ou son délégué, soit par le haut-commissaire ou son délégué.
+et les mémoires en intervention présentés au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son
+délégué, soit par le haut-commissaire ou son délégué. 
 
-Devant le tribunal administratif de Mamoudzou, les recours, les mémoires en défense et les mémoires en intervention présentés
-au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par le représentant du
-Gouvernement ou son délégué.
+Devant les tribunaux administratifs de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, les
+recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés soit par le ministre
+chargé de l'outre-mer ou son délégué, soit par le représentant de l'Etat ou son délégué. 
 
 Devant le tribunal administratif de Mata-Utu, les recours, les mémoires en défense et les mémoires en intervention présentés
 au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par l'administrateur supérieur
 ou son délégué.
 
-**Nota:**
-
-L'article 7 du décret 82-389 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
-
-L'article 6 du décret 82-390 a été abrogé par le décret 2004-374 du 29 avril 2004 (art. 87).
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2004-374 du 29 avril 2004 - art. 33
 
 	**Cité par**:
 
@@ -15547,11 +15623,7 @@ L'article 6 du décret 82-390 a été abrogé par le décret 2004-374 du 29 avri
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R115 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 13
 
 
 #### Chapitre II : La représentation des parties devant le Conseil d'Etat
@@ -17227,24 +17299,16 @@ Calédonie sont communiquées au président de l'assemblée concernée.
 
 ###### Article R611-15
 
-Devant le tribunal administratif de Mamoudzou, les demandes présentées contre une décision ou une délibération prise au nom
-ou pour le compte de l'Etat ou de la collectivité territoriale, et les demandes présentées contre l'Etat ou la collectivité
+Devant le tribunal administratif de Mayotte, les demandes présentées contre une décision ou une délibération prise au nom ou
+pour le compte de l'Etat ou de la collectivité territoriale, et les demandes présentées contre l'Etat ou la collectivité
 territoriale et mettant en cause leur responsabilité, sont communiquées par le tribunal administratif au représentant du
 Gouvernement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R144 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 
 ###### Article R611-15-1
@@ -17751,30 +17815,22 @@ En cas de force majeure, un nouveau et dernier délai peut être accordé.
 ###### Article R612-4
 
 Lorsqu'elle concerne une administration de l'Etat, la mise en demeure est adressée à l'autorité compétente pour représenter
-l'Etat ; dans les autres cas, elle est adressée à la partie ou à son mandataire, s'il a été constitué.
+l'Etat ; dans les autres cas, elle est adressée à la partie ou à son mandataire, s'il a été constitué. 
 
 Devant les tribunaux administratifs de la Polynésie française et de Nouvelle-Calédonie, la mise en demeure est adressée par
-le président du tribunal administratif au haut-commissaire si elle concerne une administration de l'Etat.
+le président du tribunal administratif au haut-commissaire si elle concerne une administration de l'Etat. 
 
-Devant le tribunal administratif de Mamoudzou, la mise en demeure est adressée par le président du tribunal administratif au
-représentant du Gouvernement si elle concerne une administration de l'Etat ou de la collectivité territoriale.
+Devant le tribunal administratif de Mayotte, la mise en demeure est adressée par le président du tribunal administratif au
+représentant du Gouvernement si elle concerne une administration de l'Etat ou de la collectivité territoriale. 
 
 Devant le tribunal administratif de Mata-Utu, la mise en demeure est adressée à l'administrateur supérieur si elle concerne
 une administration de l'Etat ou du territoire des îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R151 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 
 ###### Article R612-5
@@ -17834,19 +17890,15 @@ exposés dans les mémoires du requérant.
 ###### Article R613-1
 
 Le président de la formation de jugement peut, par une ordonnance, fixer la date à partir de laquelle l'instruction sera
-close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun recours.
+close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun recours. 
 
 Les lettres remises contre signature portant notification de cette ordonnance ou tous autres dispositifs permettant
 d'attester la date de réception de ladite ordonnance sont envoyés à toutes les parties en cause quinze jours au moins avant
-la date de la clôture fixée par l'ordonnance. Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de
+la date de la clôture fixée par l'ordonnance. Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de
 Mata-Utu et de Nouvelle-Calédonie, le délai de notification est porté à un mois et l'ordonnance peut être notifiée par voie
 administrative.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
 
 	**Cité par**:
 
@@ -17863,11 +17915,7 @@ administrative.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R154 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 
 ###### Article R613-2
@@ -18168,27 +18216,19 @@ doit immédiatement le déclarer au juge qui l'a commis.
 ###### Article R621-7
 
 Les parties sont averties par le ou les experts des jours et heures auxquels il sera procédé à l'expertise ; cet avis leur
-est adressé quatre jours au moins à l'avance, par lettre recommandée.
+est adressé quatre jours au moins à l'avance, par lettre recommandée. 
 
-Les observations faites par les parties, dans le cours des opérations, sont consignées dans le rapport.
+Les observations faites par les parties, dans le cours des opérations, sont consignées dans le rapport. 
 
-Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le
-président du tribunal fixe par ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par
-lesquels cet avis est porté à leur connaissance.
+Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le président
+du tribunal fixe par ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par lesquels
+cet avis est porté à leur connaissance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R164 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 
 ###### Article R621-8
@@ -19074,21 +19114,17 @@ présenter ses conclusions et arrêté par le président de la cour.
 ###### Article R711-2
 
 Toute partie est avertie, par une notification faite par lettre recommandée avec demande d'avis de réception ou par la voie
-administrative mentionnée à l'article R. 611-4, du jour où l'affaire sera appelée à l'audience.
+administrative mentionnée à l'article R. 611-4, du jour où l'affaire sera appelée à l'audience. 
 
-L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 732-1 et R. 732-2.
+L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 732-1 et R. 732-2. 
 
 L'avertissement est donné sept jours au moins avant l'audience. Toutefois, en cas d'urgence, ce délai peut être réduit à deux
-jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis d'audience.
+jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis d'audience. 
 
-Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai
-de sept jours est porté à dix jours.
+Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai de
+sept jours est porté à dix jours.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
 
 	**Cité par**:
 
@@ -19103,11 +19139,16 @@ de sept jours est porté à dix jours.
 
 	**Modifié par**:
 
-	  - Décret n°2006-964 du 1 août 2006 - art. 2 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. R193 (M)
+	  - Code de justice administrative - art. R611-4
+	  - Code de justice administrative - art. R731-1
+	  - Code de justice administrative - art. R731-2
+	  - Code de justice administrative - art. R731-3
+	  - Code de justice administrative - art. R732-1
+	  - Code de justice administrative - art. R732-2
 
 
 ###### Article R711-3
@@ -19713,30 +19754,21 @@ ou
 
 " Le tribunal administratif de ... (nom de la ville où il siège) (le magistrat délégué) ".
 
-Pour l'application des alinéas précédents, les jugements du tribunal administratif de Nouvelle-Calédonie portent la mention :
-
-" Le tribunal administratif de Nouvelle-Calédonie " et ceux du tribunal administratif de la Polynésie française portent la
-mention :
-
-"Le tribunal administratif de la Polynésie française ".
+Pour l'application des alinéas précédents, les jugements des tribunaux administratifs de Mayotte, de Saint-Barthélemy, de
+Saint-Martin, de Saint-Pierre-et-Miquelon, de la Polynésie française, de Nouvelle-Calédonie, portent respectivement la
+mention de : "Le tribunal administratif de Mayotte", "Le tribunal administratif de Saint-Barthélemy", "Le tribunal
+administratif de Saint-Martin", "Le tribunal administratif de Saint-Pierre-et-Miquelon", "Le tribunal administratif de la
+Polynésie française" et "Le tribunal administratif de Nouvelle-Calédonie".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2008-452 du 13 mai 2008 - art. 14
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R776-15 (VD)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R201 (M)
 
 
 ###### Article R741-4
@@ -20118,24 +20150,15 @@ Les ordonnances ne sont pas prononcées en audience publique.
 ###### Article R751-1
 
 Les expéditions de la décision délivrées aux parties portent la formule exécutoire suivante : " La République mande et
-ordonne au (indiquer soit le ou les ministres, soit le ou les préfets désignés par la décision) en ce qui le (les) concerne
-ou à tous huissiers de justice à ce requis en ce qui concerne les voies de droit commun contre les parties privées, de
-pourvoir à l'exécution de la présente décision. "
+ordonne au (indiquer soit le ou les ministres, soit le ou les préfets soit le ou les autres représentants de l'Etat désignés
+par la décision) en ce qui le (les) concerne ou à tous huissiers de justice à ce requis en ce qui concerne les voies de droit
+commun contre les parties privées, de pourvoir à l'exécution de la présente décision. "
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 70 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R209 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-452 du 13 mai 2008 - art. 15
 
 	**Cité par**:
 
@@ -20325,36 +20348,52 @@ recevoir copie à leurs frais.
 
 Lorsque la notification d'une décision du tribunal administratif ou de la cour administrative d'appel doit être faite à
 l'Etat, l'expédition est adressée au ministre dont relève l'administration intéressée au litige. Copie de la décision est
-adressée au préfet ainsi que, s'il y a lieu, à l'autorité qui assure la défense de l'Etat devant la juridiction.
+adressée au préfet ainsi que, s'il y a lieu, à l'autorité qui assure la défense de l'Etat devant la juridiction. 
 
 Toutefois, lorsque la décision est rendue sur une demande présentée, en application du code général des collectivités
 territoriales, par le préfet ou lorsqu'elle émane d'un tribunal administratif statuant dans l'une des matières mentionnées à
-l'article R. 811-10-1, la notification est adressée au préfet. Copie de la décision est alors adressée au ministre intéressé.
+l'article R. 811-10-1, la notification est adressée au préfet. Copie de la décision est alors adressée au ministre
+intéressé. 
 
-Devant les tribunaux administratifs de la Polynésie française et de Nouvelle-Calédonie, l'expédition est adressée dans tous
-les cas au haut-commissaire.
+Devant les tribunaux administratifs de Mayotte, de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon, de la
+Polynésie française, de Mata-Utu et de Nouvelle-Calédonie et devant le tribunal administratif de Saint-Denis lorsque le
+jugement intéresse les Terres australes et antarctiques françaises, l'expédition est adressée dans tous les cas au
+représentant de l'Etat. Une copie de la décision est également transmise par voie postale ou par voie électronique au
+ministre chargé de l'outre-mer, ainsi que, s'il y a lieu, au ministre dont relève l'administration intéressée au litige ou à
+l'autorité qui assure la défense de l'Etat. 
 
-Devant le tribunal administratif de Mamoudzou, l'expédition est adressée au représentant du gouvernement.
+Devant la cour administrative d'appel, lorsque la notification de la décision rendue sur un appel dirigé contre un jugement
+statuant sur un litige intéressant l'outre-mer doit être faite à l'Etat, une copie de la décision est également transmise par
+voie postale ou par voie électronique au ministre chargé de l'outre-mer ainsi qu'au représentant de l'Etat dans la
+collectivité territoriale concernée. 
 
-Devant le tribunal administratif de Mata-Utu, l'expédition est adressée à l'administrateur supérieur.
+Lorsque la décision est rendue sur une demande présentée par le représentant de l'Etat en application de la VIe partie du
+code général des collectivités territoriales, la notification est adressée au ministre chargé de l'outre-mer. Une copie de la
+décision est également transmise par voie postale ou par voie électronique au représentant de l'Etat ainsi que, s'il y a
+lieu, au ministre intéressé. 
+
+Toutefois, lorsque la décision est rendue sur une demande présentée par le haut-commissaire de la République en application
+du sixième alinéa du VI de l'article 204 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ou du
+sixième alinéa de l'article 172 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie
+française, la notification est adressée au haut-commissaire. Une copie de la décision est également transmise par voie
+postale ou par voie électronique au ministre chargé de l'outre-mer, ainsi que, s'il y a lieu, au ministre intéressé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Loi n°99-209 du 19 mars 1999 - art. 204
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 172
+	  - Code de justice administrative - art. R811-10-1
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2008-452 du 13 mai 2008 - art. 16
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R*771-9 (VD)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R216 (M)
 
 
 ###### Article R751-8-1
@@ -20463,6 +20502,22 @@ trésorier-payeur-général du département dans lequel a son siège l'autorité
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R751-13
+
+Le représentant de l'Etat à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Polynésie française,
+dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises assure la
+publication au Journal officiel de chacune de ces collectivités et de la Nouvelle-Calédonie et, à Mayotte, au Bulletin
+officiel, du dispositif, ainsi que des motifs qui en sont le soutien nécessaire, des décisions du Conseil d'Etat, de la cour
+administrative d'appel ou du tribunal administratif lorsque ces décisions annulent ou déclarent illégales, par voie
+d'exception, des dispositions d'actes qui y ont été eux-mêmes publiés et sont devenues définitives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 17
 
 
 ### Titre VI : Les frais et dépens
@@ -20756,25 +20811,22 @@ préfecture ; dans ce dernier cas, il est fait application des dispositions de l
 Devant les tribunaux administratifs de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, les requêtes en matière
 fiscale dont le contentieux ressortit à la juridiction administrative sont, sous réserve des articles 100 à 104 ter du décret
 du 5 août 1881 modifié et des articles 172 et 173 du décret du 30 décembre 1912 modifié, présentées et instruites par le
-tribunal administratif dans les formes prévues dans le présent code.
+tribunal administratif dans les formes prévues dans le présent code. 
 
-Devant le tribunal administratif de Mamoudzou, les requêtes en matière d'impôts directs et de taxe sur le chiffre d'affaires
-ou assimilées dont l'assiette ou le recouvrement est confié à la direction des services fiscaux sont présentées, instruites
-et jugées dans les formes prévues dans le livre des procédures fiscales applicables à Mayotte.
+Devant le tribunal administratif de Mayotte, les requêtes en matière d'impôts directs et de taxe sur le chiffre d'affaires ou
+assimilées dont l'assiette ou le recouvrement est confié à la direction des services fiscaux sont présentées, instruites et
+jugées dans les formes prévues dans le livre des procédures fiscales applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°1881-08-05 art. 100 à 104 ter
+	  - Décret n°1912-12-30 art. 172, art. 173
 
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R233 (M)
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
 
 
 #### Chapitre III : Le contentieux des élections
@@ -20844,22 +20896,15 @@ entendus dans une enquête.
 En matière électorale, les requêtes au Conseil d'Etat peuvent être déposées à la préfecture ou à la sous-préfecture du
 domicile du requérant.
 
-En Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques
-françaises et à Mayotte, les requêtes peuvent être déposées auprès des services du représentant de l'Etat.
+A Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et
+Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, les requêtes peuvent être déposées
+auprès des services du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 47 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2007-1670 du 26 novembre 2007 - art. 12 () JORF 28 novembre 2007
+	  - Décret n°2008-452 du 13 mai 2008 - art. 18
 
 
 ###### Article R773-5
@@ -22146,31 +22191,21 @@ porté à trois mois.
 
 ###### Article R811-5
 
-Les délais supplémentaires de distance prévus aux articles 643 et 644 du nouveau code de procédure civile s'ajoutent aux
-délais normalement impartis.
+Les délais supplémentaires de distance prévus à l'article R. 421-7 s'ajoutent aux délais normalement impartis. 
 
 Toutefois, ne bénéficient pas de ce délai supplémentaire ceux qui, en matière électorale, déposent leur requête à la
-préfecture ou à la sous-préfecture ou, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et à
-Mayotte, auprès des services du représentant de l'Etat.
+préfecture ou à la sous-préfecture ou, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en
+Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, auprès des services du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 50 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R230 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2004-2 2004-01-02 art. 2 14° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2008-452 du 13 mai 2008 - art. 19
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R421-7
 
 	**Cité par**:
 
@@ -23200,27 +23235,23 @@ opposition que dans le délai de deux mois à compter de cette notification ou s
 
 ###### Article R832-3
 
-Devant les tribunaux administratifs de Mamoudzou, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai
+Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai
 pour former tierce opposition est porté à trois mois.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
 
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R521-1 (MMN)
 	  - Code de justice administrative. - art. R531-1 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R226 (M)
 
 
 ###### Article R832-4
