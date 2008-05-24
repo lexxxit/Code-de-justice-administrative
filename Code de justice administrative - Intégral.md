@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-05-16
+Version Consolidée au 2008-05-25
 
 # Partie législative
 
@@ -10160,8 +10160,6 @@ décision attaquée.
 	  - Code de justice administrative - art. R222-34 (Ab)
 
 
-#### Chapitre 3 : Dispositions particulières aux tribunaux administratifs des départements d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon.
-
 #### Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
 
 ###### Article R223-1
@@ -10691,8 +10689,6 @@ les magistrats en fonctions dans le ressort.
 
 	  - Code des tribunaux administratifs et des cours adm - art. R25 (M)
 
-
-##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de la Polynésie française.
 
 ##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir ou d'un recours en appréciation de légalité transmis par le tribunal administratif de la Polynésie française
 
@@ -18814,22 +18810,18 @@ ou audiovisuel de tout ou partie des opérations.
 
 ###### Article R626-3
 
-Les dispositions des articles 730 à 732 du nouveau code de procédure civile relatifs aux commissions rogatoires internes sont
+Les dispositions des articles 730 à 732 du code de procédure civile relatifs aux commissions rogatoires internes sont
 applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R184 (Ab)
+	  - Code de procédure civile - art. 730 (V)
 
 
 ###### Article R626-4
