@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-27
 
 # Partie législative
 
@@ -10924,30 +10924,89 @@ Le haut-commissaire assure sa publication au Journal officiel de la Polynésie f
 	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
 
 
-##### Section 4 : Dispositions relatives à un référendum local
+##### Section 4 : Dispositions relatives à un référendum local ou à une consultation des électeurs
 
 ###### Article R225-8-2
 
 Le jugement des requêtes relatives à l'établissement de la liste des groupes d'élus, partis ou groupements politiques
-habilités à participer à la campagne en vue d'un référendum local est régi par les dispositions du cinquième alinéa de
-l'article 19 du décret n° 2005-1611 du 20 décembre 2005 pris pour l'application du statut d'autonomie de la Polynésie
-française ci-après reproduites :
-
-Art. 19, cinquième alinéa. - Toute personne inscrite sur les listes électorales de la Polynésie française ainsi que tout
-groupe, parti ou groupement politique ayant déposé une demande d'habilitation, peut, dans les vingt-quatre heures qui suivent
-la publication de la liste, saisir le tribunal administratif de la Polynésie française. Le tribunal statue en premier et
-dernier ressort dans les trois jours suivant le dépôt de la requête. S'il l'estime fondée, le tribunal procède à la
-réformation de l'arrêté.
+habilités à participer à la campagne en vue d'un référendum local ou d'une consultation des électeurs de la Polynésie
+française prévus aux articles 159 et 159-1 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de
+la Polynésie française est régi par les dispositions du cinquième alinéa de l'article 2 du décret n° 2008-598 du 23 juin 2008
+relatif au référendum local et à la consultation des électeurs en Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 159
+	  - Décret n°2008-598 du 23 juin 2008 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2008-597 du 23 juin 2008 - art. 1
+
+
+##### Section 5 : Dispositions relatives aux modalités d'application de l'article 112 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française 
+
+
+
+###### Article R225-8-3
+
+La demande présentée en application du II ou du III de l'article 112 de la loi organique n° 2004-192 du 27 février 2004
+portant statut d'autonomie de la Polynésie française par l'une des personnes mentionnées au deuxième ou au quatrième alinéa
+du II ou au III de cet article est examinée conformément aux dispositions régissant la procédure devant le Conseil d'Etat
+statuant au contentieux. 
+
+La décision est notifiée au représentant intéressé, au président de l'assemblée de la Polynésie française, au haut-
+commissaire de la République et, le cas échéant, au représentant auteur de la demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 112
 
 	**Créé par**:
 
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2008-597 du 23 juin 2008 - art. 1
+
+
+##### Section 6 : Exercice par un électeur ou un contribuable des actions appartenant à la Polynésie française 
+
+###### Article R225-8-4
+
+I.-Dans le cas prévu à l'article 186-1 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la
+Polynésie française, il est délivré au contribuable ou à l'électeur un récépissé du mémoire détaillé qu'il a adressé au
+tribunal administratif. 
+
+Le haut-commissaire de la République, saisi par le président du tribunal administratif, transmet immédiatement ce mémoire au
+président de la Polynésie française, en l'invitant à le soumettre au conseil des ministres. 
+
+La décision du tribunal administratif est rendue dans le délai de deux mois à dater du dépôt de la demande d'autorisation. 
+
+Toute décision qui porte refus d'autorisation doit être motivée. 
+
+II.-Lorsque le tribunal administratif ne statue pas dans le délai de deux mois ou lorsque l'autorisation est refusée, le
+contribuable ou l'électeur peut se pourvoir devant le Conseil d'Etat. 
+
+III.-Le pourvoi devant le Conseil d'Etat est, à peine de déchéance, formé dans les trois mois qui suivent soit l'expiration
+du délai imparti au tribunal administratif pour statuer, soit la notification de l'arrêté portant refus. 
+
+Il est statué sur le pourvoi dans un délai de trois mois à compter de son enregistrement au secrétariat du contentieux du
+Conseil d'Etat. 
+
+IV.-Le tribunal administratif ou le Conseil d'Etat peuvent, s'ils accordent l'autorisation, en subordonner l'effet à la
+consignation préalable des frais d'instance. Ils fixent, dans ce cas, la somme à consigner.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 186-1
+
+	**Créé par**:
+
+	  - Décret n°2008-597 du 23 juin 2008 - art. 1
 
 
 #### Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna
