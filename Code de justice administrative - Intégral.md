@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-07-30
+Version Consolidée au 2008-08-03
 
 # Partie législative
 
@@ -4155,6 +4155,26 @@ contre les décisions rendues par le juge des référés.
 	**Créé par**:
 
 	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+
+
+###### Article L555-2
+
+La levée du caractère suspensif d'une opposition à un titre exécutoire pris en application de certaines mesures de
+consignation prévues par le code de l'environnement est décidée par le président du tribunal administratif ou le magistrat
+qu'il délègue, statuant en référé. Elle est régie, selon le cas, par le II de l'article L. 162-14, le III de l'article L.
+514-1 et l'article L. 541-3 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-757 du 1er août 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L162-14
+	  - Code de l'environnement - art. L514-1
+	  - Code de l'environnement - art. L541-3
 
 
 ## Livre VII : Le jugement
