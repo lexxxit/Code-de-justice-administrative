@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-08-03
+Version Consolidée au 2008-08-23
 
 # Partie législative
 
@@ -22055,6 +22055,38 @@ expresse contraire dans la décision de désignation, les magistrats désignés 
 	**Cite**:
 
 	  - Code de justice administrative. - art. R222-13 (M)
+
+
+#### Chapitre IX : Autres dispositions
+
+##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.
+
+##### Section 2 : Les actions en matière de discriminations.
+
+###### Article R779-9
+
+Les associations régulièrement déclarées depuis au moins cinq ans et se proposant, par leurs statuts, de lutter contre les
+discriminations peuvent exercer les actions en justice qui naissent de la loi n° 2008-496 du 27 mai 2008 en faveur de la
+victime d'une discrimination.
+
+L'association doit justifier avoir obtenu l'accord écrit de l'intéressé après avoir porté à sa connaissance les informations
+suivantes : 
+
+1° La nature et l'objet de l'action envisagée ; 
+
+2° Le fait que l'action sera conduite par l'association qui pourra exercer elle-même les voies de recours ; 
+
+3° Le fait que l'intéressé pourra, à tout moment, intervenir dans l'instance engagée par l'association ou y mettre fin.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2008-496 du 27 mai 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-799 du 20 août 2008 - art. 2
 
 
 ### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.
