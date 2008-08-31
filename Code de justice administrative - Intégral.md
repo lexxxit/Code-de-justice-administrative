@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-08-24
+Version Consolidée au 2008-09-01
 
 # Partie législative
 
@@ -5815,39 +5815,25 @@ au présent livre.
 
 ###### Article R122-2
 
-La section du contentieux comprend : 
+La section du contentieux comprend :
 
-1° Un président assisté de trois présidents adjoints ; 
+1° Un président assisté de trois présidents adjoints ;
 
 2° Pour chacune des sous-sections, un conseiller d'Etat en service ordinaire chargé des fonctions de président et deux
-conseillers d'Etat en service ordinaire chargés des fonctions d'assesseurs ; 
+conseillers d'Etat en service ordinaire chargés des fonctions d'assesseurs ;
 
-3° Des conseillers d'Etat en service ordinaire appartenant en même temps à une section administrative et appelés à siéger
-dans les conditions prévues aux articles R. 122-15 (alinéa 1) et R. 122-18 (4°) ; 
-
-4° Des conseillers d'Etat en service ordinaire, des maîtres des requêtes et des auditeurs chargés des fonctions de rapporteur
+3° Des conseillers d'Etat en service ordinaire, des maîtres des requêtes et des auditeurs chargés des fonctions de rapporteur
 ou de commissaire du gouvernement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 28 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R122-15 (VT)
+	  - Décret n°2008-225 du 6 mars 2008 - art. 4
 
 	**Cité par**:
 
+	  - Code de justice administrative. - art. R122-15 (V)
 	  - Code de justice administrative. - art. R122-18 (VT)
 	  - Code de justice administrative. - art. R122-8 (VT)
 	  - Code de justice administrative. - art. R122-9 (VD)
@@ -5986,55 +5972,25 @@ la durée de l'absence ou de l'empêchement.
 	  - Code de justice administrative - art. R822-5 (VD)
 
 
-###### Article R122-8
+###### Article R122-9
 
-Les conseillers d'Etat mentionnés au 3° de l'article R. 122-2 ainsi que leurs suppléants sont désignés, au début de chaque
-année, dans les conditions prévues à l'article R. 123-18.
+La répartition entre les sous-sections de la section du contentieux des autres membres du Conseil d'Etat mentionnés au 3° de
+l'article R. 122-2 est arrêtée par le président de ladite section, après avis des présidents adjoints et des présidents de
+sous-section.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2008-225 du 6 mars 2008 - art. 4
 
 	**Cite**:
 
 	  - Code de justice administrative - art. R122-2
-	  - Code de justice administrative - art. R123-18
-
-	**Cité par**:
-
-	  - Code de justice administrative. - art. R122-15 (V)
-	  - Code de justice administrative. - art. R122-18 (VT)
-
-
-###### Article R122-9
-
-La répartition entre les sous-sections de la section du contentieux des autres membres du Conseil d'Etat mentionnés au 4° de
-l'article R. 122-2 est arrêtée par le président de ladite section, après avis des présidents adjoints et des présidents de
-sous-section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 34 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R122-24 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R122-2 (VT)
 
 
 ###### Article R122-10
@@ -6210,9 +6166,10 @@ chacune des sous-sections.
 
 ###### Article R122-15
 
-Les sous-sections réunies sont complétées par un des conseillers d'Etat mentionnés au 3° de l'article R. 122-2 et désignés
-dans les conditions prévues à l'article R. 122-8. Elles sont présidées par l'un des présidents adjoints de la section du
-contentieux ou, à défaut, par le président de la sous-section le plus ancien dans ses fonctions présent à la séance.
+Les sous-sections réunies sont complétées par un conseiller d'Etat appartenant à la section du contentieux désigné par le
+président de celle-ci, en dehors des deux sous-sections qui siègent, selon un tour de rôle établi deux fois par an. Elles
+sont présidées par l'un des présidents adjoints de la section du contentieux ou, à défaut, par le président de la sous-
+section le plus ancien dans ses fonctions présent à la séance.
 
 Le groupement de sous-sections en formations de jugement est fixé par arrêté du vice-président du Conseil d'Etat, pris après
 avis du président de la section du contentieux.
@@ -6221,26 +6178,14 @@ Le vice-président du Conseil d'Etat et le président de la section du contentie
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 38 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 6
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R122-24 (V)
 	  - Code de justice administrative. - art. R122-2 (VT)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R122-8 (V)
 
 
 ###### Article R122-16
@@ -6315,44 +6260,25 @@ gouvernement.
 
 ###### Article R122-18
 
-La section du contentieux en formation de jugement comprend : 
+La section du contentieux en formation de jugement comprend :
 
-1° Le président de la section ; 
+1° Le président de la section ;
 
-2° Les trois présidents adjoints ; 
+2° Les trois présidents adjoints ;
 
-3° Les présidents de sous-section ; 
+3° Les présidents de sous-section ;
 
-4° Deux conseillers d'Etat mentionnés au 3° de l'article R. 122-2 et désignés dans les conditions prévues à l'article R.
-122-8 ; 
-
-5° Le rapporteur. 
-
-Lorsqu'elle siège en formation d'instruction, en application du premier alinéa de l'article R. 611-20, la section du
-contentieux comprend les membres énumérés aux 1°, 2°, 3° et 5° ci-dessus.
+4° Le rapporteur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 40 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-225 du 6 mars 2008 - art. 7
 
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R122-2 (VT)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R122-8 (VT)
-	  - Code de justice administrative. - art. R611-20 (V)
 
 
 ###### Article R122-19
