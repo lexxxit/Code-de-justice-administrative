@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-09-01
+Version Consolidée au 2008-11-29
 
 # Partie législative
 
@@ -21814,6 +21814,183 @@ fondée, le tribunal procède à la réformation de l'arrêté. "
 	  - Décret n°2005-1551 du 6 décembre 2005 - art. 6 () JORF 13 décembre 2005
 
 
+#### Chapitre VIII : Le contentieux du droit au logement
+
+###### Article R778-1
+
+Sont présentées, instruites et jugées selon les dispositions du présent code, sous réserve des dispositions particulières du
+code de la construction et de l'habitation et des dispositions du présent chapitre : 
+
+1° Les requêtes introduites par les demandeurs reconnus par la commission de médiation prévue à l'article L. 441-2-3 du code
+de la construction et de l'habitation comme prioritaires et devant se voir attribuer un logement en urgence, en application
+des dispositions du II du même article, et qui n'ont pas, passé le délai mentionné à l'article R. 441-16-1 du même code, reçu
+une offre de logement tenant compte de leurs besoins et de leurs capacités ; 
+
+2° Les requêtes introduites par les demandeurs reconnus par la commission de médiation comme prioritaires pour un accueil
+dans une structure d'hébergement, un établissement ou logement de transition, un logement-foyer ou une résidence hôtelière à
+vocation sociale, en application des dispositions du III de l'article L. 441-2-3 du code de la construction et de
+l'habitation, et qui n'ont pas, passé le délai mentionné à l'article R. 441-18 du même code, été accueillis dans l'une de ces
+structures, logements ou établissements ; 
+
+3° Les requêtes introduites par les demandeurs qui, en l'absence de commission de médiation, ont saisi le préfet en
+application du quatrième alinéa du I de l'article L. 441-2-3-1 du code de la construction et de l'habitation et qui n'ont
+pas, passé le délai prévu par l'article R. 441-17 du même code, reçu une offre de logement tenant compte de leurs besoins et
+de leurs capacités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 3 (V)
+	  - Code de justice administrative - art. R772-5 (V)
+	  - Code de justice administrative - art. R811-1 (VD)
+	  - Code de justice administrative. - art. R778-2 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-2-3
+	  - Code de la construction et de l'habitation. - art. R441-16-1
+	  - Code de la construction et de l'habitation. - art. R441-17
+	  - Code de la construction et de l'habitation. - art. R441-18
+
+
+###### Article R778-2
+
+Les requêtes mentionnées à l'article R. 778-1 sont présentées dans un délai de quatre mois à compter de l'expiration des
+délais prévus aux articles R. 441-16-1, R. 441-17 et R. 441-18 du code de la construction et de l'habitation. Ce délai n'est
+toutefois opposable au requérant que s'il a été informé, dans la notification de la décision de la commission de médiation ou
+dans l'accusé de réception de la demande adressée au préfet en l'absence de commission de médiation, d'une part, de celui des
+délais mentionnés aux articles R. 441-16-1, R. 441-17 et R. 441-18 de ce code qui était applicable à sa demande et, d'autre
+part, du délai prévu par le présent article pour saisir le tribunal administratif.
+
+A peine d'irrecevabilité, les requêtes doivent être accompagnées, sauf impossibilité justifiée, soit de la décision de la
+commission de médiation dont se prévaut le requérant, soit, en l'absence de commission, d'une copie de la demande adressée
+par le requérant au préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R*441-18-2 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R778-1
+	  - Code de la construction et de l'habitation. - art. R441-16-1
+	  - Code de la construction et de l'habitation. - art. R441-17
+	  - Code de la construction et de l'habitation. - art. R441-18
+
+
+###### Article R778-3
+
+Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il désigne à cet effet, qui doit
+avoir atteint au moins le grade de premier conseiller ou une ancienneté de deux ans. Sauf mention expresse contraire dans la
+décision de désignation, les magistrats désignés au titre de l'article R. 222-13 assurent également ces fonctions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R222-13
+
+
+###### Article R778-4
+
+Le président du tribunal administratif ou le magistrat qu'il désigne à cet effet statue dans le délai prévu à l'article L.
+441-2-3-1 du code de la construction et de l'habitation. 
+
+Les décisions prises pour l'instruction des affaires sont notifiées aux parties par tous moyens. 
+
+Le président du tribunal administratif ou le magistrat qu'il désigne à cet effet peut, dès l'enregistrement de la requête,
+par une décision qui tient lieu d'avis d'audience, fixer la date à laquelle l'affaire sera appelée à l'audience.
+
+L'avis d'audience ou la décision prévue à l'alinéa précédent reproduit les dispositions des articles R. 731-1, R. 731-2, R.
+731-3, R. 732-1 et R. 732-2 en précisant que l'audience, sauf renvoi à une formation collégiale, se déroule sans conclusions
+du commissaire du Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R731-1
+	  - Code de justice administrative - art. R731-2
+	  - Code de justice administrative - art. R731-3
+	  - Code de justice administrative - art. R732-1
+	  - Code de justice administrative - art. R732-2
+	  - Code de la construction et de l'habitation. - art. L441-2-3-1
+
+
+###### Article R778-5
+
+Le juge statue au terme d'une procédure contradictoire écrite ou orale. 
+
+Dès qu'il reçoit notification de la requête, le préfet communique au tribunal administratif l'ensemble du dossier constitué
+pour l'instruction de la demande correspondante, tant devant la commission départementale de médiation que pour donner suite
+à la décision de celle-ci. 
+
+L'instruction est close soit après que les parties ou leurs mandataires ont formulé leurs observations orales, soit, si ces
+parties sont absentes ou ne sont pas représentées, après appel de leur affaire à l'audience. 
+
+L'instruction est rouverte en cas de renvoi à une autre audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+
+###### Article R778-6
+
+Les dispositions des articles R. 522-4, R. 522-7, R. 522-9 et R. 522-11 à R. 522-13 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R522-11
+	  - Code de justice administrative - art. R522-4
+	  - Code de justice administrative - art. R522-7
+	  - Code de justice administrative - art. R522-9
+
+
+###### Article R778-7
+
+A la demande du requérant, un représentant d'une association ayant reçu l'agrément prévu au deuxième alinéa du I de l'article
+L. 441-2-3-1 du code de la construction et de l'habitation peut être entendu lors de l'audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L441-2-3-1
+
+
 #### Chapitre IX : Autres dispositions
 
 ##### Section 1 : Le contentieux du stationnement des résidences mobiles des gens du voyage.
@@ -22059,19 +22236,21 @@ loyale et confidentielle à l'égard des tiers. Elles sont définies par arrêt�
 
 Toute partie présente dans une instance devant le tribunal administratif ou qui y a été régulièrement appelée, alors même
 qu'elle n'aurait produit aucune défense, peut interjeter appel contre toute décision juridictionnelle rendue dans cette
-instance.
+instance. 
 
 Toutefois, dans les litiges énumérés aux 1°, 4°, 5°, 6°, 7°, 8° et 9° de l'article R. 222-13, le tribunal administratif
 statue en premier et dernier ressort. Il en va de même pour les litiges visés aux 2° et 3° de cet article, sauf pour les
 recours comportant des conclusions tendant au versement ou à la décharge de sommes d'un montant supérieur au montant
 déterminé par les articles R. 222-14 et R. 222-15. Cette disposition ne fait pas obstacle à l'application des articles R.
-533-1 et R. 541-3.
+533-1 et R. 541-3. 
 
 Par dérogation aux dispositions de l'alinéa précédent, en cas de connexité avec un litige susceptible d'appel, les décisions
 portant sur les actions visées au 7° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions
 statuant sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à la taxe
 professionnelle, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la valeur
-des mêmes biens appréciée la même année.
+des mêmes biens appréciée la même année. 
+
+Le tribunal administratif statue en premier et dernier ressort sur les requêtes mentionnées à l'article R. 778-1.
 
 **Liens relatifs à cet article**
 
@@ -22083,29 +22262,18 @@ des mêmes biens appréciée la même année.
 	  - Code de justice administrative - art. R77-10-9 (V)
 	  - Code de justice administrative - art. R77-12-10 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2006-1708 du 23 décembre 2006 - art. 5 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R222-13 (M)
-	  - Code de justice administrative. - art. R222-14 (M)
-	  - Code de justice administrative. - art. R222-15 (M)
-	  - Code de justice administrative. - art. R533-1 (V)
-	  - Code de justice administrative. - art. R541-3 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R228 (Ab)
+	  - Code de justice administrative - art. R222-13
+	  - Code de justice administrative - art. R222-14
+	  - Code de justice administrative - art. R222-15
+	  - Code de justice administrative - art. R533-1
+	  - Code de justice administrative - art. R541-3
+	  - Code de justice administrative - art. R778-1
 
 
 ###### Article R811-2
