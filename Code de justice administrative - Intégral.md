@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2008-11-29
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -3574,10 +3574,10 @@ le cas contraire, les garanties supplémentaires à présenter sont diminuées �
 ###### Article L552-2
 
 Le référé à l'égard des mesures conservatoires prises par le comptable à défaut de constitution par le contribuable de
-garanties suffisantes obéit aux règles définies par le 4e alinéa de l'article L. 277 du livre des procédures fiscales ci-
+garanties suffisantes obéit aux règles définies par le 5e alinéa de l'article L. 277 du livre des procédures fiscales ci-
 après reproduit : 
 
-" Art. L. 277, alinéa 4. - Lorsque le comptable a fait procéder à une saisie conservatoire en application du quatrième
+" Art. L. 277, alinéa 5. - Lorsque le comptable a fait procéder à une saisie conservatoire en application du quatrième
 alinéa, le contribuable peut demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer la
 limitation ou l'abandon de cette mesure si elle comporte des conséquences difficilement réparables. Les dispositions des
 troisième et quatrième alinéas de l'article L. 279 sont applicables à cette procédure, la juridiction d'appel étant, selon le
@@ -3585,14 +3585,9 @@ cas, le tribunal administratif ou le tribunal de grande instance. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 66 (V)
 
 	**Liens**:
 
