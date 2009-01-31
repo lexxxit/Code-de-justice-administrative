@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-02-01
 
 # Partie législative
 
@@ -112,20 +112,18 @@ Les débats ont lieu en audience publique.
 
 ###### Article L7
 
-Un membre de la juridiction, chargé des fonctions de commissaire du gouvernement, expose publiquement, et en toute
-indépendance, son opinion sur les questions que présentent à juger les requêtes et sur les solutions qu'elles appellent.
+Un membre de la juridiction, chargé des fonctions de  rapporteur public, expose publiquement, et en toute indépendance, son
+opinion sur les questions que présentent à juger les requêtes et sur les solutions qu'elles appellent.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°86-14 1986-01-06 art. 18 al. 1er
 	  - Loi n°86-14 du 6 janvier 1986 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article L8
@@ -3286,28 +3284,22 @@ mesures qu'il avait ordonnées ou y mettre fin.
 
 ###### Article L522-1
 
-Le juge des référés statue au terme d'une procédure contradictoire écrite ou orale.
+Le juge des référés statue au terme d'une procédure contradictoire écrite ou orale. 
 
 Lorsqu'il lui est demandé de prononcer les mesures visées aux articles L. 521-1 et L. 521-2, de les modifier ou d'y mettre
-fin, il informe sans délai les parties de la date et de l'heure de l'audience publique.
+fin, il informe sans délai les parties de la date et de l'heure de l'audience publique. 
 
-Sauf renvoi à une formation collégiale, l'audience se déroule sans conclusions du commissaire du Gouvernement.
+Sauf renvoi à une formation collégiale, l'audience se déroule sans conclusions du rapporteur public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2000-597 2000-06-30 art. 4, 9 et 10 JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 4 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-597 du 30 juin 2000 - art. 25 (M)
+	  - Code de justice administrative - art. L521-1
 
 	**Cité par**:
 
@@ -5810,21 +5802,21 @@ au présent livre.
 
 ###### Article R122-2
 
-La section du contentieux comprend :
+La section du contentieux comprend : 
 
-1° Un président assisté de trois présidents adjoints ;
+1° Un président assisté de trois présidents adjoints ; 
 
 2° Pour chacune des sous-sections, un conseiller d'Etat en service ordinaire chargé des fonctions de président et deux
-conseillers d'Etat en service ordinaire chargés des fonctions d'assesseurs ;
+conseillers d'Etat en service ordinaire chargés des fonctions d'assesseurs ; 
 
 3° Des conseillers d'Etat en service ordinaire, des maîtres des requêtes et des auditeurs chargés des fonctions de rapporteur
-ou de commissaire du gouvernement.
+ou de  rapporteur public.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-225 du 6 mars 2008 - art. 4
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -5887,26 +5879,17 @@ ministre de la justice, après présentation du vice-président du Conseil d'Eta
 
 ###### Article R122-5
 
-Les commissaires du Gouvernement sont désignés par arrêté du vice-président du Conseil d'Etat pris sur proposition du
-président de la section du contentieux.
+Les rapporteurs publics sont désignés par arrêté du vice-président du Conseil d'Etat pris sur proposition du président de la
+section du contentieux.
 
-Les commissaires du gouvernement ne peuvent exercer leurs fonctions pendant une durée totale supérieure à dix années. En cas
-de nécessité de service, ces fonctions peuvent cependant être prolongées dans la limite d'un an, par arrêté du vice-
-président.
+Les rapporteurs publics ne peuvent exercer leurs fonctions pendant une durée totale supérieure à dix années. En cas de
+nécessité de service, ces fonctions peuvent cependant être prolongées dans la limite d'un an, par arrêté du vice-président.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 30 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 2 () JORF 20 décembre 2005
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -6219,28 +6202,19 @@ nombre pour délibérer.
 Le jugement de toutes les affaires relevant de la juridiction du Conseil d'Etat est renvoyé à la section du contentieux ou à
 l'assemblée du contentieux à la demande soit du vice-président du Conseil d'Etat, soit du président de la section du
 contentieux, soit du président de la formation de jugement, soit de la sous-section ou des sous-sections réunies, soit du
-commissaire du Gouvernement.
+rapporteur public. 
 
 Les affaires dont l'instruction a été confiée à la section du contentieux en application du premier alinéa de l'article R.
-611-20 sont jugées par l'assemblée du contentieux.
+611-20 sont jugées par l'assemblée du contentieux. 
 
 Le renvoi devant les sous-sections réunies d'une affaire portée devant la sous-section siégeant en formation du jugement a
-lieu à la demande soit du président de la formation de jugement, soit de la sous-section, soit du commissaire du
-gouvernement.
+lieu à la demande soit du président de la formation de jugement, soit de la sous-section, soit du rapporteur public.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 39 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -6250,7 +6224,7 @@ gouvernement.
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R611-20 (V)
+	  - Code de justice administrative - art. R611-20
 
 
 ###### Article R122-18
@@ -9412,43 +9386,44 @@ de greffe de catégorie A.
 ###### Article R222-13
 
 Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin et ayant atteint au moins le grade de
-premier conseiller ou ayant une ancienneté minimale de deux ans statue en audience publique et après audition du commissaire
-du gouvernement :
+premier conseiller ou ayant une ancienneté minimale de deux ans statue en audience publique et après audition du rapporteur
+public : 
 
-1° Sur les litiges relatifs aux déclarations préalables prévues par l'article L. 421-4 du code de l'urbanisme ;
+1° Sur les litiges relatifs aux déclarations préalables prévues par l'article L. 421-4 du code de l'urbanisme ; 
 
 2° Sur les litiges relatifs à la situation individuelle des fonctionnaires ou agents de l'Etat et des autres personnes ou
 collectivités publiques, ainsi que des agents ou employés de la Banque de France, à l'exception de ceux concernant l'entrée
-au service, la discipline et la sortie du service ;
+au service, la discipline et la sortie du service ; 
 
 3° Sur les litiges en matière de pensions, d'aide personnalisée au logement, de communication de documents administratifs, de
-service national ;
+service national ; 
 
-4° Sur les litiges relatifs à la redevance audiovisuelle ;
+4° Sur les litiges relatifs à la redevance audiovisuelle ; 
 
-5° Sur les recours relatifs aux taxes syndicales et aux impôts locaux autres que la taxe professionnelle ;
+5° Sur les recours relatifs aux taxes syndicales et aux impôts locaux autres que la taxe professionnelle ; 
 
 6° Sur la mise en oeuvre de la responsabilité de l'Etat pour refus opposé à une demande de concours de la force publique pour
-exécuter une décision de justice ;
+exécuter une décision de justice ; 
 
 7° Sur les actions indemnitaires, lorsque le montant des indemnités demandées est inférieur au montant déterminé par les
-articles R. 222-14 et R. 222-15 ;
+articles R. 222-14 et R. 222-15 ; 
 
-8° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ;
+8° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ; 
 
-9° Sur les litiges relatifs aux bâtiments menaçant ruine ;
+9° Sur les litiges relatifs aux bâtiments menaçant ruine ; 
 
 10° Sur les litiges relatifs au permis de conduire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R222-14
+	  - Code de l'urbanisme - art. L421-4
 
 	**Cité par**:
 
@@ -9463,15 +9438,6 @@ articles R. 222-14 et R. 222-15 ;
 	  - Code de justice administrative. - art. R731-3 (M)
 	  - Code de justice administrative. - art. R778-3 (V)
 	  - Code de justice administrative. - art. R779-8 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R222-14 (M)
-	  - Code de l'urbanisme - art. L421-4 (M)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. L4-1 (M)
 
 
 ###### Article R222-14
@@ -9627,35 +9593,22 @@ formation de trois membres.
 ###### Article R222-19
 
 La formation de jugement ou le président du tribunal peuvent, à tout moment de la procédure, décider d'inscrire une affaire
-au rôle du tribunal statuant dans l'une des formations prévues aux articles R. 222-20 et R. 222-21.
+au rôle du tribunal statuant dans l'une des formations prévues aux articles R. 222-20 et R. 222-21. 
 
 Dans les cas mentionnés à l'article R. 222-13, le président du tribunal ou le magistrat désigné pour statuer peuvent, de leur
-propre initiative ou sur proposition du commissaire du Gouvernement décider d'inscrire l'affaire au rôle d'une chambre ou de
-l'une des formations de jugement mentionnées à l'alinéa précédent.
+propre initiative ou sur proposition du rapporteur public décider d'inscrire l'affaire au rôle d'une chambre ou de l'une des
+formations de jugement mentionnées à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2003-543 du 24 juin 2003 - art. 4 () JORF 25 juin 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R222-13 (M)
-	  - Code de justice administrative. - art. R222-20 (V)
-	  - Code de justice administrative. - art. R222-21 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R191 (M)
+	  - Code de justice administrative - art. R222-13
+	  - Code de justice administrative - art. R222-20
 
 
 ###### Article R222-20
@@ -9775,18 +9728,13 @@ le vice-président de section ou, à défaut, par le magistrat de cette section 
 
 Dans chaque tribunal administratif, selon ses besoins, un ou plusieurs premiers conseillers ou conseillers sont chargés, par
 arrêté du vice-président du Conseil d'Etat pris sur proposition du président de la juridiction et après avis conforme du
-Conseil supérieur des tribunaux administratifs et des cours administratives d'appel, d'exercer les fonctions de commissaire
-du Gouvernement.
+Conseil supérieur des tribunaux administratifs et des cours administratives d'appel, d'exercer les fonctions de  rapporteur
+public. 
 
 Lorsque le fonctionnement du tribunal administratif l'exige, un premier conseiller ou conseiller qui exerce les fonctions de
-commissaire du gouvernement peut être rapporteur dans les affaires sur lesquelles il n'est pas ou n'a pas été appelé à
-conclure.
+rapporteur public peut être rapporteur dans les affaires sur lesquelles il n'est pas ou n'a pas été appelé à conclure.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
 
 	**Cité par**:
 
@@ -9795,16 +9743,12 @@ conclure.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 4 () JORF 20 décembre 2005
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R19 (M)
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article R222-24
 
-Tout commissaire du gouvernement absent ou empêché est suppléé de droit par un autre commissaire du gouvernement.
+Tout  rapporteur public absent ou empêché est suppléé de droit par un autre  rapporteur public.
 
 A défaut, et si le fonctionnement du tribunal ou de la cour l'exige, ses fonctions sont temporairement exercées par un membre
 du corps du grade de conseiller ou de premier conseiller pris dans l'ordre du tableau et désigné par le président du tribunal
@@ -9812,18 +9756,9 @@ ou de la cour.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°86-14 du 6 janvier 1986 - art. 18, v. init.
-	  - Code des tribunaux administratifs et des cours adm - art. R20 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -10106,16 +10041,15 @@ communs.
 
 ###### Article R223-2
 
-Les fonctions de commissaire du gouvernement auprès des tribunaux administratifs de Basse-Terre, de Cayenne, de Fort-de-
-France de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon sont assurées par le ou les mêmes magistrats. Il
-en va de même pour les fonctions de commissaire du gouvernement auprès des tribunaux administratifs de Mayotte et de Saint-
-Denis.
+Les fonctions de  rapporteur public auprès des tribunaux administratifs de Basse-Terre, de Cayenne, de Fort-de-France de
+Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon sont assurées par le ou les mêmes magistrats. Il en va de
+même pour les fonctions de  rapporteur public auprès des tribunaux administratifs de Mayotte et de Saint-Denis.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 7
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article R223-3
@@ -10964,27 +10898,14 @@ Nouvelle-Calédonie. Ces tribunaux peuvent avoir des membres communs.
 
 ###### Article R225-10
 
-Les fonctions de commissaire du Gouvernement auprès des tribunaux administratifs de Mata-Utu et de Nouvelle-Calédonie sont
-assurées par le ou les mêmes magistrats.
+Les fonctions de  rapporteur public auprès des tribunaux administratifs de Mata-Utu et de Nouvelle-Calédonie sont assurées
+par le ou les mêmes magistrats.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2004-2 2004-01-02 art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article R225-11
@@ -11616,26 +11537,14 @@ administratifs au sein de ces juridictions.
 
 ###### Article R231-2
 
-Les premiers conseillers et les conseillers peuvent occuper les fonctions de rapporteur ou de commissaire du gouvernement
-dans les tribunaux administratifs ou dans les cours administratives d'appel.
+Les premiers conseillers et les conseillers peuvent occuper les fonctions de rapporteur ou de  rapporteur public dans les
+tribunaux administratifs ou dans les cours administratives d'appel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°97-859 du 18 septembre 1997 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2003-543 du 24 juin 2003 - art. 7 () JORF 25 juin 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article R231-3
@@ -17230,21 +17139,13 @@ représenter l'Etat devant le tribunal.
 ###### Article R611-13
 
 Lorsque, après étude par le rapporteur, l'affaire est en état d'être portée à l'audience, le dossier est transmis au
-commissaire du gouvernement.
+rapporteur public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R145 (Ab)
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article R611-14
@@ -17391,28 +17292,20 @@ Les dispositions de l'article R. 611-11 sont applicables. Le président de chamb
 ###### Article R611-19
 
 Chaque chambre assure l'instruction des affaires qui lui sont confiées. Elle tient, si son président le juge utile, une
-séance d'instruction avant la transmission du dossier au commissaire du gouvernement. Celui-ci assiste à la séance
-d'instruction. La chambre siège, en formation d'instruction, sous la présidence de son président, entouré d'un magistrat,
-désigné en suivant l'ordre du tableau parmi les magistrats présents, et du magistrat-rapporteur. En cas d'absence ou
-d'empêchement, le président est remplacé selon les modalités définies à l'article R. 222-26.
+séance d'instruction avant la transmission du dossier au rapporteur public. Celui-ci assiste à la séance d'instruction. La
+chambre siège, en formation d'instruction, sous la présidence de son président, entouré d'un magistrat, désigné en suivant
+l'ordre du tableau parmi les magistrats présents, et du magistrat-rapporteur. En cas d'absence ou d'empêchement, le président
+est remplacé selon les modalités définies à l'article R. 222-26.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R222-26 (M)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R148 (M)
+	  - Code de justice administrative - art. R222-26
 
 
 ##### Section 4 : Dispositions applicables devant le Conseil d'Etat
@@ -17421,36 +17314,28 @@ d'empêchement, le président est remplacé selon les modalités définies à l'
 
 Le président de la section du contentieux répartit les affaires entre les sous-sections. Il peut décider que l'instruction
 d'une affaire sera confiée à la section du contentieux. Dans ce cas, il lui appartient de désigner le rapporteur et d'exercer
-les pouvoirs dévolus par le présent code à la sous-section chargée de l'instruction.
+les pouvoirs dévolus par le présent code à la sous-section chargée de l'instruction. 
 
 Avant la répartition des affaires entre les sous-sections, le président de la section du contentieux peut accomplir les actes
-d'instruction nécessaires à la mise en état des affaires.
+d'instruction nécessaires à la mise en état des affaires. 
 
 Chaque sous-section est chargée de l'instruction des affaires qui lui ont été attribuées. Le rapporteur est désigné pour
-chaque affaire par le président de la sous-section.
+chaque affaire par le président de la sous-section. 
 
 Lorsqu'il décide de renvoyer à une des formations collégiales mentionnées au premier alinéa de l'article L. 122-1 le jugement
 d'une requête présentée en application du livre V, le président de la section du contentieux accomplit les actes
-d'instruction nécessaires et désigne le rapporteur ainsi que le commissaire du Gouvernement, à moins qu'il n'attribue
-l'affaire à une sous-section.
+d'instruction nécessaires et désigne le rapporteur ainsi que le rapporteur public, à moins qu'il n'attribue l'affaire à une
+sous-section.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 36 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Code de justice administrative - art. L122-1
 
 	**Cité par**:
 
@@ -17459,10 +17344,6 @@ l'affaire à une sous-section.
 	  - Code de justice administrative - art. R122-24 (V)
 	  - Code de justice administrative - art. R822-1 (V)
 	  - Code de justice administrative. - art. R122-18 (VT)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L122-1 (V)
 
 
 ###### Article R611-21
@@ -19061,33 +18942,27 @@ Il est instruit dans les formes prévues pour la requête.
 
 ###### Article R711-1
 
-Au tribunal administratif, le rôle de chaque audience est arrêté par le président du tribunal et communiqué au commissaire du
-gouvernement.
+Au tribunal administratif, le rôle de chaque audience est arrêté par le président du tribunal et communiqué au  rapporteur
+public.
 
-A la cour administrative d'appel, le rôle de chaque audience est préparé par le commissaire du gouvernement chargé de
-présenter ses conclusions et arrêté par le président de la cour.
+A la cour administrative d'appel, le rôle de chaque audience est préparé par le  rapporteur public chargé de présenter ses
+conclusions et arrêté par le président de la cour.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R190 (Ab)
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article R711-2
 
 Toute partie est avertie, par une notification faite par lettre recommandée avec demande d'avis de réception ou par la voie
-administrative mentionnée à l'article R. 611-4, du jour où l'affaire sera appelée à l'audience. 
+administrative mentionnée à l'article R. 611-4, du jour où l'affaire sera appelée à l'audience.
 
-L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 732-1 et R. 732-2. 
+L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 732-1 et R. 732-2. Il mentionne
+également les modalités selon lesquelles les parties ou leurs mandataires peuvent prendre connaissance du sens des
+conclusions du rapporteur public, en application de l'article R. 711-3 (1).
 
 L'avertissement est donné sept jours au moins avant l'audience. Toutefois, en cas d'urgence, ce délai peut être réduit à deux
 jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis d'audience. 
@@ -19110,79 +18985,85 @@ sept jours est porté à dix jours.
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cite**:
 
 	  - Code de justice administrative - art. R611-4
+	  - Code de justice administrative - art. R711-3
 	  - Code de justice administrative - art. R731-1
-	  - Code de justice administrative - art. R731-2
-	  - Code de justice administrative - art. R731-3
 	  - Code de justice administrative - art. R732-1
-	  - Code de justice administrative - art. R732-2
 
 
 ###### Article R711-3
 
-Les rôles sont affichés à la porte de la salle d'audience.
+Si le jugement de l'affaire doit intervenir après le prononcé de conclusions du  rapporteur public, les parties ou leurs
+mandataires sont mis en mesure de  connaître, avant la tenue de l'audience, le sens de ces conclusions sur  l'affaire qui les
+concerne.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-	  - TRANSFERE: Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R711-2 (V)
 
-	**Nouveaux textes**:
 
-	  - Code de justice administrative. - art. R711-4 (VD)
+###### Article R711-4
+
+Les rôles sont affichés à la porte de la salle d'audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Anciens textes**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. R192 (Ab)
+	  - Code de justice administrative. - art. R711-3 (VT)
 
 
 #### Chapitre II : Dispositions applicables au Conseil d'Etat
 
 ###### Article R712-1
 
-Le rôle de chaque séance de jugement est préparé par le commissaire du gouvernement chargé de présenter ses conclusions et
-arrêté par le président de la formation de jugement.
+Le rôle de chaque séance de jugement est préparé par le rapporteur public chargé de présenter ses conclusions et arrêté par
+le président de la formation de jugement. 
 
-Lorsqu'une affaire est inscrite au rôle de l'assemblée du contentieux, le Premier ministre en est tenu informé.
+Lorsqu'une affaire est inscrite au rôle de l'assemblée du contentieux, le Premier ministre en est tenu informé. 
 
 Quatre jours au moins avant la séance, les avocats au Conseil d'Etat et à la Cour de cassation sont avisés que les affaires
 pour lesquelles ils sont inscrits figurent au rôle. En cas d'urgence, ce délai peut être réduit à deux jours par décision du
-président de la section du contentieux.
+président de la section du contentieux. 
 
 Les parties qui ne sont pas représentées par un avocat au Conseil d'Etat et à la Cour de cassation sont informées de
 l'inscription au rôle de leur affaire.
 
-L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 733-1, R. 733-2 et R. 733-3.
+Si le jugement  de l'affaire doit intervenir après le prononcé de conclusions du rapporteur  public, les parties ou leurs
+mandataires sont mis en mesure de connaître, avant  la tenue de l'audience, le sens de ces conclusions sur l'affaire qui les
+concerne. 
+
+L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 733-1, R. 733-2 et R. 733-3. Il
+mentionne  également les modalités selon lesquelles les parties ou leurs mandataires  peuvent prendre connaissance du sens
+des conclusions du rapporteur public, en  application de l'alinéa précédent.  
 
 Les rôles sont affichés au secrétariat du contentieux.
 
+**Nota:**
+
+Décret n° 2009-14 du 7 janvier 2009 art. 3 : Les dispositions introduites par l'article 1er 5° 
+  _b_ s'appliquent aux audiences et séances de jugement tenues à compter du premier jour du troisième mois suivant la
+publication du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 55 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
 
 	**Modifié par**:
 
-	  - Décret n°2006-964 du 1 août 2006 - art. 3 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -19190,12 +19071,8 @@ Les rôles sont affichés au secrétariat du contentieux.
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R731-1 (M)
-	  - Code de justice administrative. - art. R731-2 (M)
-	  - Code de justice administrative. - art. R731-3 (M)
-	  - Code de justice administrative. - art. R733-1 (V)
-	  - Code de justice administrative. - art. R733-2 (V)
-	  - Code de justice administrative. - art. R733-3 (V)
+	  - Code de justice administrative - art. R731-1
+	  - Code de justice administrative - art. R733-1
 
 
 ### Titre II : L'abstention et la récusation
@@ -19434,18 +19311,14 @@ préjudice des poursuites pénales ou disciplinaires qui pourraient être exerc�
 
 ###### Article R731-3
 
-Postérieurement au prononcé des conclusions du commissaire du Gouvernement, toute partie à l'instance peut adresser au
-président de la formation de jugement une note en délibéré.
+Postérieurement au prononcé des conclusions du  rapporteur public, toute partie à l'instance peut adresser au président de la
+formation de jugement une note en délibéré.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -19522,25 +19395,24 @@ secret, sous les sanctions prévues par l'article 226-13 du code pénal.
 Après le rapport qui est fait sur chaque affaire par un membre de la formation de jugement ou par le magistrat mentionné à
 l'article R. 222-13, les parties peuvent présenter soit en personne, soit par un avocat au Conseil d'Etat et à la Cour de
 cassation, soit par un avocat, des observations orales à l'appui de leurs conclusions écrites. Le président a la faculté de
-leur retirer la parole si elles ne sont pas en mesure de discuter leur cause avec la modération ou la clarté requises.
+leur retirer la parole si elles ne sont pas en mesure de discuter leur cause avec la modération ou la clarté requises. 
 
 La formation de jugement peut également entendre les agents de l'administration compétente ou les appeler devant elle pour
-fournir des explications.
+fournir des explications. 
 
 Au tribunal administratif, le président de la formation de jugement peut, au cours de l'audience et à titre exceptionnel,
-demander des éclaircissements à toute personne présente dont l'une des parties souhaiterait l'audition.
+demander des éclaircissements à toute personne présente dont l'une des parties souhaiterait l'audition. 
 
-Le commissaire du gouvernement prononce ensuite ses conclusions.
+Le rapporteur public prononce ensuite ses conclusions.
+
+Les parties ou  leurs mandataires peuvent présenter de brèves observations orales après le  prononcé des conclusions du
+rapporteur public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -19551,7 +19423,7 @@ Le commissaire du gouvernement prononce ensuite ses conclusions.
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R222-13 (M)
+	  - Code de justice administrative - art. R222-13
 
 	**Anciens textes**:
 
@@ -19560,17 +19432,13 @@ Le commissaire du gouvernement prononce ensuite ses conclusions.
 
 ###### Article R732-2
 
-La décision est délibérée hors la présence des parties et du commissaire du Gouvernement.
+La décision est délibérée hors la présence des parties et du  rapporteur public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -19583,17 +19451,16 @@ La décision est délibérée hors la présence des parties et du commissaire du
 ###### Article R733-1
 
 Après le rapport, les avocats au Conseil d'Etat représentant les parties peuvent présenter leurs observations orales. Le
-commissaire du Gouvernement prononce ensuite ses conclusions.
+rapporteur public prononce ensuite ses conclusions.
+
+Les avocats au  Conseil d'Etat représentant les parties peuvent présenter de brèves observations  orales après le prononcé
+des conclusions du rapporteur public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -19621,20 +19488,16 @@ La décision est délibérée hors la présence des parties.
 
 ###### Article R733-3
 
-Sauf demande contraire d'une partie, le commissaire du Gouvernement assiste au délibéré. Il n'y prend pas part.
+Sauf demande contraire d'une partie, le  rapporteur public assiste au délibéré. Il n'y prend pas part. 
 
 La demande prévue à l'alinéa précédent est présentée par écrit. Elle peut l'être à tout moment de la procédure avant le
 délibéré.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2006-964 du 1 août 2006 - art. 5 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -19667,42 +19530,33 @@ Réserve faite des dispositions applicables aux ordonnances, la décision est pr
 ###### Article R741-2
 
 La décision mentionne que l'audience a été publique, sauf s'il a été fait application des dispositions de l'article L. 731-1.
-Dans ce dernier cas, il est mentionné que l'audience a eu lieu ou s'est poursuivie hors la présence du public.
+Dans ce dernier cas, il est mentionné que l'audience a eu lieu ou s'est poursuivie hors la présence du public. 
 
 Elle contient le nom des parties, l'analyse des conclusions et mémoires ainsi que les visas des dispositions législatives ou
-réglementaires dont elle fait application.
+réglementaires dont elle fait application. 
 
-Mention y est faite que le rapporteur et le commissaire du gouvernement et, s'il y a lieu, les parties, leurs mandataires ou
-défenseurs ainsi que toute personne entendue sur décision du président en vertu du deuxième alinéa de l'article R. 731-3 ont
-été entendus.
+Mention y est faite que le rapporteur et le rapporteur public et, s'il y a lieu, les parties, leurs mandataires ou défenseurs
+ainsi que toute personne entendue sur décision du président en vertu du deuxième alinéa de l'article R. 731-3 ont été
+entendus. 
 
-Mention est également faite de la production d'une note en délibéré.
+Mention est également faite de la production d'une note en délibéré. 
 
 La décision fait apparaître la date de l'audience et la date à laquelle elle a été prononcée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 68 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R200 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 8 () JORF 20 décembre 2005
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L731-1
+	  - Code de justice administrative - art. R731-3
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R776-15 (VD)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L731-1 (V)
-	  - Code de justice administrative. - art. R731-3 (M)
 
 
 ###### Article R741-3
@@ -21197,26 +21051,21 @@ annulation dirigés contre les décisions visées aux articles L. 776-1 et L. 77
 ###### Article R776-2
 
 Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du
-commissaire du gouvernement.
+rapporteur public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R776-5 (V)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. R241-2 (Ab)
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 
 ###### Article R776-2-1
@@ -21914,13 +21763,13 @@ par une décision qui tient lieu d'avis d'audience, fixer la date à laquelle l'
 
 L'avis d'audience ou la décision prévue à l'alinéa précédent reproduit les dispositions des articles R. 731-1, R. 731-2, R.
 731-3, R. 732-1 et R. 732-2 en précisant que l'audience, sauf renvoi à une formation collégiale, se déroule sans conclusions
-du commissaire du Gouvernement.
+du  rapporteur public.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cite**:
 
@@ -23052,25 +22901,16 @@ l'article R. 611-20.
 ###### Article R822-2
 
 S'il apparaît que l'admission du pourvoi peut être refusée, le président de la sous-section transmet le dossier au
-commissaire du gouvernement en vue de son inscription au rôle ; le requérant ou son mandataire est averti du jour de la
-séance.
+rapporteur public en vue de son inscription au rôle ; le requérant ou son mandataire est averti du jour de la séance. 
 
 Dans le cas contraire, le président de la sous-section décide qu'il sera procédé à l'instruction du pourvoi dans les
 conditions ordinaires ; le requérant ou son mandataire est avisé de cette décision.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 57-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 
 ###### Article R822-3
