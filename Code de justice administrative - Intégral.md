@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-04-10
+Version Consolidée au 2009-04-13
 
 # Partie législative
 
@@ -21677,9 +21677,9 @@ une offre de logement tenant compte de leurs besoins et de leurs capacités ;
 
 2° Les requêtes introduites par les demandeurs reconnus par la commission de médiation comme prioritaires pour un accueil
 dans une structure d'hébergement, un établissement ou logement de transition, un logement-foyer ou une résidence hôtelière à
-vocation sociale, en application des dispositions du III de l'article L. 441-2-3 du code de la construction et de
-l'habitation, et qui n'ont pas, passé le délai mentionné à l'article R. 441-18 du même code, été accueillis dans l'une de ces
-structures, logements ou établissements ; 
+vocation sociale,     en application des dispositions du III ou du IV de l'article L. 441-2-3 du code de la construction et
+de l'habitation, et qui n'ont pas, passé le délai mentionné à l'article R. 441-18 du même code, été accueillis dans l'une de
+ces structures, logements ou établissements ; 
 
 3° Les requêtes introduites par les demandeurs qui, en l'absence de commission de médiation, ont saisi le préfet en
 application du quatrième alinéa du I de l'article L. 441-2-3-1 du code de la construction et de l'habitation et qui n'ont
@@ -21688,16 +21688,16 @@ de leurs capacités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2008-1227 du 27 novembre 2008 - art. 3 (V)
 	  - Code de justice administrative - art. R772-5 (V)
 	  - Code de justice administrative - art. R811-1 (VD)
 	  - Code de justice administrative. - art. R778-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-400 du 10 avril 2009 - art. 2
 
 	**Cite**:
 
@@ -21826,14 +21826,14 @@ Les dispositions des articles R. 522-4, R. 522-7, R. 522-9 et R. 522-11 à R. 52
 
 ###### Article R778-7
 
-A la demande du requérant, un représentant d'une association ayant reçu l'agrément prévu au deuxième alinéa du I de l'article
-L. 441-2-3-1 du code de la construction et de l'habitation peut être entendu lors de l'audience.
+A la demande du requérant, la personne assurant l'assistance prévue au deuxième alinéa du I de l'article L. 441-2-3-1 du code
+de la construction et de l'habitation peut être entendue lors de l'audience.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+	  - Décret n°2009-400 du 10 avril 2009 - art. 2
 
 	**Cite**:
 
