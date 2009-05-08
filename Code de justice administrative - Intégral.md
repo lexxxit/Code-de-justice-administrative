@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-04-13
+Version Consolidée au 2009-05-09
 
 # Partie législative
 
@@ -3380,30 +3380,23 @@ cet effet statue dans un délai de quarante-huit heures et exerce le cas échéa
 
 #### Chapitre Ier : Le référé en matière de passation de contrats et marchés
 
+##### Section 1 : Référé précontractuel
+
+##### Sous-section 1 : Contrats passés par les pouvoirs adjudicateurs
+
 ###### Article L551-1
 
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
-de publicité et de mise en concurrence auxquelles est soumise la passation des marchés publics, des marchés mentionnés au 2°
-de l'article 24 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou
-privées non soumises au code des marchés publics, des contrats de partenariat, des contrats visés au premier alinéa de
-l'article L. 6148-5 du code de la santé publique et des conventions de délégation de service public.
+de publicité et de mise en concurrence auxquelles est soumise la passation par les pouvoirs adjudicateurs de contrats
+administratifs ayant pour objet l'exécution de travaux, la livraison de fournitures ou la prestation de services, avec une
+contrepartie économique constituée par un prix ou un droit d'exploitation, ou la délégation d'un service public. 
 
-Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
-par ce manquement, ainsi que le représentant de l'Etat dans le département dans le cas où le contrat est conclu ou doit être
-conclu par une collectivité territoriale ou un établissement public local.
+Le juge est saisi avant la conclusion du contrat.
 
-Le président du tribunal administratif peut être saisi avant la conclusion du contrat. Il peut ordonner à l'auteur du
-manquement de se conformer à ses obligations et suspendre la passation du contrat ou l'exécution de toute décision qui s'y
-rapporte. Il peut également annuler ces décisions et supprimer les clauses ou prescriptions destinées à figurer dans le
-contrat et qui méconnaissent lesdites obligations. Dès qu'il est saisi, il peut enjoindre de différer la signature du contrat
-jusqu'au terme de la procédure et pour une durée maximum de vingt jours.
+**Nota:**
 
-Sauf si la demande porte sur des marchés ou contrats passés par l'Etat, elle peut également être présentée par celui-ci
-lorsque la Commission des communautés européennes lui a notifié les raisons pour lesquelles elle estime qu'une violation
-claire et manifeste des obligations de publicité et de mise en concurrence d'origine communautaire ou résultant de l'accord
-sur l'Espace économique européen, a été commise.
-
-Le président du tribunal administratif ou son délégué statue en premier et dernier ressort en la forme des référés.
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -3423,58 +3416,25 @@ Le président du tribunal administratif ou son délégué statue en premier et d
 	  - Code de la voirie routière - art. L122-20 (V)
 	  - Code du travail - art. L8272-4 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cite**:
-
-	  - Ordonnance 2005-649 2005-06-06 art. 24
-	  - Code de la santé publique - art. L6148-5 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 39 () JORF 7 juin 2005 en vigueur le 1er septembre 2005
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. L22 (Ab)
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
 
 
 ###### Article L551-2
 
-Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
-de publicité ou de mise en concurrence auxquelles sont soumis les marchés mentionnés au 2° de l'article 33 de l'ordonnance n°
-2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou privées non soumises au code des
-marchés publics. Le juge ne peut statuer, avant la conclusion du contrat, que dans les conditions définies ci-après.
+Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations et suspendre l'exécution de toute décision
+qui se rapporte à la passation du contrat, sauf s'il estime, en considération de l'ensemble des intérêts susceptibles d'être
+lésés et notamment de l'intérêt public, que les conséquences négatives de ces mesures pourraient l'emporter sur leurs
+avantages. 
 
-Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
-par ce manquement.
+Il peut, en outre, annuler les décisions qui se rapportent à la passation du contrat et supprimer les clauses ou
+prescriptions destinées à figurer dans le contrat et qui méconnaissent lesdites obligations.
 
-Le président du tribunal administratif, ou le magistrat qu'il délègue, peut ordonner à l'auteur du manquement de se conformer
-à ses obligations. Il détermine les délais dans lesquels l'auteur du manquement doit s'exécuter. Il peut aussi prononcer une
-astreinte provisoire courant à l'expiration des délais impartis. Il peut toutefois prendre en considération les conséquences
-probables de cette dernière mesure pour tous les intérêts susceptibles d'être atteints, notamment l'intérêt public, et
-décider de ne pas l'accorder lorsque ses conséquences négatives pourraient dépasser ses avantages. Dès qu'il est saisi, il
-peut enjoindre de différer la signature du contrat jusqu'au terme de la procédure et pour une durée maximum de vingt jours.
+**Nota:**
 
-Le montant de l'astreinte provisoire est liquidé en tenant compte du comportement de celui à qui l'injonction a été adressée
-et des difficultés qu'il a rencontrées pour l'exécuter.
-
-Sauf si la demande porte sur des marchés ou contrats passés par l'Etat, elle peut également être présentée par celui-ci
-lorsque la Commission des communautés européennes lui a notifié les raisons pour lesquelles elle estime qu'une violation
-claire et manifeste des obligations mentionnées ci-dessus a été commise.
-
-Le président du tribunal administratif, ou le magistrat qu'il délègue, statue en premier et dernier ressort en la forme des
-référés.
-
-Si, à la liquidation de l'astreinte provisoire, le manquement constaté n'a pas été corrigé, le juge peut prononcer une
-astreinte définitive. Dans ce cas, il statue en la forme des référés, appel pouvant être fait comme en matière de référé.
-
-L'astreinte, qu'elle soit provisoire ou définitive, est indépendante des dommages-intérêts. L'astreinte provisoire ou
-définitive est supprimée en tout ou partie s'il est établi que l'inexécution ou le retard dans l'exécution de l'injonction du
-juge provient, en tout ou partie, d'une cause étrangère.
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -3488,22 +3448,563 @@ juge provient, en tout ou partie, d'une cause étrangère.
 	  - Code de justice administrative. - art. R551-4 (V)
 	  - Code de justice administrative. - art. R551-6 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+
+###### Article L551-3
+
+Le président du tribunal administratif ou son délégué statue en premier et dernier ressort en la forme des référés.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+
+###### Article L551-4
+
+Le contrat ne peut être signé à compter de la saisine du tribunal administratif et jusqu'à la notification au pouvoir
+adjudicateur de la décision juridictionnelle.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice administrative. - art. L551-14 (V)
+	  - Code de justice administrative. - art. L551-18 (V)
+	  - Code de justice administrative. - art. L551-20 (V)
+
+
+##### Sous-section 2 : Contrats passés par les entités adjudicatrices
+
+###### Article L551-5
+
+Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
+de publicité et de mise en concurrence auxquelles est soumise la passation par les entités adjudicatrices de contrats
+administratifs ayant pour objet l'exécution de travaux, la livraison de fournitures ou la prestation de services, avec une
+contrepartie économique constituée par un prix ou un droit d'exploitation, ou la délégation d'un service public. 
+
+Le juge est saisi avant la conclusion du contrat.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 16 (VT)
+	  - Loi n°2017-257 du 28 février 2017 - art. 67 (V)
+	  - Code de justice administrative - art. L551-14 (V)
+	  - Code de justice administrative - art. L551-18 (V)
+	  - Code de justice administrative. - art. R551-5 (V)
+	  - Code du travail - art. L8272-4 (V)
+
+
+###### Article L551-6
+
+Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations en lui fixant un délai à cette fin. Il peut
+lui enjoindre de suspendre l'exécution de toute décision se rapportant à la passation du contrat. Il peut, en outre,
+prononcer une astreinte provisoire courant à l'expiration des délais impartis. 
+
+Le montant de l'astreinte provisoire est liquidé en tenant compte du comportement de celui à qui l'injonction a été adressée
+et des difficultés qu'il a rencontrées pour l'exécuter. 
+
+Si, à la liquidation de l'astreinte provisoire, le manquement constaté n'a pas été corrigé, le juge peut prononcer une
+astreinte définitive. Dans ce cas, il statue en la forme des référés, appel pouvant être fait comme en matière de référé. 
+
+L'astreinte, qu'elle soit provisoire ou définitive, est indépendante des dommages et intérêts. L'astreinte provisoire ou
+définitive est supprimée en tout ou partie s'il est établi que l'inexécution ou le retard dans l'exécution de l'injonction du
+juge provient, en tout ou partie, d'une cause étrangère.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L551-2 (VD)
+	  - Code de justice administrative - art. L551-7 (V)
+	  - Code de justice administrative. - art. L551-12 (V)
+	  - Code de justice administrative. - art. R551-4 (V)
+	  - Code de justice administrative. - art. R551-6 (V)
+
+
+###### Article L551-7
+
+Le juge peut toutefois, en considération de l'ensemble des intérêts susceptibles d'être lésés et notamment de l'intérêt
+public, écarter les mesures énoncées au premier alinéa de l'article L. 551-6 lorsque leurs conséquences négatives pourraient
+l'emporter sur leurs avantages.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Ordonnance 2005-649 2005-06-06 art. 33
+	  - Code de justice administrative - art. L551-6 (V)
 
-	**Modifié par**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 39 () JORF 7 juin 2005 en vigueur le 1er septembre 2005
+###### Article L551-8
 
-	**Anciens textes**:
+Le président du tribunal administratif, ou le magistrat qu'il délègue, statue en premier et dernier ressort en la forme des
+référés.
 
-	  - Code des tribunaux administratifs et des cours adm - art. L23 (M)
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+
+###### Article L551-9
+
+Le contrat ne peut être signé à compter de la saisine du tribunal administratif et jusqu'à la notification à l'entité
+adjudicatrice de la décision juridictionnelle.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice administrative. - art. L551-14 (V)
+	  - Code de justice administrative. - art. L551-18 (V)
+	  - Code de justice administrative. - art. L551-20 (V)
+
+
+##### Sous-section 3 : Dispositions communes
+
+###### Article L551-10
+
+Les personnes habilitées à engager les recours prévus aux articles L. 551-1 et L. 551-5 sont celles qui ont un intérêt à
+conclure le contrat et qui sont susceptibles d'être lésées par le manquement invoqué, ainsi que le représentant de l'Etat
+dans le cas où le contrat doit être conclu par une collectivité territoriale ou un établissement public local. 
+
+Sauf si la demande porte sur des marchés ou contrats passés par l'Etat, elle peut également être présentée par celui-ci,
+lorsque la Commission européenne lui a notifié les raisons pour lesquelles elle estime qu'une violation grave des obligations
+de publicité et de mise en concurrence applicables a été commise.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-1
+
+	**Cité par**:
+
+	  - Code de justice administrative. - art. R551-3 (V)
+
+
+###### Article L551-11
+
+Le juge ne peut statuer avant un délai fixé par voie réglementaire.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+
+###### Article L551-12
+
+Les mesures prévues aux articles L. 551-2 et L. 551-6 peuvent être prononcées d'office par le juge. Dans ce cas, il en
+informe préalablement les parties et les invite à présenter leurs observations dans des conditions prévues par voie
+réglementaire.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-2
+	  - Code de justice administrative - art. L551-6
+
+
+##### Section 2 : Référé contractuel
+
+##### Sous-section 1 : Nature et présentation du recours
+
+###### Article L551-13
+
+Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi, une fois conclu l'un des contrats
+mentionnés aux articles L. 551-1 et L. 551-5, d'un recours régi par la présente section.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Code de justice administrative - art. R551-9 (V)
+	  - Code de la voirie routière - art. L122-20 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-1
+
+
+###### Article L551-14
+
+Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
+par des manquements aux obligations de publicité et de mise en concurrence auxquelles sont soumis ces contrats, ainsi que le
+représentant de l'Etat dans le cas des contrats passés par une collectivité territoriale ou un établissement public local. 
+
+Toutefois, le recours régi par la présente section n'est pas ouvert au demandeur ayant fait usage du recours prévu à
+l'article L. 551-1 ou à l'article L. 551-5 dès lors que le pouvoir adjudicateur ou l'entité adjudicatrice a respecté la
+suspension prévue à l'article L. 551-4 ou à l'article L. 551-9 et s'est conformé à la décision juridictionnelle rendue sur ce
+recours.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-1
+	  - Code de justice administrative - art. L551-4
+	  - Code de justice administrative - art. L551-5 (V)
+	  - Code de justice administrative - art. L551-9
+
+
+###### Article L551-15
+
+Le recours régi par la présente section ne peut être exercé ni à l'égard des contrats dont la passation n'est pas soumise à
+une obligation de publicité préalable lorsque le pouvoir adjudicateur ou l'entité adjudicatrice a, avant la conclusion du
+contrat, rendu publique son intention de le conclure et observé un délai de onze jours après cette publication, ni à l'égard
+des contrats soumis à publicité préalable auxquels ne s'applique pas l'obligation de communiquer la décision d'attribution
+aux candidats non retenus lorsque le pouvoir adjudicateur ou l'entité adjudicatrice a accompli la même formalité. 
+
+La même exclusion s'applique aux contrats fondés sur un accord-cadre ou un système d'acquisition dynamique lorsque le pouvoir
+adjudicateur ou l'entité adjudicatrice a envoyé aux titulaires la décision d'attribution du contrat et observé un délai de
+seize jours entre cet envoi et la conclusion du contrat, délai réduit à onze jours si la décision a été communiquée à tous
+les titulaires par voie électronique.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°93-471 du 24 mars 1993 - art. 1-1 (VT)
+	  - Décret n°2002-677 du 29 avril 2002 - art. 12 (V)
+	  - Décret n°2005-1308 du 20 octobre 2005 - art. 16-1 (V)
+	  - Décret n°2005-1308 du 20 octobre 2005 - art. 44 (VT)
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 16-1 (VT)
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 46 (VT)
+	  - Décret n°2009-243 du 2 mars 2009 - art. 1 (M)
+	  - Décret n°2010-406 du 26 avril 2010 - art. 17 (VT)
+	  - Décret n°2010-406 du 26 avril 2010 - art. 25 (VT)
+	  - Décret n°2015-815 du 3 juillet 2015 - art. 18 (Ab)
+	  - Code de justice administrative. - art. R551-5 (V)
+	  - Code de l'urbanisme - art. R300-11-5-1 (VT)
+	  - Code de l'urbanisme - art. R300-9-1 (VT)
+	  - Code des marchés publics - art. 151-1 (VT)
+	  - Code des marchés publics - art. 213 (VT)
+	  - Code des marchés publics - art. 253 (VT)
+	  - Code des marchés publics - art. 40-1 (VT)
+	  - Code des marchés publics - art. 80 (VT)
+	  - Code général des collectivités territoriales - art. D1414-1 (VT)
+	  - Code général des collectivités territoriales - art. R1411-2-1 (VT)
+	  - Code général des collectivités territoriales - art. R1415-9 (VT)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+
+###### Article L551-16
+
+A l'exception des demandes reconventionnelles en dommages et intérêts fondées exclusivement sur la demande initiale, aucune
+demande tendant à l'octroi de dommages et intérêts ne peut être présentée à l'occasion du recours régi par la présente
+section.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+
+##### Sous-section 2 : Pouvoirs du juge
+
+###### Article L551-17
+
+Le président du tribunal administratif ou son délégué peut suspendre l'exécution du contrat, pour la durée de l'instance,
+sauf s'il estime, en considération de l'ensemble des intérêts susceptibles d'être lésés et notamment de l'intérêt public, que
+les conséquences négatives de cette mesure pourraient l'emporter sur ses avantages.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R551-10 (V)
+	  - Code de justice administrative. - art. L551-21 (V)
+	  - Code de justice administrative. - art. R551-8 (V)
+
+
+###### Article L551-18
+
+Le juge prononce la nullité du contrat lorsqu'aucune des mesures de publicité requises pour sa passation n'a été prise, ou
+lorsque a été omise une publication au Journal officiel de l'Union européenne dans le cas où une telle publication est
+prescrite. 
+
+La même annulation est prononcée lorsque ont été méconnues les modalités de remise en concurrence prévues pour la passation
+des contrats fondés sur un accord-cadre ou un système d'acquisition dynamique. 
+
+Le juge prononce également la nullité du contrat lorsque celui-ci a été signé avant l'expiration du délai exigé après l'envoi
+de la décision d'attribution aux opérateurs économiques ayant présenté une candidature ou une offre ou pendant la suspension
+prévue à l'article L. 551-4 ou à l'article L. 551-9 si, en outre, deux conditions sont remplies : la méconnaissance de ces
+obligations a privé le demandeur de son droit d'exercer le recours prévu par les articles L. 551-1 et L. 551-5, et les
+obligations de publicité et de mise en concurrence auxquelles sa passation est soumise ont été méconnues d'une manière
+affectant les chances de l'auteur du recours d'obtenir le contrat.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-1
+	  - Code de justice administrative - art. L551-4
+	  - Code de justice administrative - art. L551-5 (V)
+	  - Code de justice administrative - art. L551-9
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. L551-19 (V)
+
+
+###### Article L551-19
+
+Toutefois, dans les cas prévus à l'article L. 551-18, le juge peut sanctionner le manquement soit par la résiliation du
+contrat, soit par la réduction de sa durée, soit par une pénalité financière imposée au pouvoir adjudicateur ou à l'entité
+adjudicatrice, si le prononcé de la nullité du contrat se heurte à une raison impérieuse d'intérêt général. 
+
+Cette raison ne peut être constituée par la prise en compte d'un intérêt économique que si la nullité du contrat entraîne des
+conséquences disproportionnées et que l'intérêt économique atteint n'est pas directement lié au contrat, ou si le contrat
+porte sur une délégation de service public.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice administrative. - art. L551-22 (V)
+	  - Code de justice administrative. - art. R551-8 (V)
+
+
+###### Article L551-20
+
+Dans le cas où le contrat a été signé avant l'expiration du délai exigé après l'envoi de la décision d'attribution aux
+opérateurs économiques ayant présenté une candidature ou une offre ou pendant la suspension prévue à l'article L. 551-4 ou à
+l'article L. 551-9, le juge peut prononcer la nullité du contrat, le résilier, en réduire la durée ou imposer une pénalité
+financière.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-4
+	  - Code de justice administrative - art. L551-9
+
+	**Cité par**:
+
+	  - Code de justice administrative. - art. L551-22 (V)
+
+
+###### Article L551-21
+
+Les mesures mentionnées aux articles L. 551-17 à L. 551-20 peuvent être prononcées d'office par le juge. Il en informe
+préalablement les parties et les invite à présenter leurs observations dans des conditions fixées par voie réglementaire. 
+
+Le juge procède de même lorsqu'il envisage d'imposer une pénalité financière.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-17
+
+
+###### Article L551-22
+
+Le montant des pénalités financières prévues aux articles L. 551-19 et L. 551-20 tient compte de manière proportionnée de
+leur objet dissuasif, sans pouvoir excéder 20 % du montant hors taxes du contrat. 
+
+Le montant de ces pénalités est versé au Trésor public.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-19
+
+
+###### Article L551-23
+
+Le président du tribunal administratif ou son délégué statue en premier et dernier ressort en la forme des référés.
+
+**Nota:**
+
+Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
+lesquels une consultation est engagée à partir du 1er décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
 
 
 #### Chapitre II : Le référé en matière fiscale
