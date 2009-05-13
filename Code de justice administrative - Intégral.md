@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-05-09
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -2307,20 +2307,19 @@ la fonction publique territoriale ou de la fonction publique hospitalière appar
 de niveau équivalent à celui des tribunaux administratifs et des cours administratives d'appel peuvent être détachés dans ce
 dernier corps, aux grades de conseiller ou de premier conseiller. Ils ne peuvent être intégrés qu'au terme de trois années de
 services effectifs en détachement dans ce corps et s'ils satisfont aux conditions prévues aux articles L. 233-3 et L. 233-4
-pour l'accès au grade dont il s'agit.
+pour l'accès au grade dont il s'agit. 
 
-Il ne peut être mis fin à des détachements dans le corps que sur demande des intéressés ou pour motifs disciplinaires.
+Il ne peut être mis fin à des détachements dans le corps que sur demande des intéressés ou pour motifs disciplinaires. 
+
+Les magistrats de l'ordre judiciaire peuvent également être détachés pour trois ans, renouvelables une fois, dans le corps
+des tribunaux administratifs et des cours administratives d'appel, au grade de président, pour y occuper les fonctions de
+président de section à la Cour nationale du droit d'asile.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
 
-	  - Loi n°2007-148 du 2 février 2007 - art. 37 () JORF 6 février 2007
+	  - Loi n°2009-526 du 12 mai 2009 - art. 15
 
 	**Cité par**:
 
@@ -2330,8 +2329,7 @@ Il ne peut être mis fin à des détachements dans le corps que sur demande des 
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L233-3 (M)
-	  - Code de justice administrative. - art. L233-4 (M)
+	  - Code de justice administrative - art. L233-3
 
 
 ##### Section 4 : Recrutement complémentaire
@@ -2497,16 +2495,40 @@ Les présidents occupent les fonctions, dans une cour administrative d'appel, de
 tribunal administratif, de président ou de vice-président du tribunal ; au tribunal administratif de Paris, ils occupent en
 outre les fonctions de président ou de vice-président de section.
 
+A la Cour nationale du droit d'asile, ils exercent les fonctions de président de section, pour une durée de trois ans,
+renouvelable une fois sur leur demande. Ils peuvent, le cas échéant, exercer ces fonctions à temps partagé avec celles
+d'assesseur dans une cour administrative d'appel.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2009-526 du 12 mai 2009 - art. 15
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R732-1 (V)
+
+
+###### Article L234-3-1
+
+Les présidents de section à la Cour nationale du droit d'asile sont également affectés, dès leur nomination, auprès d'une
+cour administrative d'appel ou d'un tribunal administratif. S'ils doivent exercer leurs fonctions à temps partagé, cette
+autre affectation ne peut être prononcée qu'auprès d'une cour administrative d'appel. 
+
+Au terme de leurs fonctions à la Cour nationale du droit d'asile, ils rejoignent, sauf mutation, la cour ou le tribunal où
+ils ont été affectés en application du premier alinéa. Lorsqu'il s'agit d'un tribunal administratif et que, faute d'emploi
+vacant, ils ne peuvent présider une chambre, ces fonctions leur sont attribuées à la première vacance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 15
+
+	**Abrogé par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 17
 
 
 ###### Article L234-4
