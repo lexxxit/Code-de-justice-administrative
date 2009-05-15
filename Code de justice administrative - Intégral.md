@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-16
 
 # Partie législative
 
@@ -3986,47 +3986,35 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 	  - Code de justice administrative - art. L551-17
 
 
+##### Section 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+
 ###### Article L551-22
 
-Le montant des pénalités financières prévues aux articles L. 551-19 et L. 551-20 tient compte de manière proportionnée de
-leur objet dissuasif, sans pouvoir excéder 20 % du montant hors taxes du contrat. 
+En Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, le président du tribunal administratif, ou
+le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations de publicité et de mise en concurrence
+auxquelles est soumise la passation des marchés et contrats publics en vertu de dispositions applicables localement. 
 
-Le montant de ces pénalités est versé au Trésor public.
+Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d'être lésées
+par ce manquement, ainsi que le haut-commissaire de la République dans le cas où le contrat est conclu ou doit être conclu
+par une collectivité territoriale ou un établissement public local. 
 
-**Nota:**
-
-Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
-lesquels une consultation est engagée à partir du 1er décembre 2009.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
-
-	**Cite**:
-
-	  - Code de justice administrative - art. L551-19
-
-
-###### Article L551-23
+Le président du tribunal administratif peut être saisi avant la conclusion du contrat. Il peut ordonner à l'auteur du
+manquement de se conformer à ses obligations et suspendre la passation du contrat ou l'exécution de toute décision qui s'y
+rapporte. Il peut également annuler ces décisions et supprimer les clauses ou prescriptions destinées à figurer dans le
+contrat et qui méconnaissent lesdites obligations. Dès qu'il est saisi, il peut enjoindre de différer la signature du contrat
+jusqu'au terme de la procédure et pour une durée maximum de vingt jours. 
 
 Le président du tribunal administratif ou son délégué statue en premier et dernier ressort en la forme des référés.
 
-**Nota:**
-
-Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
-lesquels une consultation est engagée à partir du 1er décembre 2009.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
+
+	**Nouveaux textes**:
+
+	  - Code de justice administrative. - art. L551-24 (V)
 
 
 #### Chapitre II : Le référé en matière fiscale
@@ -4195,38 +4183,39 @@ collectivités ou établissements suivent, de même, les règles fixées par les
 4142-1, L. 4411-1, L. 4421-1, L. 4431-1, L. 5211-3, L. 5331-3, L. 5332-1, L. 5421-2, L. 5711-1 et L. 5721-4 du code général
 des collectivités territoriales. 
 
-Il en va de même pour les requêtes visées aux articles 172 et 172-1 de la loi organique n° 2004-192 du 27 février 2004
-portant statut d'autonomie de la Polynésie française, à l'article 204 de la loi organique n° 99-209 du 19 mars 1999 relative
-à la Nouvelle-Calédonie et à l'article L. 121-39-2 du code des communes de la Nouvelle-Calédonie.
+Il en va de même pour les actes des collectivités visés aux articles LO 6152-1, LO 6242-1, LO 6342-1 et LO 6452-1 du code
+général des collectivités territoriales, à l'article L. 121-39-2 du code des communes de la Nouvelle-Calédonie, à l'article
+204 de la loi n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et à l'article 172 de la loi organique n° 2004-192
+du 27 février 2004 portant statut d'autonomie de la Polynésie française.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 204
-	  - Loi organique n°2004-192 du 27 février 2004 - art. 172
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-2
-	  - Code général des collectivités territoriales - art. L2541-22 (V)
-	  - Code général des collectivités territoriales - art. L2561-1 (V)
-	  - Code général des collectivités territoriales - art. L3132-1 (V)
-	  - Code général des collectivités territoriales - art. L4142-1 (V)
-	  - Code général des collectivités territoriales - art. L4411-1 (V)
-	  - Code général des collectivités territoriales - art. L4421-1 (V)
-	  - Code général des collectivités territoriales - art. L4431-1 (V)
-	  - Code général des collectivités territoriales - art. L5211-3 (V)
-	  - Code général des collectivités territoriales - art. L5331-3 (V)
-	  - Code général des collectivités territoriales - art. L5332-1 (V)
-	  - Code général des collectivités territoriales - art. L5421-2 (V)
-	  - Code général des collectivités territoriales - art. L5711-1 (V)
-	  - Code général des collectivités territoriales - art. L5721-4 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 204 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 172 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-2 (V)
+	  - Code général des collectivités territoriales - art. L2541-22
+	  - Code général des collectivités territoriales - art. L2561-1
+	  - Code général des collectivités territoriales - art. L3132-1
+	  - Code général des collectivités territoriales - art. L4142-1
+	  - Code général des collectivités territoriales - art. L4411-1
+	  - Code général des collectivités territoriales - art. L4421-1
+	  - Code général des collectivités territoriales - art. L4431-1
+	  - Code général des collectivités territoriales - art. L5211-3
+	  - Code général des collectivités territoriales - art. L5331-3
+	  - Code général des collectivités territoriales - art. L5332-1
+	  - Code général des collectivités territoriales - art. L5421-2
+	  - Code général des collectivités territoriales - art. L5711-1
+	  - Code général des collectivités territoriales - art. L5721-4
+	  - Code général des collectivités territoriales - art. LO6152-1 (V)
+	  - Code général des collectivités territoriales - art. LO6242-1 (V)
+	  - Code général des collectivités territoriales - art. LO6342-1 (V)
+	  - Code général des collectivités territoriales - art. LO6452-1 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2007-1720 du 7 décembre 2007 - art. 3
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2131-6 (V)
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
 
 	**Cité par**:
 
@@ -4245,23 +4234,33 @@ statué, la demande de suspension en matière d'urbanisme, de marchés et de dé
 représentant de l'Etat dans les dix jours à compter de la réception de l'acte entraîne la suspension de celui-ci. Au terme
 d'un délai d'un mois à compter de la réception, si le juge des référés n'a pas statué, l'acte redevient exécutoire. " 
 
-Il en va de même pour les actes des collectivités visés aux articles L. 3132-1 et L. 4142-1 du code général des collectivités
-territoriales.
+Il en va de même pour les actes des collectivités visés aux articles L. 3132-1, L. 4142-1, LO 6152-1, LO 6242-1, LO 6342-1 et
+LO 6452-1 du code général des collectivités territoriales, à l'article L. 121-39-2 du code des communes de la Nouvelle-
+Calédonie, à l'article 204 de la loi n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et à l'article 172 de la loi
+organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 204 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 172 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-2 (V)
+	  - Code général des collectivités territoriales - art. L2131-6 (V)
+	  - Code général des collectivités territoriales - art. L3132-1 (V)
+	  - Code général des collectivités territoriales - art. L4142-1 (V)
+	  - Code général des collectivités territoriales - art. LO6152-1 (V)
+	  - Code général des collectivités territoriales - art. LO6242-1 (V)
+	  - Code général des collectivités territoriales - art. LO6342-1 (V)
+	  - Code général des collectivités territoriales - art. LO6452-1 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2008-735 du 28 juillet 2008 - art. 47
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2131-6
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L3132-1
-	  - Code général des collectivités territoriales - art. L4142-1
 
 
 ###### Article L554-3
@@ -4280,29 +4279,31 @@ cet effet statue dans un délai de quarante-huit heures.
 L'appel des jugements du tribunal administratif ainsi que des décisions relatives aux demandes de suspension prévues aux
 alinéas précédents, rendus sur recours du représentant de l'Etat, est présenté par celui-ci. " 
 
-Il en va de même pour les actes des collectivités visés aux articles L. 3132-1, et L. 4142-1 du code général des
-collectivités territoriales.
+Il en va de même pour les actes des collectivités visés aux articles L. 3132-1, L. 4142-1, LO 6152-1, LO 6242-1, LO 6342-1 et
+LO 6452-1 du code général des collectivités territoriales, à l'article L. 121-39-2 du code des communes de la Nouvelle-
+Calédonie, à l'article 204 de la loi n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et à l'article 172 de la loi
+organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°99-209 du 19 mars 1999 - art. 204 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 172 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-2 (V)
+	  - Code général des collectivités territoriales - art. L3132-1 (V)
+	  - Code général des collectivités territoriales - art. LO6152-1 (V)
+	  - Code général des collectivités territoriales - art. LO6242-1 (V)
+	  - Code général des collectivités territoriales - art. LO6342-1 (V)
+	  - Code général des collectivités territoriales - art. LO6452-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 13 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 16 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4142-1 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. L27 (Ab)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4142-1
 
 
 ###### Article L554-4
@@ -4318,27 +4319,32 @@ la juridiction administrative pour ce seul motif.
 Le représentant de l'Etat dans le département ou dans la région défère l'acte en cause, dans les deux mois suivant sa
 transmission ou sa publication, à la section du contentieux du Conseil d'Etat, compétente en premier et dernier ressort. Il
 assortit, si nécessaire, son recours d'une demande de suspension ; le président de la section du contentieux du Conseil
-d'Etat, ou un conseiller d'Etat délégué à cet effet, statue dans un délai de quarante-huit heures. "
+d'Etat, ou un conseiller d'Etat délégué à cet effet, statue dans un délai de quarante-huit heures. " 
+
+Il en va de même pour les actes des collectivités visés aux articles LO 6152-1, LO 6242-1, LO 6342-1 et LO 6452-1 du code
+général des collectivités territoriales, à l'article L. 121-39-2 du code des communes de la Nouvelle-Calédonie, à l'article
+204 de la loi n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie et à l'article 172 de la loi organique n° 2004-192
+du 27 février 2004 portant statut d'autonomie de la Polynésie française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°99-209 du 19 mars 1999 - art. 204 (V)
+	  - Loi n°2004-192 du 27 février 2004 - art. 172 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-2 (V)
+	  - Code général des collectivités territoriales - art. LO6152-1 (V)
+	  - Code général des collectivités territoriales - art. LO6242-1 (V)
+	  - Code général des collectivités territoriales - art. LO6342-1 (V)
+	  - Code général des collectivités territoriales - art. LO6452-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 2000-06-30 art. 1, 13 et 16 JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L1111-7 (M)
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
 
 	**Liens**:
 
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L1111-7 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L1111-7
 
 
 ###### Article L554-5
@@ -4645,6 +4651,55 @@ le présent chapitre ait eu lieu. "
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L123-12 (V)
+
+
+##### Section 3 : Dispositions particulières applicables dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie en matière de référé.
+
+###### Article L554-13
+
+Les conditions dans lesquelles un conseiller général de Mayotte ou un conseiller territorial de Saint-Barthélemy, de Saint-
+Martin ou de Saint-Pierre-et-Miquelon peut assortir son recours en annulation d'un acte de l'assemblée délibérante dont il
+est membre d'une demande de suspension à laquelle il fait droit si l'un des moyens invoqués paraît, en l'état de
+l'instruction, propre à créer un doute sérieux quant à la légalité de cet acte sont fixées par les articles LO 6152-3, LO
+6242-3, LO 6342-3 et LO 6452-3 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. LO6152-3
+	  - Code général des collectivités territoriales - art. LO6242-3
+	  - Code général des collectivités territoriales - art. LO6342-3
+	  - Code général des collectivités territoriales - art. LO6452-3
+
+
+###### Article L554-14
+
+En Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et dans les
+îles Wallis et Futuna, lorsque les dispositions applicables localement instituent une procédure imposant une étude d'impact
+ou une enquête publique, ou toute autre procédure offrant des garanties équivalentes, préalablement à l'intervention d'une
+décision en matière d'urbanisme ou de protection de la nature ou de l'environnement, il est fait droit à la demande de
+suspension formée contre cette décision : 
+
+1° Si la demande est fondée sur l'absence d'étude d'impact, dès que cette absence est constatée ; 
+
+2° Ou dans le cas où la décision a été prise après des conclusions défavorables du commissaire enquêteur ou de la commission
+d'enquête ou sans que l'enquête publique ait eu lieu, si la demande comporte un moyen propre à créer, en l'état de
+l'instruction, un doute sérieux quant à la légalité de la décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
 
 
 #### Chapitre V : Dispositions diverses
@@ -5188,6 +5243,52 @@ de la Polynésie française ".
 	  - Code des tribunaux administratifs et des cours adm - art. L21-1 (Ab)
 
 
+###### Article L774-12
+
+Pour l'application des articles L. 774-1 à L. 774-8 à Saint-Barthélemy, le mot : " préfet " est remplacé par les mots : "
+représentant de l'Etat ". 
+
+Le président du conseil territorial de Saint-Barthélemy, pour le domaine public de la collectivité de Saint-Barthélemy,
+exerce les attributions dévolues au représentant de l'Etat dans les conditions prévues par le présent article. 
+
+Pour l'application de l'alinéa précédent, à l'article L. 774-2, le mot : " préfet " est remplacé par les mots : " président
+du conseil territorial de Saint-Barthélemy ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
+
+	**Cite**:
+
+	  - Code de justice administrative. - art. L774-1 (V)
+	  - Code de justice administrative. - art. L774-2 (V)
+
+
+###### Article L774-13
+
+Pour l'application des articles L. 774-1 à L. 774-8 à Saint-Martin, le mot : " préfet " est remplacé par les mots : "
+représentant de l'Etat ". 
+
+Le président du conseil territorial de Saint-Martin, pour le domaine public de la collectivité de Saint-Martin, exerce les
+attributions dévolues au représentant de l'Etat dans les conditions prévues par le présent article. 
+
+Pour l'application de l'alinéa précédent, à l'article L. 774-2, le mot : " préfet " est remplacé par les mots : " président
+du conseil territorial de Saint-Martin ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L774-1 (V)
+	  - Code de justice administrative - art. L774-2 (V)
+
+
 #### Chapitre VI : Le contentieux des arrêtés de reconduite à la frontière et des décisions relatives au séjour assorties d'une obligation de quitter le territoire français
 
 ###### Article L776-1
@@ -5318,20 +5419,15 @@ construction et de l'habitation est régi par l'article L. 441-2-3-1 du même co
 
 Lorsque des magistrats sont simultanément affectés dans deux ou plusieurs tribunaux administratifs d'outre-mer et que leur
 venue à l'audience n'est pas matériellement possible dans les délais prescrits par les dispositions en vigueur ou exigés par
-la nature de l'affaire, le ou les membres de la formation de jugement peuvent siéger et, le cas échéant, le commissaire du
-Gouvernement prononcer ses conclusions dans un autre tribunal dont ils sont membres, relié, en direct, à la salle d'audience,
-par un moyen de communication audiovisuelle.
+la nature de l'affaire, le ou les membres de la formation de jugement peuvent siéger et, le cas échéant, le rapporteur public
+prononcer ses conclusions dans un autre tribunal dont ils sont membres, relié, en direct, à la salle d'audience, par un moyen
+de communication audiovisuelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-657 du 8 juin 2005 - art. 1 () JORF 9 juin 2005
+	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
 
 	**Cité par**:
 
