@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-05-16
+Version Consolidée au 2009-06-17
 
 # Partie législative
 
@@ -220,6 +220,9 @@ saisi en qualité de juge de premier ressort ou de juge d'appel.
 Le Conseil d'Etat participe à la confection des lois et ordonnances. Il est saisi par le Premier ministre des projets établis
 par le Gouvernement.
 
+Le Conseil d'Etat émet un avis sur les propositions de loi, déposées sur le bureau d'une assemblée parlementaire et non
+encore examinées en commission, dont il est saisi par le président de cette assemblée. 
+
 Le Conseil d'Etat donne son avis sur les projets de décrets et sur tout autre projet de texte pour lesquels son intervention
 est prévue par les dispositions constitutionnelles, législatives ou réglementaires ou qui lui sont soumis par le
 Gouvernement.
@@ -232,14 +235,12 @@ En outre, il prépare et rédige les textes qui lui sont demandés.
 
 	**Anciens textes**:
 
-	  - Ordonnance 45-1708 1945-07-31 art. 21 al. 1er à 3
 	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 21 (Ab)
 	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 23 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2009-689 du 15 juin 2009 - art. 1 (V)
 
 
 ###### Article L112-2
@@ -625,6 +626,50 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 	**Cité par**:
 
 	  - Code de justice administrative - art. R122-30 (V)
+
+
+#### Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives
+
+##### Section unique : L'avis sur une proposition de loi
+
+###### Article L123-1
+
+Le vice-président attribue l'examen d'une proposition de loi dont est saisi le Conseil d'Etat à une section, à moins qu'il ne
+décide de réunir spécialement à cette fin une commission composée de représentants des différentes sections intéressées. 
+
+L'avis du Conseil d'Etat est rendu par l'assemblée générale, sauf dispense dans les cas et conditions prévus par le présent
+code. En cas d'urgence constatée dans la lettre de saisine du Conseil d'Etat, l'avis peut être rendu par la commission
+permanente.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2009-689 du 15 juin 2009 - art. 1 (V)
+
+
+###### Article L123-2
+
+L'auteur de la proposition de loi peut produire devant le Conseil d'Etat toutes observations. Il est entendu à sa demande par
+le rapporteur. Il peut participer avec voix consultative aux séances au cours desquelles l'avis du Conseil d'Etat est
+délibéré.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2009-689 du 15 juin 2009 - art. 1 (V)
+
+
+###### Article L123-3
+
+L'avis du Conseil d'Etat est adressé au président de l'assemblée qui l'a saisi.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2009-689 du 15 juin 2009 - art. 1 (V)
 
 
 ### Titre III : Dispositions statutaires
