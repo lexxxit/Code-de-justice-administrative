@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-06-17
+Version Consolidée au 2009-07-17
 
 # Partie législative
 
@@ -4031,9 +4031,55 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 	  - Code de justice administrative - art. L551-17
 
 
+###### Article L551-22
+
+Le montant des pénalités financières prévues aux articles L. 551-19 et L. 551-20 tient compte de manière proportionnée de
+leur objet dissuasif, sans pouvoir excéder 20 % du montant hors taxes du contrat. 
+
+Le montant de ces pénalités est versé au Trésor public.
+
+**Nota:**
+
+Ordonnance n° 2009-864 art. 27 V. - Les dispositions du 2° de l'article 24 et de l'article 25 sont applicables aux projets de
+contrats en vue desquels un avis d'appel public à la concurrence est envoyé ou une consultation engagée à partir du 1er
+décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2009-864 du 15 juillet 2009 - art. 24
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 24
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-19
+	  - Code de justice administrative - art. L551-20
+
+
+###### Article L551-23
+
+Le président du tribunal administratif ou son délégué statue en premier et dernier ressort en la forme des référés.
+
+**Nota:**
+
+Ordonnance n° 2009-864 art. 27 V. - Les dispositions du 2° de l'article 24 et de l'article 25 sont applicables aux projets de
+contrats en vue desquels un avis d'appel public à la concurrence est envoyé ou une consultation engagée à partir du 1er
+décembre 2009.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 24
+
+
 ##### Section 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
-###### Article L551-22
+###### Article L551-24
 
 En Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, le président du tribunal administratif, ou
 le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations de publicité et de mise en concurrence
@@ -4053,13 +4099,13 @@ Le président du tribunal administratif ou son délégué statue en premier et d
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
+	  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 24
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de justice administrative. - art. L551-24 (V)
+	  - Code de justice administrative. - art. L551-22 (M)
 
 
 #### Chapitre II : Le référé en matière fiscale
