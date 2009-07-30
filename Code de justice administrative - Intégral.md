@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-07-17
+Version Consolidée au 2009-07-31
 
 # Partie législative
 
@@ -7468,6 +7468,22 @@ ministre et du garde des sceaux, ministre de la justice, pris sur proposition du
 	  - Ordonnance n°2009-375 du 1er avril 2009 (V)
 
 
+###### Article R123-3-1
+
+L'examen d'une proposition de loi est attribué par le vice-président du Conseil d'Etat à l'une des cinq premières sections
+mentionnées à l'article R. 123-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-926 du 29 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R123-2
+
+
 ###### Article R123-4
 
 Les projets et propositions de lois du pays de la Nouvelle-Calédonie sont répartis, pour leur examen par les sections
@@ -7687,21 +7703,14 @@ présidents de section présent le premier inscrit au tableau.
 ###### Article R123-11
 
 Le secrétaire de chaque section ou commission certifie les expéditions des avis émis par cette formation et les notifie aux
-administrations intéressées.
+administrations intéressées. Les avis émis sur des propositions de loi sont notifiés au président de l'assemblée qui a saisi
+le Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-926 du 29 juillet 2009 - art. 2
 
 
 ##### Section 2 : L'assemblée générale
@@ -7853,24 +7862,17 @@ plénière au scrutin secret et à la majorité absolue des membres présents.
 
 Le secrétaire général du Conseil d'Etat, ou l'un des secrétaires généraux adjoints, assure le secrétariat de l'assemblée
 générale. Il en tient le procès-verbal. Il signe et certifie les expéditions des projets de loi, d'ordonnance et de décret
-ainsi que des avis du Conseil d'Etat délivrées aux personnes qui ont qualité pour les réclamer.
+ainsi que des avis du Conseil d'Etat délivrées aux personnes qui ont qualité pour les réclamer. Il signe et certifie les
+expéditions des avis du Conseil d'Etat sur les propositions de loi, destinées aux présidents des assemblées parlementaires. 
 
 Le secrétaire général du Conseil d'Etat peut être suppléé dans l'exercice des fonctions prévues à l'alinéa précédent par le
 secrétaire d'une section administrative.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2004-1387 du 21 décembre 2004 - art. 2 () JORF 23 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2009-926 du 29 juillet 2009 - art. 3
 
 	**Cité par**:
 
@@ -7883,7 +7885,7 @@ Sont portés à l'ordre du jour de l'assemblée générale ordinaire du Conseil 
 avis du président de la section ou de la commission compétente, à l'ordre du jour de l'assemblée générale plénière du Conseil
 d'Etat : 
 
-1° Les projets de lois et d'ordonnances, sous réserve des dispositions de l'article R. 123-21 ; 
+1° Les projets et propositions de lois et projets d'ordonnances, sous réserve des dispositions de l'article R. 123-21 ; 
 
 2° Les projets de décrets pris en vertu de l'article 37 de la Constitution ; 
 
@@ -7901,15 +7903,15 @@ b) Projets de loi ayant pour objet principal la ratification d'une ordonnance ;
 
 c) Projets de loi autorisant la ratification ou l'approbation d'une convention internationale ; 
 
-d) Projets de loi ou d'ordonnance portant extension et, le cas échéant, adaptation de dispositions législatives à une ou
-plusieurs collectivités d'outre-mer ou à la Nouvelle-Calédonie ; 
+d) Projets ou propositions de loi ou projets d'ordonnance portant extension et, le cas échéant, adaptation de dispositions
+législatives à une ou plusieurs collectivités d'outre-mer ou à la Nouvelle-Calédonie ; 
 
-e) Projets de loi ou d'ordonnance ayant pour objet principal la transposition en droit interne d'une directive
-communautaire ; 
+e) Projets ou propositions de loi ou projets d'ordonnance ayant pour objet principal la transposition en droit interne d'une
+directive communautaire ; 
 
-f) Projets de loi ou d'ordonnance procédant à la codification de la législation ; 
+f) Projets ou propositions de loi ou projets d'ordonnance procédant à la codification de la législation ; 
 
-g) Projets de loi ou d'ordonnance ne soulevant pas de difficulté. 
+g) Projets ou propositions de loi ou projets d'ordonnance ne soulevant pas de difficulté. 
 
 L'assemblée générale ordinaire peut décider le renvoi d'une affaire à l'assemblée générale plénière.
 
@@ -7917,7 +7919,7 @@ L'assemblée générale ordinaire peut décider le renvoi d'une affaire à l'ass
 
 	**Cite**:
 
-	  - Constitution du 4 octobre 1958 - art. 37 (V)
+	  - Constitution du 4 octobre 1958 - art. 37
 	  - Code de justice administrative - art. R123-21
 
 	**Cité par**:
@@ -7943,7 +7945,7 @@ L'assemblée générale ordinaire peut décider le renvoi d'une affaire à l'ass
 
 	**Modifié par**:
 
-	  - Décret n°2008-225 du 6 mars 2008 - art. 20
+	  - Décret n°2009-926 du 29 juillet 2009 - art. 4
 
 
 ##### Section 3 : La commission permanente
@@ -7954,22 +7956,18 @@ Une commission permanente est chargée de l'examen des projets de loi et d'ordon
 est signalée par le ministre compétent et expressément constatée par une décision spéciale du Premier ministre mentionnée
 dans les visas.
 
-Cette commission peut dans chaque cas décider de renvoyer après instruction l'affaire dont elle est saisie à l'assemblée
-générale.
+Quand la lettre par laquelle le président de l'Assemblée nationale ou du Sénat saisit le Conseil d'Etat d'une demande d'avis
+sur une proposition de loi constate l'urgence, la proposition peut être soumise à l'examen de la commission permanente sur
+décision du vice-président du Conseil d'Etat.
+
+La commission permanente peut dans chaque cas décider de renvoyer après instruction l'affaire dont elle est saisie à
+l'assemblée générale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°63-766 du 30 juillet 1963 - art. 22 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-926 du 29 juillet 2009 - art. 5
 
 	**Cité par**:
 
@@ -8072,6 +8070,18 @@ sections pour les affaires qui dépendent de leurs services.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R123-24-1
+
+Peuvent participer avec voix consultative aux séances au cours desquelles une proposition de loi est examinée, outre l'auteur
+de la proposition, les personnes que ce dernier désigne pour l'assister.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-926 du 29 juillet 2009 - art. 6
 
 
 ###### Article R123-25
