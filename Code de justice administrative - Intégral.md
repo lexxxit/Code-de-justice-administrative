@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-07-31
+Version Consolidée au 2009-08-02
 
 # Partie législative
 
@@ -9468,92 +9468,94 @@ d'inspection des juridictions administratives prévue à l'article L. 112-5.
 
 ###### Article R221-3
 
-Le siège et le ressort des tribunaux administratifs sont fixés comme suit : 
+Le siège et le ressort des tribunaux administratifs sont fixés comme suit :
 
-Amiens : Aisne, Oise, Somme ; 
+Amiens : Aisne, Oise, Somme ;
 
-Bastia : Corse-du-Sud, Haute-Corse ; 
+Bastia : Corse-du-Sud, Haute-Corse ;
 
-Besançon : Doubs, Jura, Haute-Saône, Territoire de Belfort ; 
+Besançon : Doubs, Jura, Haute-Saône, Territoire de Belfort ;
 
-Bordeaux : Dordogne, Gironde, Lot-et-Garonne ; 
+Bordeaux : Dordogne, Gironde, Lot-et-Garonne ;
 
-Caen : Calvados, Manche, Orne ; 
+Caen : Calvados, Manche, Orne ;
 
-Cergy-Pontoise : Seine-Saint-Denis, Val-d'Oise ; 
+Cergy-Pontoise : Val-d'Oise ;
 
-Châlons-en-Champagne : Ardennes, Aube, Marne, Haute-Marne ; 
+Châlons-en-Champagne : Ardennes, Aube, Marne, Haute-Marne ;
 
-Clermont-Ferrand : Allier, Cantal, Haute-Loire, Puy-de-Dôme ; 
+Clermont-Ferrand : Allier, Cantal, Haute-Loire, Puy-de-Dôme ;
 
-Dijon : Côte-d'Or, Nièvre, Saône-et-Loire, Yonne ; 
+Dijon : Côte-d'Or, Nièvre, Saône-et-Loire, Yonne ;
 
-Grenoble : Drôme, Isère, Savoie, Haute-Savoie ; 
+Grenoble : Drôme, Isère, Savoie, Haute-Savoie ;
 
-Lille : Nord, Pas-de-Calais ; 
+Lille : Nord - Pas-de-Calais ;
 
-Limoges : Corrèze, Creuse, Indre, Haute-Vienne ; 
+Limoges : Corrèze, Creuse, Indre, Haute-Vienne ;
 
-Lyon : Ain, Ardèche, Loire, Rhône ; 
+Lyon : Ain, Ardèche, Loire, Rhône ;
 
-Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône ; 
+Marseille : Alpes-de-Haute-Provence, Hautes-Alpes, Bouches-du-Rhône ;
 
-Melun : Seine-et-Marne, Val-de-Marne ; 
+Melun : Seine-et-Marne, Val-de-Marne ;
 
-Montpellier : Aude, Hérault, Pyrénées-Orientales ; 
+Montpellier : Aude, Hérault, Pyrénées-Orientales ;
 
-Nancy : Meurthe-et-Moselle, Meuse, Vosges ; 
+Montreuil : Seine-Saint-Denis ;
 
-Nantes : Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée ; 
+Nancy : Meurthe-et-Moselle, Meuse, Vosges ;
 
-Nice : Alpes-Maritimes ; 
+Nantes : Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée ;
 
-Nîmes : Gard, Lozère, Vaucluse ; 
+Nice : Alpes-Maritimes ;
 
-Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ; 
+Nîmes : Gard, Lozère, Vaucluse ;
 
-Paris : ville de Paris ; 
+Orléans : Cher, Eure-et-Loir, Indre-et-Loire, Loir-et-Cher, Loiret ;
 
-Pau : Gers, Landes, Pyrénées-Atlantiques, Hautes-Pyrénées ; 
+Paris : ville de Paris ;
 
-Poitiers : Charente, Charente-Maritime, Deux-Sèvres, Vienne ; 
+Pau : Gers, Landes, Pyrénées-Atlantiques, Hautes-Pyrénées ;
 
-Rennes : Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan ; 
+Poitiers : Charente, Charente-Maritime, Deux-Sèvres, Vienne ;
 
-Rouen : Eure, Seine-Maritime ; 
+Rennes : Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan ;
 
-Strasbourg : Moselle, Bas-Rhin, Haut-Rhin ; 
+Rouen : Eure, Seine-Maritime ;
 
-Toulon : Var ; 
+Strasbourg : Moselle, Bas-Rhin, Haut-Rhin ;
 
-Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ; 
+Toulon : Var ;
 
-Versailles : Essonne, Hauts-de-Seine, Yvelines ; 
+Toulouse : Ariège, Aveyron, Haute-Garonne, Lot, Tarn, Tarn-et-Garonne ;
 
-Basse-Terre : Guadeloupe ; 
+Versailles : Essonne, Hauts-de-Seine, Yvelines ;
 
-Cayenne : Guyane ; 
+Basse-Terre : Guadeloupe ;
 
-Fort-de-France : Martinique ; 
+Cayenne : Guyane ;
 
-Mamoudzou : Mayotte ; 
+Fort-de-France : Martinique ;
 
-Mata-Utu : îles Wallis et Futuna ; 
+Mamoudzou : Mayotte ;
 
-Nouméa : Nouvelle-Calédonie ; 
+Mata-Utu : îles Wallis et Futuna ;
 
-Papeete : Polynésie française, Clipperton ; 
+Nouméa : Nouvelle-Calédonie ;
 
-Saint-Denis : Réunion, Terres australes et antarctiques françaises ; 
+Papeete : Polynésie française, Clipperton ;
 
-Saint-Barthélemy : Saint-Barthélemy ; 
+Saint-Denis : Réunion, Terres australes et antarctiques françaises ;
 
-Saint-Martin : Saint-Martin ; 
+Saint-Barthélemy : Saint-Barthélemy ;
 
-Saint-Pierre : Saint-Pierre-et-Miquelon. 
+Saint-Martin : Saint-Martin ;
+
+Saint-Pierre : Saint-Pierre-et-Miquelon.
 
 Toutefois, le ressort du tribunal administratif de Melun comprend l'intégralité de l'emprise de l'aérodrome de Paris-Orly et
-celui du tribunal administratif de Cergy-Pontoise l'intégralité de l'emprise de l'aérodrome de Paris-Charles-de-Gaulle. 
+celui du tribunal administratif de Montreuil l'intégralité de l'emprise de l'aérodrome de Paris - Charles-de-Gaulle.
 
 Le siège des tribunaux administratifs de Saint-Barthélemy et de Saint-Martin est fixé à Basse-Terre.
 
@@ -9571,70 +9573,72 @@ Le siège des tribunaux administratifs de Saint-Barthélemy et de Saint-Martin e
 
 	**Modifié par**:
 
-	  - Décret n°2008-819 du 21 août 2008 - art. 2
+	  - Décret n°2009-945 du 29 juillet 2009 - art. 2
 
 
 ###### Article R221-4
 
-Les tribunaux administratifs désignés ci-après sont composés de plusieurs chambres, dont le nombre est fixé comme suit : 
+Les tribunaux administratifs désignés ci-après sont composés de plusieurs chambres, dont le nombre est fixé comme suit :
 
-Amiens : quatre chambres ; 
+Amiens : quatre chambres ;
 
-Bastia : deux chambres ; 
+Bastia : deux chambres ;
 
-Besançon : deux chambres ; 
+Besançon : deux chambres ;
 
-Bordeaux : cinq chambres ; 
+Bordeaux : cinq chambres ;
 
-Caen : deux chambres ; 
+Caen : trois chambres ;
 
-Cergy-Pontoise : dix chambres ; 
+Cergy-Pontoise : dix chambres ;
 
-Châlons-en-Champagne : trois chambres ; 
+Châlons-en-Champagne : trois chambres ;
 
-Clermont-Ferrand : deux chambres ; 
+Clermont-Ferrand : deux chambres ;
 
-Dijon : trois chambres ; 
+Dijon : trois chambres ;
 
-Grenoble : cinq chambres ; 
+Grenoble : six chambres ;
 
-Lille : six chambres ; 
+Lille : six chambres ;
 
-Limoges : deux chambres ; 
+Limoges : deux chambres ;
 
-Lyon : sept chambres ; 
+Lyon : sept chambres ;
 
-Marseille : huit chambres ; 
+Marseille : huit chambres ;
 
-Melun : sept chambres ; 
+Melun : sept chambres ;
 
-Montpellier : sept chambres ; 
+Montpellier : sept chambres ;
 
-Nancy : deux chambres ; 
+Montreuil : sept chambres ;
 
-Nantes : cinq chambres ; 
+Nancy : deux chambres ;
 
-Nice : sept chambres ; 
+Nantes : cinq chambres ;
 
-Nîmes : trois chambres ; 
+Nice : sept chambres ;
 
-Orléans : cinq chambres ; 
+Nîmes : trois chambres ;
 
-Pau : deux chambres ; 
+Orléans : cinq chambres ;
 
-Poitiers : trois chambres ; 
+Pau : trois chambres ;
 
-Rennes : cinq chambres ; 
+Poitiers : trois chambres ;
 
-Rouen : trois chambres ; 
+Rennes : cinq chambres ;
 
-Strasbourg : cinq chambres ; 
+Rouen : trois chambres ;
 
-Toulon : trois chambres ; 
+Strasbourg : cinq chambres ;
 
-Toulouse : cinq chambres ; 
+Toulon : trois chambres ;
 
-Versailles : dix chambres ; 
+Toulouse : cinq chambres ;
+
+Versailles : dix chambres ;
 
 Saint-Denis : deux chambres.
 
@@ -9647,7 +9651,7 @@ Saint-Denis : deux chambres.
 
 	**Modifié par**:
 
-	  - Décret n°2008-819 du 21 août 2008 - art. 3
+	  - Décret n°2009-945 du 29 juillet 2009 - art. 4
 
 
 ###### Article R221-5
@@ -9673,54 +9677,42 @@ son grade.
 
 ###### Article R221-6
 
-Le tribunal administratif de Paris comprend dix-sept chambres regroupées en sections. Il est présidé par un président classé
+Le tribunal administratif de Paris comprend dix-huit chambres regroupées en sections. Il est présidé par un président classé
 au 7e échelon de son grade.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
 	**Modifié par**:
 
-	  - Décret n°2003-653 du 16 juillet 2003 - art. 3 () JORF 19 juillet 2003 en vigueur le 1er septembre 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2009-945 du 29 juillet 2009 - art. 5
 
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R222-17 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R6 (M)
 
 
 ##### Section 3 : Organisation des cours administratives d'appel
 
 ###### Article R221-7
 
-Le siège et le ressort des cours administratives d'appel sont fixés comme suit :
+Le siège et le ressort des cours administratives d'appel sont fixés comme suit : 
 
 Bordeaux : ressort des tribunaux administratifs de Bordeaux, Limoges, Pau, Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-de-
-France, Saint-Denis, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon ;
+France, Saint-Denis, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon ; 
 
-Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ;
+Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ; 
 
-Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ;
+Lyon : ressort des tribunaux administratifs de Clermont-Ferrand, Dijon, Grenoble et Lyon ; 
 
-Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice, Nîmes et Toulon  ;
+Marseille : ressort des tribunaux administratifs de Bastia, Marseille, Montpellier, Nice, Nîmes et Toulon ; 
 
-Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ;
+Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne, Nancy et Strasbourg ; 
 
-Nantes : ressort des tribunaux administratifs de Caen, Nantes, Orléans et Rennes ;
+Nantes : ressort des tribunaux administratifs de Caen, Nantes, Orléans et Rennes ; 
 
-Paris : ressort des tribunaux administratifs de Melun, Paris, Mata-Utu, Nouvelle-Calédonie et Polynésie française ;
+Paris : ressort des tribunaux administratifs de Melun, Paris, Mata-Utu, Nouvelle-Calédonie et Polynésie française ; 
 
-Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et Versailles.
+Versailles : ressort des tribunaux administratifs de Cergy-Pontoise, Montreuil et Versailles.
 
 **Liens relatifs à cet article**
 
@@ -9730,7 +9722,7 @@ Versailles : ressort des tribunaux administratifs de Cergy-Pontoise et Versaille
 
 	**Modifié par**:
 
-	  - Décret n°2008-819 du 21 août 2008 - art. 4
+	  - Décret n°2009-945 du 29 juillet 2009 - art. 6
 
 
 ###### Article R221-8
