@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2009-08-02
+Version Consolidée au 2009-08-07
 
 # Partie législative
 
@@ -1573,34 +1573,23 @@ administratif ou judiciaire.
 	  - Code des tribunaux administratifs et des cours adm - art. L2-6 (Ab)
 
 
-##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie
+##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir ou d'un recours en appréciation de légalité transmis par le tribunal administratif de Nouvelle-Calédonie
 
 ###### Article L224-3
 
-Ainsi qu'il est dit à l'article 205 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, " lorsque
-le tribunal administratif est saisi d'un recours pour excès de pouvoir dirigé contre les actes mentionnés aux 1° du A, 1° du
-B, 1° à 3° du D du II de l'article 204 et que ce recours est fondé sur un moyen sérieux invoquant l'inexacte application de
-la répartition des compétences entre l'Etat, la Nouvelle-Calédonie, les provinces et les communes ou que ce moyen est soulevé
-d'office, il transmet le dossier sans délai pour avis au Conseil d'Etat, par un jugement qui n'est susceptible d'aucun
-recours. Le Conseil d'Etat examine la question soulevée dans un délai de trois mois et il est sursis à toute décision sur le
-fond jusqu'à son avis ou, à défaut, jusqu'à l'expiration de ce délai. Le tribunal administratif statue dans un délai de deux
-mois à compter de la publication de l'avis au Journal officiel de la Nouvelle-Calédonie ou de l'expiration du délai imparti
-au Conseil d'Etat. "
+Le tribunal administratif soumet au Conseil d'Etat les questions préjudicielles relatives à la répartition des compétences
+entre l'Etat, la Nouvelle-Calédonie, les provinces et les communes de la Nouvelle-Calédonie, dans les conditions prévues par
+l'article 205 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 205 (V)
-
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 205 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 205
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2009-970 du 3 août 2009 - art. 8
 
 	**Cité par**:
 
@@ -1610,28 +1599,21 @@ au Conseil d'Etat. "
 
 ##### Section 2 : La saisine pour avis du tribunal administratif de Nouvelle-Calédonie
 
-###### Article L224-4
+###### Article LO224-4
 
-Ainsi qu'il est dit à l'article 206 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, " le
-président du gouvernement, le président du congrès, le président du sénat coutumier ou le président d'une assemblée de
-province peut saisir le tribunal administratif d'une demande d'avis. Il en informe immédiatement le haut-commissaire.
-Lorsqu'elle porte sur la répartition des compétences entre l'Etat, la Nouvelle-Calédonie, les provinces ou les communes, la
-demande d'avis est examinée par le Conseil d'Etat auquel elle est transmise sans délai. "
+Le président du gouvernement, le président du congrès, le président du sénat coutumier, le président d'une assemblée de
+province ou le haut-commissaire peuvent saisir le tribunal administratif ou le Conseil d'Etat d'une demande d'avis dans les
+conditions prévues par l'article 206 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 206 (V)
-
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 206 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 206
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi organique n°2009-969 du 3 août 2009 - art. 52
 
 	**Cité par**:
 
