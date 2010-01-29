@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-01-23
+Version Consolidée au 2010-01-30
 
 # Partie législative
 
@@ -8566,22 +8566,11 @@ Les membres du corps des tribunaux administratifs et des cours administratives d
 président d'une cour sont nommés au grade de conseiller d'État, hors tour, et, le cas échéant, en surnombre, résorbable à la
 première vacance.
 
-Pendant une durée de cinq ans, ils ne peuvent obtenir d'autre affectation que celle de président de cour administrative
-d'appel.
-
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°87-1127 du 31 décembre 1987 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-388 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2010-101 du 28 janvier 2010 - art. 6
 
 
 #### Chapitre IV : Avancement
@@ -9031,14 +9020,11 @@ Les membres du Conseil d'Etat peuvent être mis en position hors cadre dans les 
 ###### Article R*135-8
 
 Les membres du Conseil d'Etat peuvent être mis en disponibilité dans les conditions prévues à l'article 51 de la loi n° 84-16
-du 11 janvier 1984, et selon les formes prescrites à l'article R.* 135-2.
-
-La disponibilité ne peut excéder trois années mais, sous réserve des conditions posées par l'article 37 du décret n° 86-442
-du 14 mars 1986, peut être renouvelée une fois pour une durée égale.
+du 11 janvier 1984, et selon les formes prescrites à l'article R.* 135-2. 
 
 La disponibilité ne comporte aucun traitement. Le temps passé dans cette position ne compte ni pour la retraite, ni pour
 l'avancement, ni pour le décompte des années de service dans le grade de maître des requêtes ou d'auditeur, visé aux articles
-R.* 134-3, R.* 134-5 et R.* 134-7.
+R.* 134-3, R.* 134-5 et R.* 134-7. 
 
 Les membres du Conseil d'Etat mis en disponibilité sont remplacés dans leurs fonctions.
 
@@ -9048,27 +9034,22 @@ nomination aux emplois vacants, ou bien cessent définitivement leurs fonctions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-767 du 30 juillet 1963 - art. 21 (Ab)
-
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 51
-	  - Code de justice administrative R134-3, R135-10, R135-11
+	  - Loi n°84-16 du 11 janvier 1984 - art. 51
+	  - Code de justice administrative - art. R*134-3
+	  - Code de justice administrative - art. R*134-5
+	  - Code de justice administrative - art. R*134-7
+	  - Code de justice administrative - art. R*135-11
+	  - Code de justice administrative - art. R*135-2
+	  - Code de justice administrative - art. R*135-9
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-388 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2010-101 du 28 janvier 2010 - art. 6
 
 	**Cité par**:
 
-	  - Code de justice administrative - art. R*134-5 (V)
-	  - Code de justice administrative - art. R*134-7 (V)
 	  - Code de justice administrative - art. R*135-10 (V)
 
 
