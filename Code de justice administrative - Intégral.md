@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-02-24
+Version Consolidée au 2010-02-26
 
 # Partie législative
 
@@ -4414,81 +4414,20 @@ du 27 février 2004 portant statut d'autonomie de la Polynésie française.
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L1111-7
 
 
-###### Article L554-5
+###### Article L554-6
 
-La décision de suspension en matière de marchés des établissements publics de santé obéit aux règles définies à l'article L.
-6145-6 du code de la santé publique ci-après reproduit : 
-
-" Art.L. 6145-6.-Les baux conclus en application de l'article L. 6148-2, les marchés et les contrats de partenariat des
-établissements publics de santé sont exécutoires dès leur réception par le représentant de l'Etat. Celui-ci défère au
-tribunal administratif, dans les deux mois suivant cette réception, les décisions qu'il estime illégales. Il informe sans
-délai le président du conseil d'administration et lui communique toute précision sur les illégalités invoquées. Il peut
-assortir son recours d'une demande de suspension. Il est fait droit à cette demande si l'un des moyens invoqués paraît, en
-l'état de l'instruction, propre à créer un doute sérieux quant à la légalité de l'acte attaqué. 
-
-Toutefois, les marchés passés selon la procédure adaptée sont dispensés de l'obligation de transmission au représentant de
-l'Etat prévue au premier alinéa. Ces marchés sont exécutoires dès leur conclusion. "
+La décision de suspension des délibérations du conseil de surveillance et des décisions du directeur des établissements
+publics de santé obéit aux règles définies au dernier alinéa de l'article L. 6143-4 du code de la santé publique.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 	**Modifié par**:
-
-	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 10 () JORF 03 mai 2005
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2010-177 du 23 février 2010 - art. 5
 
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de la santé publique - art. L6145-6
-
 	**Cite**:
 
-	  - Code de la santé publique - art. L6148-2
-
-	**Anciens textes**:
-
-	  - Code de la santé publique - art. L714-10 (M)
-
-
-###### Article L554-6
-
-La décision de suspension des délibérations des conseils d'administration des établissements publics de santé obéit aux
-règles définies au 1° de l'article L. 6143-4 du code de la santé publique ci-après reproduit : 
-
-" Art.L. 6143-4.-1° Les délibérations autres que celles prévues aux 1° et 3° de l'article L. 6143-1 sont exécutoires de plein
-droit dès leur réception par le directeur de l'agence régionale de l'hospitalisation. 
-
-Le directeur de l'agence régionale de l'hospitalisation défère au tribunal administratif les délibérations portant sur ces
-matières qu'il estime illégales dans les deux mois suivant leur réception. Il informe sans délai l'établissement et lui
-communique toute précision sur les illégalités invoquées. Il peut assortir son recours d'une demande de sursis à exécution.
-Il est fait droit à cette demande si l'un des moyens invoqués paraît de nature à justifier l'annulation de la délibération
-attaquée. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 1 () JORF 3 mai 2005
-
-	**Cite**:
-
-	  - Code de justice administrative L6143-1
-
-	**Anciens textes**:
-
-	  - Code de la santé publique - art. L714-5 (M)
+	  - Code de la santé publique - art. L6143-4
 
 
 ###### Article L554-7
