@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-02-26
+Version Consolidée au 2010-03-01
 
 # Partie législative
 
@@ -4928,6 +4928,44 @@ considérations, dire qu'il n'y a pas lieu à cette condamnation.
 
 
 ### Titre VII : Dispositions spéciales
+
+#### Chapitre Ier bis : La question prioritaire de constitutionnalité 
+
+
+
+###### Article LO771-1
+
+La transmission par une juridiction administrative d'une question prioritaire de constitutionnalité au Conseil d'Etat obéit
+aux règles définies par les articles 23-1 à 23-3 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le
+Conseil constitutionnel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-1
+
+	**Créé par**:
+
+	  - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
+
+
+###### Article LO771-2
+
+Le renvoi par le Conseil d'Etat d'une question prioritaire de constitutionnalité au Conseil constitutionnel obéit aux règles
+définies par les articles 23-4,23-5 et 23-7 de l'ordonnance n° 58-1067 du 7 novembre 1958 précitée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-4 (V)
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-7 (V)
+
+	**Créé par**:
+
+	  - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
+
 
 #### Chapitre IV : Les contraventions de grande voirie
 
@@ -21395,6 +21433,356 @@ cette question de compétence. Il est alors sursis à toute procédure jusqu'à 
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+#### Chapitre Ier bis : La question prioritaire de constitutionnalité
+
+##### Section 1 : Dispositions applicables devant les tribunaux administratifs et les cours administratives d'appel 
+
+
+
+
+###### Article R*771-3
+
+Le moyen tiré de ce qu'une disposition législative porte atteinte aux droits et libertés garantis par la Constitution est
+soulevé, conformément aux dispositions de l'article 23-1 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique
+sur le Conseil constitutionnel, à peine d'irrecevabilité, dans un mémoire distinct et motivé. Ce mémoire, ainsi que, le cas
+échéant, l'enveloppe qui le contient, portent la mention : " question prioritaire de constitutionnalité ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-1
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-463 du 14 avril 2016 (V)
+	  - Code de la sécurité sociale. - art. R145-44 (V)
+
+
+###### Article R*771-4
+
+L'irrecevabilité tirée du défaut de présentation, dans un mémoire distinct et motivé, du moyen visé à l'article précédent
+peut être opposée sans qu'il soit fait application des articles R. 611-7 et R. 612-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R611-7
+	  - Code de justice administrative - art. R612-1
+
+
+###### Article R*771-5
+
+Sauf s'il apparaît de façon certaine, au vu du mémoire distinct, qu'il n'y a pas lieu de transmettre la question prioritaire
+de constitutionnalité, notification de ce mémoire est faite aux autres parties. Il leur est imparti un bref délai pour
+présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-6
+
+La juridiction n'est pas tenue de transmettre une question prioritaire de constitutionnalité mettant en cause, par les mêmes
+motifs, une disposition législative dont le Conseil d'Etat ou le Conseil constitutionnel est déjà saisi. En cas d'absence de
+transmission pour cette raison, elle diffère sa décision sur le fond, jusqu'à ce qu'elle soit informée de la décision du
+Conseil d'Etat ou, le cas échéant, du Conseil constitutionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-7
+
+Les présidents de tribunal administratif et de cour administrative d'appel, le vice-président du tribunal administratif de
+Paris, les présidents de formation de jugement des tribunaux et des cours ou les magistrats désignés à cet effet par le chef
+de juridiction peuvent, par ordonnance, statuer sur la transmission d'une question prioritaire de constitutionnalité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-8
+
+L'application des dispositions de la présente section ne fait pas obstacle à l'usage des pouvoirs que les présidents de
+tribunal administratif et de cour administrative d'appel, le vice-président du tribunal administratif de Paris et les
+présidents de formation de jugement des tribunaux et des cours tiennent des dispositions de l'article R. 222-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R222-1
+
+
+###### Article R*771-9
+
+La décision qui statue sur la transmission de la question prioritaire de constitutionnalité est notifiée aux parties, dans
+les formes prévues par les articles R. 751-2 à R. 751-4 et R. 751-8.
+
+La notification d'une décision de transmission mentionne que des observations peuvent être produites devant le Conseil
+d'Etat, dans le délai d'un mois. Elle indique les modalités selon lesquelles ces observations peuvent être présentées. 
+
+La notification d'une décision de refus de transmission mentionne que cette décision ne peut être contestée qu'à l'occasion
+d'un recours formé contre la décision qui règle tout ou partie du litige. Elle mentionne aussi que cette contestation devra
+faire l'objet d'un mémoire distinct et motivé, accompagné d'une copie de la décision de refus de transmission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R751-2
+	  - Code de justice administrative - art. R751-8
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R145-44 (V)
+
+
+###### Article R*771-10
+
+Le refus de transmission dessaisit la juridiction du moyen d'inconstitutionnalité. La décision qui règle le litige vise le
+refus de transmission. 
+
+La formation de jugement peut, toutefois, déclarer non avenu le refus de transmission et procéder à la transmission, lorsque
+ce refus a été exclusivement motivé par la constatation que la condition prévue par le 1° de l'article 23-2 de l'ordonnance
+n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel n'était pas remplie, si elle entend fonder
+sa décision sur la disposition législative qui avait fait l'objet de la question qui n'a pas été transmise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-2
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R145-44 (V)
+
+
+###### Article R*771-11
+
+La question prioritaire de constitutionnalité soulevée pour la première fois devant les cours administratives d'appel est
+soumise aux mêmes règles qu'en première instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-12
+
+Lorsque, en application du dernier alinéa de l'article 23-2 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi
+organique sur le Conseil constitutionnel, l'une des parties entend contester, à l'appui d'un appel formé contre la décision
+qui règle tout ou partie du litige, le refus de transmission d'une question prioritaire de constitutionnalité opposé par le
+premier juge, il lui appartient, à peine d'irrecevabilité, de présenter cette contestation avant l'expiration du délai
+d'appel dans un mémoire distinct et motivé, accompagné d'une copie de la décision de refus de transmission. 
+
+La contestation du refus de transmission par la voie du recours incident doit, de même, faire l'objet d'un mémoire distinct
+et motivé, accompagné d'une copie de la décision de refus de transmission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-2
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+##### Section 2 : Dispositions applicables devant le Conseil d'Etat 
+
+
+
+
+###### Article R*771-13
+
+Le mémoire distinct prévu par l'article 23-5 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le
+Conseil constitutionnel ainsi que, le cas échéant, l'enveloppe qui le contient portent la mention : " question prioritaire de
+constitutionnalité ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-5
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-14
+
+L'irrecevabilité tirée du défaut de présentation, dans un mémoire distinct et motivé, du moyen tiré de ce qu'une disposition
+législative porte atteinte aux droits et libertés garantis par la Constitution peut être opposée sans qu'il soit fait
+application des articles R. 611-7 et R. 612-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R611-7
+	  - Code de justice administrative - art. R612-1
+
+
+###### Article R*771-15
+
+Le mémoire distinct par lequel une partie soulève, devant le Conseil d'Etat, un moyen tiré de ce qu'une disposition
+législative porte atteinte aux droits et libertés garantis par la Constitution est notifié aux autres parties, au ministre
+compétent et au Premier ministre. Il leur est imparti un bref délai pour présenter leurs observations. 
+
+Il n'est pas procédé à la communication du mémoire distinct lorsqu'il apparaît de façon certaine, au vu de ce mémoire, que
+les conditions prévues à l'article 23-4 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil
+constitutionnel ne sont pas remplies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-4
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-16
+
+Lorsque l'une des parties entend contester devant le Conseil d'Etat, à l'appui d'un appel ou d'un pourvoi en cassation formé
+contre la décision qui règle tout ou partie du litige, le refus de transmission d'une question prioritaire de
+constitutionnalité précédemment opposé, il lui appartient, à peine d'irrecevabilité, de présenter cette contestation avant
+l'expiration du délai de recours dans un mémoire distinct et motivé, accompagné d'une copie de la décision de refus de
+transmission. 
+
+La contestation du refus de transmission par la voie du recours incident doit, de même, faire l'objet d'un mémoire distinct
+et motivé, accompagné d'une copie de la décision de refus de transmission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-17
+
+Lorsqu'une question prioritaire de constitutionnalité est posée à l'appui d'un pourvoi en cassation, le Conseil d'Etat se
+prononce sur le renvoi de cette question au Conseil constitutionnel sans être tenu de statuer au préalable sur l'admission du
+pourvoi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-18
+
+Le Conseil d'Etat n'est pas tenu de renvoyer au Conseil constitutionnel une question prioritaire de constitutionnalité
+mettant en cause, par les mêmes motifs, une disposition législative dont le Conseil constitutionnel est déjà saisi. En cas
+d'absence de transmission pour cette raison, il diffère sa décision jusqu'à l'intervention de la décision du Conseil
+constitutionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-19
+
+L'application des dispositions de la présente section ne fait pas obstacle à l'usage des pouvoirs que les présidents de sous-
+section tiennent des dispositions des articles R. 122-12 et R. 822-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R122-12
+	  - Code de justice administrative - art. R822-5
+
+
+###### Article R*771-20
+
+Lorsqu'une question prioritaire de constitutionnalité a été transmise au Conseil d'Etat par un tribunal administratif ou par
+une cour administrative d'appel, les parties, le ministre compétent et le Premier ministre peuvent produire des observations
+dans le délai d'un mois courant à compter de la notification qui leur a été faite de la décision de transmission ou, le cas
+échéant, dans le délai qui leur est imparti par le président de la section du contentieux ou par le président de la sous-
+section chargée de l'instruction. 
+
+Si la requête dont est saisie la juridiction qui a décidé le renvoi est dispensée du ministère d'avocat devant cette
+juridiction, la même dispense s'applique à la production des observations devant le Conseil d'Etat ; dans le cas contraire,
+et sauf lorsqu'elles émanent d'un ministre ou du Premier ministre, les observations doivent être présentées par un avocat au
+Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+
+###### Article R*771-21
+
+La décision qui se prononce sur le renvoi au Conseil constitutionnel d'une question prioritaire de constitutionnalité est
+notifiée aux parties, au ministre compétent et au Premier ministre dans les formes prévues aux articles R. 751-2 à R. 751-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R751-2
 
 
 #### Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées
