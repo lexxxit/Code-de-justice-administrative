@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-13
 
 # Partie législative
 
@@ -13614,6 +13614,8 @@ contrôle ou de régulation :
 
 - l'Autorité de régulation des communications électroniques et des postes ;
 
+- l'Autorité de régulation des jeux en ligne ; 
+
 - l'Autorité de régulation des transports ferroviaires ;
 
 - l'Autorité de sûreté nucléaire ;
@@ -13659,11 +13661,7 @@ compter du 1er avril 2010.
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 1
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2010-164 du 22 février 2010, v. init.
+	  - Décret n°2010-481 du 12 mai 2010 - art. 32
 
 	**Cité par**:
 
