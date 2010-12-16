@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-12-17
 
 # Partie législative
 
@@ -7388,25 +7388,26 @@ mentionnées à l'article R. 123-2.
 
 Les projets et propositions de lois du pays de la Nouvelle-Calédonie sont répartis, pour leur examen par les sections
 administratives, selon les matières énumérées à l'article 99 de la loi organique n° 99-209 du 19 mars 1999 relative à la
-Nouvelle-Calédonie par arrêté du Premier ministre et du ministre chargé de l'outre-mer.
+Nouvelle-Calédonie par arrêté du Premier ministre et du ministre chargé de l'outre-mer. 
+
+Les avis du Conseil d'Etat sur les projets et propositions de lois du pays sont adressés aux autorités mentionnées au dernier
+alinéa de l'article 100 de la loi organique susmentionnée ainsi qu'au Premier ministre, au ministre chargé de l'outre-mer et
+aux autres ministres intéressés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 9 (M)
-
 	**Cite**:
 
+	  - Loi n°99-209 du 19 mars 1999 - art. 100 (V)
 	  - Loi n°99-209 du 19 mars 1999 - art. 99 (V)
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 2
 
 
 ###### Article R123-5
@@ -10839,6 +10840,8 @@ prépondérante.
 
 ##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie
 
+##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir ou d'un recours en appréciation de légalité transmis par le tribunal administratif de Nouvelle-Calédonie
+
 ###### Article R224-3
 
 Le jugement du tribunal administratif de Nouvelle-Calédonie prononçant la transmission d'un dossier en application de
@@ -10951,27 +10954,22 @@ Nouvelle-Calédonie.
 
 ###### Article R224-7
 
-La transmission d'une demande d'avis par le tribunal administratif de Nouvelle-Calédonie, en application de l'article L.
+La transmission d'une demande d'avis par le tribunal administratif de Nouvelle-Calédonie, en application de l'article LO
 224-4, est adressée par le greffier de cette juridiction au secrétaire général du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 13-4 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R250 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 4
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L224-4 (V)
+	  - Code de justice administrative - art. L224-4
 
 
 ###### Article R224-8
@@ -11090,6 +11088,76 @@ publication de celle-ci au Journal officiel de la Nouvelle-Calédonie.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+##### Section 4 : Dispositions relatives aux modalités d'application de l'article 197 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie 
+
+
+
+###### Article R224-13
+
+La demande présentée en application des deuxième, quatrième et cinquième alinéas de l'article 197 de la loi organique n°
+99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie est examinée conformément aux dispositions régissant la procédure
+devant le Conseil d'Etat statuant au contentieux. 
+
+La décision est notifiée au représentant intéressé, au président du congrès de Nouvelle-Calédonie ou au président de
+l'assemblée de province intéressé, au haut-commissaire de la République, et, le cas échéant, au représentant auteur de la
+demande.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 197
+
+	**Créé par**:
+
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 5
+
+
+##### Section 5 : Exercice par un électeur ou un contribuable des actions appartenant à la Nouvelle-Calédonie ou à la province 
+
+
+
+
+###### Article R224-14
+
+I. ― Dans le cas prévu à l'article 209-1 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, il
+est délivré au contribuable ou à l'électeur un récépissé du mémoire détaillé qu'il a adressé au tribunal administratif. 
+
+Le haut-commissaire de la République, saisi par le président du tribunal administratif, transmet immédiatement ce mémoire : 
+
+― au président du gouvernement de Nouvelle-Calédonie, en l'invitant à le soumettre au gouvernement, s'il concerne une action
+que le contribuable ou l'électeur croit appartenir à la Nouvelle-Calédonie ; 
+
+― au président de la province, en l'invitant à le soumettre à l'assemblée de province, s'il concerne une action que le
+contribuable ou l'électeur croit appartenir à la province. 
+
+La décision du tribunal administratif est rendue dans le délai de deux mois à dater du dépôt de la demande d'autorisation. 
+
+Toute décision qui porte refus d'autorisation doit être motivée. 
+
+II. ― Lorsque le tribunal administratif ne statue pas dans le délai de deux mois ou lorsque l'autorisation est refusée, le
+contribuable ou l'électeur peut se pourvoir devant le Conseil d'Etat. 
+
+III. ― Le pourvoi devant le Conseil d'Etat est, à peine de déchéance, formé dans les trois mois qui suivent soit l'expiration
+du délai imparti au tribunal administratif pour statuer, soit la notification de l'arrêté portant refus. 
+
+Il est statué sur le pourvoi dans un délai de trois mois à compter de son enregistrement au secrétariat du contentieux du
+Conseil d'Etat. 
+
+IV. ― Le tribunal administratif ou le Conseil d'Etat peuvent, s'ils accordent l'autorisation, en subordonner l'effet à la
+consignation préalable des frais d'instance. Ils fixent, dans ce cas, la somme à consigner.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°99-209 du 19 mars 1999 - art. 209-1
+
+	**Créé par**:
+
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 5
 
 
 #### Chapitre V : Dispositions particulières à la Polynésie française
@@ -13591,7 +13659,7 @@ contrôle ou de régulation :
 
 - l'Agence française de lutte contre le dopage ;
 
-- l'Autorité de contrôle des assurances et des mutuelles ;
+- L'Autorité de contrôle prudentiel ;
 
 - l'Autorité de la concurrence ;
 
@@ -13607,10 +13675,6 @@ contrôle ou de régulation :
 
 - la Commission de régulation de l'énergie ;
 
-- la Commission bancaire ;
-
-- le Comité des établissements de crédit et des entreprises d'investissement ;
-
 - le Conseil supérieur de l'audiovisuel ;
 
 - la Commission nationale de l'informatique et des libertés ;
@@ -13625,16 +13689,6 @@ et dernier ressort du Conseil d'Etat ;
 
 7° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques.
 
-**Nota:**
-
-Ordonnance n° 2010-76 du 21 janvier 2010 article 18 :  Les références au Comité des entreprises d'assurances, au comité des
-établissements de crédit et des entreprises d'investissement, à l'Autorité de contrôle des assurances et des mutuelles et à
-la Commission bancaire sont remplacées par une référence à l'Autorité de contrôle prudentiel dans toutes les dispositions
-législatives et réglementaires en vigueur.
-
-Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
-compter du 1er avril 2010.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -13646,7 +13700,11 @@ compter du 1er avril 2010.
 
 	**Modifié par**:
 
-	  - Décret n°2010-481 du 12 mai 2010 - art. 32
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 11
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2010-1562 du 14 décembre 2010 - art., v. init.
 
 	**Cité par**:
 
@@ -15641,29 +15699,35 @@ que les voies de recours, dans la notification de la décision.
 ###### Article R421-6
 
 Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie le délai de
-recours de deux mois prévu à l'article R. 421-1 est porté à trois mois.
+recours de deux mois prévu à l'article R. 421-1 et au deuxième alinéa de l'article R. 421-2 est porté à trois mois.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 6
 
 	**Cité par**:
 
 	  - Décret n°2012-765 du 10 mai 2012 - art. 2 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
+
 	**Cite**:
 
 	  - Code de justice administrative - art. R421-1
+	  - Code de justice administrative - art. R421-2
 
 
 ###### Article R421-7
 
-Lorsque la demande est portée devant un tribunal administratif qui a son siège en France métropolitaine, le délai de recours
-prévu à l'article R. 421-1 est augmenté d'un mois pour les personnes qui demeurent en Guadeloupe, en Guyane, à la Martinique,
-à La Réunion, à Saint-Barthélemy, à Saint-Martin, à Mayotte, à Saint-Pierre-et-Miquelon, en Polynésie française, dans les
-îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises. 
+Lorsque la demande est portée devant un tribunal administratif qui a son siège en France métropolitaine ou devant le Conseil
+d'Etat statuant en premier et dernier ressort, le délai de recours prévu à l'article R. 421-1 est augmenté d'un mois pour les
+personnes qui demeurent en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Saint-Barthélemy, à Saint-Martin, à
+Mayotte, à Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans
+les Terres australes et antarctiques françaises. 
 
 Lorsque la demande est présentée devant le tribunal administratif de Basse-Terre, de Fort-de-France, de Cayenne, de Saint-
 Denis, de Saint-Barthélemy, de Saint-Martin, de Mayotte, de Saint-Pierre-et-Miquelon, de la Polynésie française, de Mata-Utu
@@ -15680,7 +15744,7 @@ arrondissements, les subdivisions ou les circonscriptions administratives.
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 12
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 7
 
 	**Cite**:
 
@@ -16030,6 +16094,9 @@ Devant le tribunal administratif de Mata-Utu, les recours, les mémoires en déf
 au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par l'administrateur supérieur
 ou son délégué.
 
+En ce qui concerne les Terres australes et antarctiques françaises, les recours, les mémoires en défense et les mémoires en
+intervention présentés au nom de l'Etat ou de la collectivité sont signés par l'administrateur supérieur ou son délégué.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -16044,7 +16111,7 @@ ou son délégué.
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 13
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 8
 
 
 ###### Article R431-10-1
@@ -21167,6 +21234,18 @@ tous les cas, au président de l'assemblée de la Polynésie française.
 	**Créé par**:
 
 	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+
+
+###### Article R751-8-2
+
+Les décisions qui se prononcent sur la légalité des actes des institutions de la Nouvelle-Calédonie sont notifiées, dans tous
+les cas, au président du congrès de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1562 du 14 décembre 2010 - art. 9
 
 
 ###### Article R751-9
