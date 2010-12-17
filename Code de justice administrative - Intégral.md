@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-12-17
+Version Consolidée au 2010-12-18
 
 # Partie législative
 
@@ -4266,8 +4266,8 @@ la légalité de l'acte attaqué. Il est statué dans un délai d'un mois. "
 
 Les demandes de suspension assortissant les requêtes du représentant de l'Etat dirigées contre les actes d'autres
 collectivités ou établissements suivent, de même, les règles fixées par les articles L. 2541-22, L. 2561-1, L. 3132-1, L.
-4142-1, L. 4411-1, L. 4421-1, L. 4431-1, L. 5211-3, L. 5331-3, L. 5332-1, L. 5421-2, L. 5711-1 et L. 5721-4 du code général
-des collectivités territoriales. 
+4142-1, L. 4411-1, L. 4421-1, L. 4431-1, L. 5211-3, L. 5332-1, L. 5421-2, L. 5711-1 et L. 5721-4 du code général des
+collectivités territoriales. 
 
 Il en va de même pour les actes des collectivités visés aux articles LO 6152-1, LO 6242-1, LO 6342-1 et LO 6452-1 du code
 général des collectivités territoriales, à l'article L. 121-39-2 du code des communes de la Nouvelle-Calédonie, à l'article
@@ -4278,9 +4278,9 @@ du 27 février 2004 portant statut d'autonomie de la Polynésie française.
 
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 204 (V)
-	  - Loi n°2004-192 du 27 février 2004 - art. 172 (V)
-	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-2 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 204
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 172
+	  - Code des communes de la Nouvelle-Calédonie - art. L121-39-2
 	  - Code général des collectivités territoriales - art. L2541-22
 	  - Code général des collectivités territoriales - art. L2561-1
 	  - Code général des collectivités territoriales - art. L3132-1
@@ -4289,19 +4289,19 @@ du 27 février 2004 portant statut d'autonomie de la Polynésie française.
 	  - Code général des collectivités territoriales - art. L4421-1
 	  - Code général des collectivités territoriales - art. L4431-1
 	  - Code général des collectivités territoriales - art. L5211-3
-	  - Code général des collectivités territoriales - art. L5331-3
 	  - Code général des collectivités territoriales - art. L5332-1
 	  - Code général des collectivités territoriales - art. L5421-2
 	  - Code général des collectivités territoriales - art. L5711-1
 	  - Code général des collectivités territoriales - art. L5721-4
-	  - Code général des collectivités territoriales - art. LO6152-1 (V)
-	  - Code général des collectivités territoriales - art. LO6242-1 (V)
-	  - Code général des collectivités territoriales - art. LO6342-1 (V)
-	  - Code général des collectivités territoriales - art. LO6452-1 (V)
+	  - Code général des collectivités territoriales - art. LO6152-1
+	  - Code général des collectivités territoriales - art. LO6242-1
+	  - Code général des collectivités territoriales - art. LO6342-1
+	  - Code général des collectivités territoriales - art. LO6452-1
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 31
+	  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
 
 	**Cité par**:
 
@@ -10837,8 +10837,6 @@ prépondérante.
 
 	  - Code des tribunaux administratifs et des cours adm - art. R252 (Ab)
 
-
-##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir transmis par le tribunal administratif de Nouvelle-Calédonie
 
 ##### Section 1 : La demande d'avis sur le dossier d'un recours pour excès de pouvoir ou d'un recours en appréciation de légalité transmis par le tribunal administratif de Nouvelle-Calédonie
 
