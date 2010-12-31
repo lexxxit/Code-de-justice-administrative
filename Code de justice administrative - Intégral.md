@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2010-12-18
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -6294,11 +6294,15 @@ Délégation peut également être donnée, aux mêmes fins, aux chefs de servic
 secrétariat général appartenant à un corps de catégorie A ainsi qu'aux agents contractuels chargés de fonctions d'un niveau
 équivalent.
 
+Délégation peut en outre être donnée aux autres agents en fonction au Conseil d'Etat à l'effet de signer, sous la
+responsabilité des personnes mentionnées aux deux premiers alinéas, toute pièce relative aux dépenses et aux ordres de
+recettes.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 26
+	  - Décret n°2010-1710 du 30 décembre 2010 - art. 1
 
 
 ###### Article R121-12
@@ -9865,11 +9869,15 @@ cours administratives d'appel. Délégation peut être également donnée, aux m
 et aux fonctionnaires du secrétariat général appartenant à un corps de catégorie A, ainsi qu'aux agents contractuels chargés
 de fonctions d'un niveau équivalent.
 
+Délégation peut en outre être donnée aux autres agents en fonction au Conseil d'Etat à l'effet de signer, sous la
+responsabilité des personnes mentionnées aux deux premiers alinéas, toute pièce relative aux dépenses et aux ordres de
+recettes.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 26
+	  - Décret n°2010-1710 du 30 décembre 2010 - art. 2
 
 
 ###### Article R222-12
@@ -13543,40 +13551,36 @@ cours administratives d'appel.
 
 ###### Article R235-1
 
-Sous réserve des cas de détachement de plein droit, les conseillers et les premiers conseillers du corps des tribunaux
-administratifs et des cours administratives d'appel ne peuvent être détachés ou mis à disposition que s'ils comptent au moins
-quatre années de services effectifs dans le corps. Toutefois, cette exigence ne peut faire obstacle, après deux années de
-services effectifs, au placement dans l'une de ces positions en vue de l'accomplissement de la mobilité statutaire ou pour
-occuper l'un des emplois pour lesquels la nomination est laissée à la décision du Gouvernement.
+Les magistrats des tribunaux administratifs et des cours administratives d'appel ne peuvent accomplir la période de mobilité
+prévue par le décret n° 2008-15 du 4 janvier 2008 relatif à la mobilité et au détachement des fonctionnaires des corps
+recrutés par la voie de l'Ecole nationale d'administration qu'après deux années de services juridictionnels effectifs, compte
+non tenu de la durée de la formation complémentaire.
 
-Les détachements ou mises à disposition des membres du corps des tribunaux administratifs et des cours administratives
-d'appel ainsi que les décisions de maintien dans l'une ou l'autre de ces positions sont prononcés sur la demande des
-intéréssés, après avis du chef de la mission permanente d'inspection des juridictions administratives.
+Ils ne peuvent accomplir cette mobilité dans un cabinet d'avocats ou auprès d'un avocat au Conseil d'Etat et à la Cour de
+cassation.
+
+Au terme de la période de mobilité, et sous réserve que celle-ci n'ait pas excédé quatre ans, le magistrat retrouve son
+affectation dans sa juridiction d'origine, le cas échéant en surnombre. Si la période de mobilité a excédé quatre ans ou si
+l'intéressé ne souhaite pas être réaffecté dans sa juridiction d'origine, sa demande d'affectation est satisfaite en fonction
+des vacances d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
 	**Modifié par**:
 
-	  - Décret n°2005-310 du 25 mars 2005 - art. 1 () JORF 3 avril 2005
+	  - Décret n°2010-164 du 22 février 2010 - art. 53
 
 
 ###### Article R235-2
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel accomplissent la mobilité statutaire
-prévue par le décret n° 2008-15 du 4 janvier 2008 relatif à la mobilité et au détachement des fonctionnaires des corps
-recrutés par la voie de l'Ecole nationale d'administration dans les conditions définies par ce décret. Toutefois, ils ne
-peuvent accomplir cette mobilité dans un cabinet d'avocats ou auprès d'un avocat au Conseil d'Etat et à la Cour de
-cassation.A la fin de la période au cours de laquelle ils ont accompli la mobilité, ils sont réintégrés de droit et au besoin
-en surnombre dans leur corps d'origine. Chacun d'eux doit retrouver, s'il le demande, une affectation dans la juridiction à
-laquelle il était précédemment affecté lorsqu'une vacance y est ouverte à la fin de sa période de mobilité.
+Sans préjudice des dispositions de l'article R. 235-1 ainsi que des cas de détachement de plein droit, de détachement dans
+les fonctions de sous-préfet ou pour occuper un emploi fonctionnel ou l'un des emplois pour lesquels la nomination est
+laissée à la décision du Gouvernement, les magistrats des tribunaux administratifs et des cours administratives d'appel ne
+peuvent être détachés ou mis à disposition que s'ils comptent au moins quatre années de services effectifs. 
+
+Les détachements ou mises à disposition des membres du corps des tribunaux administratifs et des cours administratives
+d'appel ainsi que les décisions de maintien dans l'une ou l'autre de ces positions sont prononcés sur la demande des
+intéressés, après avis du chef de la mission permanente d'inspection des juridictions administratives.
 
 **Liens relatifs à cet article**
 
@@ -13586,7 +13590,7 @@ laquelle il était précédemment affecté lorsqu'une vacance y est ouverte à l
 
 	**Modifié par**:
 
-	  - Décret n°2008-15 du 4 janvier 2008 - art. 7 (V)
+	  - Décret n°2010-164 du 22 février 2010 - art. 53
 
 	**Cité par**:
 
