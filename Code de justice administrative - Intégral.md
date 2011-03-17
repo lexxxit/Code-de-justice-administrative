@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-03-18
 
 # Partie législative
 
@@ -21459,8 +21459,9 @@ Au Conseil d'Etat, la liquidation est faite par ordonnance du président de la s
 
 ###### Article R761-5
 
-Les parties, ainsi que, le cas échéant, l'expert, peuvent contester l'ordonnance mentionnée à l'article R. 761-4 devant la
-juridiction à laquelle appartient l'auteur de l'ordonnance. 
+Les parties, l'Etat lorsque les frais d'expertise sont avancés au titre de l'aide juridictionnelle ainsi que, le cas échéant,
+l'expert, peuvent contester l'ordonnance mentionnée à l'article R. 761-4 devant la juridiction à laquelle appartient l'auteur
+de l'ordonnance. 
 
 Sauf lorsque l'ordonnance émane du président de la section du contentieux du Conseil d'Etat, la requête est transmise sans
 délai par le président de la juridiction à un tribunal administratif conformément à un tableau d'attribution arrêté par le
@@ -21472,16 +21473,11 @@ section du contentieux est appelé à présenter des observations écrites sur l
 Le recours mentionné au précédent alinéa est exercé dans le délai d'un mois à compter de la notification de l'ordonnance sans
 attendre l'intervention de la décision par laquelle la charge des frais est attribuée.
 
-**Nota:**
-
-Décret n° 2010-164 du 22 février 2010 article 55 : Les présentes dispositions s'appliquent aux requêtes enregistrées à
-compter du 1er avril 2010.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 47
+	  - Décret n°2011-272 du 15 mars 2011 - art. 26
 
 	**Cité par**:
 
