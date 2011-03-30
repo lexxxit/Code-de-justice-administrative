@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-03-18
+Version Consolidée au 2011-03-31
 
 # Partie législative
 
@@ -1388,11 +1388,12 @@ vice-président du Conseil d'Etat délibérant avec les présidents de section.
 
 #### Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
 
+#### Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
+
 ###### Article L223-1
 
-Dans les départements et régions d'outre-mer, à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon,
-les tribunaux administratifs peuvent comprendre, à titre permanent ou comme membres suppléants, des magistrats de l'ordre
-judiciaire.
+Dans les départements et régions d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, les tribunaux
+administratifs peuvent comprendre, à titre permanent ou comme membres suppléants, des magistrats de l'ordre judiciaire.
 
 Les tribunaux administratifs de Saint-Barthélemy, de Saint-Martin et celui territorialement compétent pour la Guadeloupe
 peuvent avoir le même siège.
@@ -1401,42 +1402,12 @@ peuvent avoir le même siège.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours administratives d'appel L2-2 al. 1er
-
-
-###### Article L223-2
-
-La procédure de saisine pour avis du tribunal administratif de Mayotte par le président du conseil général de Mayotte est
-régie par les dispositions de l'article LO 6162-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
-	  - Loi n°2007-224 du 21 février 2007 - art. 25 () JORF 22 février 2007
-
-	**Abrogé par**:
 
 	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. LO6162-10
 
 
 ###### Article L223-3
@@ -1896,9 +1867,6 @@ la Polynésie française, les fonctions de président et de membre du gouverneme
 représentant à l'assemblée de la Polynésie française sont incompatibles avec les fonctions de magistrat des juridictions
 administratives. 
 
-Conformément à l'article LO 465 du code électoral, le mandat de conseiller général de Mayotte est incompatible avec les
-fonctions de magistrat des juridictions administratives. 
-
 Conformément aux articles LO 493, LO 520 et LO 548 du même code, le mandat de conseiller territorial de Saint-Barthélemy, de
 Saint-Martin ou de Saint-Pierre-et-Miquelon est incompatible avec les fonctions de magistrat des juridictions
 administratives.
@@ -1911,24 +1879,25 @@ administratives.
 
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 112 (V)
-	  - Loi n°99-209 du 19 mars 1999 - art. 196 (V)
-	  - Loi n°2004-192 du 27 février 2004 (V)
-	  - Loi n°2004-192 du 27 février 2004 - art. 109 (V)
-	  - Loi n°2004-192 du 27 février 2004 - art. 74 (V)
-	  - Code électoral - art. LO465 (VT)
-	  - Code électoral - art. LO493 (V)
-	  - Code électoral - art. LO520 (V)
-	  - Code électoral - art. LO548 (V)
+	  - Loi n°99-209 du 19 mars 1999
+	  - Loi n°99-209 du 19 mars 1999 - art. 112
+	  - Loi n°99-209 du 19 mars 1999 - art. 196
+	  - Loi organique n°2004-192 du 27 février 2004
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 109
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 74
+	  - Code électoral - art. LO465
+	  - Code électoral - art. LO493
+	  - Code électoral - art. LO520
+	  - Code électoral - art. LO548
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
 
 	**Cité par**:
 
@@ -2955,33 +2924,6 @@ pris sur le fondement des deuxième et troisième alinéas de l'article 73 de la
 	**Créé par**:
 
 	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
-
-
-###### Article L311-9
-
-Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort, conformément aux articles LO 6161-4 et LO
-6161-6 du code général des collectivités territoriales, des recours juridictionnels formés contre les délibérations du
-conseil général de Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Rapport
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2007-224 du 21 février 2007 - art. 11 () JORF 22 février 2007
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. LO6161-4
-	  - Code général des collectivités territoriales - art. LO6161-6
 
 
 ###### Article L311-10
@@ -4657,32 +4599,6 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 ##### Section 3 : Dispositions particulières applicables dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie en matière de référé.
 
-###### Article L554-13
-
-Les conditions dans lesquelles un conseiller général de Mayotte ou un conseiller territorial de Saint-Barthélemy, de Saint-
-Martin ou de Saint-Pierre-et-Miquelon peut assortir son recours en annulation d'un acte de l'assemblée délibérante dont il
-est membre d'une demande de suspension à laquelle il fait droit si l'un des moyens invoqués paraît, en l'état de
-l'instruction, propre à créer un doute sérieux quant à la légalité de cet acte sont fixées par les articles LO 6152-3, LO
-6242-3, LO 6342-3 et LO 6452-3 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-536 du 14 mai 2009 - art. 16
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. LO6152-3
-	  - Code général des collectivités territoriales - art. LO6242-3
-	  - Code général des collectivités territoriales - art. LO6342-3
-	  - Code général des collectivités territoriales - art. LO6452-3
-
-
 ###### Article L554-14
 
 En Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et dans les
@@ -4783,27 +4699,27 @@ Par dérogation aux dispositions de l'article L. 6, le président de la formatio
 décider que l'audience aura lieu ou se poursuivra hors la présence du public, si la sauvegarde de l'ordre public ou le
 respect de l'intimité des personnes ou de secrets protégés par la loi l'exige.
 
-Les dispositions du précédent alinéa sont applicables à Mayotte, à Saint-Pierre-et-Miquelon, à la Nouvelle-Calédonie, à la
-Polynésie française et aux îles Wallis et Futuna.
+Les dispositions du précédent alinéa sont applicables à Saint-Pierre-et-Miquelon, à la Nouvelle-Calédonie, à la Polynésie
+française et aux îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 57 (V) JORF 10 décembre 2004
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L6
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R741-2 (VD)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L6 (V)
 
 
 ### Titre IV : La décision
