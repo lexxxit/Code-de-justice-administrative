@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -501,7 +501,7 @@ Les conseillers d'Etat en service extraordinaire ne peuvent être affectés à l
 
 ###### Article L121-5
 
-Les conseillers d'Etat en service extraordinaire sont nommés pour une durée de quatre ans non renouvelable avant l'expiration
+Les conseillers d'Etat en service extraordinaire sont nommés pour une durée de cinq ans non renouvelable avant l'expiration
 d'un délai de deux ans.
 
 **Liens relatifs à cet article**
@@ -512,8 +512,12 @@ d'un délai de deux ans.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 73
 
 
 ###### Article L121-6
@@ -4691,11 +4695,13 @@ mettre en doute son impartialité.
 
 ### Titre III : La tenue de l'audience
 
+#### Chapitre Ier : Dispositions générales
+
 ###### Article L731-1
 
 Par dérogation aux dispositions de l'article L. 6, le président de la formation de jugement peut, à titre exceptionnel,
 décider que l'audience aura lieu ou se poursuivra hors la présence du public, si la sauvegarde de l'ordre public ou le
-respect de l'intimité des personnes ou de secrets protégés par la loi l'exige.
+respect de l'intimité des personnes ou de secrets protégés par la loi l'exige. 
 
 Les dispositions du précédent alinéa sont applicables à Saint-Pierre-et-Miquelon, à la Nouvelle-Calédonie, à la Polynésie
 française et aux îles Wallis et Futuna.
@@ -4707,17 +4713,36 @@ française et aux îles Wallis et Futuna.
 	  - Rapport
 	  - Loi n°2003-591 du 2 juillet 2003
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 14
+	  - DEPLACE: Loi n°2011-525 du 17 mai 2011 - art. 188
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L6
+	  - Code de justice administrative - art. L6 (V)
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R741-2 (VD)
+
+
+#### Chapitre II : Dispositions applicables aux tribunaux    administratifs et aux cours administratives d'appel
+
+###### Article L732-1
+
+Dans des matières énumérées par décret en Conseil d'Etat, le président de la formation de jugement peut dispenser le
+rapporteur public, sur sa proposition, d'exposer à l'audience ses conclusions sur une requête, eu égard à la nature des
+questions à juger.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 188
+
+	**Cité par**:
+
+	  - Décret n°2011-1950 du 23 décembre 2011 (V)
 
 
 ### Titre IV : La décision
