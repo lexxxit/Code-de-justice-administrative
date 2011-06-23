@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-24
 
 # Partie législative
 
@@ -3429,18 +3429,24 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 
 ###### Article L551-2
 
-Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations et suspendre l'exécution de toute décision
-qui se rapporte à la passation du contrat, sauf s'il estime, en considération de l'ensemble des intérêts susceptibles d'être
-lésés et notamment de l'intérêt public, que les conséquences négatives de ces mesures pourraient l'emporter sur leurs
-avantages. 
+I. - Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations et suspendre l'exécution de toute
+décision qui se rapporte à la passation du contrat, sauf s'il estime, en considération de l'ensemble des intérêts
+susceptibles d'être lésés et notamment de l'intérêt public, que les conséquences négatives de ces mesures pourraient
+l'emporter sur leurs avantages. 
 
 Il peut, en outre, annuler les décisions qui se rapportent à la passation du contrat et supprimer les clauses ou
-prescriptions destinées à figurer dans le contrat et qui méconnaissent lesdites obligations.
+prescriptions destinées à figurer dans le contrat et qui méconnaissent lesdites obligations. 
+
+II. - Toutefois, le I n'est pas applicable aux contrats passés dans les domaines de la défense ou de la sécurité au sens du
+II de l'article 2 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou
+privées non soumises au code des marchés publics. 
+
+Pour ces contrats, il est fait application des articles L. 551-6 et L. 551-7.
 
 **Nota:**
 
-Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
-lesquels une consultation est engagée à partir du 1er décembre 2009.
+Loi n° 2011-702 du 22 juin 2011 article 9 III : L'article 6 est applicable aux contrats pour lesquels une consultation est
+engagée à compter du 21 août 2011.
 
 **Liens relatifs à cet article**
 
@@ -3454,9 +3460,14 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 	  - Code de justice administrative. - art. R551-4 (V)
 	  - Code de justice administrative. - art. R551-6 (V)
 
+	**Cite**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 2
+	  - Code de justice administrative - art. L551-6
+
 	**Modifié par**:
 
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+	  - Loi n°2011-702 du 22 juin 2011 - art. 6
 
 
 ###### Article L551-3
@@ -3900,18 +3911,23 @@ adjudicatrice, si le prononcé de la nullité du contrat se heurte à une raison
 
 Cette raison ne peut être constituée par la prise en compte d'un intérêt économique que si la nullité du contrat entraîne des
 conséquences disproportionnées et que l'intérêt économique atteint n'est pas directement lié au contrat, ou si le contrat
-porte sur une délégation de service public.
+porte sur une délégation de service public ou encore si la nullité du contrat menace sérieusement l'existence même d'un
+programme de défense ou de sécurité plus large qui est essentiel pour les intérêts de sécurité de l'Etat.
 
 **Nota:**
 
-Ordonnance 2009-515 du 7 mai 2009 art. 25 : Les dispositions de la présente ordonnance sont applicables aux contrats pour
-lesquels une consultation est engagée à partir du 1er décembre 2009.
+Loi n° 2011-702 du 22 juin 2011 article 9-III : L'article 6 est applicable aux contrats pour lesquels une consultation est
+engagée à compter du 21 août 2011.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+	  - Loi n°2011-702 du 22 juin 2011 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L551-18
 
 	**Cité par**:
 
