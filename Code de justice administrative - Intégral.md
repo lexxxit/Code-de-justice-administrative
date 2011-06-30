@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-06-24
+Version Consolidée au 2011-07-01
 
 # Partie législative
 
@@ -2381,22 +2381,31 @@ d'administration.
 Les membres du corps des tribunaux administratifs et des cours administratives d'appel, lorsqu'ils atteignent la limite d'âge
 résultant de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public,
 sont, sur leur demande, maintenus en activité, en surnombre, pour exercer l'une des fonctions dévolues aux premiers
-conseillers pendant une durée de trois ans non renouvelable.
+conseillers jusqu'à l'âge maximal de maintien mentionné à l'article 1er de la loi n° 86-1304 du 23 décembre 1986 relative à
+la limite d'âge et aux modalités de recrutement de certains fonctionnaires civils de l'Etat.
+
+Nul ne peut être maintenu en activité dans une juridiction qu'il a présidée au cours de sa carrière.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-834 1984-09-13
+	  - Loi n°84-834 du 13 septembre 1984
+	  - Loi n°86-1304 du 23 décembre 1986 - art. 1
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 57 () JORF 10 septembre 2002
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
 
 
 ###### Article L233-8
@@ -2416,39 +2425,6 @@ pensions civiles et militaires de retraite.
 
 	  - Code des pensions civiles et militaires de retrait - art. L26 bis (M)
 	  - Code des pensions civiles et militaires de retrait - art. L63 (V)
-
-
-##### Section 6 : Fin de fonctions
-
-###### Article L233-9
-
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel sont maintenus en fonctions, sauf
-demande contraire, jusqu'au 30 juin ou au 31 décembre de l'année en cours selon qu'ils ont atteint la limite d'âge au cours
-du premier ou du second semestre.
-
-**Nota:**
-
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
-effet à compter du 1er juillet 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Rapport
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Créé par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 58 () JORF 10 septembre 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R233-13 (M)
 
 
 #### Chapitre IV : Avancement
