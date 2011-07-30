@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-07-18
+Version Consolidée au 2011-07-31
 
 # Partie législative
 
@@ -7312,14 +7312,14 @@ ministre et du garde des sceaux, ministre de la justice, pris sur proposition du
 
 ###### Article R123-3-1
 
-L'examen d'une proposition de loi est attribué par le vice-président du Conseil d'Etat à l'une des cinq premières sections
-mentionnées à l'article R. 123-2.
+L'examen d'une  proposition de loi ou d'une demande d'avis présentée par le Défenseur des droits est attribué par le vice-
+président du Conseil d'Etat à l'une des cinq premières sections mentionnées à l'article R. 123-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-926 du 29 juillet 2009 - art. 1
+	  - Décret n°2011-904 du 29 juillet 2011 - art. 19
 
 	**Cite**:
 
@@ -7925,6 +7925,18 @@ de la proposition, les personnes que ce dernier désigne pour l'assister.
 	**Créé par**:
 
 	  - Décret n°2009-926 du 29 juillet 2009 - art. 6
+
+
+###### Article R123-24-2
+
+Le Défenseur des droits et les agents qu'il désigne peuvent participer avec voix consultative aux séances au cours desquelles
+est examinée une demande d'avis qu'il a adressée au Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-904 du 29 juillet 2011 - art. 20
 
 
 ###### Article R123-25
@@ -17397,6 +17409,49 @@ la procédure de référé prévue à l'article R. 531-1.
 	  - Code de justice administrative - art. R531-1 (V)
 	  - Code de la construction et de l'habitation. - art. L129-3 (VT)
 	  - Code de la construction et de l'habitation. - art. L511-3 (V)
+
+
+#### Chapitre VII : Le référé sur saisine du Défenseur des droits 					  
+
+###### Article R557-1
+
+Lorsque le juge administratif est saisi par le Défenseur des droits, sur le fondement de l'article 21 de la loi organique du
+29 mars 2011 relative au Défenseur des droits, d'une demande en référé tendant au prononcé de toute mesure utile à l'exercice
+de la mission du Défenseur des droits, il est statué suivant la procédure de référé prévue à l'article L. 521-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 21
+	  - Code de justice administrative - art. L521-3
+
+	**Créé par**:
+
+	  - Décret n°2011-904 du 29 juillet 2011 - art. 3 (V)
+
+
+###### Article R557-2
+
+Lorsque le juge administratif est saisi par le Défenseur des droits, sur le fondement de l'article 22 de la loi organique du
+29 mars 2011 relative au Défenseur des droits, d'une demande en référé tendant à ce qu'il autorise son accès à des locaux
+administratifs, il est statué suivant la procédure de référé prévue à l'article L. 521-3. Le juge se prononce dans les
+quarante-huit heures. 
+
+Lorsqu'il a autorisé la visite, le juge peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention. 
+
+A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi organique n°2011-333 du 29 mars 2011 - art. 22
+	  - Code de justice administrative - art. L521-3
+
+	**Créé par**:
+
+	  - Décret n°2011-904 du 29 juillet 2011 - art. 10
 
 
 ## Livre VI : L'instruction
