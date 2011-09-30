@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-07-31
+Version Consolidée au 2011-10-01
 
 # Partie législative
 
@@ -10484,9 +10484,8 @@ Les dispositions des articles R. 222-23 et R. 222-24 sont applicables dans les c
 
 ###### Article R223-1
 
-Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Cayenne, de Fort-
-de-France et de Saint-Pierre-et-Miquelon. Il est assisté d'un ou plusieurs magistrats ayant le grade de président, dont un en
-résidence à Cayenne. Ces tribunaux peuvent avoir des membres communs.
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Fort-de-France et
+de Saint-Pierre-et-Miquelon. Ces tribunaux peuvent avoir des membres communs.
 
 Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Basse-Terre, de
 Saint-Barthélemy et de Saint-Martin. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces tribunaux
@@ -10500,21 +10499,21 @@ communs.
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 49
+	  - Décret n°2011-921 du 1er août 2011 - art. 3
 
 
 ###### Article R223-2
 
-Les fonctions de rapporteur public auprès des tribunaux administratifs de Cayenne, de Fort-de-France et de Saint-Pierre-et-
-Miquelon sont assurées par le ou les mêmes magistrats. Il en va de même pour les fonctions de rapporteur public auprès, d'une
-part, des tribunaux administratifs de Basse-Terre, de Saint-Barthélemy et de Saint-Martin et, d'autre part, des tribunaux
+Les fonctions de rapporteur public auprès des tribunaux administratifs de Fort-de-France et de Saint-Pierre-et-Miquelon sont
+assurées par le ou les mêmes magistrats. Il en va de même pour les fonctions de rapporteur public auprès, d'une part, des
+tribunaux administratifs de Basse-Terre, de Saint-Barthélemy et de Saint-Martin et, d'autre part, des tribunaux
 administratifs de Mayotte et de Saint-Denis.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 49
+	  - Décret n°2011-921 du 1er août 2011 - art. 3
 
 
 ###### Article R223-3
@@ -13532,12 +13531,12 @@ tribunaux administratifs et des cours administratives d'appel.
 
 ###### Article R311-1
 
-Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort :
+Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort : 
 
-1° Des recours dirigés contre les ordonnances du Président de la République et les décrets ;
+1° Des recours dirigés contre les ordonnances du Président de la République et les décrets ; 
 
 2° Des recours dirigés contre les actes réglementaires des ministres et des autres autorités à compétence nationale et contre
-leurs circulaires et instructions de portée générale ;
+leurs circulaires et instructions de portée générale ; 
 
 3° Des litiges concernant le recrutement et la discipline des agents publics nommés par décret du Président de la République
 en vertu des dispositions de l'article 13 (troisième alinéa) de la Constitution et des articles 1er et 2 de l'ordonnance n°
@@ -13556,7 +13555,7 @@ contrôle ou de régulation :
 
 - l'Autorité de régulation des communications électroniques et des postes ;
 
-- l'Autorité de régulation des jeux en ligne ; 
+- l'Autorité de régulation des jeux en ligne ;
 
 - l'Autorité de régulation des transports ferroviaires ;
 
@@ -13568,13 +13567,15 @@ contrôle ou de régulation :
 
 - la Commission nationale de l'informatique et des libertés ;
 
-- la Commission nationale de contrôle des interceptions de sécurité ; 
+- la Commission nationale de contrôle des interceptions de sécurité ;
+
+- la commission nationale d'aménagement commercial ; 
 
 5° Des actions en responsabilité dirigées contre l'Etat pour durée excessive de la procédure devant la juridiction
-administrative ;
+administrative ; 
 
 6° Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier
-et dernier ressort du Conseil d'Etat ;
+et dernier ressort du Conseil d'Etat ; 
 
 7° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques.
 
@@ -13583,17 +13584,6 @@ et dernier ressort du Conseil d'Etat ;
 	**Cite**:
 
 	  - Ordonnance n°58-1136 du 28 novembre 1958 - art. 1
-	  - Ordonnance n°58-1136 du 28 novembre 1958 - art. 2
-	  - Code de l'industrie cinématographique - art. 13
-	  - Code de justice administrative
-
-	**Modifié par**:
-
-	  - Décret n°2010-1562 du 14 décembre 2010 - art. 11
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2010-1562 du 14 décembre 2010 - art., v. init.
 
 	**Cité par**:
 
@@ -13603,6 +13593,10 @@ et dernier ressort du Conseil d'Etat ;
 	  - Code de la santé publique - art. R1142-37 (V)
 	  - Code de la santé publique - art. R790-34 (Ab)
 	  - Code de la santé publique - art. R795-34 (T)
+
+	**Modifié par**:
+
+	  - Décret n°2011-921 du 1er août 2011 - art. 1
 
 
 #### Chapitre II : La compétence territoriale des tribunaux administratifs
@@ -14999,6 +14993,81 @@ plusieurs moyens que jusqu'à l'expiration du délai de recours.
 	  - Code de justice administrative - art. R777-3-2 (VD)
 	  - Code de la santé publique - art. R4126-11 (V)
 	  - Code de la sécurité sociale. - art. R145-23 (V)
+
+
+###### Article R411-2
+
+Lorsque la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts est due et n'a pas été
+acquittée, la requête est irrecevable. 
+
+Cette irrecevabilité est susceptible d'être couverte après l'expiration du délai de recours. Lorsque le requérant justifie
+avoir demandé le bénéfice de l'aide juridictionnelle, la régularisation de sa requête est différée jusqu'à la décision
+définitive statuant sur sa demande. 
+
+Par exception au premier alinéa de l'article R. 612-1, la juridiction peut rejeter d'office une requête entachée d'une telle
+irrecevabilité sans demande de régularisation préalable, lorsque l'obligation d'acquitter la contribution ou, à défaut, de
+justifier du dépôt d'une demande d'aide juridictionnelle est mentionnée dans la notification de la décision attaquée ou
+lorsque la requête est introduite par un avocat.
+
+**Nota:**
+
+Conformément à l'article 21 III du décret n° 2011-1202 du 28 septembre 2011, ces dispositions s'appliquent aux requêtes
+introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire le 1er octobre 2011.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 50 (V)
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 18 (Ab)
+	  - Code de justice administrative. - art. R612-2 (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 326 quater (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 15
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 8
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
+	  - Code de justice administrative - art. R612-1
+
+
+###### Article R411-2-1
+
+Lorsque le requérant justifie s'être acquitté, au titre d'une première demande, de la contribution pour l'aide juridique, il
+en est exonéré lorsqu'il introduit une demande d'exécution sur le fondement des articles L. 911-4 ou L. 911-5, un recours en
+interprétation d'un acte juridictionnel ou une requête formée à la suite d'une décision d'incompétence. 
+
+La contribution n'est due qu'une seule fois lorsqu'un même requérant introduit une demande au fond portant sur les mêmes
+faits qu'une demande de référé présentée accessoirement et fondée sur le titre III du livre V du présent code.
+
+**Nota:**
+
+Conformément à l'article 21 III du décret n° 2011-1202 du 28 septembre 2011, ces dispositions s'appliquent aux requêtes
+introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire le 1er octobre 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 15
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 8
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L911-4
 
 
 ###### Article R411-3
@@ -21017,28 +21086,33 @@ La notification de la décision peut, le cas échéant, être faite par la voie 
 ###### Article R751-5
 
 La notification de la décision mentionne que copie de la décision doit être jointe à la requête d'appel ou au pourvoi en
-cassation.
+cassation. 
+
+La notification mentionne, s'il y a lieu, que la requête d'appel ou le pourvoi en cassation doit justifier de l'acquittement
+de la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts ou de ce que le requérant
+bénéficie de l'aide juridictionnelle. 
 
 Lorsque la décision rendue relève de la cour administrative d'appel et, sauf lorsqu'une disposition particulière a prévu une
 dispense de ministère d'avocat en appel, la notification mentionne que l'appel ne peut être présenté que par l'un des
-mandataires mentionnés à l'article R. 431-2.
+mandataires mentionnés à l'article R. 431-2. 
 
 Lorsque la décision est rendue en dernier ressort, la notification mentionne, s'il y a lieu, que le pourvoi en cassation
 devant le Conseil d'Etat ne peut être présenté que par le ministère d'un avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Nota:**
+
+Conformément à l'article 21 III du décret n° 2011-1202 du 28 septembre 2011, ces dispositions s'appliquent aux requêtes
+introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire à compter du 1er octobre 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-1257 du 26 décembre 2003 - art. 5 () JORF 28 décembre 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 16
 
 	**Cité par**:
 
@@ -21049,11 +21123,8 @@ devant le Conseil d'Etat ne peut être présenté que par le ministère d'un avo
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R431-2 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R213 (Ab)
+	  - Code général des impôts, CGI. - art. 1635 bis Q
+	  - Code de justice administrative - art. R431-2
 
 
 ###### Article R751-6
@@ -21292,28 +21363,28 @@ d'exception, des dispositions d'actes qui y ont été eux-mêmes publiés et son
 
 ###### Article R761-1
 
-Les dépens comprennent les frais d'expertise, d'enquête et de toute autre mesure d'instruction dont les frais ne sont pas à
-la charge de l'Etat.
+Les dépens comprennent la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts, ainsi
+que les frais d'expertise, d'enquête et de toute autre mesure d'instruction dont les frais ne sont pas à la charge de l'Etat.
 
 Sous réserve de dispositions particulières, ils sont mis à la charge de toute partie perdante sauf si les circonstances
 particulières de l'affaire justifient qu'ils soient mis à la charge d'une autre partie ou partagés entre les parties.
 
 L'Etat peut être condamné aux dépens.
 
+**Nota:**
+
+Conformément à l'article 21 III du décret n° 2011-1202 du 28 septembre 2011, ces dispositions s'appliquent aux requêtes
+introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire le 1er octobre 2011.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 80 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R217 (M)
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 17
 
 	**Cité par**:
 
@@ -21323,6 +21394,10 @@ L'Etat peut être condamné aux dépens.
 	  - Code de la santé publique - art. R4126-42 (V)
 	  - Code de la sécurité sociale. - art. R145-23 (V)
 	  - Code de la sécurité sociale. - art. R145-52 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
 
 
 ###### Article R761-2
