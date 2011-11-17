@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-11-01
+Version Consolidée au 2011-11-18
 
 # Partie législative
 
@@ -4899,6 +4899,82 @@ définies par les articles 23-4,23-5 et 23-7 de l'ordonnance n° 58-1067 du 7 no
 	**Créé par**:
 
 	  - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
+
+
+#### Chapitre Ier ter :  La médiation
+
+###### Article L771-3
+
+Les différends transfrontaliers relevant de la compétence du juge administratif, à l'exclusion de ceux qui concernent la mise
+en œuvre par l'une des parties de prérogatives de puissance publique, peuvent faire l'objet d'une médiation dans les
+conditions prévues aux articles 21, 
+21-2 à 21-4 de la loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale
+et administrative. 
+
+Est transfrontalier, au sens du présent article, le différend dans lequel, à la date où il est recouru à la médiation, une
+des parties au moins est domiciliée ou a sa résidence habituelle dans un Etat membre de l'Union européenne autre que la
+France et une autre partie au moins est domiciliée ou a sa résidence habituelle en France. 
+
+Le différend transfrontalier s'entend également du cas où une instance juridictionnelle ou arbitrale est introduite en France
+entre des parties ayant recouru préalablement à une médiation et étant toutes domiciliées en ayant toutes leur résidence
+habituelle dans un autre Etat membre de l'Union européenne à la date à laquelle elles ont recouru à la médiation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°68-1250 du 31 décembre 1968 - art. 2-1 (M)
+	  - Code de justice administrative - art. L771-3-1 (Ab)
+	  - Code des relations entre le public et l'adminis... - art. L422-2 (M)
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 21
+	  - Loi n°95-125 du 8 février 1995 - art. 21-2
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1540 du 16 novembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+
+###### Article L771-3-1
+
+Les juridictions régies par le présent code, saisies d'un litige, peuvent, dans les cas prévus à l'article L. 771-3 et après
+avoir obtenu l'accord des parties, ordonner une médiation pour tenter de parvenir à un accord entre celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1540 du 16 novembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L771-3 (Ab)
+
+
+###### Article L771-3-2
+
+Saisie de conclusions en ce sens, la juridiction peut, dans tous les cas où un processus de médiation a été engagé en
+application du présent chapitre, homologuer et donner force exécutoire à l'accord issu de la médiation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1540 du 16 novembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
 
 
 #### Chapitre IV : Les contraventions de grande voirie
