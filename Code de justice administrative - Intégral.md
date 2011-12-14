@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-11-18
+Version Consolidée au 2011-12-15
 
 # Partie législative
 
@@ -584,15 +584,20 @@ Les décisions du Conseil d'Etat statuant au contentieux sont rendues par l'asse
 contentieux ou par des formations de sous-sections réunies. Elles peuvent également être rendues par chaque sous-section
 siégeant en formation de jugement.
 
-Le président de la section du contentieux et les présidents de sous-section peuvent, par ordonnance, régler les affaires dont
-la nature ne justifie pas l'intervention d'une formation collégiale.
+Le président de la section du contentieux, les présidents adjoints de la section du contentieux  et les présidents de sous-
+section peuvent, par ordonnance, régler les affaires dont la nature ne justifie pas l'intervention d'une formation
+collégiale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 47
 
 	**Cité par**:
 
@@ -1096,19 +1101,19 @@ du Conseil d'Etat.
 
 ###### Article L211-1
 
-Les tribunaux administratifs sont, en premier ressort et sous réserve des compétences attribuées au Conseil d'Etat, juges de
-droit commun du contentieux administratif.
+Les tribunaux administratifs sont, en premier ressort et sous réserve des  compétences attribuées aux autres juridictions
+administratives, juges de droit  commun du contentieux administratif.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des tribunaux administratifs et des cours administratives d'appel L3 al. 1er
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 48
 
 
 ###### Article L211-2
@@ -1135,48 +1140,30 @@ et L. 552-2.
 	  - Code de justice administrative - art. L552-2 (V)
 
 
-###### Article L211-3
+###### Article L211-4
 
-Les cours administratives d'appel connaissent également des appels formés contre les jugements rendus par les commissions du
-contentieux de l'indemnisation des Français dépossédés de biens situés dans un territoire antérieurement placé sous la
-souveraineté, le protectorat ou la tutelle de la France.
+Dans les tribunaux administratifs et les cours administratives d'appel, les chefs de juridiction peuvent, si les parties en
+sont d'accord, organiser une mission de conciliation et désigner à cet effet la ou les personnes qui en seront chargées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-1127 1987-12-31 art. 1er
-	  - Loi n°87-1127 du 31 décembre 1987 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Rapport
 	  - Loi n°2003-591 du 2 juillet 2003
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 53
-
-
-###### Article L211-4
-
-Les tribunaux administratifs peuvent exercer une mission de conciliation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 49
 
 	**Cité par**:
 
 	  - Décret n°2016-253 du 2 mars 2016 - art. (V)
 	  - Code des relations entre le public et l'adminis... - art. L422-1 (M)
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Code des tribunaux administratifs et des cours administratives d'appel L3 al. 2
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
 
 
 #### Chapitre II : Attributions administratives
@@ -1240,20 +1227,19 @@ détachés dans ce corps dans les conditions définies par les lois et règlemen
 
 ###### Article L221-2
 
-Les tribunaux administratifs peuvent délibérer en se complétant, en cas de vacance ou d'empêchement, par l'adjonction, à
-défaut d'un membre appartenant à un autre tribunal administratif, d'un avocat inscrit au barreau du siège en suivant l'ordre
-du tableau.
+Les tribunaux administratifs peuvent délibérer en se complétant, en cas de vacance ou d'empêchement, par l'adjonction
+d'un magistrat appartenant à un autre tribunal administratif.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. L2-1 (Ab)
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 50
 
 
 ##### Section 3 : Organisation des cours administratives d'appel
@@ -2620,15 +2606,19 @@ cours administratives d'appel font l'objet d'un déplacement d'office pour raiso
 ###### Article L311-1
 
 Les tribunaux administratifs sont, en premier ressort, juges de droit commun du contentieux administratif, sous réserve des
-compétences que l'objet du litige ou l'intérêt d'une bonne administration de la justice conduisent à attribuer au Conseil
-d'Etat.
+compétences que l'objet du litige ou l'intérêt d'une bonne administration de la justice conduisent à attribuer à une autre
+juridiction administrative.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 48
 
 
 ###### Article L311-2
@@ -4051,56 +4041,60 @@ Le président du tribunal administratif ou son délégué statue en premier et d
 ###### Article L552-1
 
 Le référé en matière d'impôts directs et de taxes sur le chiffre d'affaires obéit aux règles définies par l'article L. 279 du
-livre des procédures fiscales ci-après reproduit : 
+livre des procédures fiscales ci-après reproduit :
 
-" Art.L. 279.-En matière d'impôts directs et de taxes sur le chiffre d'affaires, lorsque les garanties offertes par le
+" Art. L. 279.-En matière d'impôts directs et de taxes sur le chiffre d'affaires, lorsque les garanties offertes par le
 contribuable ont été refusées, celui-ci peut, dans les quinze jours de la réception de la lettre recommandée qui lui a été
 adressée par le comptable, porter la contestation, par simple demande écrite, devant le juge du référé administratif, qui est
-un membre du tribunal administratif désigné par le président de ce tribunal. 
+un membre du tribunal administratif désigné par le président de ce tribunal.
 
 Cette demande n'est recevable que si le redevable a consigné auprès du comptable, à un compte d'attente, une somme égale au
 dixième des impôts contestés. Une caution bancaire ou la remise de valeurs mobilières cotées en bourse peut tenir lieu de
-consignation. 
+consignation.
 
 Le juge du référé décide dans le délai d'un mois si les garanties offertes répondent aux conditions prévues à l'article L.
 277 et si, de ce fait, elles doivent être ou non acceptées par le comptable. Il peut également, dans le même délai, décider
-de dispenser le redevable de garanties autres que celles déjà constituées. 
+de dispenser le redevable de garanties autres que celles déjà constituées.
 
-Dans les huit jours suivant la décision du juge ou l'expiration du délai laissé à ce dernier pour statuer, le redevable et le
-comptable peuvent, par simple demande écrite, faire appel devant le tribunal administratif. Celui-ci, dans le délai d'un
-mois, décide si les garanties doivent être acceptées, comme répondant aux conditions de l'article L. 277 ; à défaut de
-décision dans ce délai, la décision intervenue au premier degré est réputée confirmée. 
+Dans les huit jours suivant la décision du juge, le redevable et le comptable peuvent, par simple demande écrite, faire appel
+devant le président de la cour administrative d'appel ou le magistrat qu'il désigne à cet effet. Celui-ci, dans le délai d'un
+mois, décide si les garanties doivent être acceptées, comme répondant aux conditions de l'article L. 277.
 
 Pendant la durée de la procédure de référé, le comptable ne peut exercer sur les biens du redevable aucune action autre que
-les mesures conservatoires prévues à l'article L. 277. 
+les mesures conservatoires prévues à l'article L. 277.
 
 Lorsque le juge du référé estime suffisantes les garanties initialement offertes, les sommes consignées sont restituées. Dans
 le cas contraire, les garanties supplémentaires à présenter sont diminuées à due concurrence. "
+
+**Nota:**
+
+LOI n° 2011-1862 du 13 décembre 2011 art 51 IV : les présentes dispositions s'appliquent aux requêtes en référé enregistrées
+postérieurement à l'entrée en vigueur de la présente loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2000-597 du 30 juin 2000 - art. 1 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 51 (V)
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L277 (V)
+	  - Livre des procédures fiscales - art. L277
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Livre des procédures fiscales - art. L279
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. L211-2 (V)
 	  - Code de justice administrative - art. L321-1 (V)
 	  - Code de justice administrative - art. R611-23 (VD)
-
-	**Anciens textes**:
-
-	  - Livre des procédures fiscales L279
 
 
 ###### Article L552-2
@@ -4139,18 +4133,17 @@ cas, le tribunal administratif ou le tribunal de grande instance. "
 
 Les référés prévus en cas de mise en oeuvre de la procédure de flagrance fiscale mentionnée à l'article L. 16-0 BA du livre
 des procédures fiscales ou à la suite de saisies conservatoires effectuées en vertu de l'article L. 252 B du même livre
-obéissent aux règles définies respectivement aux articles L. 201 A et L. 201 B du même livre.
+obéissent aux règles définies respectivement à ces articles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 51 (V)
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L16-0 BA
-	  - Livre des procédures fiscales - art. L201 A
 	  - Livre des procédures fiscales - art. L252 B
 
 
@@ -5465,6 +5458,29 @@ construction et de l'habitation est régi par l'article L. 441-2-3-1 du même co
 
 	  - Code de la construction et de l'habitation. - art. L441-2-3 (V)
 	  - Code de la construction et de l'habitation. - art. L441-2-3-1 (V)
+
+
+#### Chapitre IX : Le contentieux du stationnement des résidences mobiles des gens du voyage
+
+
+
+###### Article L779-1
+
+Les requêtes dirigées contre les décisions de mise en demeure de quitter les lieux mentionnées au II bis de l'article 9 de la
+loi n° 2000-614 du 5 juillet 2000 relative à l'accueil et à l'habitat des gens du voyage sont présentées, instruites et
+jugées dans des conditions fixées par décret en Conseil d'Etat.
+
+Sauf renvoi à une formation collégiale, l'audience se déroule sans conclusions du rapporteur public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 9
+
+	**Créé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 52
 
 
 ### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer
