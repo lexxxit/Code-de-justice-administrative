@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2011-12-15
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -7033,6 +7033,19 @@ liste des membres ayant pris part à la délibération de cet avis est communiqu
 	  - Décret n°2008-225 du 6 mars 2008 - art. 10
 
 
+###### Article R122-21-3
+
+Les membres du Conseil d'Etat qui participent au jugement des recours dirigés contre des actes pris après avis du Conseil
+d'Etat ne peuvent pas prendre connaissance de ces avis, dès lors qu'ils n'ont pas été rendus publics, ni des dossiers des
+formations consultatives relatifs à ces avis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 13
+
+
 ###### Article R122-22
 
 Dans les formations du Conseil d'Etat statuant au contentieux, le rapporteur a voix délibérative.
@@ -9950,7 +9963,7 @@ de greffe de catégorie A.
 
 Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin et ayant atteint au moins le grade de
 premier conseiller ou ayant une ancienneté minimale de deux ans statue en audience publique et après audition du rapporteur
-public : 
+public, sous réserve de l'application de l'article R. 732-1-1 : 
 
 1° Sur les litiges relatifs aux déclarations préalables prévues par l'article L. 421-4 du code de l'urbanisme ; 
 
@@ -9981,11 +9994,12 @@ articles R. 222-14 et R. 222-15 ;
 
 	**Modifié par**:
 
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 2
 
 	**Cite**:
 
 	  - Code de justice administrative - art. R222-14
+	  - Code de justice administrative - art. R732-1-1 (V)
 	  - Code de l'urbanisme - art. L421-4
 
 	**Cité par**:
@@ -12670,6 +12684,59 @@ est demandé par au moins trois représentants du personnel sont inscrites à l'
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R232-20-1
+
+Le Conseil supérieur ne délibère valablement que si neuf membres sont présents à l'ouverture de la séance. 
+
+Lorsque le quorum n'est pas atteint, une nouvelle convocation est envoyée aux membres du conseil qui siège alors valablement
+sur le même ordre du jour quel que soit le nombre de membres présents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 12
+
+
+###### Article R232-20-2
+
+I.-A titre exceptionnel, les membres du Conseil supérieur peuvent, en cas d'urgence née de l'impossibilité de réunir le
+quorum dans un délai utile, être consultés à distance, par visioconférence, pour émettre un avis sur un projet dont le
+conseil est saisi par le Gouvernement. 
+
+Le projet, auquel sont jointes toutes pièces utiles ainsi que la justification de l'urgence, leur est communiqué, par
+correspondance écrite ou électronique, au moins sept jours avant la date à laquelle il leur appartient de se prononcer. 
+
+Les modalités de la consultation doivent préserver la collégialité des débats. 
+
+II.-En cas d'impossibilité avérée de recourir à la visioconférence, les membres du Conseil supérieur peuvent, sous les mêmes
+conditions, être individuellement consultés par écrit. Les observations émises sur le projet par l'un des membres sont
+immédiatement communiquées aux autres membres. 
+
+Tout membre du Conseil supérieur peut s'opposer à ce mode de consultation, auquel cas il est mis un terme à la procédure et
+le Conseil supérieur est convoqué pour délibérer. 
+
+III.-L'avis est régulièrement émis si au moins neuf membres ont pris part à la procédure et, dans le cas d'une consultation
+écrite, ont fait part de leur vote dans le délai fixé par le président. 
+
+Les membres du Conseil supérieur sont informés de la teneur de l'avis et du résultat du vote. 
+
+Un procès-verbal est établi, à l'issue de cette consultation, par les soins du secrétaire général des tribunaux
+administratifs et des cours administratives d'appel. 
+
+Il est signé et communiqué dans les conditions prévues par l'article R. 232-25.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 12
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R232-25 (V)
 
 
 ###### Article R232-21
@@ -17960,9 +18027,9 @@ administratif ou par décision du président du tribunal administratif.
 
 ###### Article R611-10
 
-Sous l'autorité du président de la formation de jugement à laquelle il appartient, le rapporteur fixe, eu égard aux
-circonstances de l'affaire, le délai accordé aux parties pour produire leurs mémoires. Il peut demander aux parties, pour
-être jointes à la procédure contradictoire, toutes pièces ou tous documents utiles à la solution du litige. 
+Sous l'autorité du président de la chambre à laquelle il appartient, le rapporteur fixe, eu égard aux circonstances de
+l'affaire, le délai accordé aux parties pour produire leurs mémoires. Il peut demander aux parties, pour être jointes à la
+procédure contradictoire, toutes pièces ou tous documents utiles à la solution du litige. 
 
 Le président de la formation de jugement peut déléguer au rapporteur les pouvoirs qui lui sont conférés par les articles R.
 611-7, R. 611-8-1, R. 611-11, R. 612-3, R. 612-5, R. 613-1 et R. 613-4.
@@ -17971,7 +18038,7 @@ Le président de la formation de jugement peut déléguer au rapporteur les pouv
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 29
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 14
 
 	**Cite**:
 
@@ -18200,14 +18267,13 @@ Les dispositions du deuxième alinéa de l'article R. 611-10 sont applicables.
 
 ###### Article R611-18
 
-Les dispositions des articles R. 611-11 et R. 611-11-1 sont applicables. Le président de chambre exerce les pouvoirs prévus
-audit article.
+Les dispositions des articles R. 611-11 et R. 611-11-1 sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 28
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 15
 
 	**Cite**:
 
@@ -20035,27 +20101,29 @@ Il est instruit dans les formes prévues pour la requête.
 
 ###### Article R711-1
 
-Au tribunal administratif, le rôle de chaque audience est arrêté par le président du tribunal et communiqué au  rapporteur
+Au tribunal administratif, le rôle de chaque audience est arrêté par le président du tribunal et communiqué au rapporteur
 public.
 
-A la cour administrative d'appel, le rôle de chaque audience est préparé par le  rapporteur public chargé de présenter ses
-conclusions et arrêté par le président de la cour.
+A la cour administrative d'appel, le rôle de chaque audience est préparé par le rapporteur public et arrêté par le président
+de la cour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 3
 
 
 ###### Article R711-2
 
 Toute partie est avertie, par une notification faite par lettre recommandée avec demande d'avis de réception ou par la voie
-administrative mentionnée à l'article R. 611-4, du jour où l'affaire sera appelée à l'audience.
+administrative mentionnée à l'article R. 611-4
+, du jour où l'affaire sera appelée à l'audience. 
 
-L'avis d'audience reproduit les dispositions des articles R. 731-1, R. 731-2, R. 731-3, R. 732-1 et R. 732-2. Il mentionne
-également les modalités selon lesquelles les parties ou leurs mandataires peuvent prendre connaissance du sens des
-conclusions du rapporteur public, en application de l'article R. 711-3 (1).
+L'avis d'audience reproduit les dispositions des articles R. 731-3 et R. 732-1-1. Il mentionne également les modalités selon
+lesquelles les parties ou leurs mandataires peuvent prendre connaissance du sens des conclusions du rapporteur public, en
+application du premier alinéa de l'article R. 711-3 ou, si l'affaire relève des dispositions de l'article R. 732-1-1, de la
+décision prise sur la dispense de conclusions du rapporteur public, en application du second alinéa de l'article R. 711-3. 
 
 L'avertissement est donné sept jours au moins avant l'audience. Toutefois, en cas d'urgence, ce délai peut être réduit à deux
 jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis d'audience. 
@@ -20078,31 +20146,39 @@ sept jours est porté à dix jours.
 
 	**Modifié par**:
 
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 4
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R611-4
-	  - Code de justice administrative - art. R711-3
-	  - Code de justice administrative - art. R731-1
-	  - Code de justice administrative - art. R732-1
+	  - Code de justice administrative - art. R611-4 (V)
+	  - Code de justice administrative - art. R711-3 (V)
+	  - Code de justice administrative - art. R731-3 (V)
+	  - Code de justice administrative - art. R732-1-1 (V)
 
 
 ###### Article R711-3
 
-Si le jugement de l'affaire doit intervenir après le prononcé de conclusions du  rapporteur public, les parties ou leurs
-mandataires sont mis en mesure de  connaître, avant la tenue de l'audience, le sens de ces conclusions sur  l'affaire qui les
-concerne.
+Si le jugement de l'affaire doit intervenir après le prononcé de conclusions du rapporteur public, les parties ou leurs
+mandataires sont mis en mesure de connaître, avant la tenue de l'audience, le sens de ces conclusions sur l'affaire qui les
+concerne. 
+
+Lorsque l'affaire est susceptible d'être dispensée de conclusions du rapporteur public, en application de l'article R.
+732-1-1, les parties ou leurs mandataires sont mis en mesure de connaître, avant la tenue de l'audience, si le rapporteur
+public prononcera ou non des conclusions et, dans le cas où il n'en est pas dispensé, le sens de ces conclusions.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 5
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R711-2 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R732-1-1 (V)
 
 
 ###### Article R711-4
@@ -20404,14 +20480,14 @@ préjudice des poursuites pénales ou disciplinaires qui pourraient être exerc�
 
 ###### Article R731-3
 
-Postérieurement au prononcé des conclusions du  rapporteur public, toute partie à l'instance peut adresser au président de la
-formation de jugement une note en délibéré.
+A l'issue de l'audience, toute partie à l'instance peut adresser au président de la formation de jugement une note en
+délibéré.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 6
 
 	**Cité par**:
 
@@ -20486,26 +20562,20 @@ secret, sous les sanctions prévues par l'article 226-13 du code pénal.
 ###### Article R732-1
 
 Après le rapport qui est fait sur chaque affaire par un membre de la formation de jugement ou par le magistrat mentionné à
-l'article R. 222-13, les parties peuvent présenter soit en personne, soit par un avocat au Conseil d'Etat et à la Cour de
-cassation, soit par un avocat, des observations orales à l'appui de leurs conclusions écrites. Le président a la faculté de
-leur retirer la parole si elles ne sont pas en mesure de discuter leur cause avec la modération ou la clarté requises. 
+l'article R. 222-13, le rapporteur public prononce ses conclusions lorsque le présent code l'impose. Les parties peuvent
+ensuite présenter, soit en personne, soit par un avocat au Conseil d'Etat et à la Cour de cassation, soit par un avocat, des
+observations orales à l'appui de leurs conclusions écrites. 
+
+Lorsque le rapporteur public ne prononce pas de conclusions, notamment en application de l'article R. 732-1-1, le président
+donne la parole aux parties après le rapport. 
 
 La formation de jugement peut également entendre les agents de l'administration compétente ou les appeler devant elle pour
 fournir des explications. 
 
 Au tribunal administratif, le président de la formation de jugement peut, au cours de l'audience et à titre exceptionnel,
-demander des éclaircissements à toute personne présente dont l'une des parties souhaiterait l'audition. 
-
-Le rapporteur public prononce ensuite ses conclusions.
-
-Les parties ou  leurs mandataires peuvent présenter de brèves observations orales après le  prononcé des conclusions du
-rapporteur public.
+demander des éclaircissements à toute personne présente dont l'une des parties souhaiterait l'audition.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
 
 	**Cité par**:
 
@@ -20514,13 +20584,61 @@ rapporteur public.
 	  - Code de justice administrative. - art. R711-2 (VD)
 	  - Code de justice administrative. - art. R778-4 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 7
+
 	**Cite**:
 
-	  - Code de justice administrative - art. R222-13
+	  - Code de justice administrative - art. R222-13 (V)
+	  - Code de justice administrative - art. R732-1-1 (V)
 
 	**Anciens textes**:
 
 	  - Code de justice administrative. - art. R731-3 (M)
+
+
+###### Article R732-1-1
+
+Sans préjudice de l'application des dispositions spécifiques à certains contentieux prévoyant que l'audience se déroule sans
+conclusions du rapporteur public, le président de la formation de jugement ou le magistrat statuant seul peut dispenser le
+rapporteur public, sur sa proposition, de prononcer des conclusions à l'audience sur tout litige relevant des contentieux
+suivants : 
+
+1° Permis de conduire ; 
+
+2° Refus de concours de la force publique pour exécuter une décision de justice ; 
+
+3° Naturalisation ; 
+
+4° Entrée, séjour et éloignement des étrangers, à l'exception des expulsions ; 
+
+5° Taxe d'habitation et taxe foncière sur les propriétés bâties afférentes aux locaux d'habitation et à usage professionnel
+au sens de l'article 1496 du code général des impôts ainsi que contribution à l'audiovisuel public ; 
+
+6° Aide personnalisée au logement ; 
+
+7° Carte de stationnement pour personne handicapée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 8
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1496 (VT)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R222-13 (VD)
+	  - Code de justice administrative - art. R711-2 (V)
+	  - Code de justice administrative - art. R711-3 (V)
+	  - Code de justice administrative - art. R732-1 (V)
+	  - Code de justice administrative - art. R741-2 (VD)
+	  - Code de justice administrative - art. R77-10-8 (V)
+	  - Code de justice administrative - art. R77-12-9 (V)
 
 
 ###### Article R732-2
@@ -20632,6 +20750,9 @@ Mention y est faite que le rapporteur et le rapporteur public et, s'il y a lieu,
 ainsi que toute personne entendue sur décision du président en vertu du deuxième alinéa de l'article R. 731-3 ont été
 entendus. 
 
+Lorsque, en application de l'article R. 732-1-1, le rapporteur public a été dispensé de prononcer des conclusions, mention en
+est faite. 
+
 Mention est également faite de la production d'une note en délibéré. 
 
 La décision fait apparaître la date de l'audience et la date à laquelle elle a été prononcée.
@@ -20640,12 +20761,13 @@ La décision fait apparaître la date de l'audience et la date à laquelle elle 
 
 	**Modifié par**:
 
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 9
 
 	**Cite**:
 
 	  - Code de justice administrative - art. L731-1
 	  - Code de justice administrative - art. R731-3
+	  - Code de justice administrative - art. R732-1-1 (V)
 
 	**Cité par**:
 
@@ -22628,7 +22750,10 @@ complémentaire a été ultérieurement produit. Il est donné acte de ce désis
 L'Etat est représenté en défense par le préfet qui a pris la ou les décisions attaquées. 
 
 Les délais donnés aux parties pour fournir leurs observations doivent être observés, faute de quoi il peut être passé outre
-sans mise en demeure. 
+sans mise en demeure.
+
+Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, de prononcer des
+conclusions à l'audience. 
 
 Le tribunal administratif statue dans le délai de trois mois à compter de l'enregistrement de la requête prévu au deuxième
 alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
@@ -22641,11 +22766,11 @@ alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étran
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 10
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
 
 	**Cité par**:
 
@@ -22744,7 +22869,15 @@ rétention.
 
 Lorsque le président d'un tribunal administratif est saisi de conclusions qu'il estime relever de la compétence d'un autre
 tribunal administratif, il lui transmet le dossier sans délai et par tous moyens, dans les formes prévues au premier alinéa
-de l'article R. 351-6.
+de l'article R. 351-6. 
+
+Par exception aux dispositions du premier alinéa et de l'article R. 221-3, le tribunal administratif territorialement
+compétent est celui de Nancy lorsque le requérant est placé au centre de rétention de Metz.
+
+**Nota:**
+
+Décret n° 2011-1950 du 23 décembre 2011, article 17 : Les dispositions de l'article 16 entrent en vigueur le 1er mars 2012
+pour les requêtes introduites à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -22754,10 +22887,11 @@ de l'article R. 351-6.
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 16
 
 	**Cite**:
 
+	  - Code de justice administrative - art. R221-3 (V)
 	  - Code de justice administrative - art. R351-6
 
 	**Cité par**:
@@ -23050,16 +23184,14 @@ lui rappelle son obligation de quitter le territoire français dans le délai qu
 
 ###### Article R776-28
 
-L'appel est formé devant le président de la cour administrative d'appel. 
-
-La décision est rendue par le président de la cour ou le magistrat qu'il désigne à cette fin parmi les membres de la
-juridiction.
+Devant la cour administrative d'appel, le président de la formation de jugement peut dispenser le rapporteur public, sur sa
+proposition, de prononcer des conclusions à l'audience.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2011-1950 du 23 décembre 2011 - art. 11
 
 	**Cité par**:
 
