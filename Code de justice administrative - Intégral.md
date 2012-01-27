@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-28
 
 # Partie législative
 
@@ -23013,8 +23013,12 @@ L'autorité qui a reçu la requête la transmet sans délai et par tous moyens a
 
 ###### Article R776-20
 
-L'Etat est représenté en défense par le préfet du département où est situé le lieu de rétention ou d'assignation à résidence
-ou, si ce lieu est situé à Paris, par le préfet de police.
+L'Etat est représenté en défense par le préfet du département qui a pris la décision de placement en rétention administrative
+ou d'assignation à résidence. 
+
+Toutefois, des observations orales peuvent être présentées au nom de l'Etat par le préfet du département dans lequel est
+situé le centre de rétention administrative où se trouve l'étranger et, si le centre de rétention administrative est situé à
+Paris, par le préfet de police.
 
 **Liens relatifs à cet article**
 
@@ -23024,7 +23028,7 @@ ou, si ce lieu est situé à Paris, par le préfet de police.
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2012-89 du 25 janvier 2012 - art. 2 (V)
 
 	**Cite**:
 
@@ -23198,30 +23202,37 @@ proposition, de prononcer des conclusions à l'audience.
 	  - Code de justice administrative - art. R776-13-2 (V)
 
 
-#### Chapitre VII : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile
 
 ###### Article R777-1
 
-Le jugement des requêtes relatives à l'établissement de la liste des partis ou groupements habilités à participer à la
-campagne en vue d'un référendum local ou d'une consultation des électeurs par les autorités d'une collectivité territoriale,
-est régi par les dispositions du cinquième alinéa de l'article R. 1112-3 du code général des collectivités territoriales ci-
-après reproduites : 
+Dans le cadre des recours en annulation formés contre les décisions de refus d'entrée sur le territoire français au titre de
+l'asile mentionnés à l'article L. 777-1, le jugement est prononcé à l'audience. 
 
-" Art.R. 1112-3, cinquième alinéa.-Toute personne inscrite sur les listes électorales dans le ressort de la collectivité
-territoriale ayant décidé le référendum ainsi que tout groupe, parti ou groupement politique ayant déposé une demande
-d'habilitation peut, dans les vingt-quatre heures qui suivent la publication de la liste, saisir le tribunal administratif
-compétent. Le tribunal statue en premier et dernier ressort dans les trois jours suivant le dépôt de la requête.S'il l'estime
-fondée, le tribunal procède à la réformation de l'arrêté. "
+Le dispositif du jugement assorti de la formule exécutoire prévue à l'article R. 751-1 est communiqué sur place aux parties
+présentes à l'audience, qui en accusent aussitôt réception.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2005-1551 du 6 décembre 2005 - art. 6 () JORF 13 décembre 2005
+	  - Décret n°2012-89 du 25 janvier 2012 - art. 3 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L777-1
+
+	**Nouveaux textes**:
+
+	  - Code de justice administrative - art. R777-2 (VD)
 
 
 #### Chapitre VIII : Le contentieux du droit au logement
@@ -23607,6 +23618,25 @@ suivantes :
 	**Créé par**:
 
 	  - Décret n°2008-799 du 20 août 2008 - art. 2
+
+
+##### Section 3 : Dispositions relatives au référendum local et à la consultation des électeurs par les collectivités territoriales
+
+###### Article R779-10
+
+Le jugement des requêtes relatives à l'établissement de la liste des partis ou groupements habilités à participer à la
+campagne en vue d'un référendum local ou d'une consultation des électeurs par les autorités d'une collectivité territoriale,
+est régi par les dispositions du cinquième alinéa de l'article R. 1112-3 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-89 du 25 janvier 2012 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R1112-3
 
 
 ### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.
