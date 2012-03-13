@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-01-28
+Version Consolidée au 2012-03-14
 
 # Partie législative
 
@@ -432,9 +432,11 @@ Le Conseil d'Etat se compose :
 
 5° Des maîtres des requêtes ;
 
-6° Des auditeurs de 1re classe ;
+6° Des maîtres des requêtes en service extraordinaire ; 
 
-7° Des auditeurs de 2e classe.
+7° Des auditeurs de 1re classe ;
+
+8° Des auditeurs de 2e classe.
 
 Les membres du Conseil d'Etat sont inscrits dans chaque grade d'après la date et l'ordre de leur nomination.
 
@@ -446,8 +448,12 @@ Les membres du Conseil d'Etat sont inscrits dans chaque grade d'après la date e
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 80 (V)
 
 
 ###### Article L121-3
@@ -991,22 +997,36 @@ prononcées en vertu de la section 2 du présent chapitre.
 
 ###### Article L133-8
 
-Les nominations de membres du Conseil d'Etat choisis parmi ceux du corps des tribunaux administratifs et des cours
-administratives d'appel sont faites sur proposition du vice-président du Conseil d'Etat, délibérant avec les présidents de
-section.
+Pour chaque période de deux ans, un membre du corps des tribunaux administratifs et des cours administratives d'appel est
+nommé au grade de conseiller d'Etat en service ordinaire, sans qu'il en soit tenu compte pour l'application du deuxième
+alinéa de l'article L. 133-3. 
+
+Chaque année, un membre du corps des tribunaux administratifs et des cours administratives d'appel est nommé au grade de
+maître des requêtes, sans qu'il en soit tenu compte pour l'application du deuxième alinéa de l'article L. 133-4. Un autre
+membre de ce corps peut être nommé chaque année dans les mêmes conditions. 
+
+Les nominations prévues au présent article sont prononcées sur proposition du vice-président du Conseil d'Etat, délibérant
+avec les présidents de section, après avis du Conseil supérieur des tribunaux administratifs et des cours administratives
+d'appel.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°53-935 1953-09-30 art. 3, al. 9
-	  - Décret n°53-935 du 30 septembre 1953 - art. 3 (M)
 	  - Décret n°53-935 du 30 septembre 1953 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 79
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L133-3
 
 	**Cité par**:
 
@@ -1014,6 +1034,84 @@ section.
 	  - Code de justice administrative - art. R*133-3 (V)
 	  - Code de justice administrative - art. R*133-4 (V)
 	  - Code de justice administrative - art. R*133-8 (V)
+
+
+##### Section 3 : Dispositions relatives aux maîtres des requêtes    en service extraordinaire
+
+###### Article L133-9
+
+Des fonctionnaires appartenant à un corps recruté par la voie de l'Ecole nationale d'administration, des magistrats de
+l'ordre judiciaire, des professeurs et maîtres de conférences titulaires des universités, des administrateurs des assemblées
+parlementaires, des administrateurs des postes et télécommunications, des fonctionnaires civils ou militaires de l'Etat, de
+la fonction publique territoriale ou de la fonction publique hospitalière appartenant à des corps ou à des cadres d'emplois
+de niveau équivalent ainsi que des fonctionnaires de l'Union européenne de niveau équivalent peuvent être nommés par le vice-
+président du Conseil d'Etat pour exercer, en qualité de maître des requêtes en service extraordinaire, les fonctions dévolues
+aux maîtres des requêtes pour une durée qui ne peut excéder quatre ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 80 (V)
+
+	**Cité par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 2 (V)
+
+
+###### Article L133-10
+
+Les maîtres des requêtes en service extraordinaire sont soumis aux mêmes obligations que les membres du Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 80 (V)
+
+
+###### Article L133-11
+
+Il ne peut être mis fin au détachement ou à la mise à disposition de maîtres des requêtes en service extraordinaire, avant
+l'expiration du terme fixé, que pour motif disciplinaire, à la demande du vice-président du Conseil d'Etat, et sur
+proposition de la commission consultative mentionnée au chapitre II du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 80 (V)
+
+
+###### Article L133-12
+
+Chaque année, un fonctionnaire ou un magistrat ayant exercé, pendant une durée de quatre ans, les fonctions de maître des
+requêtes en service extraordinaire, peut être nommé au grade de maître des requêtes. La nomination prévue au présent article
+est prononcée sur proposition du vice-président du Conseil d'Etat délibérant avec les présidents de section. 
+
+Il n'est pas tenu compte de ces nominations pour l'application de l'article L. 133-4.
+
+**Nota:**
+
+Loi n° 2012-347 du 12 mars 2012, article 80 III : L'article L. 133-12 du code de justice administrative est  applicable, dans
+les conditions fixées par décret en Conseil d'Etat,  aux fonctionnaires et aux magistrats ayant exercé, avant l'entrée en
+vigueur de la présente loi, les fonctions normalement dévolues aux  maîtres des requêtes et aux auditeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 80 (V)
+
+	**Cité par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 2 (V)
+	  - Code de justice administrative - art. R*133-12 (V)
+	  - Code de justice administrative - art. R*133-2-1 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L133-4
 
 
 #### Chapitre VI : Discipline
@@ -1242,6 +1340,30 @@ d'un magistrat appartenant à un autre tribunal administratif.
 	  - Loi n°2011-1862 du 13 décembre 2011 - art. 50
 
 
+###### Article L221-2-1
+
+En cas de nécessité d'un renforcement ponctuel et immédiat des effectifs d'un tribunal administratif, le vice-président du
+Conseil d'Etat peut déléguer, avec son accord, un magistrat affecté auprès d'une autre juridiction administrative, quel que
+soit son grade, afin d'exercer, pour une durée déterminée, toute fonction juridictionnelle auprès de ce tribunal.
+
+L'ordonnance du vice-président précise le motif et la durée de la délégation ainsi que la nature des fonctions qui seront
+exercées par le magistrat délégué.
+
+Un décret en Conseil d'Etat fixe le nombre et la durée des délégations qui peuvent ainsi être confiées à un magistrat au
+cours de la même année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 81
+
+	**Cité par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 (V)
+	  - Code de justice administrative - art. R221-6-1 (V)
+
+
 ##### Section 3 : Organisation des cours administratives d'appel
 
 ###### Article L221-3
@@ -1371,6 +1493,13 @@ Chaque cour administrative d'appel est présidée par un conseiller d'Etat en se
 L'affectation dans les fonctions de président d'une cour administrative d'appel est prononcée par décret sur proposition du
 vice-président du Conseil d'Etat délibérant avec les présidents de section.
 
+Les fonctions de président d'une cour administrative d'appel ne peuvent excéder une durée de sept années sur un même poste.
+
+**Nota:**
+
+Loi n° 2012-347 du 12 mars 2012, article 85 III : Ces dispositions s'appliquent aux chefs de juridiction dont la nomination
+est postérieure à l'entrée en vigueur de la présente loi.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1379,8 +1508,12 @@ vice-président du Conseil d'Etat délibérant avec les présidents de section.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 85 (V)
 
 
 #### Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon
@@ -1725,20 +1858,24 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 
 ###### Article L231-1
 
-Sous réserve des dispositions du présent titre, les dispositions statutaires de la fonction publique de l'Etat s'appliquent
-aux membres du corps des tribunaux administratifs et des cours administratives d'appel.
+Les  membres des tribunaux administratifs et des cours administratives  d'appel sont des magistrats dont le statut est régi
+par le présent livre  et, pour autant qu'elles n'y sont pas contraires, par les dispositions  statutaires de la fonction
+publique de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°86-14 du 6 janvier 1986 - art. 21, v. init.
 	  - Loi n°86-14 du 6 janvier 1986 - art. 21 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 86
 
 
 ###### Article L231-2
@@ -2286,6 +2423,23 @@ doivent avoir satisfait à cette obligation.
 	  - Code de justice administrative. - art. R233-5 (V)
 
 
+###### Article L233-4-1
+
+Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel peut proposer, lorsque le nombre de
+nominations susceptibles d'être prononcées au grade de premier conseiller en application de l'article L. 233-4 n'est pas
+atteint, de reporter ces nominations sur le grade de conseiller.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 82
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L233-4 (V)
+
+
 ##### Section 3 : Recrutement après détachement
 
 ###### Article L233-5
@@ -2322,41 +2476,38 @@ président de section à la Cour nationale du droit d'asile.
 	  - Code de justice administrative - art. L233-3
 
 
-##### Section 4 : Recrutement complémentaire
+##### Section 4 : Recrutement direct
 
 ###### Article L233-6
 
-Jusqu'au 31 décembre 2015, il peut être procédé au recrutement complémentaire de conseillers par voie de concours.
+Il  peut être procédé au recrutement direct de membres du corps des  tribunaux administratifs et des cours administratives
+d'appel par voie  de concours. 
 
-Le nombre de postes pourvus au titre de recrutement complémentaire ne peut excéder trois fois le nombre de postes offerts
-chaque année dans le corps des tribunaux administratifs et des cours administratives d'appel aux élèves sortant de l'Ecole
-nationale d'administration et aux candidats au tour extérieur.
+Le nombre de postes pourvus au titre  de ces concours ne peut excéder trois fois le nombre de postes offerts  chaque année
+dans les tribunaux administratifs et les cours  administratives d'appel aux élèves sortant de l'Ecole nationale
+d'administration et aux candidats au tour extérieur. 
 
-Le concours est ouvert :
+Le concours externe est ouvert aux titulaires de l'un des diplômes  exigés pour se présenter au premier concours d'entrée à
+l'Ecole  nationale d'administration. 
 
-1° Aux fonctionnaires et autres agents publics civils ou militaires appartenant à un corps ou cadre d'emplois de la catégorie
-A ou assimilé et justifiant au 31 décembre de l'année du concours de sept ans de services publics effectifs dont trois ans
-effectifs dans la catégorie A ;
-
-2° Aux magistrats de l'ordre judiciaire ;
-
-3° Aux titulaires de l'un des diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale
-d'administration.
+Le concours interne  est ouvert aux fonctionnaires ainsi qu'aux magistrats de l'ordre  judiciaire et autres agents publics
+civils ou militaires appartenant à  un corps ou cadre d'emplois de la catégorie A ou assimilé et justifiant,  au 31 décembre
+de l'année du concours, de quatre années de services  publics effectifs.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°80-511 du 7 juillet 1980 - art. 1, v. init.
+	  - Loi n°80-511 du 7 juillet 1980 - art. 1
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2007-148 du 2 février 2007 - art. 37 () JORF 6 février 2007
+	  - Loi n°2012-347 du 12 mars 2012 - art. 83
 
 	**Cité par**:
 
@@ -2457,9 +2608,10 @@ effectifs dans les tribunaux administratifs et cours administratives d'appel.
 
 ###### Article L234-3
 
-Les présidents occupent les fonctions, dans une cour administrative d'appel, de président de chambre ou d'assesseur ; dans un
-tribunal administratif, de président ou de vice-président du tribunal ; au tribunal administratif de Paris, ils occupent en
-outre les fonctions de président ou de vice-président de section.
+Les  présidents occupent les fonctions, dans une cour administrative  d'appel, de vice-président, de président de chambre ou
+d'assesseur ;  dans un tribunal administratif, de président, de vice-président ou de  président de chambre ; au tribunal
+administratif de Paris, ils occupent  en outre les fonctions de président ou de vice-président de section. Ils  peuvent
+également occuper au Conseil d'Etat des fonctions d'inspection  des juridictions administratives. 
 
 A la Cour nationale du droit d'asile, ils exercent les fonctions de président de section, pour une durée de trois ans,
 renouvelable une fois sur leur demande. Ils peuvent, le cas échéant, exercer ces fonctions à temps partagé avec celles
@@ -2469,7 +2621,7 @@ d'assesseur dans une cour administrative d'appel.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 15
+	  - Loi n°2012-347 du 12 mars 2012 - art. 84
 
 	**Cité par**:
 
@@ -2499,31 +2651,10 @@ vacant, ils ne peuvent présider une chambre, ces fonctions leur sont attribuée
 
 ###### Article L234-4
 
-Les fonctions de président de chambre dans une cour administrative d'appel, de président d'un tribunal administratif
-comportant moins de cinq chambres ou de président de section au tribunal administratif de Paris sont accessibles aux membres
-du corps des tribunaux administratifs et cours administratives d'appel titulaires du grade de président depuis au moins deux
-ans. La première nomination dans l'une de ces fonctions est subordonnée à l'inscription sur une liste d'aptitude annuelle
-établie sur proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cité par**:
-
-	  - Arrêté du 1 juin 2004 - art. 9 (V)
-	  - Code de justice administrative - art. R*133-3 (M)
-	  - Code de justice administrative - art. R234-5 (VD)
-
-
-###### Article L234-5
-
-Les fonctions de président du tribunal administratif de Paris, de vice-président de ce même tribunal et de président d'un
-tribunal administratif comportant au moins cinq chambres sont accessibles aux membres du corps des tribunaux administratifs
-et cours administratives d'appel titulaires du grade de président depuis au moins quatre ans. La première nomination dans
+Les  fonctions de président de chambre dans une cour administrative d'appel,  de président d'un tribunal administratif
+comportant moins de cinq  chambres, de président de section au tribunal administratif de Paris ou  de premier vice-président
+d'un tribunal administratif comportant au  moins huit chambres sont accessibles aux magistrats des tribunaux  administratifs
+et des cours administratives d'appel titulaires du grade  de président depuis au moins deux ans. La première nomination dans
 l'une de ces fonctions est subordonnée à l'inscription sur une liste d'aptitude annuelle établie sur proposition du Conseil
 supérieur des tribunaux administratifs et des cours administratives d'appel.
 
@@ -2531,14 +2662,67 @@ supérieur des tribunaux administratifs et des cours administratives d'appel.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Cité par**:
 
 	  - Arrêté du 1 juin 2004 - art. 9 (V)
 	  - Code de justice administrative - art. R*133-3 (M)
 	  - Code de justice administrative - art. R234-5 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 84
+
+
+###### Article L234-5
+
+Les  fonctions de président ou de vice-président du tribunal administratif  de Paris, de premier vice-président d'une cour
+administrative d'appel et  de président d'un tribunal administratif comportant au moins cinq  chambres sont accessibles aux
+magistrats des tribunaux administratifs et  des cours administratives d'appel titulaires du grade de président  depuis au
+moins quatre ans. La première nomination dans l'une de ces fonctions est subordonnée à l'inscription sur une liste d'aptitude
+annuelle établie sur proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Cité par**:
+
+	  - Arrêté du 1 juin 2004 - art. 9 (V)
+	  - Code de justice administrative - art. R*133-3 (M)
+	  - Code de justice administrative - art. R234-5 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 84
+
+
+###### Article L234-6
+
+Les fonctions de chef de juridiction exercées par les présidents de tribunal administratif ne peuvent excéder une durée de
+sept années sur un même poste.
+
+A l'issue de cette période de sept années, les présidents qui n'auraient pas reçu une autre affectation comme chef de
+juridiction sont affectés dans une cour administrative d'appel de leur choix.
+
+Cette nomination est prononcée, le cas échéant, en surnombre de l'effectif des présidents affectés dans la juridiction. Ce
+surnombre est résorbé à la première vacance utile.
+
+**Nota:**
+
+Loi n° 2012-347 du 12 mars 2012, article 85 III : Ces dispositions s'appliquent aux chefs de juridiction dont la nomination
+est postérieure à l'entrée en vigueur de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 85 (V)
 
 
 #### Chapitre VI : Discipline
