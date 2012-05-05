@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-03-30
+Version Consolidée au 2012-05-06
 
 # Partie législative
 
@@ -16090,9 +16090,9 @@ accomplis qu'à l'égard de ce mandataire.
 ###### Article R431-2
 
 Les requêtes et les mémoires doivent, à peine d'irrecevabilité, être présentés soit par un avocat, soit par un avocat au
-Conseil d'Etat et à la Cour de cassation, soit par un avoué en exercice dans le ressort du tribunal administratif intéressé,
-lorsque les conclusions de la demande tendent au paiement d'une somme d'argent, à la décharge ou à la réduction de sommes
-dont le paiement est réclamé au requérant ou à la solution d'un litige né d'un contrat.
+Conseil d'Etat et à la Cour de cassation, lorsque les conclusions de la demande tendent au paiement d'une somme d'argent, à
+la décharge ou à la réduction de sommes dont le paiement est réclamé au requérant ou à la solution d'un litige né d'un
+contrat.
 
 La signature des requêtes et mémoires par l'un de ces mandataires vaut constitution et élection de domicile chez lui.
 
@@ -16100,11 +16100,7 @@ La signature des requêtes et mémoires par l'un de ces mandataires vaut constit
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Cité par**:
 
@@ -16120,9 +16116,9 @@ La signature des requêtes et mémoires par l'un de ces mandataires vaut constit
 	  - Code de justice administrative. - art. R612-2 (Ab)
 	  - Livre des procédures fiscales - art. R*200-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. R108 (Ab)
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article R431-3
@@ -16289,27 +16285,23 @@ régularisation dans les conditions prévues au c du même article. "
 
 ###### Article R431-7
 
-L'Etat est dispensé du ministère d'avocat ou d'avoué soit en demande, soit en défense, soit en intervention.
+L'Etat est dispensé du ministère d'avocat soit en demande, soit en défense, soit en intervention.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R77-10-6 (V)
 	  - Code de justice administrative - art. R77-12-7 (V)
 	  - Code de la santé publique - art. R1432-66 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R111 (Ab)
 
 
 ###### Article R431-8
@@ -18058,22 +18050,17 @@ le déplacement des pièces, pendant un délai qu'il détermine, dans une préfe
 autre juridiction administrative.
 
 En cas de nécessité reconnue, il peut également autoriser la remise momentanée de ces pièces, pendant un délai qu'il fixe,
-entre les mains des avocats ou avoués des parties ou des représentants des administrations.
+entre les mains des avocats des parties ou des représentants des administrations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 53-4 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R141 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cité par**:
 
