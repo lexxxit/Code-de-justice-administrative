@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-05-06
+Version Consolidée au 2012-05-11
 
 # Partie législative
 
@@ -13595,32 +13595,35 @@ maintien en activité jusqu'à la fin du semestre considéré.
 
 ###### Article R234-1
 
-Le grade de président comporte sept échelons, dont trois sont fonctionnels ; ceux de premier conseiller et de conseiller en
-comportent chacun sept.
+I.- Le grade de président comporte sept échelons, dont trois sont fonctionnels. Celui de premier conseiller comporte sept
+échelons et un échelon spécial. Celui de conseiller en comporte sept.
 
-Le temps à passer dans chacun des échelons pour accéder à l'échelon supérieur est fixé à :
+II. - Le temps à passer dans chacun des échelons pour accéder à l'échelon supérieur est fixé à :
 
-1° Un an et six mois pour les deux premiers échelons du grade de conseiller ;
-
-2° Un an pour les 3e et 4e échelons du grade de conseiller et pour les deux premiers échelons du grade de premier
+1° Un an pour les 1er, 2e, 3e et 4e échelons du grade de conseiller et pour les deux premiers échelons du grade de premier
 conseiller ;
 
-3° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les 3e et 4e échelons du grade de premier conseiller et
+2° Deux ans pour les 5e et 6e échelons du grade de conseiller, pour les 3e et 4e échelons du grade de premier conseiller et
 pour le premier échelon du grade de président ;
 
-4° Trois ans pour les 5e et 6e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président.
+3° Trois ans pour les 5e et 6e échelons du grade de premier conseiller et pour les 2e et 3e échelons du grade de président.
 
-L'avancement d'échelon est prononcé par arrêté du vice-président du Conseil d'Etat.
+III. - L'avancement à l'échelon spécial du grade de premier conseiller se fait, dans la limite d'un pourcentage des effectifs
+de ce grade fixé par arrêté conjoint du Premier ministre, du ministre de la justice, du ministre chargé du budget et du
+ministre chargé de la fonction publique, après au moins cinq ans d'ancienneté au 7e échelon et par ordre d'ancienneté dans
+cet échelon. 
+
+IV. - L'avancement d'échelon est prononcé par arrêté du vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2005-1706 du 28 décembre 2005 - art. 4 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2012-724 du 9 mai 2012 - art. 1
 
 	**Cité par**:
 
@@ -13721,24 +13724,27 @@ portés candidats pour y être inscrits et ont été reconnus aptes à l'exercic
 
 ###### Article R234-6
 
-Le président du tribunal administratif de Paris est classé au 7e échelon du grade de président.
+Le président du tribunal administratif de Paris et les présidents nommés dans la fonction de président d'un tribunal
+administratif comportant neuf chambres et plus sont classés au 7e échelon du grade de président.
 
 Le président nommé dans la fonction de vice-président du tribunal administratif de Paris et les présidents nommés dans la
-fonction de président d'un tribunal administratif comportant au moins cinq chambres sont classés au 6e échelon de leur grade.
+fonction de président d'un tribunal administratif comportant entre cinq et huit chambres ou dans celle de premier vice-
+président de cour administrative d'appel sont classés au 6e échelon de leur grade.
 
 Les présidents nommés dans la fonction de président de chambre dans une cour administrative d'appel, de président d'un
-tribunal administratif comportant moins de cinq chambres ou de président de section au tribunal administratif de Paris sont
-classés au 5e échelon de leur grade.
+tribunal administratif comportant moins de cinq chambres, de président de section au tribunal administratif de Paris ou de
+premier vice-président d'un tribunal administratif comportant au moins huit chambres  sont classés au 5e échelon de leur
+grade.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-724 du 9 mai 2012 - art. 2
 
 
 ###### Article R234-7
