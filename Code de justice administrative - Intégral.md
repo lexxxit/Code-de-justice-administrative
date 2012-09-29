@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-06-20
+Version Consolidée au 2012-09-30
 
 # Partie législative
 
@@ -7685,8 +7685,7 @@ Le rapport est remis au Président de la République.
 ###### Article R123-6
 
 Chaque section administrative est composée d'un président, de conseillers d'Etat en service ordinaire au nombre de six au
-minimum dont l'un choisi parmi les assesseurs des sous-sections de la section du contentieux, de conseillers d'Etat en
-service extraordinaire, de maîtres des requêtes et d'auditeurs. 
+minimum, de conseillers d'Etat en service extraordinaire, de maîtres des requêtes et d'auditeurs. 
 
 Un ou plusieurs conseillers d'Etat en service ordinaire affectés à la section sont nommés présidents adjoints de celle-ci par
 arrêté du vice-président pris après avis des présidents de section. Ils assistent le président de la section dans l'exercice
@@ -7716,7 +7715,7 @@ Les membres de la section ont voix délibérative dans toutes les affaires.
 
 	**Modifié par**:
 
-	  - Décret n°2008-225 du 6 mars 2008 - art. 13
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 7
 
 
 ###### Article R123-6-1
@@ -8320,28 +8319,29 @@ lequel a duré son absence non autorisée.
 ###### Article R132-1
 
 La commission consultative comprend, outre le vice-président du Conseil d'Etat qui la préside et les présidents de section,
-six membres élus du Conseil d'Etat en activité de service ou en délégation, dont deux conseillers d'Etat en service ordinaire
-ou en service extraordinaire, deux maîtres des requêtes et deux auditeurs.
+sept membres élus du Conseil d'Etat en activité de service ou en délégation, dont trois conseillers d'Etat en service
+ordinaire ou en service extraordinaire, trois maîtres des requêtes et un auditeur. 
 
-Les membres élus ont un mandat de deux ans. Les modalités de l'élection sont fixées par arrêté du vice-président. Six
+Les membres élus ont un mandat de deux ans. Les modalités de l'élection sont fixées par arrêté du vice-président. Sept
 suppléants sont élus dans les mêmes conditions.
 
 Le secrétaire général du Conseil d'Etat assiste avec voix consultative aux réunions de la commission et en tient les procès-
 verbaux.
 
+**Nota:**
+
+Décret n° 2012-1088 du 28 septembre 2012 article 8 III : Les dispositions de l'article R. 132-1 entrent en vigueur à compter
+du premier renouvellement de la commission consultative qui suit la publication du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 8 (V)
 
 
 ###### Article R132-2
@@ -8371,23 +8371,25 @@ section et les membres élus de la commission siègent et, le cas échéant, son
 ###### Article R132-3
 
 Pour l'examen des mesures individuelles, la commission comprend, d'une part, le vice-président et les deux présidents de
-section les plus anciens au tableau et, d'autre part, si l'affaire concerne un conseiller d'Etat : les deux conseillers
-d'Etat et un de leurs suppléants ; si l'affaire concerne un maître des requêtes : les deux maîtres des requêtes et un de
-leurs suppléants ; si elle concerne un auditeur : les deux auditeurs et un de leurs suppléants.
+section les plus anciens au tableau ou, pour les affaires relatives aux auditeurs, le seul président de section le plus
+ancien au tableau, et, d'autre part, si l'affaire concerne un conseiller d'Etat : les trois conseillers d'Etat ; si l'affaire
+concerne un maître des requêtes : les trois maîtres des requêtes ; si elle concerne un auditeur : l'auditeur et son
+suppléant.
+
+**Nota:**
+
+Décret n° 2012-1088 du 28 septembre 2012 article 8 III : Les dispositions de l'article R. 132-1 entrent en vigueur à compter
+du premier renouvellement de la commission consultative qui suit la publication du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-767 du 30 juillet 1963 - art. 6 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 8 (V)
 
 
 #### Chapitre III : Nominations
@@ -8555,8 +8557,8 @@ des requêtes
 ###### Article R*133-2-1
 
 S'ils avaient la qualité de fonctionnaire ou d'agent public non titulaire, les conseillers d'Etat et les maîtres des requêtes
-nommés en application des dispositions des articles L. 133-7 et L. 133-8 sont classés dans leur grade à l'échelon comportant
-un traitement égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur situation d'origine. 
+nommés en application des dispositions des articles L. 133-7, L. 133-8 et L. 133-12 sont classés dans leur grade à l'échelon
+comportant un traitement égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur situation d'origine. 
 
 Dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur du grade, ils conservent l'ancienneté
 d'échelon acquise dans leur précédent grade ou classe lorsque l'augmentation de traitement consécutive à leur nomination est
@@ -8565,136 +8567,66 @@ le plus élevé de leur précédent grade ou classe, à celle qui a résulté de
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-101 du 28 janvier 2010 - art. 4 (V)
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 3
 
 	**Cite**:
 
+	  - Code de justice administrative - art. L133-12
 	  - Code de justice administrative - art. L133-7
 	  - Code de justice administrative - art. L133-8
 
 
 ##### Section 2 : Nomination des membres du Conseil d'Etat choisis parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel
 
+##### Section 2 : Nomination des membres du Conseil d'Etat choisis parmi les magistrats des tribunaux administratifs et des cours administratives d'appel
+
 ###### Article R*133-3
 
-Les emplois vacants dans le grade de conseiller d'Etat auxquels peuvent être nommées, en application de l'article L. 133-3,
-des personnes ne détenant pas le grade de maître des requêtes sont pourvus, à raison d'un sur six, par la nomination de
-conseillers d'Etat choisis parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel ayant
-le grade de président et exerçant les fonctions de président d'un tribunal administratif, de vice-président du tribunal
-administratif de Paris, de président de section à ce même tribunal ou de président de chambre dans une cour administrative
-d'appel.
+Les conseillers d'Etat nommés en application du premier alinéa de l'article L. 133-8 sont choisis parmi les magistrats des
+tribunaux administratifs et des cours administratives d'appel ayant le grade de président et exerçant les fonctions définies
+par les articles L. 234-4 ou L. 234-5.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-935 du 30 septembre 1953 - art. 3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-388 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R*133-7 (VD)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L133-3 (V)
-
-
-###### Article R*133-4
-
-Les emplois vacants dans le grade de maître des requêtes au Conseil d'Etat auxquels peuvent être nommées, en application des
-dispositions de l'article L. 133-4, des personnes ne détenant pas le grade d'auditeur de 1re classe au Conseil d'Etat sont
-pourvus, à raison d'un sur quatre, par la nomination de maîtres des requêtes choisis parmi les membres du corps des tribunaux
-administratifs et des cours administratives d'appel ayant le grade de président ou de premier conseiller.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-935 du 30 septembre 1953 - art. 3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-388 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L133-4 (V)
-
-
-###### Article R*133-5
-
-Lorsque, entre deux nominations faites au titre de l'article R. * 133-4, un emploi vacant ne peut être pourvu ni par la
-nomination d'un auditeur justifiant de trois années de services effectifs dans le corps ni par une nomination au tour de
-l'extérieur, il peut être procédé à la nomination d'encore un maître des requêtes pris parmi les membres du corps des
-tribunaux administratifs et des cours administratives d'appel cités à l'article R.* 133-4. Cette nomination est décomptée
-comme celle d'un auditeur pour l'application des dispositions du deuxième alinéa de l'article L. 133-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°53-935 du 30 septembre 1953 - art. 3 (M)
 
 	**Codifié par**:
 
 	  - Rapport au Président de la République relatif à la partie Réglementaire du code de justice administrative (Décrets en Conseil d'Etat délibérés en conseil des ministres)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1088 du 28 septembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de justice administrative
-	  - Code de justice administrative - art. L133-4
+	  - Code de justice administrative - art. L133-8
+	  - Code de justice administrative - art. L234-4
+	  - Code de justice administrative - art. L234-5 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R*133-7 (VD)
 
 
-###### Article R*133-6
+###### Article R*133-4
 
-La promotion au grade de conseiller d'Etat des maîtres des requêtes nommés par application des prescriptions des articles R.*
-133-4 et R.* 133-5 suit les règles fixées pour les nominations au titre de l'intérieur par les articles L. 133-3 et R.*
-134-4.
+Les maîtres des requêtes nommés en application du deuxième alinéa de l'article L. 133-8 sont choisis parmi les magistrats des
+tribunaux administratifs et des cours administratives d'appel ayant le grade de président ou de premier conseiller.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°53-935 du 30 septembre 1953 - art. 3 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-388 2000-05-04
+	  - Rapport au Président de la République relatif à la partie Réglementaire du code de justice administrative (Décrets en Conseil d'Etat délibérés en conseil des ministres)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1088 du 28 septembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de justice administrative
-	  - Code de justice administrative - art. L133-3
+	  - Code de justice administrative - art. L133-8
 
 
 ###### Article R*133-7
@@ -8729,39 +8661,87 @@ corps des tribunaux administratifs et des cours administratives d'appel rempliss
 
 ###### Article R*133-8
 
-Il n'est pas tenu compte des nominations faites en vertu de l'article R.* 133-7 pour l'application des dispositions de
-l'article R.* 133-3.
+Il n'est pas tenu compte des nominations faites en vertu de l'article R. * 133-7 pour l'application des dispositions du
+premier alinéa de l'article L. 133-8.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°88-153 du 15 février 1988 - art. 2 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-388 2000-05-04
+	  - Rapport au Président de la République relatif à la partie Réglementaire du code de justice administrative (Décrets en Conseil d'Etat délibérés en conseil des ministres)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de justice administrative R133-3
+	  - Code de justice administrative - art. L133-8 (V)
+	  - Code de justice administrative - art. R*133-7 (V)
 
 
 ###### Article R*133-9
 
 Les membres du corps des tribunaux administratifs et des cours administratives d'appel appelés à exercer les fonctions de
-président d'une cour sont nommés au grade de conseiller d'État, hors tour, et, le cas échéant, en surnombre, résorbable à la
-première vacance.
+président d'une cour sont nommés au grade de conseiller d'État, hors tour.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-101 du 28 janvier 2010 - art. 6
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 1
+
+
+##### Section 3 : Dispositions relatives aux maîtres des requêtes en service extraordinaire
+
+###### Article R*133-10
+
+La nomination des maîtres des requêtes en service extraordinaire est prononcée pour une durée de quatre ans par arrêté du
+vice-président du Conseil d'Etat.
+
+Les maîtres des requêtes en service extraordinaire sont détachés auprès du Conseil d'Etat ou mis à sa disposition.
+
+Les services accomplis en qualité de maître des requêtes en service extraordinaire sont pris en compte, le cas échéant, au
+titre de la mobilité statutaire des corps recrutés par la voie de l'Ecole nationale d'administration et des administrateurs
+des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 2 (V)
+
+
+###### Article R*133-11
+
+A l'exception du deuxième alinéa de l'article R. 121-3, les dispositions du présent code relatives aux maîtres des requêtes
+sont applicables aux maîtres des requêtes en service extraordinaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R121-3
+
+
+###### Article R*133-12
+
+Après trente mois au moins d'exercice de leurs fonctions, les maîtres des requêtes en service extraordinaire peuvent
+présenter leur candidature pour une nomination, en application de l'article L. 133-12, au grade de maître des requêtes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L133-12
 
 
 #### Chapitre IV : Avancement
@@ -13390,205 +13370,262 @@ d'échelon avec les membres du corps.
 	  - Code de justice administrative. - art. R234-3 (V)
 
 
-##### Section 4 : Recrutement complémentaire
+##### Section 4 : Recrutement direct
 
 ###### Article R233-8
 
-L'ouverture du concours prévu par l'article L. 233-6 en vue du recrutement complémentaire de membres du corps des tribunaux
+L'ouverture des concours prévus par l'article L. 233-6 en vue du recrutement direct des magistrats des tribunaux
 administratifs et des cours administratives d'appel donne lieu à une publicité, notamment par la voie du Journal officiel de
 la République française, au moins un mois avant la date des épreuves écrites. Cette publicité indique la date des épreuves
-écrites, la date limite et le lieu de dépôt des candidatures.
+écrites, la date limite et le lieu de dépôt des candidatures. 
 
-Le jury est présidé par le chef de la mission permanente d'inspection des juridictions administratives et comprend un
-représentant du ministre de la justice, un représentant du ministre chargé de la fonction publique ainsi que deux professeurs
-titulaires d'université et deux membres du corps des tribunaux administratifs et des cours administratives d'appel nommés par
-arrêté du vice-président du Conseil d'Etat. Les membres du corps des tribunaux administratifs et des cours administratives
-d'appel sont nommés sur proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel.
+Le nombre total des places et leur répartition entre le concours externe et le concours interne sont fixés par arrêté du
+vice-président du Conseil d'Etat. Le nombre des places offertes à chaque concours est au plus égal à 60 % du nombre total de
+places. 
+
+Pour chaque concours, le jury peut ne pas pourvoir à toutes les places offertes. Toutefois, le jury peut, dans une proportion
+qui n'excède pas 20 % du nombre total de places offertes à l'un des concours, reporter les places auxquelles il n'a pas été
+pourvu au titre de l'autre concours. 
+
+Le jury établit, par ordre de mérite, dans la limite des places offertes et compte tenu, le cas échéant, du report opéré dans
+les conditions prévues à l'alinéa précédent, la liste des candidats admis à chacun des deux concours. 
+
+Le jury peut, pour chacun des concours, établir, par ordre de mérite, une liste complémentaire, pour le cas où des vacances
+résultant de démissions ou de décès viendraient à se produire sur la liste principale du même concours. Cette liste reste
+valable jusqu'au début de la formation complémentaire prévue par l'article R. 233-2.
+
+**Nota:**
+
+Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
+recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
+janvier 2013.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L233-6
+	  - Code de justice administrative - art. R233-2
+
+
+###### Article R233-9
+
+Le jury des deux concours est présidé par le chef de la mission permanente d'inspection des juridictions administratives et
+comprend un membre du Conseil d'Etat, deux professeurs des universités, deux magistrats des tribunaux administratifs et des
+cours administratives d'appel nommés par arrêté du vice-président du Conseil d'Etat ainsi qu'un magistrat de l'ordre
+judiciaire désigné par le premier président de la Cour de cassation. Les magistrats des tribunaux administratifs et des cours
+administratives d'appel sont nommés sur proposition du Conseil supérieur des tribunaux administratifs et des cours
+administratives d'appel. 
 
 L'arrêté mentionné à l'alinéa précédent désigne le remplaçant du président dans le cas où celui-ci se trouverait dans
-l'impossibilité de poursuivre sa mission.
+l'impossibilité de poursuivre sa mission. 
 
 Des correcteurs adjoints peuvent être désignés par arrêté du vice-président du Conseil d'Etat pour participer, avec les
-membres du jury, à la correction des épreuves écrites.
+membres du jury, à la correction des épreuves écrites. 
 
 Ces correcteurs assistent aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant aux
 épreuves qu'ils ont corrigées.
 
 **Nota:**
 
-Décret 2003-1158 du 26 décembre 2003 art. 2 : Le décret 2003-1258 est applicable aux concours de recrutement complémentaire
-de membres du corps des tribunaux administratifs et des cours administratives d'appel qui sont ouverts postérieurement à la
-date de sa publication au Journal officiel.
+Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
+recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
+janvier 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-1258 du 26 décembre 2003 - art. 1 () JORF 28 décembre 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L233-6 (M)
-
-
-###### Article R233-9
-
-Nul ne peut se présenter plus de trois fois au concours prévu par l'article L. 233-6.
-
-Les candidats visés au 3° de l'article L. 233-6 doivent être âgés de vingt-cinq ans au moins au 31 décembre de l'année au
-titre de laquelle le concours est ouvert.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L233-6 (M)
+	  - Code de justice administrative - art. L233-6
 
 
 ###### Article R233-10
 
-Le concours prévu par l'article L. 233-6 comporte deux épreuves écrites d'admissibilité et une épreuve orale d'admission.
+Nul ne peut se présenter plus de trois fois aux concours prévus par l'article L. 233-6.
 
-1° Epreuves d'admissibilité :
+**Nota:**
 
-a) Une épreuve consistant en l'étude d'un dossier de contentieux administratif (durée : quatre heures ; coefficient 2) ;
+Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
+recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
+janvier 2013. 
 
-b) Une composition portant sur le droit constitutionnel ou administratif (durée : quatre heures ; coefficient 1).
-
-2° Epreuve d'admission : une interrogation portant sur un sujet de droit administratif, suivie d'une conversation d'ordre
-général (durée : trente minutes précédées de trente minutes de préparation ; coefficient 2). Le sujet d'interrogation est
-tiré au sort par le candidat.
-
-Un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la fonction publique fixe le
-programme des épreuves d'admissibilité.
+Les présentations au concours complémentaire organisé avant l'entrée en vigueur des présentes dispositions ne sont pas prises
+en compte pour l'application de l'article R. 233-10, dans sa rédaction issue de ces dispositions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Cité par**:
 
 	  - Arrêté du 23 janvier 2003 - art. 1 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L233-6 (M)
+	  - Code de justice administrative - art. L233-6 (V)
 
 
 ###### Article R233-11
 
-Les notes vont de 0 à 20. Toute note inférieure à 5 avant application des coefficients est éliminatoire.
+Les concours prévus par l'article L. 233-6 comportent trois épreuves écrites d'admissibilité et deux épreuves orales
+d'admission. 
+
+1° Epreuves d'admissibilité : 
+
+a) Une épreuve consistant en l'étude d'un dossier de contentieux administratif (durée : quatre heures ; coefficient 3) ; 
+
+b) Une épreuve constituée de questions portant sur des sujets juridiques, institutionnels ou administratifs appelant une
+réponse courte (durée : une heure et demie ; coefficient 1) ; 
+
+c) Au concours externe : une dissertation portant sur un sujet de droit public (durée : quatre heures ; coefficient 1) ; 
+
+Au concours interne : une note administrative portant sur la résolution d'un cas pratique posant des questions juridiques
+(durée : quatre heures ; coefficient 1) ; 
+
+2° Epreuves d'admission : 
+
+a) Une épreuve orale portant sur un sujet de droit public suivie d'une conversation avec le jury sur des questions juridiques
+(durée : trente minutes précédées de trente minutes de préparation ; coefficient 2). Le sujet d'interrogation est tiré au
+sort par le candidat ; 
+
+b) Un entretien avec le jury portant sur le parcours et la motivation du candidat et ses centres d'intérêt, à partir d'une
+fiche individuelle de renseignements qu'il aura préalablement remplie, ainsi que sur ses aptitudes à exercer le métier de
+magistrat administratif et à en respecter la déontologie (durée : vingt minutes ; coefficient 2) ; 
+
+Un arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la fonction publique fixe le
+programme des épreuves d'admissibilité et de la première épreuve orale.
+
+**Nota:**
+
+Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
+recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
+janvier 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 3 () JORF 21 décembre 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Cité par**:
 
 	  - Arrêté du 28 septembre 2012 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L233-6
+
 
 ###### Article R233-12
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel recrutés au titre de la présente
-section sont nommés et titularisés au 1er échelon du grade de conseiller.
+Les notes vont de 0 à 20. Toute note inférieure à 5 avant application des coefficients est éliminatoire.
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel qui justifient d'une ou de plusieurs
-activités professionnelles antérieures dans des fonctions normalement exercées à temps complet, en qualité d'agent public
-d'un niveau équivalent à la catégorie A, de cadre au sens de la convention collective dont ils relevaient, d'avocat au
-Conseil d'Etat et à la Cour de cassation, d'avocat, d'avoué, de notaire ou d'huissier de justice, sont classés au grade de
-conseiller à un échelon déterminé sur la base des durées fixées pour chaque avancement d'échelon à l'article R. 234-1, en
-prenant en compte une partie de la durée de cette ou ces activités professionnelles. La durée retenue pour le classement, qui
-ne peut excéder sept années, est prise en compte à hauteur de la moitié.
+**Nota:**
 
-Toutefois, les fonctionnaires, les militaires et les magistrats sont nommés et titularisés dans les conditions fixées à
-l'article R. 233-6.
+Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
+recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
+janvier 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2007-1345 du 13 septembre 2007 - art. 3 () JORF 14 septembre 2007
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Cité par**:
 
 	  - Décret n°2010-164 du 22 février 2010 - art. 52 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
+
 	**Cite**:
 
-	  - Code de justice administrative. - art. R233-6 (M)
-	  - Code de justice administrative. - art. R234-1 (M)
+	  - Code de justice administrative - art. R233-6
+	  - Code de justice administrative - art. R234-1
 
-
-##### Section 6 : Fin de fonctions
 
 ###### Article R233-13
 
-Pour l'application de l'article L. 233-9, les membres du corps des tribunaux administratifs et des cours administratives
-d'appel doivent, six mois au moins avant d'atteindre la limite d'âge, présenter leur demande en vue de renoncer à leur
-maintien en activité jusqu'à la fin du semestre considéré.
+Les lauréats sont affectés par ordre de classement, en recourant alternativement à chacune des deux listes des admis puis, le
+cas échéant, à chacune des deux listes complémentaires. La première liste à laquelle il est recouru est tirée au sort.
+
+**Nota:**
+
+Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
+recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
+janvier 2013.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
+
+
+###### Article R233-14
+
+Les magistrats des tribunaux administratifs et des cours administratives d'appel recrutés au titre de la présente section
+sont nommés et titularisés au 1er échelon du grade de conseiller. 
+
+Les magistrats des tribunaux administratifs et des cours administratives d'appel qui justifient d'une ou de plusieurs
+activités professionnelles antérieures dans des fonctions normalement exercées à temps complet, en qualité d'agent public
+d'un niveau équivalent à la catégorie A, de cadre au sens de la convention collective dont ils relevaient, d'avocat au
+Conseil d'Etat et à la Cour de cassation, d'avocat, d'avoué, de notaire ou d'huissier de justice, sont classés au grade de
+conseiller à un échelon déterminé sur la base des durées fixées pour chaque avancement d'échelon à l'article R. 234-1, en
+prenant en compte une partie de la durée de cette ou ces activités professionnelles. La durée retenue pour le classement, qui
+ne peut excéder sept années, est prise en compte à hauteur de la moitié. 
+
+Toutefois, les fonctionnaires, les militaires et les magistrats sont nommés et titularisés dans les conditions fixées à
+l'article R. 233-6.
+
+**Nota:**
+
+Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
+recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
+janvier 2013.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 8 () JORF 21 décembre 2002
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L233-9 (Ab)
+	  - Code de justice administrative - art. R233-6
+	  - Code de justice administrative - art. R234-1
 
 
 #### Chapitre IV : Avancement
@@ -25255,23 +25292,23 @@ même décision n'est pas recevable.
 
 ###### Article R911-1
 
-Lorsqu'une personne publique a fait l'objet d'une condamnation dans les conditions prévues à l'article L. 911-9, les
-dispositions du décret n° 81-501 du 12 mai 1981 sont applicables.
+Lorsqu'une personne publique a fait l'objet d'une condamnation dans les conditions prévues à l'article L. 911-9 les
+dispositions du décret n° 2008-479 du 20 mai 2008 sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°81-501 1981-05-12
-	  - Code de justice administrative. - art. L911-9 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2008-479 du 20 mai 2008
+	  - Code de justice administrative - art. L911-9
+
+	**Modifié par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 
 ### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel
@@ -25510,67 +25547,63 @@ leur ont été soumises. Le cas échéant, il est fait mention de ces difficult�
 Lorsqu'une juridiction administrative a annulé pour excès de pouvoir un acte administratif ou, dans un litige de pleine
 juridiction, a rejeté tout ou partie des conclusions présentées en défense par une collectivité publique, l'autorité
 intéressée a la faculté de demander au Conseil d'Etat d'éclairer l'administration sur les modalités d'exécution de la
-décision de justice.
+décision de justice. 
 
 Ces demandes donnent lieu à la désignation d'un rapporteur dont la mission auprès de l'administration s'exerce sous
-l'autorité du président de la section du rapport et des études. Le cas échéant, il est fait mention de l'affaire dans le
-rapport annuel du Conseil d'Etat.
+l'autorité du président de la section du rapport et des études. Sur décision du président de la section du rapport et des
+études, le comité mentionné à l'article R. 931-6 peut être saisi, pour avis, de la question. Le cas échéant, il est fait
+mention de l'affaire dans le rapport annuel du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 58 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R931-6
 
 
 ###### Article R931-2
 
 Les parties intéressées peuvent signaler à la section du rapport et des études du Conseil d'Etat les difficultés qu'elles
 rencontrent pour obtenir l'exécution d'une décision rendue par le Conseil d'Etat ou par une juridiction administrative
-spéciale.
+spéciale. 
 
 Ces demandes d'aide à l'exécution ne peuvent être présentées, sauf décision explicite de refus d'exécution opposée par
 l'autorité administrative, qu'après l'expiration d'un délai de trois mois à compter de la date de notification des décisions
-juridictionnelles.
+juridictionnelles. 
 
 Dans le cas des décisions ordonnant une mesure d'urgence, les demandes peuvent être présentées sans délai à la section du
-rapport et des études.
+rapport et des études. 
 
 Dans le cas où la décision dont l'exécution est poursuivie a elle-même déterminé un délai dans lequel l'administration doit
-prendre les mesures d'exécution prescrites, la demande ne peut être présentée qu'à l'expiration de ce délai.
+prendre les mesures d'exécution prescrites, la demande ne peut être présentée qu'à l'expiration de ce délai. 
 
-Le président de la section du rapport et des études désigne un rapporteur au sein de cette section.
+Le président de la section du rapport et des études désigne un rapporteur au sein de cette section. Celui-ci peut accomplir
+toutes diligences qu'il juge utiles pour assurer l'exécution de la décision juridictionnelle qui fait l'objet de la demande.
+Le comité mentionné à l'article R. 931-6 peut être saisi de l'affaire, pour avis, sur décision du président de la section du
+rapport et des études. 
 
-Le cas échéant, il est fait mention de l'affaire dans le rapport annuel du Conseil d'Etat.
+Le cas échéant, il est fait mention de l'affaire dans le rapport annuel du Conseil d'Etat. 
 
 En cas de rejet d'une réclamation adressée à l'autorité administrative et tendant à obtenir l'exécution d'une décision d'une
 juridiction administrative, seule une décision expresse fait courir les délais de recours contentieux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 59 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 	**Cité par**:
 
@@ -25646,49 +25679,71 @@ statue par ordonnance motivée.
 
 ###### Article R931-5
 
-Les demandes tendant à ce que le Conseil d'Etat prononce une astreinte peuvent être présentées sans le ministère d'un avocat
-au Conseil d'Etat.
+Les demandes présentées sur le fondement de l'article R. 931-3 tendant à ce que le Conseil d'Etat prononce une astreinte
+peuvent être présentées sans le ministère d'un avocat au Conseil d'Etat. 
 
-Il en est de même pour les demandes d'aide à l'exécution d'une décision rendue par une juridiction administrative.
+Il en est de même pour les demandes d'aide à l'exécution d'une décision rendue par une juridiction administrative présentées
+sur le fondement de l'article R. 931-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 59-2 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R931-2
+	  - Code de justice administrative - art. R931-3
 
 
 ###### Article R931-6
 
-Sous réserve des dispositions de l'article R. 931-4, les affaires sont présentées, instruites et jugées conformément aux
-dispositions régissant la procédure devant le Conseil d'Etat statuant au contentieux. Sauf dans les cas où il peut être
-statué sans instruction sur les demandes, la sous-section du contentieux communique le dossier à la section du rapport et des
-études du Conseil d'Etat ; cette section accomplit les diligences qui lui incombent en vertu des dispositions réglementaires
-relatives à l'exécution des décisions des juridictions administratives.
+Les affaires introduites sur le fondement de l'article R. 931-3 ou renvoyées au Conseil d'Etat en application des
+dispositions de l'article L. 911-4 lorsqu'elles comportent une demande d'astreinte sont enregistrées au greffe de la section
+du contentieux et, sous réserve des dispositions de l'article R. 931-4, affectées à une sous-section de la section du
+contentieux. Sauf dans les cas où il peut être statué sans instruction sur les demandes et dans ceux où l'urgence l'interdit,
+la sous-section de la section du contentieux communique le dossier à la section du rapport et des études du Conseil d'Etat. 
 
-Les pièces produites devant la section du rapport et des études sont jointes au dossier.
+Cette section peut accomplir, dans le cadre d'une procédure non juridictionnelle, toutes diligences qu'elle juge utiles pour
+assurer l'exécution de la décision juridictionnelle qui fait l'objet de la demande. Le président de la section du rapport et
+des études désigne un rapporteur au sein de cette section. 
+
+Sur décision du président de la section du rapport et des études, l'affaire peut être soumise, pour avis, à un comité
+restreint, composé du président et du président adjoint de la section du rapport et des études, du rapporteur et de trois
+membres du Conseil d'Etat, dont un président de sous-section de la section du contentieux. 
+
+Au terme de l'examen de l'affaire par la section du rapport et des études, le président de la section du rapport et des
+études adresse au président de la section du contentieux une note exposant le contexte de fait et de droit de l'affaire,
+décrivant les diligences accomplies par la section et, si le comité restreint a été saisi, indiquant la composition dans
+laquelle il a siégé et le sens de l'avis rendu ; la note peut exprimer l'appréciation de la section sur les résultats des
+diligences accomplies par elle. 
+
+Les pièces produites devant la section du rapport et des études et la note établie par la section du rapport et des études
+sont jointes au dossier, qui est renvoyé à la sous-section du contentieux compétente. 
+
+Celle-ci assure l'instruction de l'affaire, conformément aux dispositions régissant la procédure devant le Conseil d'Etat
+statuant au contentieux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 59-3 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L911-4
+	  - Code de justice administrative - art. R931-3
+	  - Code de justice administrative - art. R931-4
 
 	**Cité par**:
 
@@ -25697,33 +25752,30 @@ Les pièces produites devant la section du rapport et des études sont jointes a
 	  - Code de justice administrative - art. R931-7 (M)
 	  - Code de justice administrative - art. R931-7-1 (Ab)
 
-	**Cite**:
-
-	  - Code de justice administrative. - art. R931-4 (V)
-
 
 ###### Article R931-7
 
-Lorsque des difficultés d'exécution ont été signalées à la section du rapport et des études dans les conditions prévues au
-premier alinéa de l'article R. 931-2, le président de cette section peut saisir le président de la section du contentieux aux
-fins d'ouverture d'une procédure d'astreinte d'office.
+Lorsque des difficultés d'exécution ont été signalées à la section du rapport et des études sur le fondement de l'article R.
+931-2, le président de cette section peut saisir le président de la section du contentieux aux fins d'ouverture d'une
+procédure d'astreinte d'office. Sur décision du président de la section du rapport et des études, le comité restreint
+mentionné à l'article R. 931-6 peut, au préalable, être saisi, pour avis, de l'affaire. La saisine est accompagnée d'une note
+motivant la proposition du président de la section du rapport et des études. Si le comité restreint a été saisi de l'affaire,
+la note le précise et indique la composition dans laquelle il a siégé et le sens de l'avis rendu. 
+
+La note du président de la section du rapport et des études est jointe au dossier. 
 
 Le président de la section du contentieux prononce par ordonnance l'ouverture de la procédure. L'ordonnance est enregistrée
 au secrétariat de la section du contentieux et notifiée aux parties. L'affaire est instruite et jugée d'urgence.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 59-4 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 	**Cité par**:
 
@@ -25731,7 +25783,29 @@ au secrétariat de la section du contentieux et notifiée aux parties. L'affaire
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R931-2 (V)
+	  - Code de justice administrative - art. R931-2
+	  - Code de justice administrative - art. R931-6
+
+
+###### Article R931-7-1
+
+Lorsque le Conseil d'Etat statuant au contentieux a prononcé une astreinte, la sous-section compétente transmet le dossier à
+la section du rapport et des études. 
+
+Lorsqu'à la date d'effet de l'astreinte prononcée par le Conseil d'Etat la section du rapport et des études constate,
+d'office ou sur la saisine de la partie intéressée, que les mesures d'exécution prescrites n'ont pas été prises, elle en fait
+part à la section du contentieux qui statue sur la liquidation de l'astreinte. Les dispositions des trois derniers alinéas de
+l'article R. 931-6 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R931-6
 
 
 ###### Article R931-8
