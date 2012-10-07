@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-09-30
+Version Consolidée au 2012-10-08
 
 # Partie législative
 
@@ -8578,8 +8578,6 @@ le plus élevé de leur précédent grade ou classe, à celle qui a résulté de
 	  - Code de justice administrative - art. L133-8
 
 
-##### Section 2 : Nomination des membres du Conseil d'Etat choisis parmi les membres du corps des tribunaux administratifs et des cours administratives d'appel
-
 ##### Section 2 : Nomination des membres du Conseil d'Etat choisis parmi les magistrats des tribunaux administratifs et des cours administratives d'appel
 
 ###### Article R*133-3
@@ -13979,6 +13977,34 @@ et dernier ressort du Conseil d'Etat ;
 	**Modifié par**:
 
 	  - Décret n°2011-921 du 1er août 2011 - art. 1
+
+
+###### Article R311-2
+
+La cour administrative d'appel de Paris est compétente pour connaître en premier et dernier ressort des recours dirigés
+contre les arrêtés du ministre chargé du travail relatifs à la représentativité des organisations syndicales, pris en
+application de l'article L. 2122-11 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2012-1130 du 5 octobre 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-383 du 22 mars 2017 - art. 2
+	  - Code de justice administrative. - art. R312-17 (V)
+	  - Code du travail - art. R2122-99 (V)
+	  - Code du travail - art. R2152-19 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L2122-11
 
 
 #### Chapitre II : La compétence territoriale des tribunaux administratifs
