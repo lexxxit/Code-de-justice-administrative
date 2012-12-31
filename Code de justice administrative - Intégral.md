@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2012-12-02
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -4315,15 +4315,15 @@ cas, le tribunal administratif ou le tribunal de grande instance. "
 
 ###### Article L552-3
 
-Les référés prévus en cas de mise en oeuvre de la procédure de flagrance fiscale mentionnée à l'article L. 16-0 BA du livre
-des procédures fiscales ou à la suite de saisies conservatoires effectuées en vertu de l'article L. 252 B du même livre
+Les référés prévus en cas de mise en œuvre de la procédure de flagrance fiscale mentionnée à l'article L. 16-0 BA du livre
+des procédures fiscales ou à la suite de mesures conservatoires effectuées en vertu de l'article L. 252 B du même livre
 obéissent aux règles définies respectivement à ces articles.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 51 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 11
 
 	**Cite**:
 
@@ -5196,13 +5196,18 @@ premier conseiller statue sur les difficultés qui s'élèvent en matière de co
 ###### Article L774-2
 
 Dans les dix jours qui suivent la rédaction d'un procès-verbal de contravention, le préfet fait faire au contrevenant
-notification de la copie du procès-verbal .
+notification de la copie du procès-verbal. 
+
+Pour le domaine public défini à l'article L. 4314-1 du code des transports, l'autorité désignée à l'article L. 4313-3 du même
+code est substituée au représentant de l'Etat dans le département. Pour le domaine public défini à l'article L. 4322-2 dudit
+code, l'autorité désignée à l'article L. 4322-13 du même code est compétente concurremment avec le représentant de l'Etat
+dans le département. 
 
 La notification est faite dans la forme administrative, mais elle peut également être effectuée par lettre recommandée avec
-demande d'avis de réception.
+demande d'avis de réception. 
 
 La notification indique à la personne poursuivie qu'elle est tenue, si elle veut fournir des défenses écrites, de les déposer
-dans le délai de quinzaine à partir de la notification qui lui est faite.
+dans le délai de quinzaine à partir de la notification qui lui est faite. 
 
 Il est dressé acte de la notification ; cet acte doit être adressé au tribunal administratif et y être enregistré comme les
 requêtes introductives d'instance.
@@ -5211,12 +5216,12 @@ requêtes introductives d'instance.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 7 () JORF 20 décembre 2003
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 3
 
 	**Cité par**:
 
@@ -5227,9 +5232,12 @@ requêtes introductives d'instance.
 	  - Code de justice administrative - art. L774-9 (V)
 	  - Code de justice administrative. - art. L774-12 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. L13 (M)
+	  - Code des transports - art. L4313-3
+	  - Code des transports - art. L4314-1
+	  - Code des transports - art. L4322-13
+	  - Code des transports - art. L4322-2
 
 
 ###### Article L774-3
@@ -5301,23 +5309,23 @@ La partie acquittée est relaxée sans dépens.
 
 ###### Article L774-6
 
-Le jugement est notifié aux parties, à leur domicile réel, dans la forme administrative par les soins du préfet, sans
-préjudice du droit de la partie de le faire signifier par acte d'huissier de justice.
+Le jugement est notifié aux parties, à leur domicile réel, dans la forme administrative par les soins des autorités
+mentionnées à l'article L. 774-2, sans préjudice du droit de la partie de le faire signifier par acte d'huissier de justice.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de justice administrative 774-9
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 3
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. L19 (Ab)
+	  - Code de justice administrative - art. L774-2
 
 
 ###### Article L774-7
