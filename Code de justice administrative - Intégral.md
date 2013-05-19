@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-04-02
+Version Consolidée au 2013-05-20
 
 # Partie législative
 
@@ -16491,6 +16491,62 @@ naturalisations dans les litiges relatifs aux décisions prises en application d
 	  - Décret n°2010-725 du 29 juin 2010 - art. 8
 
 
+#### Chapitre Ier bis : La représentation des parties  devant la cour administrative d'appel
+
+###### Article R431-11
+
+Les requêtes et les mémoires doivent, à peine d'irrecevabilité, être présentés soit par un avocat, soit par un avocat au
+Conseil d'Etat et à la Cour de cassation. 
+
+Toutefois, ces dispositions ne sont pas applicables aux recours pour excès de pouvoir ni aux demandes d'exécution d'un arrêt
+définitif. 
+
+La signature des requêtes et mémoires par l'un de ces mandataires vaut constitution et élection de domicile chez lui.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-409 du 17 mai 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R921-4 (Ab)
+
+
+###### Article R431-12
+
+L'Etat est dispensé du ministère d'avocat soit en demande, soit en défense, soit en intervention. 
+
+Les recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés par le ministre
+intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-409 du 17 mai 2013 - art. 1
+
+
+###### Article R431-13
+
+Sont en outre applicables devant les cours administratives d'appel les dispositions des articles R. 431-1, R. 431-4, R. 431-5
+et R. 431-8 applicables devant les tribunaux administratifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-409 du 17 mai 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R431-1
+	  - Code de justice administrative - art. R431-4
+	  - Code de justice administrative - art. R431-5
+	  - Code de justice administrative - art. R431-8
+
+
 #### Chapitre II : La représentation des parties devant le Conseil d'Etat
 
 ###### Article R432-1
@@ -25473,23 +25529,28 @@ demande.
 
 ###### Article R921-4
 
-Ainsi qu'il est dit aux articles R. 431-3 et R. 811-7, les demandes d'exécution d'un jugement ou d'un arrêt peuvent être
-présentées sans le ministère d'un avocat.
+Ainsi qu'il est dit aux articles R. 431-3, R. 431-11 et R. 811-7, les demandes d'exécution d'un jugement ou d'un arrêt
+peuvent être présentées sans le ministère d'un avocat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-409 du 17 mai 2013 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2017-493 du 6 avril 2017 - art. 7
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R431-3 (M)
-	  - Code de justice administrative. - art. R811-7 (M)
+	  - Code de justice administrative - art. R431-11
+	  - Code de justice administrative - art. R431-3
+	  - Code de justice administrative - art. R811-7 (V)
 
 
 ###### Article R921-5
