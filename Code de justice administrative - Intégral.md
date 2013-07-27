@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-07-24
+Version Consolidée au 2013-07-28
 
 # Partie législative
 
@@ -2909,7 +2909,7 @@ Le Conseil d'Etat connaît, en premier et dernier ressort, des recours de pleine
 vertu : 
 
 1° Du IV de l'article L. 612-16 du code monétaire et financier contre les décisions de sanction prises par l'Autorité de
-contrôle prudentiel ; 
+contrôle prudentiel et de résolution ; 
 
 2° De l'article L. 313-13 du code de la construction et de l'habitation contre les décisions de sanction prises par le
 ministre chargé du logement ; 
@@ -2945,7 +2945,8 @@ de régulation des activités ferroviaires.
 	  - Loi n°96-597 du 2 juillet 1996 - art. 71
 	  - Loi n°2000-108 du 10 février 2000 - art. 40
 	  - Loi n°2009-1503 du 8 décembre 2009 - art. 17
-	  - Code des postes et des communications électroniques - art. L5-3
+	  - Code des postes et des communications électroni... - art. L36-11 (V)
+	  - Code des postes et des communications électroni... - art. L5-3 (V)
 	  - Code du sport. - art. L232-24
 	  - Code monétaire et financier - art. L612-16
 	  - Code monétaire et financier - art. L623-3
@@ -2953,8 +2954,7 @@ de régulation des activités ferroviaires.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 17 (VT)
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 16
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 
 ###### Article L311-5
@@ -13935,7 +13935,7 @@ contrôle ou de régulation :
 
 - l'Agence française de lutte contre le dopage ;
 
-- L'Autorité de contrôle prudentiel ;
+- L'Autorité de contrôle prudentiel et de résolution ;
 
 - l'Autorité de la concurrence ;
 
@@ -13984,7 +13984,7 @@ et dernier ressort du Conseil d'Etat ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-921 du 1er août 2011 - art. 1
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 
 ###### Article R311-2
