@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-07-28
+Version Consolidée au 2013-08-16
 
 # Partie législative
 
@@ -9715,23 +9715,20 @@ Le nombre de chambres de chaque tribunal administratif est fixé par arrêté du
 
 ###### Article R221-5
 
-Les tribunaux administratifs comportant au moins cinq chambres sont présidés par un président classé au 6e échelon de son
-grade. Les tribunaux administratifs comportant moins de cinq chambres sont présidés par un président classé au 5e échelon de
-son grade.
+Les tribunaux administratifs comportant au moins neuf chambres sont présidés par un président classé au 7e échelon de son
+grade. Les tribunaux administratifs comportant de cinq à huit chambres sont présidés par un président classé au 6e échelon de
+son grade. Les tribunaux administratifs comportant moins de cinq chambres sont présidés par un président classé au 5e échelon
+de son grade.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R5 (M)
+	  - Décret n°2013-730 du 13 août 2013 - art. 10
 
 
 ###### Article R221-6
@@ -9996,9 +9993,10 @@ questions concernant l'organisation et le fonctionnement de la juridiction qu'il
 
 Pour la détermination de l'ordre du tableau, dans chaque grade du corps des tribunaux administratifs et des cours
 administratives d'appel, seule est prise en considération la date de nomination à ce grade ; en cas de nomination à la même
-date, la préséance revient au plus âgé. Dans les cours administratives d'appel, les présidents de chambre ont préséance sur
-les assesseurs. Au tribunal administratif de Paris, le vice-président et les présidents de section ont préséance sur les
-présidents de chambre.
+date, la préséance revient au plus âgé. Dans les cours administratives d'appel, le premier vice-président a préséance sur les
+présidents de chambre et les présidents de chambre ont préséance sur les assesseurs. Au tribunal administratif de Paris, le
+vice-président et les présidents de section ont préséance sur les présidents de chambre. Dans les tribunaux administratifs
+dotés d'un premier vice-président, celui-ci a préséance sur les présidents de chambre.
 
 Toutefois, les membres du corps des tribunaux administratifs et des cours administratives d'appel nommés dans leur grade à la
 suite du reclassement intervenu au 1er janvier 1998 prennent place au tableau en fonction du grade qu'ils détenaient
@@ -10008,19 +10006,11 @@ antérieurement et de la date à laquelle ils y avaient été nommés.
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 5 () JORF 21 décembre 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R12 (M)
+	  - Décret n°2013-730 du 13 août 2013 - art. 11
 
 
 ###### Article R222-8
@@ -10364,10 +10354,11 @@ la chambre ou de l'une des formations de jugement mentionnées à l'alinéa pré
 ###### Article R222-19-1
 
 Pour les tribunaux composés de plus de deux chambres, à l'exception du tribunal administratif de Paris, les jugements peuvent
-être rendus par une formation de chambres réunies présidée par le président du tribunal et comprenant, en outre, le président
-de la chambre à laquelle est affecté le rapporteur et, selon le cas, le président d'une autre chambre et un magistrat
-assesseur affecté dans cette chambre ou les présidents de deux autres chambres et deux magistrats assesseurs affectés dans
-ces chambres, ainsi que le rapporteur. Les magistrats assesseurs sont pris dans l'ordre du tableau.
+être rendus par une formation de chambres réunies présidée par le président du tribunal ou, dans les tribunaux administratifs
+dotés d'un premier vice-président et sur délégation du président du tribunal, par le premier vice-président et comprenant, en
+outre, le président de la chambre à laquelle est affecté le rapporteur et, selon le cas, le président d'une autre chambre et
+un magistrat assesseur affecté dans cette chambre ou les présidents de deux autres chambres et deux magistrats assesseurs
+affectés dans ces chambres, ainsi que le rapporteur. Les magistrats assesseurs sont pris dans l'ordre du tableau.
 
 Le groupement des chambres en formation de jugement est fixé chaque année par le président du tribunal.
 
@@ -10376,9 +10367,9 @@ complétée par un autre magistrat de l'une des chambres concernées, pris dans 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 14
+	  - Décret n°2013-730 du 13 août 2013 - art. 11
 
 	**Cité par**:
 
@@ -10451,29 +10442,28 @@ section ou la formation de sections réunies.
 ###### Article R222-21-1
 
 Le président du tribunal administratif de Paris peut déléguer au vice-président de ce tribunal les attributions qu'il tient
-des dispositions figurant aux titres IV et V du livre III, au titre II du livre VI, au titre VI du livre VII et au titre II
-du livre IX du présent code.
+des dispositions figurant aux titres IV et V du livre III, au titre II du livre VI, à la section 4 du titre IV et au titre VI
+du livre VII et au titre II du livre IX du présent code.
+
+Dans les tribunaux administratifs comportant au moins huit chambres, le président du tribunal peut déléguer ces attributions
+au premier vice-président.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-547 du 19 avril 2002 - art. 14 () JORF 21 avril 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-730 du 13 août 2013 - art. 11
 
 
 ###### Article R222-22
 
 En cas d'absence ou d'empêchement, les présidents des tribunaux administratifs autres que celui de Paris sont remplacés par
-le vice-président le plus ancien dans l'ordre du tableau ou, à défaut de vice-président, par le magistrat le plus ancien dans
-l'ordre du tableau.
+le premier vice-président ou par le vice-président le plus ancien dans l'ordre du tableau ou, à défaut de vice-président, par
+le magistrat le plus ancien dans l'ordre du tableau.
 
 En cas d'absence ou d'empêchement, le président du tribunal administratif de Paris est remplacé par le vice-président du
 tribunal ou, à défaut, par le président de section le plus ancien dans l'ordre du tableau et chaque président de section par
@@ -10483,19 +10473,15 @@ le vice-président de section ou, à défaut, par le magistrat de cette section 
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-730 du 13 août 2013 - art. 11
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R222-21 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R18 (M)
 
 
 ###### Article R222-23
@@ -10659,11 +10645,12 @@ soit au rôle d'une formation de chambres réunies, soit au rôle de la cour sta
 
 ###### Article R222-29-1
 
-La formation de chambres réunies est présidée par le président de la cour. Elle comprend, outre son président, le président
-et un président assesseur de la chambre à laquelle est affecté le rapporteur et, selon le cas, le président d'une autre
-chambre et un président assesseur affecté dans cette chambre ou les présidents de deux autres chambres et des présidents
-assesseurs de ces chambres ainsi qu'un magistrat désigné, selon l'ordre du tableau, parmi les magistrats affectés dans la
-deuxième et, le cas échéant, dans la troisième chambre, et le rapporteur.
+La formation de chambres réunies est présidée par le président de la cour ou, sur délégation de ce dernier, par le premier
+vice-président. Elle comprend, outre son président, le président et un président assesseur de la chambre à laquelle est
+affecté le rapporteur et, selon le cas, le président d'une autre chambre et un président assesseur affecté dans cette chambre
+ou les présidents de deux autres chambres et des présidents assesseurs de ces chambres ainsi qu'un magistrat désigné, selon
+l'ordre du tableau, parmi les magistrats affectés dans la deuxième et, le cas échéant, dans la troisième chambre, et le
+rapporteur.
 
 Le groupement des chambres en formation de jugement est fixé chaque année par le président de la cour.
 
@@ -10672,18 +10659,19 @@ complétée par un autre magistrat de l'une des chambres concernées, choisi dan
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 20
+	  - Décret n°2013-730 du 13 août 2013 - art. 11
 
 
 ###### Article R222-30
 
-La cour administrative d'appel en formation plénière est présidée par le président de la cour ou, à défaut, par le président
-de chambre le plus ancien dans ses fonctions. Elle comprend en outre :
+La cour administrative d'appel en formation plénière est présidée par le président de la cour.
 
-1° Les présidents de chambre de la cour, remplacés en cas d'absence ou d'empêchement par un magistrat de la même chambre,
-ayant au moins le grade de président, désigné en suivant l'ordre du tableau ;
+Elle comprend en outre : 
+
+1° Le premier vice-président, les présidents de chambre de la cour, remplacés en cas d'absence ou d'empêchement par un
+magistrat de la même chambre, ayant au moins le grade de président, désigné en suivant l'ordre du tableau ;
 
 2° Le magistrat rapporteur ;
 
@@ -10693,43 +10681,35 @@ ayant au moins le grade de président, désigné en suivant l'ordre du tableau ;
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2001-710 2001-08-03 art. 2 JORF 3 août 2001 en vigueur le 1er septembre 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-730 du 13 août 2013 - art. 11
 
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R222-31 (Ab)
 
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R29 (M)
-
 
 ###### Article R222-31
 
-En cas d'absence ou d'empêchement, les présidents des cours administratives d'appel sont remplacés par le président de
-chambre le plus ancien dans l'ordre du tableau.
+En cas d'absence ou d'empêchement, les présidents des cours administratives d'appel sont remplacés par le premier vice-
+président ou, à défaut, par le président de chambre le plus ancien dans l'ordre du tableau. 
+
+Ils peuvent déléguer au premier vice-président les attributions qu'ils tiennent des dispositions figurant au titre Ier du
+livre II, aux titres IV et V du livre III, au titre II du livre VI, à la section 4 du titre IV et au titre VI du livre VII et
+au titre II du livre IX du présent code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-543 du 24 juin 2003 - art. 5 () JORF 25 juin 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-730 du 13 août 2013 - art. 11
 
 
 ###### Article R222-32
@@ -20942,19 +20922,18 @@ suivants :
 5° Taxe d'habitation et taxe foncière sur les propriétés bâties afférentes aux locaux d'habitation et à usage professionnel
 au sens de l'article 1496 du code général des impôts ainsi que contribution à l'audiovisuel public ; 
 
-6° Aide personnalisée au logement ; 
-
-7° Carte de stationnement pour personne handicapée.
+6° Prestation, allocation ou droit attribués au titre de l'aide ou de l'action sociale, du logement ou en faveur des
+travailleurs privés d'emploi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1950 du 23 décembre 2011 - art. 8
+	  - Décret n°2013-730 du 13 août 2013 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1496 (VT)
+	  - Code général des impôts, CGI. - art. 1496
 
 	**Cité par**:
 
@@ -21685,26 +21664,22 @@ président de cette juridiction.
 
 ###### Article R751-7
 
-Des expéditions supplémentaires de la décision peuvent être délivrées aux parties à leur demande. Les tiers peuvent en
-recevoir copie à leurs frais.
+Des expéditions supplémentaires de la décision peuvent être délivrées aux parties à leur demande. Les tiers peuvent s'en
+faire délivrer une copie simple ayant fait l'objet, le cas échéant, d'une anonymisation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-730 du 13 août 2013 - art. 13
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R751-4-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R214 (Ab)
 
 
 ###### Article R751-8
@@ -23559,6 +23534,27 @@ présentes à l'audience, qui en accusent aussitôt réception.
 	**Nouveaux textes**:
 
 	  - Code de justice administrative - art. R777-2 (VD)
+
+
+###### Article R777-2
+
+Lorsque l'étranger qui a fait l'objet d'un refus d'entrée sur le territoire français au titre de l'asile est maintenu dans
+une zone d'attente située en dehors de la région d'Ile-de-France, le tribunal administratif territorialement compétent est,
+par dérogation au premier alinéa de l'article R. 312-1, celui dans le ressort duquel se trouve cette zone d'attente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 12
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R312-1 (V)
 
 
 #### Chapitre VIII : Le contentieux du droit au logement
