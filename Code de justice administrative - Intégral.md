@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-08-16
+Version Consolidée au 2013-08-19
 
 # Partie législative
 
@@ -5630,6 +5630,8 @@ fixées par l'article L. 213-9 du code de l'entrée et du séjour des étrangers
 
 #### Chapitre VIII : Le contentieux du droit au logement
 
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme
+
 ###### Article L778-1
 
 Le jugement des litiges relatifs à la garantie du droit au logement prévue par l'article L. 441-2-3 du code de la
@@ -5650,6 +5652,18 @@ construction et de l'habitation est régi par l'article L. 441-2-3-1 du même co
 
 	  - Code de la construction et de l'habitation. - art. L441-2-3 (V)
 	  - Code de la construction et de l'habitation. - art. L441-2-3-1 (V)
+
+
+###### Article L778-2
+
+Le jugement des litiges relatifs aux documents d'urbanisme et aux autorisations d'urbanisme est régi par les dispositions du
+livre VI du code de l'urbanisme et par celles du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-638 du 18 juillet 2013 - art. 4
 
 
 #### Chapitre IX : Le contentieux du stationnement des résidences mobiles des gens du voyage
