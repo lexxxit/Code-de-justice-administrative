@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-08-19
+Version Consolidée au 2013-09-01
 
 # Partie législative
 
@@ -5627,8 +5627,6 @@ fixées par l'article L. 213-9 du code de l'entrée et du séjour des étrangers
 
 	  - Code de justice administrative - art. R777-1 (VD)
 
-
-#### Chapitre VIII : Le contentieux du droit au logement
 
 #### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme
 
@@ -24329,15 +24327,17 @@ Devant la cour administrative d'appel, l'Etat est dispensé de ministère d'avoc
 intervention. Sauf dispositions contraires, les ministres intéressés présentent devant la cour administrative d'appel les
 mémoires et observations produits au nom de l'Etat.
 
+Les ministres peuvent déléguer leur signature dans les conditions prévues par la réglementation en vigueur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-575 du 2 juillet 2013 - art. 1
 
 	**Cité par**:
 
@@ -24410,40 +24410,6 @@ collectivités d'outre-mer.
 	**Cité par**:
 
 	  - Code de justice administrative - art. R751-8 (V)
-
-
-###### Article R811-10-2
-
-Par dérogation aux dispositions de l'article R. 811-10, le trésorier-payeur général présente les mémoires et observations
-devant la cour administrative d'appel en réponse aux requêtes relatives au recouvrement des impôts directs et taxes
-assimilées dont le recouvrement est assuré par les comptables du Trésor, des amendes et condamnations pécuniaires, et des
-créances de l'Etat étrangères à l'impôt et au domaine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-880 2004-08-23 art. 2 : Champs d'application
-
-	**Créé par**:
-
-	  - Décret n°2004-880 du 23 août 2004 - art. 1 () JORF 28 août 2004 en vigueur le 1er septembre 2004
-
-	**Cité par**:
-
-	  - Décret n°2013-575 du 2 juillet 2013 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2013-575 du 2 juillet 2013 - art. 1
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R811-10
 
 
 ###### Article R811-10-3
