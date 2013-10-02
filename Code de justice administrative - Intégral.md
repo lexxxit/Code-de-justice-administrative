@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-09-01
+Version Consolidée au 2013-10-03
 
 # Partie législative
 
@@ -15594,59 +15594,6 @@ accomplis à l'égard du mandataire ou du représentant unique mentionné à l'a
 	  - Code des tribunaux administratifs et des cours adm - art. R93 (Ab)
 
 
-###### Article R411-7
-
-La présentation des requêtes dirigées contre un document d'urbanisme ou une décision relative à l'occupation ou l'utilisation
-du sol est régie par les dispositions de l'article R. 600-1 du code de l'urbanisme ci-après reproduit : 
-
-" Art.R. 600-1.-En cas de déféré du préfet ou de recours contentieux à l'encontre d'un certificat d'urbanisme, d'une décision
-de non-opposition à une déclaration préalable ou d'un permis de construire, d'aménager ou de démolir, le préfet ou l'auteur
-du recours est tenu, à peine d'irrecevabilité, de notifier son recours à l'auteur de la décision et au titulaire de
-l'autorisation. Cette notification doit également être effectuée dans les mêmes conditions en cas de demande tendant à
-l'annulation ou à la réformation d'une décision juridictionnelle concernant un certificat d'urbanisme, une décision de non-
-opposition à une déclaration préalable ou un permis de construire, d'aménager ou de démolir. L'auteur d'un recours
-administratif est également tenu de le notifier à peine d'irrecevabilité du recours contentieux qu'il pourrait intenter
-ultérieurement en cas de rejet du recours administratif. 
-
-La notification prévue au précédent alinéa doit intervenir par lettre recommandée avec accusé de réception, dans un délai de
-quinze jours francs à compter du dépôt du déféré ou du recours. 
-
-La notification du recours à l'auteur de la décision et, s'il y a lieu, au titulaire de l'autorisation est réputée accomplie
-à la date d'envoi de la lettre recommandée avec accusé de réception. Cette date est établie par le certificat de dépôt de la
-lettre recommandée auprès des services postaux.
-
-**Nota:**
-
-L'article 4 du décret n° 2007-817 du 11 mai 2007 a fixé au 1er octobre 2007 la date d'entrée en vigueur du décret n° 2007-18
-du 5 janvier 2007.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 12 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2013-879 du 1er octobre 2013 - art. 2
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. R*600-1
-
-	**Cite**:
-
-	  - Code de l'urbanisme R600-1
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme R600-3
-
-
 #### Chapitre II : Pièces jointes ou productions
 
 ###### Article R412-1
@@ -23571,6 +23518,8 @@ par dérogation au premier alinéa de l'article R. 312-1, celui dans le ressort 
 
 #### Chapitre VIII : Le contentieux du droit au logement
 
+#### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme
+
 ###### Article R778-1
 
 Sont présentées, instruites et jugées selon les dispositions du présent code, sous réserve des dispositions particulières du
@@ -23772,6 +23721,18 @@ l'astreinte.
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L300-2
+
+
+###### Article R778-9
+
+Le jugement des litiges relatifs aux documents d'urbanisme et aux autorisations d'urbanisme est régi par les dispositions du
+livre sixième du code de l'urbanisme et par celles du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-879 du 1er octobre 2013 - art. 2
 
 
 #### Chapitre IX : Autres dispositions
@@ -24076,6 +24037,22 @@ Le tribunal administratif statue en premier et dernier ressort sur les requêtes
 	  - Code de justice administrative - art. R533-1
 	  - Code de justice administrative - art. R541-3
 	  - Code de justice administrative - art. R778-1
+
+
+###### Article R811-1-1
+
+Les tribunaux administratifs statuent en premier et dernier ressort sur les recours contre les permis de construire ou de
+démolir un bâtiment à usage principal d'habitation ou contre les permis d'aménager un lotissement lorsque le bâtiment ou le
+lotissement est implanté en tout ou partie sur le territoire d'une des communes mentionnées à l'article 232 du code général
+des impôts et son décret d'application. 
+
+Les dispositions du présent article s'appliquent aux recours introduits entre le 1er décembre 2013 et le 1er décembre 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-879 du 1er octobre 2013 - art. 2
 
 
 ###### Article R811-2
