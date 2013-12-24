@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-10-03
+Version Consolidée au 2013-12-25
 
 # Partie législative
 
@@ -13927,7 +13927,7 @@ contrôle ou de régulation :
 
 - l'Agence française de lutte contre le dopage ;
 
-- L'Autorité de contrôle prudentiel et de résolution ;
+- l'Autorité de contrôle prudentiel et de résolution ;
 
 - l'Autorité de la concurrence ;
 
@@ -13948,6 +13948,8 @@ contrôle ou de régulation :
 - la Commission nationale de l'informatique et des libertés ;
 
 - la Commission nationale de contrôle des interceptions de sécurité ;
+
+- la Haute Autorité pour la transparence de la vie publique ; 
 
 - la commission nationale d'aménagement commercial ; 
 
@@ -13976,7 +13978,7 @@ et dernier ressort du Conseil d'Etat ;
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2013-1204 du 23 décembre 2013 - art. 17
 
 
 ###### Article R311-2
@@ -23515,8 +23517,6 @@ par dérogation au premier alinéa de l'article R. 312-1, celui dans le ressort 
 
 	  - Code de justice administrative - art. R312-1 (V)
 
-
-#### Chapitre VIII : Le contentieux du droit au logement
 
 #### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme
 
