@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-12-25
+Version Consolidée au 2013-12-31
 
 # Partie législative
 
@@ -15846,6 +15846,220 @@ l'arrivée de la requête au greffe. Sur leur demande, il certifie le dépôt de
 	  - Code des tribunaux administratifs et des cours adm - art. R101 (Ab)
 
 
+#### Chapitre IV : Transmission de la requête par voie électronique
+
+###### Article R414-1
+
+Lorsqu'elle est présentée par un avocat, un avocat au Conseil d'Etat et à la Cour de cassation, une personne morale de droit
+public ou un organisme de droit privé chargé de la gestion d'un service public, la requête peut être adressée à la
+juridiction par voie électronique au moyen d'une application informatique dédiée accessible par le réseau internet.
+
+Les caractéristiques techniques de cette application garantissent la fiabilité de l'identification des parties ou de leur
+mandataire, l'intégrité des documents adressés ainsi que la sécurité et la confidentialité des échanges entre les parties et
+la juridiction. Elles permettent également d'établir de manière certaine la date et l'heure de la mise à disposition d'un
+document ainsi que celles de sa première consultation par son destinataire. Un arrêté du garde des sceaux, ministre de la
+justice, définit ces caractéristiques et les exigences techniques qui doivent être respectées par les utilisateurs de
+l'application.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour les tribunaux administratifs de la Martinique, de la
+Guadeloupe et de la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 12 mars 2013 - art. 1 (Ab)
+	  - Décret n°2016-1876 du 27 décembre 2016 - art. 48
+	  - Arrêté du 20 janvier 2017 - art. 1 (V)
+	  - Code de justice administrative - art. R414-2 (V)
+	  - Code de justice administrative - art. R522-10-1 (VD)
+	  - Code de justice administrative - art. R522-3 (VD)
+	  - Code de justice administrative - art. R611-8-2 (VD)
+	  - Code de justice administrative - art. R611-8-3 (VD)
+	  - Code de justice administrative - art. R611-8-4 (VD)
+	  - Code de justice administrative - art. R611-8-6 (VD)
+	  - Code de justice administrative - art. R632-1 (VD)
+	  - Code de justice administrative - art. R711-2-1 (V)
+	  - Code de justice administrative - art. R712-2 (V)
+	  - Code de justice administrative - art. R751-4-1 (VD)
+	  - Code de justice administrative - art. R776-18 (VD)
+	  - Code de justice administrative - art. R777-1 (VD)
+	  - Code de justice administrative - art. R779-2 (VD)
+	  - Code de justice administrative - art. R911-5 (V)
+
+
+###### Article R414-2
+
+L'identification de l'auteur de la requête, selon les modalités prévues par l'arrêté mentionné à l'article R. 414-1, vaut
+signature pour l'application des dispositions du présent code. 
+
+Toutefois, lorsque la requête n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1316-4
+du code civil, le requérant ou son mandataire peut, en cas de nécessité, être tenu de produire un exemplaire de sa requête
+revêtu de sa signature manuscrite.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 1316-4 (V)
+	  - Code de justice administrative - art. R414-1 (VD)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R611-8-2 (VD)
+
+
+###### Article R414-3
+
+Par dérogation aux dispositions des articles R. 411-3, R. 411-4, R. 412-1 et R. 412-2, les parties sont dispensées de
+produire des copies de leur requête et des pièces qui sont jointes à celle-ci et à leurs mémoires. 
+
+Les pièces jointes sont présentées conformément à l'inventaire qui en est dressé. 
+
+Si les caractéristiques de certaines pièces font obstacle à leur communication par voie électronique, ces pièces sont
+transmises sur support papier, dans les conditions prévues par l'article R. 412-2. L'inventaire des pièces transmis par voie
+électronique en fait mention.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R411-3 (V)
+	  - Code de justice administrative - art. R411-4 (V)
+	  - Code de justice administrative - art. R412-1 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R632-1 (VD)
+
+
+###### Article R414-4
+
+Si la requête relève d'une procédure qui impose au juge de statuer dans un délai inférieur ou égal à un mois, son auteur
+signale son urgence en sélectionnant le type de procédure dans la rubrique correspondante.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 1
+
+
+###### Article R414-5
+
+Les formalités prévues par les articles R. 413-5 et R. 413-6 sont réalisées par voie électronique. L'arrivée de la requête et
+des différents mémoires est certifiée par l'accusé de réception délivré par l'application informatique.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R413-5 (V)
+
+
 ### Titre II : Les délais
 
 ###### Article R421-1
@@ -16693,22 +16907,43 @@ Les dispositions de l'article R. 612-1 ne sont pas applicables.
 
 ###### Article R522-3
 
-La requête ainsi que, le cas échéant, l'enveloppe qui la contient porte la mention "référé". Lorsqu'elle est adressée par
-voie postale, elle l'est par lettre recommandée.
+La requête ainsi que, le cas échéant, l'enveloppe qui la contient porte la mention " référé ". Lorsqu'elle est adressée par
+voie postale, elle l'est par lettre recommandée. 
+
+Lorsqu'elle est adressée par le moyen de l'application informatique mentionnée à l'article R. 414-1, son auteur signale son
+urgence en sélectionnant la mention " référé " dans la rubrique correspondante.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 1 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Code de justice administrative - art. R414-1 (VD)
 
 
 ###### Article R522-4
@@ -16930,6 +17165,41 @@ pas applicables.
 	  - Code de justice administrative - art. R522-4 (V)
 	  - Code de justice administrative - art. R522-6 (V)
 	  - Code de justice administrative - art. R611-7 (V)
+
+
+###### Article R522-10-1
+
+Lorsqu'elles sont faites par le moyen de l'application informatique mentionnée à l'article R. 414-1, les notifications et
+communications des mémoires, des mesures d'instruction, des convocations et des avis sont réputées reçues dès leur mise à
+disposition dans l'application.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1 (VD)
 
 
 ###### Article R522-11
@@ -18227,6 +18497,194 @@ conclusions et moyens présentés en première instance qu'elle entend maintenir
 	  - Code de justice administrative - art. R612-3 (VD)
 
 
+##### Section 1 bis : Dispositions propres à la communication électronique 
+
+
+###### Article R611-8-2
+
+Les avocats, les avocats au Conseil d'Etat et à la Cour de cassation, les administrations de l'Etat, les personnes morales de
+droit public et les organismes de droit privé chargés de la gestion d'un service public peuvent s'inscrire dans l'application
+informatique mentionnée à l'article R. 414-1, dans les conditions fixées par l'arrêté prévu à cet article. 
+
+Toute juridiction peut adresser par le moyen de cette application, à une partie ou à un mandataire ainsi inscrit, toutes les
+communications et notifications prévues par le présent livre pour tout dossier et l'inviter à produire ses mémoires et ses
+pièces par le même moyen. 
+
+Les parties ou leur mandataire sont réputés avoir reçu la communication ou la notification à la date de première consultation
+du document qui leur a été ainsi adressé, certifiée par l'accusé de réception délivré par l'application informatique, ou, à
+défaut de consultation dans un délai de huit jours à compter de la date de mise à disposition du document dans l'application,
+à l'issue de ce délai. Sauf demande contraire de leur part, les parties ou leur mandataire sont alertés de toute nouvelle
+communication ou notification par un message électronique envoyé à l'adresse choisie par eux. 
+
+Lorsque le juge est tenu, en application d'une disposition législative ou réglementaire, de statuer dans un délai inférieur
+ou égal à un mois, la communication ou la notification est réputée reçue dès sa mise à disposition dans l'application.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1 (VD)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R626-4 (VD)
+	  - Code de justice administrative - art. R711-2-1 (V)
+	  - Code de justice administrative - art. R776-20-1 (VD)
+	  - Code de justice administrative - art. R777-1 (VD)
+	  - Code de justice administrative - art. R779-3 (VD)
+
+
+###### Article R611-8-3
+
+Le greffe peut adresser par le moyen de l'application informatique mentionnée à l'article R. 414-1, à une administration de
+l'Etat, à une personne morale de droit public ou à un organisme de droit privé chargé de la gestion d'un service public non
+inscrits dans cette application, toutes les communications et notifications prévues par le présent livre, sous réserve de
+l'en avertir à chaque fois par un courrier lui indiquant les modalités de connexion à l'application. Ce courrier est adressé
+par lettre remise contre signature ou par tout autre dispositif permettant d'attester la date de sa réception lorsqu'il
+avertit son destinataire d'une communication ou d'une notification mentionnée au deuxième alinéa de l'article R. 611-3. 
+
+La partie est réputée avoir reçu la communication ou la notification à la date de première consultation du document,
+certifiée par l'accusé de réception délivré par l'application informatique, ou, à défaut de consultation dans un délai de
+quinze jours à compter de la date de réception du courrier, à l'issue de ce délai. Toutefois, les collectivités territoriales
+peuvent demander, dans ce même délai, à recevoir communication ou notification du document par voie postale. 
+
+Les administrations de l'Etat, les personnes morales de droit public et les organismes de droit privé chargés de la gestion
+d'un service public peuvent être invités par le greffe à s'inscrire dans l'application et à produire leurs mémoires et leurs
+pièces par ce moyen. Ils peuvent également être invités à transmettre leurs mémoires et pièces par voie de télécopie.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1 (VD)
+	  - Code de justice administrative - art. R611-3 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R611-8-4 (VD)
+
+
+###### Article R611-8-4
+
+Lorsqu'une partie ou son mandataire adresse un mémoire ou des pièces par voie électronique, son identification selon les
+modalités prévues par l'arrêté mentionné à l'article R. 414-1 vaut signature pour l'application des dispositions du présent
+code. 
+
+Toutefois, lorsque le mémoire n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1316-4
+du code civil, la partie ou son mandataire peut, en cas de nécessité, être tenu de produire un exemplaire du mémoire revêtu
+de sa signature manuscrite. Il en va de même pour les mémoires produits par voie de télécopie, dans les conditions prévues
+par le dernier alinéa de l'article R. 611-8-3.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1 (VD)
+	  - Code de justice administrative - art. R611-8-3 (VD)
+
+
+###### Article R611-8-5
+
+Lorsque l'original d'une pièce communiquée par voie électronique a été établi sur support papier, le président de la
+formation de jugement ou, au Conseil d'Etat, le président de la section du contentieux ou le président de la sous-section
+chargée de l'instruction peut en ordonner la production à tout moment et, au plus tard, à l'audience. Si la production est
+demandée à l'audience, la partie intéressée en est préalablement avisée.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R611-10 (VD)
+
+
 ##### Section 2 : Dispositions applicables devant les tribunaux administratifs
 
 ###### Article R611-9
@@ -18265,19 +18723,35 @@ l'affaire, le délai accordé aux parties pour produire leurs mémoires. Il peut
 procédure contradictoire, toutes pièces ou tous documents utiles à la solution du litige. 
 
 Le président de la formation de jugement peut déléguer au rapporteur les pouvoirs qui lui sont conférés par les articles R.
-611-7, R. 611-8-1, R. 611-11, R. 612-3, R. 612-5, R. 613-1 et R. 613-4.
+611-7, R. 611-8-1, R. 611-8-5, R. 611-11, R. 612-3, R. 612-5, R. 613-1 et R. 613-4.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1950 du 23 décembre 2011 - art. 14
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
 
 	**Cite**:
 
 	  - Code de justice administrative - art. R611-11
 	  - Code de justice administrative - art. R611-7
 	  - Code de justice administrative - art. R611-8-1
+	  - Code de justice administrative - art. R611-8-5 (VD)
 	  - Code de justice administrative - art. R612-5
 	  - Code de justice administrative - art. R613-1
 	  - Code de justice administrative - art. R613-4
@@ -19452,14 +19926,35 @@ La décision d'organiser une telle séance, ou de refus de l'organiser, n'est pa
 Le rapport est déposé au greffe en deux exemplaires. Des copies sont notifiées par l'expert aux parties intéressées. Avec
 leur accord, cette notification peut s'opérer sous forme électronique.
 
+Le greffe peut demander à l'expert de déposer son rapport sous forme numérique. La notification du rapport aux parties est
+alors assurée par le greffe.
+
 Les parties sont invitées par le greffe de la juridiction à fournir leurs observations dans le délai d'un mois ; une
 prorogation de délai peut être accordée.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 42
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
 
 	**Cité par**:
 
@@ -20079,32 +20574,47 @@ applicables.
 ###### Article R626-4
 
 Les notifications auxquelles donnent lieu les mesures d'instruction ordonnées par la juridiction ou l'un de ses membres, par
-application des articles R. 621-1 à R. 626-3, sont faites conformément aux dispositions des articles R. 611-3 et R. 611-4.
+application des articles R. 621-1 à R. 626-3, sont faites conformément aux dispositions des articles R. 611-3, R. 611-4, R.
+611-8-2 et R. 611-8-4.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 3
 
 	**Cite**:
 
-	  - Code de justice administrative R621-1 à R626-3, R611-3, R611-4
-	  - Code de justice administrative. - art. R611-3 (M)
-	  - Code de justice administrative. - art. R611-4 (V)
+	  - Code de justice administrative - art. R611-3 (V)
+	  - Code de justice administrative - art. R611-8-2 (VD)
+	  - Code de justice administrative - art. R621-1 (V)
 
 	**Cité par**:
 
 	  - Code de la santé publique - art. R4126-22 (V)
 	  - Code de la sécurité sociale. - art. R145-34 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R185 (Ab)
 
 
 ### Titre III : Les incidents de l'instruction
@@ -20387,6 +20897,46 @@ sept jours est porté à dix jours.
 	  - Code de justice administrative - art. R711-3 (V)
 	  - Code de justice administrative - art. R731-3 (V)
 	  - Code de justice administrative - art. R732-1-1 (V)
+
+
+###### Article R711-2-1
+
+Les parties ou leur mandataire inscrits dans l'application informatique mentionnée à l'article R. 414-1 peuvent être
+convoqués à l'audience par le moyen de cette application. 
+
+Les dispositions des troisième et quatrième alinéas de l'article R. 611-8-2 sont applicables.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1 (VD)
+	  - Code de justice administrative - art. R611-8-2 (VD)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R776-20-1 (VD)
+	  - Code de justice administrative - art. R777-1 (VD)
+	  - Code de justice administrative - art. R779-3 (VD)
 
 
 ###### Article R711-3
@@ -21557,6 +22107,51 @@ La notification de la décision peut, le cas échéant, être faite par la voie 
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R212 (Ab)
+
+
+###### Article R751-4-1
+
+Par dérogation aux articles R. 751-2, R. 751-3 et R. 751-4, la décision peut être notifiée par le moyen de l'application
+informatique mentionnée à l'article R. 414-1 aux administrations de l'Etat, aux personnes morales de droit public et aux
+organismes de droit privé chargés de la gestion d'un service public qui sont inscrits dans cette application. 
+
+Ces parties sont réputées avoir reçu la notification à la date de première consultation de la décision, certifiée par
+l'accusé de réception délivré par l'application informatique, ou, à défaut de consultation dans un délai de huit jours à
+compter de la date de mise à disposition de la décision dans l'application, à l'issue de ce délai. Sauf demande contraire de
+leur part, les parties sont alertées de la notification par un message électronique envoyé à l'adresse choisie par elles. 
+
+Cette notification ne fait pas obstacle au droit de la partie intéressée de demander ultérieurement la délivrance d'une
+expédition de la décision, en application de l'article R. 751-7.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat. 
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1 (VD)
+	  - Code de justice administrative - art. R751-2 (V)
+	  - Code de justice administrative - art. R751-7 (V)
 
 
 ###### Article R751-5
@@ -23210,7 +23805,25 @@ compétent pour connaître des conclusions dirigées contre la décision relativ
 
 La requête est présentée en un seul exemplaire. 
 
+Lorsqu'elle est adressée par le moyen de l'application informatique mentionnée à l'article R. 414-1, son auteur signale son
+urgence en sélectionnant le type de procédure dans la rubrique correspondante. 
+
 Les décisions attaquées sont produites par l'administration.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -23220,7 +23833,11 @@ Les décisions attaquées sont produites par l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1 (VD)
 
 	**Cité par**:
 
@@ -23232,10 +23849,6 @@ Les décisions attaquées sont produites par l'administration.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. R122
 
 
 ###### Article R776-19
@@ -23303,6 +23916,44 @@ Paris, par le préfet de police.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-20-1
+
+Lorsqu'elles sont faites par voie électronique conformément aux articles R. 611-8-2 et R. 711-2-1, les communications et
+convocations sont réputées reçues dès leur mise à disposition dans l'application.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R611-8-2 (VD)
+	  - Code de justice administrative - art. R711-2-1 (VD)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R776-13-2 (V)
+	  - Code de justice administrative - art. R777-1-4 (VD)
+	  - Code de justice administrative - art. R777-3-6 (VD)
 
 
 ###### Article R776-21
@@ -23468,11 +24119,27 @@ proposition, de prononcer des conclusions à l'audience.
 
 ###### Article R777-1
 
-Dans le cadre des recours en annulation formés contre les décisions de refus d'entrée sur le territoire français au titre de
-l'asile mentionnés à l'article L. 777-1, le jugement est prononcé à l'audience. 
+Lorsqu'un recours en annulation formé contre une décision de refus d'entrée sur le territoire français au titre de l'asile
+mentionné à l'article L. 777-1 est adressé par le moyen de l'application informatique mentionnée à l'article R. 414-1, son
+auteur signale son urgence en sélectionnant le type de procédure dans la rubrique correspondante. 
 
-Le dispositif du jugement assorti de la formule exécutoire prévue à l'article R. 751-1 est communiqué sur place aux parties
-présentes à l'audience, qui en accusent aussitôt réception.
+Lorsqu'elles sont faites par voie électronique conformément aux articles R. 611-8-2 et R. 711-2-1, les communications et
+convocations sont réputées reçues dès leur mise à disposition dans l'application.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -23482,19 +24149,15 @@ présentes à l'audience, qui en accusent aussitôt réception.
 
 	**Modifié par**:
 
-	  - Décret n°2012-89 du 25 janvier 2012 - art. 3 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-1437 du 21 décembre 2012 - art. 4
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. R1112-3
 	  - Code de justice administrative - art. L777-1
-
-	**Nouveaux textes**:
-
-	  - Code de justice administrative - art. R777-2 (VD)
+	  - Code de justice administrative - art. R414-1 (VD)
+	  - Code de justice administrative - art. R611-8-2 (VD)
+	  - Code de justice administrative - art. R711-2-1 (VD)
 
 
 ###### Article R777-2
@@ -23516,6 +24179,39 @@ par dérogation au premier alinéa de l'article R. 312-1, celui dans le ressort 
 	**Cite**:
 
 	  - Code de justice administrative - art. R312-1 (V)
+
+
+###### Article R777-2
+
+Dans le cadre des recours en annulation formés contre les décisions de refus d'entrée sur le territoire français au titre de
+l'asile mentionnés à l'article L. 777-1, le jugement est prononcé à l'audience. 
+
+Le dispositif du jugement assorti de la formule exécutoire prévue à l'article R. 751-1 est communiqué sur place aux parties
+présentes à l'audience, qui en accusent aussitôt réception.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour les tribunaux administratifs de la Martinique, de la
+Guadeloupe et de la Guyane la date prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+	**Anciens textes**:
+
+	  - Code de justice administrative - art. R777-1 (VT)
 
 
 #### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme
@@ -23764,33 +24460,78 @@ présent chapitre.
 ###### Article R779-2
 
 Les requêtes sont présentées dans le délai d'exécution fixé par la décision de mise en demeure. Le délai de recours n'est pas
-prorogé par l'exercice d'un recours administratif préalable.
+prorogé par l'exercice d'un recours administratif préalable. 
+
+Lorsqu'elle est adressée par le moyen de l'application informatique mentionnée à l'article R. 414-1, son auteur signale son
+urgence en sélectionnant le type de procédure dans la rubrique correspondante.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1 (VD)
 
 
 ###### Article R779-3
 
 Le délai de soixante-douze heures imparti au président du tribunal administratif ou à son délégué pour statuer court à partir
-de l'heure d'enregistrement de la requête au greffe du tribunal.
+de l'heure d'enregistrement de la requête au greffe du tribunal. 
+
+Lorsqu'elles sont faites par voie électronique conformément aux articles R. 611-8-2 et R. 711-2-1, les communications et
+convocations sont réputées reçues dès leur mise à disposition dans l'application.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1018 du 14 juin 2007 - art. 2 () JORF 16 juin 2007
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R611-8-2 (VD)
+	  - Code de justice administrative - art. R711-2-1 (VD)
 
 
 ###### Article R779-4
@@ -24058,10 +24799,28 @@ Les dispositions du présent article s'appliquent aux recours introduits entre l
 ###### Article R811-2
 
 Sauf disposition contraire, le délai d'appel est de deux mois. Il court contre toute partie à l'instance à compter du jour où
-la notification a été faite à cette partie dans les conditions prévues aux articles R. 751-3 et R. 751-4.
+la notification a été faite à cette partie dans les conditions prévues aux articles R. 751-3 à R. 751-4-1. 
 
 Si le jugement a été signifié par huissier de justice, le délai court à dater de cette signification à la fois contre la
 partie qui l'a faite et contre celle qui l'a reçue.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -24072,20 +24831,15 @@ partie qui l'a faite et contre celle qui l'a reçue.
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 5
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R751-3 (V)
-	  - Code de justice administrative. - art. R751-4 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R229 (M)
+	  - Code de justice administrative - art. R751-3
 
 
 ###### Article R811-3
@@ -25128,18 +25882,36 @@ elle ni ceux qu'elle représente n'ont été présents ou régulièrement appel�
 
 ###### Article R832-2
 
-Celui à qui la décision a été notifiée ou signifiée dans les conditions prévues à l'article R. 751-3 ne peut former tierce
-opposition que dans le délai de deux mois à compter de cette notification ou signification.
+Celui à qui la décision a été notifiée ou signifiée dans les conditions prévues aux articles R. 751-3 à R. 751-4-1 ne peut
+former tierce opposition que dans le délai de deux mois à compter de cette notification ou signification.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
+2012-1437 pour le Conseil d'Etat.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
+la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2012-1437 du 21 décembre 2012 - art. 5
 
 	**Cité par**:
 
@@ -25148,11 +25920,7 @@ opposition que dans le délai de deux mois à compter de cette notification ou s
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R751-3 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R226 (M)
+	  - Code de justice administrative - art. R751-3 (V)
 
 
 ###### Article R832-3
