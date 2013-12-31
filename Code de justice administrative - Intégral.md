@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2013-12-31
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -6795,19 +6795,18 @@ En cas d'absence ou d'empêchement d'un assesseur, le vice-président du Conseil
 président de la section du contentieux et des présidents adjoints, un conseiller d'Etat chargé des fonctions d'assesseur pour
 la durée de l'absence ou de l'empêchement.
 
+Au vu de la proposition du président de la sous-section d'affectation, le président de la section du contentieux peut
+désigner des assesseurs à l'effet de leur permettre de présider cette sous-section siégeant en formation de jugement.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 32 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-1213 du 23 décembre 2013 - art. 5
 
 	**Cité par**:
 
@@ -6961,30 +6960,28 @@ Ces dispositions sont applicables aux appels enregistrés avant le 1er janvier 2
 ###### Article R122-14
 
 La sous-section siégeant en formation de jugement ne peut délibérer que si trois membres au moins ayant voix délibérative
-sont présents.
+sont présents. 
 
-Les deuxième et troisième alinéas de l'article R. 122-16 sont applicables à la sous-section en formation de jugement.
+Les deuxième et troisième alinéas de l'article R. 122-16 sont applicables à la sous-section en formation de jugement. 
 
-Le vice-président du Conseil d'Etat, le président et les présidents adjoints de la section du contentieux peuvent présider
-chacune des sous-sections.
+La sous-section siégeant en formation de jugement est présidée par son président ou par un conseiller d'Etat mentionné au
+troisième alinéa de l'article R. 122-7. Le vice-président du Conseil d'Etat, le président et les présidents adjoints de la
+section du contentieux peuvent présider chacune des sous-sections.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 35 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-1213 du 23 décembre 2013 - art. 6
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R122-16 (V)
+	  - Code de justice administrative - art. R122-16
+	  - Code de justice administrative - art. R122-7
 
 
 ###### Article R122-15
@@ -9804,6 +9801,349 @@ Le nombre de chambres de chaque cour administrative d'appel est fixé par arrêt
 	  - Décret n°2010-164 du 22 février 2010 - art. 11
 
 
+##### Section 4 : Tableau des experts auprès des cours administratives d'appel et des tribunaux administratifs de leur ressort
+
+##### Sous-section 1 : Dispositions générales
+
+###### Article R221-9
+
+Il est établi, chaque année, par le président de la cour administrative d'appel, un tableau des experts auprès de la cour et
+des tribunaux administratifs du ressort, selon une nomenclature arrêtée par le vice-président du Conseil d'Etat correspondant
+aux domaines d'activité dans lesquels les juridictions administratives sont susceptibles de recourir à une expertise. 
+
+Le président de la cour administrative d'appel arrête les inscriptions en fonction des besoins des juridictions statuant dans
+chacun de ces domaines, après avis de la commission prévue à l'article R. 221-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cité par**:
+
+	  - Arrêté du 19 novembre 2013 - art. 1 (VD)
+	  - Code de justice administrative - art. R221-10 (V)
+	  - Code de justice administrative - art. R531-1 (V)
+
+
+###### Article R221-10
+
+La commission mentionnée au second alinéa de l'article R. 221-9 est présidée par le président de la cour administrative
+d'appel. 
+
+Elle est composée des présidents des tribunaux administratifs ayant leur siège dans le ressort de la cour ou de magistrats
+les représentant ainsi que d'experts inscrits au tableau de la cour. Chaque commission comporte au moins deux experts sans
+que leur nombre puisse excéder le tiers de ses membres. Les experts sont désignés par le président de la cour administrative
+d'appel pour une durée de trois ans renouvelable, après avis de la compagnie d'experts auprès de la cour ou, le cas échéant,
+de tout autre organisme représentatif. 
+
+En cas de nécessité, notamment lorsque la commission comporte des membres résidant outre-mer ou se prononce sur le dossier
+d'un candidat résidant outre-mer, tout ou partie de ses travaux peut se tenir à distance par un moyen de communication
+audiovisuelle. En cas d'impossibilité avérée de recourir à un tel procédé, les membres de la commission peuvent être
+individuellement consultés par écrit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R221-14 (V)
+	  - Code de justice administrative - art. R221-17 (V)
+	  - Code de justice administrative - art. R221-18 (V)
+	  - Code de justice administrative - art. R221-21 (V)
+	  - Code de justice administrative - art. R221-9 (V)
+
+
+###### Article R221-11
+
+Peuvent être inscrites sur le tableau des experts les personnes physiques qui remplissent les conditions suivantes : 
+
+1° Justifier d'une qualification et avoir exercé une activité professionnelle, pendant une durée de dix années consécutives
+au moins, dans le ou les domaines de compétence au titre desquels l'inscription est demandée, y compris les qualifications
+acquises ou les activités exercées dans un Etat membre de l'Union européenne autre que la France ; 
+
+2° Ne pas avoir cessé d'exercer cette activité depuis plus de deux ans avant la date de la demande d'inscription ou de
+réinscription ; 
+
+3° Ne pas avoir fait l'objet d'une condamnation pénale ou d'une sanction disciplinaire pour des faits incompatibles avec
+l'exercice d'une mission d'expertise ; 
+
+4° Justifier du suivi d'une formation à l'expertise ; 
+
+5° Avoir un établissement professionnel ou sa résidence dans le ressort de la cour administrative d'appel. 
+
+Les demandes de réinscription obéissent aux mêmes conditions. Toutefois, la condition prévue au 2° n'est pas opposable à
+l'expert lors de sa première réinscription à l'issue de la période probatoire. 
+
+Les experts inscrits, à l'issue de la période probatoire, sur l'une des listes prévues par la loi n° 71-498 du 29 juin 1971
+relative aux experts judiciaires sont réputés remplir les conditions énoncées au 1° et au 4° du présent article. Il en va de
+même des experts inscrits sur la liste nationale prévue par l'article L. 1142-10 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-498 du 29 juin 1971 (V)
+	  - Code de la santé publique - art. L1142-10 (M)
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R221-13 (V)
+	  - Code de justice administrative - art. R221-14 (V)
+	  - Code de justice administrative - art. R221-16 (V)
+	  - Code de justice administrative - art. R221-21 (V)
+
+
+###### Article R221-12
+
+L'inscription est effectuée pour une durée probatoire de trois ans. Elle peut être assortie de l'obligation de suivre une
+formation complémentaire pendant cette période, relative notamment à la procédure contentieuse administrative et aux
+spécificités de l'expertise devant les juridictions administratives. 
+
+Les réinscriptions sont effectuées pour une durée de cinq ans renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R221-21 (M)
+
+
+###### Article R221-13
+
+La demande d'inscription au tableau est adressée au président de la cour administrative d'appel territorialement compétente,
+au plus tard le 15 septembre de chaque année. Elle précise le ou les domaines d'activité au titre desquels le candidat
+sollicite son inscription. Elle est accompagnée des pièces propres à justifier que celui-ci satisfait aux conditions prévues
+par l'article R. 221-11 et à permettre à la commission de donner son avis sur les éléments d'appréciation définis par
+l'article R. 221-14. 
+
+La demande d'inscription est accompagnée d'une déclaration sur l'honneur aux termes de laquelle le candidat mentionne ses
+liens directs ou indirects avec tout organisme de droit public ou privé intervenant dans son domaine d'activité et s'engage à
+ne pas effectuer, pendant la durée de son inscription au tableau, d'activité incompatible avec l'indépendance et
+l'impartialité nécessaires à l'exercice des missions qui lui seront confiées en application du présent code. 
+
+Le formulaire de présentation de la demande et la composition du dossier d'inscription et de réinscription sont fixés par
+arrêté du vice-président du Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cité par**:
+
+	  - Arrêté du 19 novembre 2013 - art. 1 (V)
+	  - Arrêté du 19 novembre 2013 - art. 2 (V)
+	  - Arrêté du 19 novembre 2013 - art. Annexe I (V)
+	  - Arrêté du 19 novembre 2013 - art. Annexe III (V)
+	  - Code de justice administrative - art. R221-16 (V)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R221-11 (V)
+	  - Code de justice administrative - art. R221-14 (V)
+
+
+###### Article R221-14
+
+Pour instruire le dossier de candidature, le président de la cour administrative d'appel désigne un ou plusieurs rapporteurs
+choisis au sein de la commission prévue à l'article R. 221-10 ou, le cas échéant, à l'extérieur de celle-ci, en fonction de
+leurs compétences dans le domaine d'activité au titre duquel la demande est présentée. 
+
+La commission entend le ou les rapporteurs désignés pour instruire la demande. Elle peut se faire communiquer tout
+renseignement ou document utiles et procéder à l'audition du candidat. 
+
+La commission vérifie que le candidat remplit les conditions énoncées à l'article R. 221-11 et apprécie la qualification de
+celui-ci, l'étendue de sa pratique professionnelle, sa connaissance des techniques de l'expertise et sa capacité à exercer sa
+mission avec conscience, objectivité, impartialité et diligence. Elle tient compte des besoins des juridictions du ressort. 
+
+Lorsque la commission est saisie d'une demande de réinscription, elle apprécie, en outre, les conditions dans lesquelles
+l'expert s'est acquitté des missions qui ont pu lui être confiées et s'assure qu'il a actualisé ses connaissances tant dans
+sa spécialité que dans la pratique de l'expertise devant les juridictions administratives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R221-10 (V)
+	  - Code de justice administrative - art. R221-11 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R221-13 (V)
+
+
+###### Article R221-15
+
+La décision par laquelle le président de la cour administrative d'appel refuse l'inscription ou la réinscription d'un
+candidat est motivée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R221-19 (V)
+
+
+###### Article R221-16
+
+Les experts inscrits au tableau informent, sans délai, le président de la cour administrative d'appel de tout changement
+intervenu dans leur situation au regard des éléments définis à l'article R. 221-11 ainsi que des modifications à apporter à
+la déclaration d'intérêts prévue au deuxième alinéa de l'article R. 221-13. 
+
+Ils indiquent, à la fin de chaque année civile, au président de la cour administrative d'appel si des missions leur ont été
+confiées et, dans ce cas, lui adressent la liste des rapports qu'ils ont déposés et des missions en cours devant les
+juridictions administratives. Ils indiquent également les formations suivies en mentionnant les organismes qui les ont
+dispensées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R221-11 (V)
+	  - Code de justice administrative - art. R221-13 (V)
+
+
+###### Article R221-17
+
+Le retrait d'un expert du tableau est prononcé par le président de la cour administrative d'appel soit à la demande de
+l'intéressé, soit lorsque celui-ci ne remplit plus les conditions prévues par le 3° ou le 5° de l'article R. 221-10, soit en
+cas de radiation définitive des listes prévues par la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires ou de la
+liste nationale prévue par l'article L. 1142-10 du code de la santé publique.
+
+**Nota:**
+
+Il convient de lire "par le 3° ou le 5° de l'article R. 221-11" au lieu de "par le 3° ou le 5° de l'article R. 221-10".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°71-498 du 29 juin 1971 (V)
+	  - Code de justice administrative - art. R221-10 (V)
+	  - Code de la santé publique - art. L1142-10 (V)
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R221-19 (V)
+
+
+###### Article R221-18
+
+La radiation du tableau d'un expert en cas de manquement aux obligations qui lui incombent en cette qualité peut être
+prononcée par décision du président de la cour administrative d'appel après avis de la commission prévue à l'article R.
+221-10.
+
+La commission doit, au préalable, informer l'intéressé des griefs retenus à son encontre et le mettre en mesure de présenter
+ses observations. L'intéressé est entendu par la commission s'il en fait la demande. 
+
+La décision par laquelle le président de la cour administrative d'appel prononce la radiation d'un expert est motivée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R221-10 (V)
+
+
+###### Article R221-19
+
+La décision prise par le président de la cour administrative d'appel en application des articles R. 221-15, R. 221-17 ou R.
+221-18 peut être contestée dans le délai d'un mois à compter de sa notification. La requête est formée auprès de la cour et
+est transmise sans délai par le président de celle-ci à une autre cour administrative d'appel, conformément à un tableau
+d'attribution arrêté par le président de la section du contentieux. 
+
+Le président de la cour administrative d'appel, qui a rendu la décision attaquée, est appelé à présenter des observations
+écrites sur les mérites du recours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R221-15 (V)
+	  - Code de justice administrative - art. R221-17 (V)
+
+
+###### Article R221-20
+
+Le tableau des experts est tenu à la disposition du public dans les locaux de la cour administrative d'appel et des tribunaux
+administratifs du ressort. Il est publié sur le site internet des juridictions administratives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+
+##### Sous-section 2 : Dispositions particulières aux cours administratives d'appel de Paris et de Versailles
+
+###### Article R221-21
+
+Pour les cours administratives d'appel de Paris et de Versailles : 
+
+1° Le tableau des experts et l'ensemble des décisions y afférentes sont établis conjointement par les deux présidents de
+cour ; 
+
+2° La commission prévue par l'article R. 221-12 associe les présidents des tribunaux administratifs ayant leur siège dans le
+ressort des deux cours ou leur représentant ; 
+
+3° La condition d'établissement ou de résidence prévue par le 5° de l'article R. 221-10 s'apprécie également au regard du
+ressort des deux cours.
+
+**Nota:**
+
+Il convient de lire "par le 5° de l'article R. 221-11" au lieu de "par le 5° de l'article R. 221-10".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 7
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R221-10 (V)
+	  - Code de justice administrative - art. R221-12 (V)
+
+
 #### Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel
 
 ##### Section 1 : Dispositions communes
@@ -9951,34 +10291,6 @@ juridiction. Il l'informe des sujets d'ordre général intéressant le greffe et
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R9-1 (Ab)
-
-
-###### Article R222-5
-
-Chaque année, le président procède, s'il y a lieu, à l'établissement du tableau des experts près la juridiction qu'il
-préside.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2013-730 du 13 août 2013 - art. 14
-
-	**Cité par**:
-
-	  - Décret n°2013-730 du 13 août 2013 - art. 15 (VD)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R10 (Ab)
 
 
 ###### Article R222-6
@@ -10137,42 +10449,42 @@ Le président du tribunal administratif ou le magistrat qu'il désigne à cette 
 premier conseiller ou ayant une ancienneté minimale de deux ans statue en audience publique et après audition du rapporteur
 public, sous réserve de l'application de l'article R. 732-1-1 : 
 
-1° Sur les litiges relatifs aux déclarations préalables prévues par l'article L. 421-4 du code de l'urbanisme ; 
+1° Sur les litiges relatifs aux prestations, allocations ou droits attribués au titre de l'aide ou de l'action sociale, du
+logement ou en faveur des travailleurs privés d'emploi, mentionnés à l'article R. 772-5 ; 
 
-2° Sur les litiges relatifs à la situation individuelle des fonctionnaires ou agents de l'Etat et des autres personnes ou
-collectivités publiques, ainsi que des agents ou employés de la Banque de France, à l'exception de ceux concernant l'entrée
-au service, la discipline et la sortie du service ; 
+2° Sur les litiges relatifs à la notation ou à l'évaluation professionnelle des fonctionnaires ou agents publics ainsi qu'aux
+sanctions disciplinaires prononcées à leur encontre qui ne requièrent pas l'intervention d'un organe disciplinaire
+collégial ; 
 
-3° Sur les litiges en matière de pensions, d'aide personnalisée au logement, de communication de documents administratifs, de
-service national ; 
+3° Sur les litiges en matière de pensions ; 
 
-4° Sur les litiges relatifs à la redevance audiovisuelle ; 
+4° Sur les litiges en matière de consultation et de communication de documents administratifs ou d'archives publiques ; 
 
-5° Sur les recours relatifs aux taxes syndicales et aux impôts locaux autres que la taxe professionnelle ; 
+5° Sur les litiges relatifs aux impôts locaux et à la contribution à l'audiovisuel public, à l'exception des litiges relatifs
+à la contribution économique territoriale ; 
 
-6° Sur la mise en oeuvre de la responsabilité de l'Etat pour refus opposé à une demande de concours de la force publique pour
-exécuter une décision de justice ; 
+6° Sur les litiges relatifs aux refus de concours de la force publique pour exécuter une décision de justice ; 
 
-7° Sur les actions indemnitaires, lorsque le montant des indemnités demandées est inférieur au montant déterminé par les
-articles R. 222-14 et R. 222-15 ; 
+7° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ; 
 
-8° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ; 
+8° Sur les litiges relatifs aux bâtiments menaçant ruine ou aux immeubles insalubres ; 
 
-9° Sur les litiges relatifs aux bâtiments menaçant ruine ; 
+9° Sur les litiges relatifs au permis de conduire ; 
 
-10° Sur les litiges relatifs au permis de conduire.
+10° Sur toute action indemnitaire ne relevant pas des dispositions précédentes, lorsque le montant des indemnités demandées
+est inférieur au montant déterminé par les articles R. 222-14 et R. 222-15.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1950 du 23 décembre 2011 - art. 2
+	  - Décret n°2013-730 du 13 août 2013 - art. 2
 
 	**Cite**:
 
 	  - Code de justice administrative - art. R222-14
-	  - Code de justice administrative - art. R732-1-1 (V)
-	  - Code de l'urbanisme - art. L421-4
+	  - Code de justice administrative - art. R732-1-1
+	  - Code de justice administrative - art. R772-5
 
 	**Cité par**:
 
@@ -13943,15 +14255,13 @@ contrôle ou de régulation :
 
 - la Commission de régulation de l'énergie ;
 
-- le Conseil supérieur de l'audiovisuel ;
+- le Conseil supérieur de l'audiovisuel, sous réserve des dispositions de l'article R. 311-2 ;
 
 - la Commission nationale de l'informatique et des libertés ;
 
-- la Commission nationale de contrôle des interceptions de sécurité ;
-
 - la Haute Autorité pour la transparence de la vie publique ; 
 
-- la commission nationale d'aménagement commercial ; 
+- la Commission nationale de contrôle des interceptions de sécurité ;
 
 5° Des actions en responsabilité dirigées contre l'Etat pour durée excessive de la procédure devant la juridiction
 administrative ; 
@@ -13960,6 +14270,11 @@ administrative ;
 et dernier ressort du Conseil d'Etat ; 
 
 7° Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques.
+
+**Nota:**
+
+Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
+enregistrées à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -13978,14 +14293,61 @@ et dernier ressort du Conseil d'Etat ;
 
 	**Modifié par**:
 
-	  - Décret n°2013-1204 du 23 décembre 2013 - art. 17
+	  - Décret n°2013-730 du 13 août 2013 - art. 5
 
 
 ###### Article R311-2
 
-La cour administrative d'appel de Paris est compétente pour connaître en premier et dernier ressort des recours dirigés
-contre les arrêtés du ministre chargé du travail relatifs à la représentativité des organisations syndicales, pris en
-application de l'article L. 2122-11 du code du travail.
+La cour administrative d'appel de Paris est compétente pour connaître en premier et dernier ressort : 
+
+1° Des recours dirigés contre les arrêtés du ministre chargé du travail relatifs à la représentativité des organisations
+syndicales, pris en application de l'article L. 2122-11 du code du travail ; 
+
+2° Des litiges relatifs aux décisions prises par le Conseil supérieur de l'audiovisuel en application des articles 28-1, 28-3
+et 29 à 30-7 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, à l'exception de celles
+concernant les services de télévision à vocation nationale.
+
+**Nota:**
+
+Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
+enregistrées à compter du 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 28-1 (V)
+	  - Code du travail - art. L2122-11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 5
+
+	**Cité par**:
+
+	  - Décret n°2017-383 du 22 mars 2017 - art. 2
+	  - Code de justice administrative. - art. R312-17 (V)
+	  - Code du travail - art. R2122-99 (V)
+	  - Code du travail - art. R2152-19 (V)
+
+
+###### Article R311-3
+
+Les cours administratives d'appel sont compétentes pour connaître en premier et dernier ressort des litiges relatifs aux
+décisions prises par la Commission nationale d'aménagement commercial en application de l'article L. 752-17 du code de
+commerce.
+
+La cour administrative d'appel territorialement compétente pour connaître de ces recours est celle dans le ressort de
+laquelle a son siège la commission départementale d'aménagement commercial qui a pris la décision.
+
+**Nota:**
+
+Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
+enregistrées à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -13995,18 +14357,13 @@ application de l'article L. 2122-11 du code du travail.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1130 du 5 octobre 2012 - art. 1
+	  - Décret n°2013-730 du 13 août 2013 - art. 5
 
 	**Cité par**:
 
-	  - Décret n°2017-383 du 22 mars 2017 - art. 2
-	  - Code de justice administrative. - art. R312-17 (V)
-	  - Code du travail - art. R2122-99 (V)
-	  - Code du travail - art. R2152-19 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L2122-11
+	  - Décret n°2015-165 du 12 février 2015 - art. 4 (V)
+	  - Décret n°2015-268 du 10 mars 2015 (V)
+	  - Code de justice administrative - art. R312-10 (V)
 
 
 #### Chapitre II : La compétence territoriale des tribunaux administratifs
@@ -15406,81 +15763,6 @@ plusieurs moyens que jusqu'à l'expiration du délai de recours.
 	  - Code de justice administrative - art. R777-3-2 (VD)
 	  - Code de la santé publique - art. R4126-11 (V)
 	  - Code de la sécurité sociale. - art. R145-23 (V)
-
-
-###### Article R411-2
-
-Lorsque la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts est due et n'a pas été
-acquittée, la requête est irrecevable. 
-
-Cette irrecevabilité est susceptible d'être couverte après l'expiration du délai de recours. Lorsque le requérant justifie
-avoir demandé le bénéfice de l'aide juridictionnelle, la régularisation de sa requête est différée jusqu'à la décision
-définitive statuant sur sa demande. 
-
-Par exception au premier alinéa de l'article R. 612-1, la juridiction peut rejeter d'office une requête entachée d'une telle
-irrecevabilité sans demande de régularisation préalable, lorsque l'obligation d'acquitter la contribution ou, à défaut, de
-justifier du dépôt d'une demande d'aide juridictionnelle est mentionnée dans la notification de la décision attaquée ou
-lorsque la requête est introduite par un avocat.
-
-**Nota:**
-
-Conformément à l'article 21 III du décret n° 2011-1202 du 28 septembre 2011, ces dispositions s'appliquent aux requêtes
-introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire le 1er octobre 2011.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 50 (V)
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 18 (Ab)
-	  - Code de justice administrative. - art. R612-2 (M)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 326 quater (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 15
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1280 du 29 décembre 2013 - art. 8
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1635 bis Q
-	  - Code de justice administrative - art. R612-1
-
-
-###### Article R411-2-1
-
-Lorsque le requérant justifie s'être acquitté, au titre d'une première demande, de la contribution pour l'aide juridique, il
-en est exonéré lorsqu'il introduit une demande d'exécution sur le fondement des articles L. 911-4 ou L. 911-5, un recours en
-interprétation d'un acte juridictionnel ou une requête formée à la suite d'une décision d'incompétence. 
-
-La contribution n'est due qu'une seule fois lorsqu'un même requérant introduit une demande au fond portant sur les mêmes
-faits qu'une demande de référé présentée accessoirement et fondée sur le titre III du livre V du présent code.
-
-**Nota:**
-
-Conformément à l'article 21 III du décret n° 2011-1202 du 28 septembre 2011, ces dispositions s'appliquent aux requêtes
-introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire le 1er octobre 2011.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 15
-
-	**Abrogé par**:
-
-	  - Décret n°2013-1280 du 29 décembre 2013 - art. 8
-
-	**Cite**:
-
-	  - Code de justice administrative - art. L911-4
 
 
 ###### Article R411-3
@@ -17410,31 +17692,29 @@ besoin, aux règles de procédure prévues au chapitre II.
 
 S'il n'est rien demandé de plus que la constatation de faits, le juge des référés peut, sur simple requête qui peut être
 présentée sans ministère d'avocat et même en l'absence d'une décision administrative préalable, désigner un expert pour
-constater sans délai les faits qui seraient susceptibles de donner lieu à un litige devant la juridiction.
+constater sans délai les faits qui seraient susceptibles de donner lieu à un litige devant la juridiction. Il peut, à cet
+effet, désigner une personne figurant sur l'un des tableaux établis en application de l'article R. 221-9. Il peut, le cas
+échéant, désigner toute autre personne de son choix. 
 
-Avis en est donné immédiatement aux défendeurs éventuels.
+Avis en est donné immédiatement aux défendeurs éventuels. 
 
 Par dérogation aux dispositions des articles R. 832-2 et R. 832-3, le délai pour former tierce opposition est de quinze
 jours.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 27 (M)
-	  - Code des tribunaux administratifs et des cours adm - art. R128 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 1 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2013-730 du 13 août 2013 - art. 8
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Code de justice administrative - art. R221-9 (V)
+	  - Code de justice administrative - art. R832-2 (V)
 
 	**Cité par**:
 
@@ -17442,11 +17722,6 @@ jours.
 	  - Code de justice administrative - art. R533-3 (V)
 	  - Code de justice administrative - art. R556-1 (V)
 	  - Code de justice administrative. - art. R625-1 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R832-2 (V)
-	  - Code de justice administrative. - art. R832-3 (M)
 
 
 ###### Article R531-2
@@ -17574,6 +17849,27 @@ Il peut, s'il l'estime opportun, débattre des questions soulevées par cette de
 
 	  - Code de justice administrative - art. R532-3
 	  - Code de justice administrative - art. R621-8-1
+
+
+###### Article R532-5
+
+Les dispositions des articles R. 621-1 à R. 621-14, à l'exception du second alinéa de l'article R. 621-9, sont applicables
+aux référés mentionnés à l'article R. 532-1, sous réserve des dispositions du présent chapitre. Les attributions dévolues par
+le premier alinéa de l'article R. 621-2 au président du tribunal administratif ou de la cour administrative d'appel ou, au
+Conseil d'Etat, au président de la section du contentieux sont exercées par le juge des référés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 9
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R532-1 (V)
+	  - Code de justice administrative - art. R621-1 (V)
+	  - Code de justice administrative - art. R621-2 (V)
+	  - Code de justice administrative - art. R621-9 (V)
 
 
 #### Chapitre III : Voies de recours
@@ -19620,7 +19916,9 @@ Ce magistrat peut assister aux opérations d'expertise.
 
 Il n'est commis qu'un seul expert à moins que la juridiction n'estime nécessaire d'en désigner plusieurs. Le président du
 tribunal administratif ou de la cour administrative d'appel, selon le cas, ou, au Conseil d'Etat, le président de la section
-du contentieux choisit les experts et fixe le délai dans lequel ils seront tenus de déposer leur rapport au greffe.
+du contentieux choisit les experts parmi les personnes figurant sur l'un des tableaux établis en application de l'article R.
+221-9. Il peut, le cas échéant, désigner toute autre personne de son choix. Il fixe également le délai dans lequel l'expert
+sera tenu de déposer son rapport au greffe. 
 
 Lorsqu'il apparaît à un expert qu'il est nécessaire de faire appel au concours d'un ou plusieurs sapiteurs pour l'éclairer
 sur un point particulier, il doit préalablement solliciter l'autorisation du président du tribunal administratif ou de la
@@ -19631,11 +19929,11 @@ de recours.
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2013-730 du 13 août 2013 - art. 8
 
 	**Cité par**:
 
@@ -19643,10 +19941,6 @@ de recours.
 	  - Code de justice administrative - art. R621-1-1 (V)
 	  - Code de justice administrative - art. R621-11 (V)
 	  - Code de justice administrative - art. R621-6 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R159 (M)
 
 
 ###### Article R621-3
@@ -20405,19 +20699,19 @@ section du contentieux.
 La juridiction peut décider une vérification d'écritures par un ou plusieurs experts, en présence, le cas échéant, d'un de
 ses membres.
 
+Le président du tribunal administratif ou de la cour administrative d'appel, selon le cas, ou, au Conseil d'Etat, le
+président de la section du contentieux peuvent désigner, à cet effet, une personne figurant sur l'un des tableaux établis en
+application de l'article R. 221-9. Ils peuvent, le cas échéant, désigner toute autre personne de leur choix.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R180 (Ab)
+	  - Décret n°2013-730 du 13 août 2013 - art. 8
 
 
 ###### Article R624-2
@@ -20474,8 +20768,10 @@ Le cas échéant, il peut être fait application des dispositions du titre III d
 ###### Article R625-2
 
 Lorsqu'une question technique ne requiert pas d'investigations complexes, la formation de jugement peut charger la personne
-qu'elle commet de lui fournir un avis sur les points qu'elle détermine. Le consultant, à qui le dossier de l'instance n'est
-pas remis, n'a pas à opérer en respectant une procédure contradictoire à l'égard des parties.
+qu'elle commet de lui fournir un avis sur les points qu'elle détermine. Elle peut, à cet effet, désigner une personne
+figurant sur l'un des tableaux établis en application de l'article R. 221-9. Elle peut, le cas échéant, désigner toute autre
+personne de son choix. Le consultant, à qui le dossier de l'instance n'est pas remis, n'a pas à opérer en respectant une
+procédure contradictoire à l'égard des parties.
 
 L'avis est consigné par écrit. Il est communiqué aux parties par la juridiction. 
 
@@ -20483,9 +20779,9 @@ Les dispositions des articles R. 621-3 à R. 621-6, R. 621-10 à R. 621-12-1 et 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 46
+	  - Décret n°2013-730 du 13 août 2013 - art. 8
 
 	**Cite**:
 
@@ -21902,27 +22198,29 @@ celles du titre V sont applicables aux ordonnances.
 ###### Article R742-2
 
 Les ordonnances mentionnent le nom des parties, l'analyse des conclusions ainsi que les visas des dispositions législatives
-ou réglementaires dont elles font application.
+ou réglementaires dont elles font application. 
 
-Elles font apparaître la date à laquelle elles ont été signées.
+Elles font apparaître la date à laquelle elles ont été signées. 
 
-Dans le cas prévu au 6° des articles R. 122-12 et R. 222-1, l'ordonnance vise la décision ou l'avis par lequel ont été
-tranchées ou examinées les questions identiques à celles que la requête présente à juger.
+Dans les cas prévus au 6° des articles R. 122-12 et R. 222-1 ainsi qu'au 1° de l'article R. 822-5, l'ordonnance vise les
+décisions et avis par lesquels ont été tranchées ou examinées les questions identiques à celles que la requête présente à
+juger.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2005-911 du 28 juillet 2005 - art. 3 () JORF 4 août 2005 en vigueur le 1er septembre 2005
+	  - Décret n°2013-1213 du 23 décembre 2013 - art. 4
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R122-12 (M)
-	  - Code de justice administrative. - art. R222-1 (M)
+	  - Code de justice administrative - art. R122-12
+	  - Code de justice administrative - art. R222-1
+	  - Code de justice administrative - art. R822-5
 
 	**Cité par**:
 
@@ -22159,10 +22457,6 @@ d'Etat.
 La notification de la décision mentionne que copie de la décision doit être jointe à la requête d'appel ou au pourvoi en
 cassation. 
 
-La notification mentionne, s'il y a lieu, que la requête d'appel ou le pourvoi en cassation doit justifier de l'acquittement
-de la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts ou de ce que le requérant
-bénéficie de l'aide juridictionnelle. 
-
 Lorsque la décision rendue relève de la cour administrative d'appel et, sauf lorsqu'une disposition particulière a prévu une
 dispense de ministère d'avocat en appel, la notification mentionne que l'appel ne peut être présenté que par l'un des
 mandataires mentionnés à l'article R. 431-2. 
@@ -22170,20 +22464,11 @@ mandataires mentionnés à l'article R. 431-2.
 Lorsque la décision est rendue en dernier ressort, la notification mentionne, s'il y a lieu, que le pourvoi en cassation
 devant le Conseil d'Etat ne peut être présenté que par le ministère d'un avocat au Conseil d'Etat et à la Cour de cassation.
 
-**Nota:**
-
-Conformément à l'article 21 III du décret n° 2011-1202 du 28 septembre 2011, ces dispositions s'appliquent aux requêtes
-introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire à compter du 1er octobre 2011.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 16
 
 	**Cité par**:
 
@@ -22191,6 +22476,10 @@ introduites à compter du premier jour du mois suivant la publication dudit déc
 	  - Code de justice administrative - art. R811-7 (V)
 	  - Code de justice administrative. - art. R612-1 (V)
 	  - Code de la sécurité sociale. - art. R145-23 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 8
 
 	**Cite**:
 
@@ -22430,28 +22719,19 @@ d'exception, des dispositions d'actes qui y ont été eux-mêmes publiés et son
 
 ###### Article R761-1
 
-Les dépens comprennent la contribution pour l'aide juridique prévue à l'article 1635 bis Q du code général des impôts, ainsi
-que les frais d'expertise, d'enquête et de toute autre mesure d'instruction dont les frais ne sont pas à la charge de l'Etat.
+Les dépens comprennent les frais d'expertise, d'enquête et de toute autre mesure d'instruction dont les frais ne sont pas à
+la charge de l'Etat.
 
 Sous réserve de dispositions particulières, ils sont mis à la charge de toute partie perdante sauf si les circonstances
 particulières de l'affaire justifient qu'ils soient mis à la charge d'une autre partie ou partagés entre les parties.
 
 L'Etat peut être condamné aux dépens.
 
-**Nota:**
-
-Conformément à l'article 21 III du décret n° 2011-1202 du 28 septembre 2011, ces dispositions s'appliquent aux requêtes
-introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire le 1er octobre 2011.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 17
 
 	**Cité par**:
 
@@ -22461,6 +22741,10 @@ introduites à compter du premier jour du mois suivant la publication dudit déc
 	  - Code de la santé publique - art. R4126-42 (V)
 	  - Code de la sécurité sociale. - art. R145-23 (V)
 	  - Code de la sécurité sociale. - art. R145-52 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 8
 
 	**Cite**:
 
@@ -23079,6 +23363,136 @@ jugées dans les formes prévues dans le livre des procédures fiscales applicab
 	**Modifié par**:
 
 	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+
+
+#### Chapitre II bis : Les contentieux sociaux
+
+###### Article R772-5
+
+Sont présentées, instruites et jugées selon les dispositions du présent code, sous réserve des dispositions du présent
+chapitre, les requêtes relatives aux prestations, allocations ou droits attribués au titre de l'aide ou de l'action sociale,
+du logement ou en faveur des travailleurs privés d'emploi, sans préjudice des dispositions du chapitre VIII s'agissant du
+contentieux du droit au logement défini à l'article R. 778-1.
+
+**Nota:**
+
+Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
+enregistrées à compter du 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 6
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R222-13 (VD)
+	  - Code de justice administrative - art. R811-1 (VD)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R778-1 (V)
+
+
+###### Article R772-6
+
+Une requête de première instance ne peut être rejetée pour défaut ou pour insuffisance de motivation, notamment en
+application du 7° de l'article R. 222-1, qu'après que le requérant a été informé du rôle du juge administratif et de la
+nécessité de lui soumettre une argumentation propre à établir que la décision attaquée méconnaît ses droits et de lui
+transmettre, à cet effet, toutes les pièces justificatives utiles. 
+
+S'il y a lieu, le requérant est ainsi invité à régulariser sa requête dans le délai qui lui est imparti et dont le terme peut
+être fixé au-delà de l'expiration du délai de recours. Il est informé qu'à défaut de régularisation les conclusions pourront
+être rejetées comme irrecevables dès l'expiration du délai imparti qui, sauf urgence, ne peut être inférieur à quinze jours.
+La demande de régularisation tient lieu de l'information prévue à l'article R. 611-7.
+
+**Nota:**
+
+Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
+enregistrées à compter du 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R222-1 (V)
+	  - Code de justice administrative - art. R611-7 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R772-7 (V)
+
+
+###### Article R772-7
+
+Les dispositions de l'article R. 772-6 ne sont pas applicables lorsque la requête a été introduite par un avocat ou a été
+présentée sur un formulaire mis à la disposition des requérants par la juridiction administrative qui contient l'ensemble des
+informations mentionnées au premier alinéa de cet article.
+
+**Nota:**
+
+Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
+enregistrées à compter du 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R772-6 (V)
+
+
+###### Article R772-8
+
+Lorsque la requête lui est notifiée, le défendeur est tenu de communiquer au tribunal administratif l'ensemble du dossier
+constitué pour l'instruction de la demande tendant à l'attribution de la prestation ou de l'allocation ou à la reconnaissance
+du droit, objet de la requête. 
+
+Lorsque ce dossier est, pour partie, constitué de pièces médicales concernant le requérant, le tribunal peut enjoindre au
+défendeur de communiquer ces pièces à celui-ci afin de le mettre en mesure de les communiquer lui-même au tribunal.
+
+**Nota:**
+
+Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
+enregistrées à compter du 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 6
+
+
+###### Article R772-9
+
+La procédure contradictoire peut être poursuivie à l'audience sur les éléments de fait qui conditionnent l'attribution de la
+prestation ou de l'allocation ou la reconnaissance du droit, objet de la requête.
+
+L'instruction est close soit après que les parties ou leurs mandataires ont formulé leurs observations orales, soit, si ces
+parties sont absentes ou ne sont pas représentées, après appel de leur affaire à l'audience. Toutefois, afin de permettre aux
+parties de verser des pièces complémentaires, le juge peut décider de différer la clôture de l'instruction à une date
+postérieure dont il les avise par tous moyens.
+
+L'instruction fait l'objet d'une réouverture en cas de renvoi à une autre audience.
+
+**Nota:**
+
+Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
+enregistrées à compter du 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-730 du 13 août 2013 - art. 6
 
 
 #### Chapitre III : Le contentieux des élections
@@ -24742,19 +25156,44 @@ Toute partie présente dans une instance devant le tribunal administratif ou qui
 qu'elle n'aurait produit aucune défense, peut interjeter appel contre toute décision juridictionnelle rendue dans cette
 instance. 
 
-Toutefois, dans les litiges énumérés aux 1°, 4°, 5°, 6°, 7°, 8° et 9° de l'article R. 222-13, le tribunal administratif
-statue en premier et dernier ressort. Il en va de même pour les litiges visés aux 2° et 3° de cet article, sauf pour les
-recours comportant des conclusions tendant au versement ou à la décharge de sommes d'un montant supérieur au montant
-déterminé par les articles R. 222-14 et R. 222-15. Cette disposition ne fait pas obstacle à l'application des articles R.
-533-1 et R. 541-3. 
+Toutefois, le tribunal administratif statue en premier et dernier ressort : 
 
-Par dérogation aux dispositions de l'alinéa précédent, en cas de connexité avec un litige susceptible d'appel, les décisions
-portant sur les actions visées au 7° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions
-statuant sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à la taxe
-professionnelle, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la valeur
-des mêmes biens appréciée la même année. 
+1° Sur les litiges relatifs aux prestations, allocations ou droits attribués au titre de l'aide ou de l'action sociale, du
+logement ou en faveur des travailleurs privés d'emploi, mentionnés à l'article R. 772-5, y compris le contentieux du droit au
+logement défini à l'article R. 778-1 ; 
 
-Le tribunal administratif statue en premier et dernier ressort sur les requêtes mentionnées à l'article R. 778-1.
+2° Sur les litiges en matière de consultation et de communication de documents administratifs ou d'archives publiques ; 
+
+3° Sur les litiges relatifs aux refus de concours de la force publique pour exécuter une décision de justice ; 
+
+4° Sur les litiges relatifs aux impôts locaux et à la contribution à l'audiovisuel public, à l'exception des litiges relatifs
+à la contribution économique territoriale ; 
+
+5° Sur les requêtes contestant les décisions prises en matière fiscale sur des demandes de remise gracieuse ; 
+
+6° Sur les litiges relatifs au permis de conduire ; 
+
+7° Sur les litiges en matière de pensions ; 
+
+8° Sur toute action indemnitaire ne relevant pas des dispositions précédentes, lorsque le montant des indemnités demandées
+est inférieur au montant déterminé par les articles R. 222-14 et R. 222-15. 
+
+Les ordonnances prises sur le fondement du titre IV du livre V sont également rendues en premier et dernier ressort lorsque
+l'obligation dont se prévaut le requérant pour obtenir le bénéfice d'une provision porte sur un litige énuméré aux alinéas
+précédents. 
+
+Il en est de même des ordonnances prises sur le fondement du 6° de l'article R. 222-1. 
+
+Par dérogation aux dispositions qui précèdent, en cas de connexité avec un litige susceptible d'appel, les décisions portant
+sur les actions mentionnées au 8° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions statuant
+sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à cotisation
+foncière des entreprises, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la
+valeur des mêmes biens appréciée la même année.
+
+**Nota:**
+
+Conformément à l'article 16-II du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux décisions des
+tribunaux administratifs rendues à compter du 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -24768,7 +25207,7 @@ Le tribunal administratif statue en premier et dernier ressort sur les requêtes
 
 	**Modifié par**:
 
-	  - Décret n°2008-1227 du 27 novembre 2008 - art. 1
+	  - Décret n°2013-730 du 13 août 2013 - art. 4
 
 	**Cite**:
 
@@ -25647,20 +26086,28 @@ Lorsqu'il est manifeste qu'aucun moyen sérieux n'est invoqué, le président de
 ordonnance de ne pas admettre : 
 
 1° Les pourvois relevant d'une série qui, sans appeler de nouvelle appréciation ou qualification de faits, présentent à juger
-en droit des questions identiques à celles que le Conseil d'Etat statuant au contentieux a déjà tranchées ensemble par une
-même décision ou examinées ensemble par un même avis rendu en application de l'article L. 113-1 ; 
+en droit des questions identiques à celles que le Conseil d'Etat statuant au contentieux a déjà tranchées par une décision ou
+examinées par un avis rendu en application de l'article L. 113-1 ; 
 
-2° Les pourvois dirigés contre les ordonnances prises en application de l'article R. 222-1 ; 
+2° Les pourvois dirigés contre les ordonnances prises en application de l'article R. 222-1 ainsi que celles prises en vertu
+de l'article R. 351-28 du code de l'action sociale et des familles, de l'article R. 242-97 du code rural et de la pêche
+maritime, des articles R. 4126-5 et R. 4234-29 du code de la santé publique et des articles L. 145-9, 
+L. 145-9-2 et R. 145-20 du code de la sécurité sociale ; 
 
-3° Les pourvois dirigés contre les ordonnances prises en application des articles L. 521-1, L. 521-3, L. 521-4, L. 522-3, R.
-541-1 ainsi que contre les ordonnances rejetant les demandes présentées sur le fondement des dispositions du chapitre Ier du
-titre V du livre V.
+3° Les pourvois dirigés contre les ordonnances prises en application du livre V ; 
+
+4° Les pourvois qui ne soulèvent que des moyens irrecevables, inopérants ou dépourvus des précisions permettant d'en
+apprécier le bien-fondé, des moyens de régularité dénués de fondement et des moyens revenant à contester l'appréciation des
+faits à laquelle se sont souverainement livrés les juges du fond. 
+
+Le président de la section du contentieux et les présidents adjoints de cette section peuvent statuer par ordonnance dans les
+cas prévus au troisième alinéa du présent article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 10
+	  - Décret n°2013-1213 du 23 décembre 2013 - art. 2
 
 	**Cité par**:
 
@@ -25672,33 +26119,31 @@ titre V du livre V.
 	**Cite**:
 
 	  - Code de justice administrative - art. L113-1
-	  - Code de justice administrative - art. L521-1
-	  - Code de justice administrative - art. L521-3
-	  - Code de justice administrative - art. L521-4
-	  - Code de justice administrative - art. L522-3
 	  - Code de justice administrative - art. R222-1
-	  - Code de justice administrative - art. R541-1
 	  - Code de justice administrative - art. R611-22
+	  - Code rural - art. R242-97
+	  - Code de la santé publique - art. R4126-5
+	  - Code de la santé publique - art. R4234-29
+	  - Code de la sécurité sociale. - art. L145-9
+	  - Code de la sécurité sociale. - art. L145-9-2
+	  - Code de la sécurité sociale. - art. R145-20
+	  - Code de l'action sociale et des familles - art. R351-28
 
 
 ###### Article R822-5-1
 
-Dix jours au moins avant qu'intervienne une ordonnance prise sur le fondement du 1°, du 2° ou du 3° de l'article R. 822-5, le
+Dix jours au moins avant qu'intervienne une ordonnance prise sur le fondement          des 1° à 4° de l'article R. 822-5, le
 requérant ou son mandataire est avisé de cette éventualité, soit par voie électronique, soit par voie postale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-911 du 28 juillet 2005 - art. 5 () JORF 4 août 2005 en vigueur le 1er septembre 2005
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R822-5 (M)
+	  - Décret n°2013-1213 du 23 décembre 2013 - art. 3
 
 
 ###### Article R822-6
