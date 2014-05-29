@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -17573,36 +17573,27 @@ En outre, si l'urgence le commande, le dispositif de l'ordonnance, assorti de la
 
 Copie de l'ordonnance par laquelle le juge des référés ordonne la suspension de l'exécution d'une décision accordant un
 permis de construire, d'aménager ou de démolir ou d'une mesure de police est transmise sans délai au procureur de la
-République près le tribunal de grande instance territorialement compétent.
+République près le tribunal de grande instance territorialement compétent. 
 
 Copie de l'ordonnance par laquelle le juge des référés ordonne la suspension d'un acte constituant une pièce justificative du
-paiement de dépenses publiques est transmise sans délai au trésorier-payeur général du département dans lequel a son siège
-l'autorité qui a pris l'acte en cause.
+paiement de dépenses publiques est transmise sans délai au   directeur départemental ou, le cas échéant, régional des
+finances publiques du département dans lequel a son siège l'autorité qui a pris l'acte en cause. 
 
-Les mêmes règles s'appliquent à l'ordonnance qui modifie ou met fin à la suspension.
+Les mêmes règles s'appliquent à l'ordonnance qui modifie ou met fin à la suspension. 
 
 Il est pareillement transmis copie de la décision par laquelle le Conseil d'Etat prononce la cassation d'une ordonnance du
 juge des référés ayant ordonné la suspension d'une décision accordant un permis de construire, d'aménager ou de démolir,
 d'une mesure de police ou d'un acte constituant une pièce justificative du paiement de dépenses publiques.
 
-**Nota:**
-
-L'article 4 du décret n° 2007-817 du 11 mai 2007 a fixé au 1er octobre 2007 la date d'entrée en vigueur du décret n° 2007-18
-du 5 janvier 2007.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2007-18 du 5 janvier 2007 - art. 21 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+	  - Décret n°2014-551 du 27 mai 2014 - art. 14
 
 
 #### Chapitre III : Voies de recours
@@ -22682,21 +22673,18 @@ transmise sans délai au procureur de la République près le tribunal de grande
 
 Copie de la décision d'un tribunal administratif, d'une cour administrative d'appel ou du Conseil d'Etat qui prononce
 l'annulation d'un acte constituant une pièce justificative du paiement de dépenses publiques est transmise sans délai au
-trésorier-payeur-général du département dans lequel a son siège l'autorité qui a pris l'acte en cause.
+directeur départemental ou, le cas échéant, régional des finances publiques du département dans lequel a son siège l'autorité
+qui a pris l'acte en cause.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2014-551 du 27 mai 2014 - art. 14
 
 
 ###### Article R751-13
