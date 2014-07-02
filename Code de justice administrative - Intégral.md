@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-07-03
 
 # Partie législative
 
@@ -3552,7 +3552,8 @@ cet effet statue dans un délai de quarante-huit heures et exerce le cas échéa
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
 de publicité et de mise en concurrence auxquelles est soumise la passation par les pouvoirs adjudicateurs de contrats
 administratifs ayant pour objet l'exécution de travaux, la livraison de fournitures ou la prestation de services, avec une
-contrepartie économique constituée par un prix ou un droit d'exploitation, ou la délégation d'un service public. 
+contrepartie économique constituée par un prix ou un droit d'exploitation, la délégation d'un service public ou la sélection
+d'un actionnaire opérateur économique d'une société d'économie mixte à opération unique. 
 
 Le juge est saisi avant la conclusion du contrat.
 
@@ -3569,7 +3570,7 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 24 (Ab)
 	  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 22 (VT)
 	  - Loi n°2015-990 du 6 août 2015 - art. 13
-	  - Code de justice administrative. - art. L551-10 (V)
+	  - Code de justice administrative - art. L551-10 (V)
 	  - Code de justice administrative. - art. L551-13 (V)
 	  - Code de justice administrative. - art. L551-14 (V)
 	  - Code de justice administrative. - art. L551-18 (V)
@@ -3581,7 +3582,7 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+	  - Loi n°2014-744 du 1er juillet 2014 - art. 2
 
 
 ###### Article L551-2
@@ -3673,7 +3674,8 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 Le président du tribunal administratif, ou le magistrat qu'il délègue, peut être saisi en cas de manquement aux obligations
 de publicité et de mise en concurrence auxquelles est soumise la passation par les entités adjudicatrices de contrats
 administratifs ayant pour objet l'exécution de travaux, la livraison de fournitures ou la prestation de services, avec une
-contrepartie économique constituée par un prix ou un droit d'exploitation, ou la délégation d'un service public. 
+contrepartie économique constituée par un prix ou un droit d'exploitation, la délégation d'un service public ou la sélection
+d'un actionnaire opérateur économique d'une société d'économie mixte à opération unique. 
 
 Le juge est saisi avant la conclusion du contrat.
 
@@ -3684,10 +3686,6 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
-
 	**Cité par**:
 
 	  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 16 (VT)
@@ -3697,12 +3695,17 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 	  - Code de justice administrative. - art. R551-5 (V)
 	  - Code du travail - art. L8272-4 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-744 du 1er juillet 2014 - art. 2
+
 
 ###### Article L551-6
 
 Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations en lui fixant un délai à cette fin. Il peut
-lui enjoindre de suspendre l'exécution de toute décision se rapportant à la passation du contrat. Il peut, en outre,
-prononcer une astreinte provisoire courant à l'expiration des délais impartis. 
+lui enjoindre de suspendre l'exécution de toute décision se rapportant à la passation du contrat ou à la constitution de la
+société d'économie mixte à opération unique. Il peut, en outre, prononcer une astreinte provisoire courant à l'expiration des
+délais impartis. 
 
 Le montant de l'astreinte provisoire est liquidé en tenant compte du comportement de celui à qui l'injonction a été adressée
 et des difficultés qu'il a rencontrées pour l'exécuter. 
@@ -3721,9 +3724,9 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+	  - Loi n°2014-744 du 1er juillet 2014 - art. 2
 
 	**Cité par**:
 
@@ -3801,8 +3804,9 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 ###### Article L551-10
 
 Les personnes habilitées à engager les recours prévus aux articles L. 551-1 et L. 551-5 sont celles qui ont un intérêt à
-conclure le contrat et qui sont susceptibles d'être lésées par le manquement invoqué, ainsi que le représentant de l'Etat
-dans le cas où le contrat doit être conclu par une collectivité territoriale ou un établissement public local. 
+conclure le contrat ou à entrer au capital de la société d'économie mixte à opération unique et qui sont susceptibles d'être
+lésées par le manquement invoqué, ainsi que le représentant de l'Etat dans le cas où le contrat doit être conclu par une
+collectivité territoriale, un groupement de collectivités territoriales ou un établissement public local. 
 
 Sauf si la demande porte sur des marchés ou contrats passés par l'Etat, elle peut également être présentée par celui-ci,
 lorsque la Commission européenne lui a notifié les raisons pour lesquelles elle estime qu'une violation grave des obligations
@@ -3815,13 +3819,13 @@ lesquels une consultation est engagée à partir du 1er décembre 2009.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 1
+	  - Loi n°2014-744 du 1er juillet 2014 - art. 2
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L551-1
+	  - Code de justice administrative - art. L551-1 (M)
 
 	**Cité par**:
 
