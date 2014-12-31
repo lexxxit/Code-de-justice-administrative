@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2014-09-18
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -2911,8 +2911,9 @@ vertu :
 1° Du IV de l'article L. 612-16 du code monétaire et financier contre les décisions de sanction prises par l'Autorité de
 contrôle prudentiel et de résolution ; 
 
-2° De l'article L. 313-13 du code de la construction et de l'habitation contre les décisions de sanction prises par le
-ministre chargé du logement ; 
+2° Des articles L. 342-14 et L. 342-15 du code de la construction et de l'habitation contre les décisions de sanction prises
+par le ministre chargé du logement ou conjointement par les ministres chargés du logement et des collectivités
+territoriales ; 
 
 3° Des articles L. 5-3 et L. 36-11 du code des postes et des communications électroniques contre les décisions de sanction
 prises par l'Autorité de régulation des communications électroniques et des postes ; 
@@ -2945,16 +2946,16 @@ de régulation des activités ferroviaires.
 	  - Loi n°96-597 du 2 juillet 1996 - art. 71
 	  - Loi n°2000-108 du 10 février 2000 - art. 40
 	  - Loi n°2009-1503 du 8 décembre 2009 - art. 17
-	  - Code des postes et des communications électroni... - art. L36-11 (V)
-	  - Code des postes et des communications électroni... - art. L5-3 (V)
+	  - Code des postes et des communications électroniques - art. L36-11
+	  - Code des postes et des communications électroniques - art. L5-3
 	  - Code du sport. - art. L232-24
 	  - Code monétaire et financier - art. L612-16
 	  - Code monétaire et financier - art. L623-3
-	  - Code de la construction et de l'habitation. - art. L313-13
+	  - Code de la construction et de l'habitation. - art. L342-14 (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Loi n°2014-366 du 24 mars 2014 - art. 102 (V)
 
 
 ###### Article L311-5
