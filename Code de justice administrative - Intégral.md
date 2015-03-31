@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-04-01
 
 # Partie législative
 
@@ -14980,23 +14980,18 @@ compter du 1er avril 2010.
 
 ###### Article R321-1
 
-Le Conseil d'État est compétent pour statuer sur les appels formés contre les jugements des tribunaux administratifs rendus
-sur les recours sur renvoi de l'autorité judiciaire ainsi que sur les litiges relatifs aux élections municipales et
-cantonales.
+Le Conseil d'Etat est compétent pour statuer sur les appels formés contre les jugements des tribunaux administratifs rendus
+sur les litiges relatifs aux élections municipales et cantonales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°87-1127 1987-12-31 art. 1
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 
 ###### Article R321-2
@@ -17052,29 +17047,29 @@ Toutefois, les dispositions de l'article R. 432-1 ne sont pas applicables :
 
 4° Aux litiges concernant la concession ou le refus de pension. 
 
-Dans ces cas, la requête doit être signée par la partie intéressée ou son mandataire.
+Dans ces cas, la requête doit être signée par la partie intéressée ou son mandataire. 
+
+Les dispositions de l'article R. 432-1 ne sont pas non plus applicables aux mémoires des parties sur les saisines de
+l'autorité judiciaire en application de l'article 49 du code de procédure civile et portant sur une appréciation de légalité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°45-1708 du 31 juillet 1945 - art. 42 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Cité par**:
 
 	  - Décret n°2005-222 du 10 mars 2005 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-233 du 27 février 2015 - art. 47
+
 	**Cite**:
 
-	  - Code de justice administrative - art. R432-1 (V)
+	  - Code de procédure civile - art. 49 (VD)
+	  - Code de justice administrative - art. R432-1
 
 
 ###### Article R432-3
@@ -19418,29 +19413,25 @@ même si le mémoire complémentaire a été ultérieurement produit. Le Conseil
 ###### Article R611-23
 
 Le délai prévu à l'article précédent est d'un mois en matière électorale et en ce qui concerne les conclusions tendant au
-sursis à exécution de la décision juridictionnelle attaquée.
+sursis à exécution de la décision juridictionnelle attaquée. Il est également d'un mois pour les recours sur renvoi de
+l'autorité judiciaire. 
 
 Il est de quinze jours lorsque le pourvoi en cassation est dirigé contre une décision prise par le juge des référés en
 application du livre V, sauf s'il s'agit des procédures visées aux articles L. 552-1 et L. 552-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 53-3 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2006-964 du 1 août 2006 - art. 7 () JORF 3 août 2006 en vigueur le 1er septembre 2006
+	  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L552-1 (V)
-	  - Code de justice administrative. - art. L552-2 (M)
+	  - Code de justice administrative - art. L552-1
 
 
 ###### Article R611-24
@@ -22866,57 +22857,45 @@ attendre l'intervention de la décision par laquelle la charge des frais est att
 
 ### Titre VII : Dispositions spéciales
 
-#### Chapitre Ier : La saisine du Tribunal des conflits
+#### Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires
+
+##### Section 1 : La saisine du Tribunal des conflits
 
 ###### Article R771-1
 
-La saisine du Tribunal des conflits par les juridictions administratives en prévention des conflits négatifs obéit aux règles
-définies par l'article 34 du décret du 26 octobre 1849 ci-après reproduit :
-
-" Art. 34. - Lorsqu'une juridiction de l'ordre judiciaire ou de l'ordre administratif a, par une décision qui n'est plus
-susceptible de recours, décliné la compétence de l'ordre de juridiction auquel elle appartient au motif que le litige ne
-ressortit pas à cet ordre, toute juridiction de l'autre ordre, saisie du même litige, si elle estime que ledit litige
-ressortit à l'ordre de juridictions primitivement saisi, doit par un jugement motivé qui n'est susceptible d'aucun recours
-même en cassation, renvoyer au Tribunal des conflits le soin de décider sur la question de compétence ainsi soulevée et
-surseoir à toute procédure jusqu'à la décision de ce tribunal. "
+Les difficultés de compétence entre la juridiction administrative et la juridiction judiciaire sont réglées par le Tribunal
+des conflits conformément aux dispositions de la loi du 24 mai 1872 relative au Tribunal des conflits et du décret n°
+2015-233 du 27 février 2015.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1849-10-26 art. 34
-
 	**Cite**:
 
-	  - Décret n°1849-10-26 art. 34
+	  - Loi du 24 mai 1872
+	  - Décret n°2015-233 du 27 février 2015
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-233 du 27 février 2015 - art. 45
 
+
+##### Section 2 :  La question préjudicielle
 
 ###### Article R771-2
 
-Le renvoi par le Conseil d'Etat d'une question de compétence au Tribunal des conflits obéit aux règles définies par l'article
-35 du décret du 26 octobre 1849 ci-après reproduit :
-
-" Art. 35. - Lorsque le Conseil d'Etat statuant au contentieux, la Cour de cassation ou toute autre juridiction statuant
-souverainement et échappant ainsi au contrôle tant du Conseil d'Etat que de la Cour de cassation, est saisi d'un litige qui
-présente à juger, soit sur l'action introduite, soit sur une exception, une question de compétence soulevant une difficulté
-sérieuse et mettant en jeu la séparation des autorités administratives et judiciaires, la juridiction saisie peut, par
-décision ou arrêt motivé qui n'est susceptible d'aucun recours, renvoyer au Tribunal des conflits le soin de décider sur
-cette question de compétence. Il est alors sursis à toute procédure jusqu'à la décision de ce tribunal. "
+Lorsque la solution d'un litige dépend d'une question soulevant une difficulté sérieuse et relevant de la compétence de la
+juridiction judiciaire, la juridiction administrative initialement saisie la transmet à la juridiction judiciaire compétente.
+Elle sursoit à statuer jusqu'à la décision sur la question préjudicielle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. L11 (Ab)
-	  - Décret n°1849-10-26 art. 35
+	  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 	**Cite**:
 
@@ -22924,11 +22903,34 @@ cette question de compétence. Il est alors sursis à toute procédure jusqu'à 
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+###### Article R771-2-1
+
+Lorsque la juridiction administrative compétente est saisie d'une question préjudicielle soulevée par une juridiction
+judiciaire, l'affaire est instruite et jugée comme une affaire urgente. 
+
+Les délais les plus brefs sont donnés aux parties pour produire leurs observations. A défaut de production dans le délai
+imparti, il est passé outre sans mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-233 du 27 février 2015 - art. 47
+
+
+###### Article R771-2-2
+
+Le pourvoi en cassation contre les jugements statuant sur une question préjudicielle est présenté dans les quinze jours de
+leur notification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 
 #### Chapitre Ier bis : La question prioritaire de constitutionnalité
@@ -25202,18 +25204,16 @@ Les ordonnances prises sur le fondement du titre IV du livre V sont également r
 l'obligation dont se prévaut le requérant pour obtenir le bénéfice d'une provision porte sur un litige énuméré aux alinéas
 précédents. 
 
-Il en est de même des ordonnances prises sur le fondement du 6° de l'article R. 222-1. 
+Il en est de même des ordonnances prises sur le fondement du 6° de l'article R. 222-1.
 
 Par dérogation aux dispositions qui précèdent, en cas de connexité avec un litige susceptible d'appel, les décisions portant
 sur les actions mentionnées au 8° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions statuant
 sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à cotisation
 foncière des entreprises, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la
-valeur des mêmes biens appréciée la même année.
+valeur des mêmes biens appréciée la même année. 
 
-**Nota:**
-
-Conformément à l'article 16-II du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux décisions des
-tribunaux administratifs rendues à compter du 1er janvier 2014.
+Le tribunal administratif statue également en premier et dernier ressort sur les recours sur renvoi de l'autorité judiciaire
+et sur les saisines de l'autorité judiciaire en application de l'article 49 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
@@ -25227,15 +25227,13 @@ tribunaux administratifs rendues à compter du 1er janvier 2014.
 
 	**Modifié par**:
 
-	  - Décret n°2013-730 du 13 août 2013 - art. 4
+	  - Décret n°2015-233 du 27 février 2015 - art. 47
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R222-13
+	  - Code de justice administrative - art. R222-1
 	  - Code de justice administrative - art. R222-14
-	  - Code de justice administrative - art. R222-15
-	  - Code de justice administrative - art. R533-1
-	  - Code de justice administrative - art. R541-3
+	  - Code de justice administrative - art. R772-5
 	  - Code de justice administrative - art. R778-1
 
 
