@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-04-18
+Version Consolidée au 2015-06-15
 
 # Partie législative
 
@@ -14901,28 +14901,6 @@ constatée.
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L626-1
 	  - Code du travail - art. L8253-1
 	  - Code du travail - art. L8253-7
-
-
-###### Article R312-17
-
-Les recours contre les décisions individuelles prises à l'encontre d'une personne physique ou morale par une fédération
-sportive dans l'exercice de ses prérogatives de puissance publique sont portés devant le tribunal administratif dans le
-ressort duquel se situe la résidence ou le siège social du requérant à la date des décisions attaquées.
-
-**Nota:**
-
-Aux termes de l'article 3 du décret n° 2015-651 du 10 juin 2015, l'abrogation de ces dispositions s'appliquent aux décisions
-des fédérations rendues à compter du 15 juin 2015.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-164 du 22 février 2010 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2015-651 du 10 juin 2015 - art. 2
 
 
 ###### Article R312-18
