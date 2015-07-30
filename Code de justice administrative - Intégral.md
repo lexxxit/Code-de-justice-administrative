@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-07-17
+Version Consolidée au 2015-07-31
 
 # Partie législative
 
@@ -2457,13 +2457,13 @@ Il ne peut être mis fin à des détachements dans le corps que sur demande des 
 
 Les magistrats de l'ordre judiciaire peuvent également être détachés pour trois ans, renouvelables une fois, dans le corps
 des tribunaux administratifs et des cours administratives d'appel, au grade de président, pour y occuper les fonctions de
-président de section à la Cour nationale du droit d'asile.
+président de formation de jugement et de président de chambre à la Cour nationale du droit d'asile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 15
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 17
 
 	**Cité par**:
 
@@ -2608,55 +2608,34 @@ effectifs dans les tribunaux administratifs et cours administratives d'appel.
 
 ###### Article L234-3
 
-Les  présidents occupent les fonctions, dans une cour administrative  d'appel, de vice-président, de président de chambre ou
-d'assesseur ;  dans un tribunal administratif, de président, de vice-président ou de  président de chambre ; au tribunal
-administratif de Paris, ils occupent  en outre les fonctions de président ou de vice-président de section. Ils  peuvent
-également occuper au Conseil d'Etat des fonctions d'inspection  des juridictions administratives. 
+Les présidents occupent les fonctions, dans une cour administrative d'appel, de vice-président, de président de chambre ou
+d'assesseur ; dans un tribunal administratif, de président, de vice-président ou de président de chambre ; au tribunal
+administratif de Paris, ils occupent en outre les fonctions de président ou de vice-président de section. Ils peuvent
+également occuper au Conseil d'Etat des fonctions d'inspection des juridictions administratives. 
 
-A la Cour nationale du droit d'asile, ils exercent les fonctions de président de section, pour une durée de trois ans,
-renouvelable une fois sur leur demande. Ils peuvent, le cas échéant, exercer ces fonctions à temps partagé avec celles
-d'assesseur dans une cour administrative d'appel.
+A la Cour nationale du droit d'asile, ils exercent les fonctions de président de section ou de chambre, pour une durée de
+trois ans, renouvelable sur leur demande.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 84
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 17
 
 	**Cité par**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. R732-1 (V)
 
 
-###### Article L234-3-1
-
-Les présidents de section à la Cour nationale du droit d'asile sont également affectés, dès leur nomination, auprès d'une
-cour administrative d'appel ou d'un tribunal administratif. S'ils doivent exercer leurs fonctions à temps partagé, cette
-autre affectation ne peut être prononcée qu'auprès d'une cour administrative d'appel. 
-
-Au terme de leurs fonctions à la Cour nationale du droit d'asile, ils rejoignent, sauf mutation, la cour ou le tribunal où
-ils ont été affectés en application du premier alinéa. Lorsqu'il s'agit d'un tribunal administratif et que, faute d'emploi
-vacant, ils ne peuvent présider une chambre, ces fonctions leur sont attribuées à la première vacance.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-526 du 12 mai 2009 - art. 15
-
-	**Abrogé par**:
-
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 17
-
-
 ###### Article L234-4
 
-Les  fonctions de président de chambre dans une cour administrative d'appel,  de président d'un tribunal administratif
-comportant moins de cinq  chambres, de président de section au tribunal administratif de Paris ou  de premier vice-président
-d'un tribunal administratif comportant au  moins huit chambres sont accessibles aux magistrats des tribunaux  administratifs
-et des cours administratives d'appel titulaires du grade  de président depuis au moins deux ans. La première nomination dans
-l'une de ces fonctions est subordonnée à l'inscription sur une liste d'aptitude annuelle établie sur proposition du Conseil
-supérieur des tribunaux administratifs et des cours administratives d'appel.
+Les fonctions de président de chambre dans une cour administrative d'appel, de président d'un tribunal administratif
+comportant moins de cinq chambres, de président de section au tribunal administratif de Paris ou de premier vice-président
+d'un tribunal administratif comportant au moins huit chambres ou de président de section à la Cour nationale du droit d'asile
+sont accessibles aux magistrats des tribunaux administratifs et des cours administratives d'appel titulaires du grade de
+président depuis au moins deux ans. La première nomination dans l'une de ces fonctions est subordonnée à l'inscription sur
+une liste d'aptitude annuelle établie sur proposition du Conseil supérieur des tribunaux administratifs et des cours
+administratives d'appel.
 
 **Liens relatifs à cet article**
 
@@ -2673,7 +2652,7 @@ supérieur des tribunaux administratifs et des cours administratives d'appel.
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 84
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 17
 
 
 ###### Article L234-5
@@ -5606,32 +5585,54 @@ Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée 
 	  - Code de justice administrative. - art. R776-1 (V)
 
 
-#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prises à la frontière
 
 ###### Article L777-1
 
 Les modalités selon lesquelles le président du tribunal administratif ou le magistrat qu'il a désigné examine les recours en
-annulation formés contre les décisions de refus d'entrée sur le territoire français au titre de l'asile obéissent aux règles
-fixées par l'article L. 213-9 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+annulation formés contre les décisions de refus d'entrée sur le territoire français au titre de l'asile et, le cas échéant,
+contre les décisions de transfert obéissent aux règles fixées par l'article L. 213-9 du code de l'entrée et du séjour des
+étrangers et du droit d'asile.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1631 du 20 novembre 2007 - art. 27 () JORF 21 novembre 2007
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 13
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-9
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R777-1 (VD)
+
+
+#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile
+
+###### Article L777-3
+
+Les modalités selon lesquelles le président du tribunal administratif ou le magistrat désigné à cette fin examine les recours
+en annulation formés contre les décisions de transfert mentionnées à l'article L. 742-3 du code de l'entrée et du séjour des
+étrangers et du droit d'asile obéissent aux règles définies aux articles L. 512-1 et L. 742-4 à L. 742-6 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 20
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-4
 
 
 #### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme
