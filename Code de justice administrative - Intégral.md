@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-09-18
 
 # Partie législative
 
@@ -7729,8 +7729,8 @@ laquelle ils sont affectés les présidents de section maintenus en activité, e
 l'Etat. 
 
 Dans le cas où une affaire attribuée à une section ressortit à des secteurs relevant de sections différentes, un ou plusieurs
-conseillers appartenant à chacune des sections intéressées peuvent être appelés à prendre part aux délibérations de la
-section compétente. 
+membres appartenant à chacune des sections intéressées peuvent être appelés à prendre part aux délibérations de la section
+compétente. 
 
 Les membres de la section ont voix délibérative dans toutes les affaires.
 
@@ -7749,7 +7749,7 @@ Les membres de la section ont voix délibérative dans toutes les affaires.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 7
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 2
 
 
 ###### Article R123-6-1
@@ -8156,7 +8156,7 @@ Deux suppléants sont désignés, pour chacun des conseillers d'Etat prévus au 
 conseillers d'Etat et les maîtres des requêtes de la section. Ceux-ci ont alors voix délibérative. 
 
 La commission permanente peut être complétée, selon la nature des affaires dont elle est saisie, par un et éventuellement
-deux conseillers désignés par le vice-président sur la proposition du président de la section qui aurait été normalement
+deux membres désignés par le vice-président sur la proposition du président de la section qui aurait été normalement
 compétente pour examiner l'affaire si l'urgence n'avait pas été déclarée.
 
 En outre, tout membre du Conseil d'Etat peut être spécialement désigné par le vice-président pour le rapport d'une affaire
@@ -8166,7 +8166,7 @@ déterminée.
 
 	**Modifié par**:
 
-	  - Décret n°2008-225 du 6 mars 2008 - art. 21
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 2
 
 	**Cité par**:
 
@@ -8216,25 +8216,24 @@ Les dispositions du dernier alinéa de l'article R. 123-6, des deux derniers ali
 
 Dans chaque ministère, des décrets pris sur la proposition des ministres intéressés désignent des fonctionnaires ayant au
 moins rang de directeurs, qui sont habilités à assister en qualité de commissaire du Gouvernement aux séances du Conseil pour
-l'ensemble des affaires du département dont ils relèvent. Des fonctionnaires peuvent être en outre désignés par arrêté
-ministériel pour prendre part à la discussion d'une affaire déterminée.
+l'ensemble des affaires du département dont ils relèvent. 
+
+Outre les directeurs qui sont habilités à assister aux séances du Conseil d'Etat en qualité de commissaires du Gouvernement
+pour l'ensemble des affaires de leur direction, des fonctionnaires peuvent être désignés en cette qualité par les ministres
+au moment de la saisine du Conseil pour l'examen d'une affaire déterminée.  
 
 Les commissaires du Gouvernement assistent avec voix consultative aux séances de l'assemblée générale, des commissions ou des
 sections pour les affaires qui dépendent de leurs services.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 25 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 3
 
 
 ###### Article R123-24-1
@@ -9568,17 +9567,20 @@ l'administrateur supérieur.
 ###### Article R221-1
 
 Les tribunaux administratifs et les cours administratives d'appel sont désignés par le nom de la ville où ils siègent.
-Toutefois, le tribunal administratif qui siège à Mamoudzou est désigné sous le nom de : "tribunal administratif de Mayotte",
-celui qui siège à Saint-Pierre sous le nom de : "tribunal administratif de Saint-Pierre-et-Miquelon", celui qui siège à
-Papeete sous le nom de "tribunal administratif de la Polynésie française" et celui qui siège à Nouméa sous le nom de
-"tribunal administratif de Nouvelle-Calédonie". Les tribunaux administratifs de Saint-Barthélemy et de Saint-Martin sont
-désignés sous cette même dénomination.
+Toutefois, le tribunal administratif qui siège à Basse-Terre est désigné sous le nom de : "tribunal administratif de la
+Guadeloupe", celui qui siège à Cayenne sous le nom de : "tribunal administratif de la Guyane", celui qui siège à Fort-de-
+France sous le nom de : "tribunal administratif de la Martinique", celui qui siège à Mamoudzou sous le nom de : "tribunal
+administratif de Mayotte", celui qui siège à Mata-Utu sous le nom de : "tribunal administratif de Wallis-et-Futuna", celui
+qui siège à Saint-Denis sous le nom de : "tribunal administratif de La Réunion", celui qui siège à Saint-Pierre sous le nom
+de : "tribunal administratif de Saint-Pierre-et-Miquelon", celui qui siège à Papeete sous le nom de : "tribunal administratif
+de la Polynésie française" et celui qui siège à Nouméa sous le nom de : "tribunal administratif de Nouvelle-Calédonie". Les
+tribunaux administratifs de Saint-Barthélemy et de Saint-Martin sont désignés sous cette même dénomination.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 3
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ###### Article R221-2
@@ -9767,14 +9769,39 @@ arrêté du vice-président du Conseil d'Etat. Il est présidé par un présiden
 	  - Code de justice administrative. - art. R222-17 (V)
 
 
+###### Article R221-6-1
+
+En application de l'article L. 221-2-1, un magistrat ne peut être délégué plus de trois fois au cours d'une même année pour
+une durée totale qui ne peut excéder six mois. 
+
+L'ordonnance du vice-président du Conseil d'Etat prévue par le deuxième alinéa de l'article L. 221-2-1 intervient sur avis du
+président de la juridiction administrative auprès de laquelle le magistrat est affecté et du président du tribunal
+administratif auprès duquel le magistrat est délégué. 
+
+Les magistrats délégués sont indemnisés de leurs frais de déplacement et de séjour dans les conditions fixées par le décret
+n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements
+temporaires des personnels civils de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-781 du 3 juillet 2006
+	  - Code de justice administrative - art. L221-2-1
+
+	**Créé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 4
+
+
 ##### Section 3 : Organisation des cours administratives d'appel
 
 ###### Article R221-7
 
 Le siège et le ressort des cours administratives d'appel sont fixés comme suit : 
 
-Bordeaux : ressort des tribunaux administratifs de Bordeaux, Limoges, Pau, Poitiers, Toulouse, Basse-Terre, Cayenne, Fort-de-
-France, Saint-Denis, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon ; 
+Bordeaux : ressort des tribunaux administratifs de Bordeaux, Limoges, Pau, Poitiers, Toulouse, Guadeloupe, Guyane,
+Martinique, La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon ; 
 
 Douai : ressort des tribunaux administratifs d'Amiens, Lille et Rouen ; 
 
@@ -9786,7 +9813,7 @@ Nancy : ressort des tribunaux administratifs de Besançon, Châlons-en-Champagne
 
 Nantes : ressort des tribunaux administratifs de Caen, Nantes, Orléans et Rennes ; 
 
-Paris : ressort des tribunaux administratifs de Melun, Paris, Mata-Utu, Nouvelle-Calédonie et Polynésie française ; 
+Paris : ressort des tribunaux administratifs de Melun, Paris, Wallis-et-Futuna, Nouvelle-Calédonie et Polynésie française ; 
 
 Versailles : ressort des tribunaux administratifs de Cergy-Pontoise, Montreuil et Versailles.
 
@@ -9798,7 +9825,7 @@ Versailles : ressort des tribunaux administratifs de Cergy-Pontoise, Montreuil e
 
 	**Modifié par**:
 
-	  - Décret n°2009-945 du 29 juillet 2009 - art. 6
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ###### Article R221-8
@@ -9877,8 +9904,8 @@ Peuvent être inscrites sur le tableau des experts les personnes physiques qui r
 au moins, dans le ou les domaines de compétence au titre desquels l'inscription est demandée, y compris les qualifications
 acquises ou les activités exercées dans un Etat membre de l'Union européenne autre que la France ; 
 
-2° Ne pas avoir cessé d'exercer cette activité depuis plus de deux ans avant la date de la demande d'inscription ou de
-réinscription ; 
+2° Ne pas avoir cessé d'exercer cette activité depuis plus de deux ans avant la date limite de dépôt des candidatures, le 15
+septembre de chaque année ;
 
 3° Ne pas avoir fait l'objet d'une condamnation pénale ou d'une sanction disciplinaire pour des faits incompatibles avec
 l'exercice d'une mission d'expertise ; 
@@ -9898,12 +9925,12 @@ même des experts inscrits sur la liste nationale prévue par l'article L. 1142-
 
 	**Cite**:
 
-	  - Loi n°71-498 du 29 juin 1971 (V)
-	  - Code de la santé publique - art. L1142-10 (M)
+	  - Loi n°71-498 du 29 juin 1971
+	  - Code de la santé publique - art. L1142-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-730 du 13 août 2013 - art. 7
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 5
 
 	**Cité par**:
 
@@ -10004,13 +10031,21 @@ sa spécialité que dans la pratique de l'expertise devant les juridictions admi
 ###### Article R221-15
 
 La décision par laquelle le président de la cour administrative d'appel refuse l'inscription ou la réinscription d'un
-candidat est motivée.
+candidat est motivée. Elle est notifiée au candidat par lettre remise contre signature. 
+
+En application du II de l'article 21 de la loi du 12 avril 2000, et par dérogation au délai de deux mois prévu au premier
+alinéa du I, le silence gardé par le président de la cour administrative d'appel pendant seize mois sur la demande
+d'inscription ou de réinscription d'un candidat vaut acceptation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2013-730 du 13 août 2013 - art. 7
+	  - Loi n°2000-321 du 12 avril 2000 - art. 21
+
+	**Modifié par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 6
 
 	**Cité par**:
 
@@ -10133,26 +10168,22 @@ Pour les cours administratives d'appel de Paris et de Versailles :
 1° Le tableau des experts et l'ensemble des décisions y afférentes sont établis conjointement par les deux présidents de
 cour ; 
 
-2° La commission prévue par l'article R. 221-12 associe les présidents des tribunaux administratifs ayant leur siège dans le
+2° La commission prévue par l'article R. 221-10 associe les présidents des tribunaux administratifs ayant leur siège dans le
 ressort des deux cours ou leur représentant ; 
 
-3° La condition d'établissement ou de résidence prévue par le 5° de l'article R. 221-10 s'apprécie également au regard du
+3° La condition d'établissement ou de résidence prévue par le 5° de l'article R. 221-11 s'apprécie également au regard du
 ressort des deux cours.
-
-**Nota:**
-
-Il convient de lire "par le 5° de l'article R. 221-11" au lieu de "par le 5° de l'article R. 221-10".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-730 du 13 août 2013 - art. 7
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 7
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R221-10 (V)
-	  - Code de justice administrative - art. R221-12 (V)
+	  - Code de justice administrative - art. R221-10
+	  - Code de justice administrative - art. R221-11
 
 
 #### Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel
@@ -10161,8 +10192,9 @@ Il convient de lire "par le 5° de l'article R. 221-11" au lieu de "par le 5° d
 
 ###### Article R222-1
 
-Les présidents de tribunal administratif et de cour administrative d'appel, le vice-président du tribunal administratif de
-Paris et les présidents de formation de jugement des tribunaux et des cours peuvent, par ordonnance : 
+Les présidents de tribunal administratif et de cour administrative d'appel, les premiers vice-présidents des tribunaux et des
+cours,  le vice-président du tribunal administratif de Paris et les présidents de formation de jugement des tribunaux et des
+cours peuvent, par ordonnance : 
 
 1° Donner acte des désistements ; 
 
@@ -10187,31 +10219,26 @@ ce mémoire, les requêtes ne comportant que des moyens de légalité externe ma
 des moyens inopérants ou des moyens qui ne sont assortis que de faits manifestement insusceptibles de venir à leur soutien ou
 ne sont manifestement pas assortis des précisions permettant d'en apprécier le bien-fondé. 
 
-Les présidents des cours administratives d'appel et les présidents des formations de jugement des cours peuvent, en outre,
-par ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décision juridictionnelle frappée d'appel et les
-requêtes dirigées contre des ordonnances prises en application des 1° à 6° du présent article. Ils peuvent, de même, annuler
-une ordonnance prise en application des 1° à 5° du présent article à condition de régler l'affaire au fond par application de
-l'une de ces dispositions.
-
-**Nota:**
-
-Décret 2006-1708 du 23 décembre 2006 art. 12 : Le 4° de l'article R. 222-1 entre en vigueur le 1er janvier 2007. Le 7° de
-l'article R. 222-1 est applicable aux requêtes enregistrées à compter du 1er janvier 2007.
+Les présidents des cours administratives d'appel, les premiers vice-présidents des cours  et les présidents des formations de
+jugement des cours peuvent, en outre, par ordonnance, rejeter les conclusions à fin de sursis à exécution d'une décision
+juridictionnelle frappée d'appel et les requêtes dirigées contre des ordonnances prises en application des 1° à 6° du présent
+article. Ils peuvent, de même, annuler une ordonnance prise en application des 1° à 5° du présent article à condition de
+régler l'affaire au fond par application de l'une de ces dispositions.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2006-1708 du 23 décembre 2006 - art. 7 () JORF 29 décembre 2006
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 8
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L113-1 (V)
-	  - Code de justice administrative - art. L761-1 (V)
+	  - Code de justice administrative - art. L113-1
+	  - Code de justice administrative - art. L761-1
 
 	**Cité par**:
 
@@ -10229,10 +10256,6 @@ l'article R. 222-1 est applicable aux requêtes enregistrées à compter du 1er 
 	  - Code de justice administrative - art. R777-3-3 (VD)
 	  - Code de justice administrative - art. R811-1 (VD)
 	  - Code de justice administrative - art. R822-5 (VD)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. L9 (M)
 
 
 ###### Article R222-2
@@ -10433,23 +10456,18 @@ recettes.
 ###### Article R222-12
 
 Les présidents, chefs de juridiction des tribunaux administratifs et des cours administratives d'appel, sont institués
-ordonnateurs secondaires des dépenses de fonctionnement de la juridiction qu'ils président. Ils peuvent déléguer, en cas
-d'absence ou d'empêchement, leur signature, sous leur responsabilité, à un membre de leur juridiction ou à un fonctionnaire
-de greffe de catégorie A.
+ordonnateurs secondaires des dépenses de fonctionnement de la juridiction qu'ils président. En cas d'absence ou
+d'empêchement, ils peuvent déléguer leur signature à un membre ou à un fonctionnaire de leur juridiction.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°89-915 du 19 décembre 1989 - art. 1 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 9
 
 
 ##### Section 2 : Fonctionnement des tribunaux administratifs
@@ -10514,75 +10532,54 @@ est inférieur au montant déterminé par les articles R. 222-14 et R. 222-15.
 
 ###### Article R222-14
 
-Les dispositions du 7° de l'article précédent sont applicables aux demandes dont le montant n'excède pas 10 000 euros.
+Les dispositions du 10° de l'article précédent sont applicables aux demandes dont le montant n'excède pas 10 000 euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2006-1708 du 23 décembre 2006 - art. 3 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 10
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R222-13 (VD)
 	  - Code de justice administrative - art. R811-1 (VD)
 
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R17-1 (Ab)
-
 
 ###### Article R222-15
 
 Ce montant est déterminé par la valeur totale des sommes demandées dans la requête introductive d'instance. Les demandes
 d'intérêts et celles qui sont présentées en application des dispositions de l'article L. 761-1 sont sans effet sur la
-détermination de ce montant.
+détermination de ce montant. 
 
-Le magistrat n'est compétent pour statuer en application du 7° de l'article R. 222-13 que si aucune demande accessoire,
-incidente ou reconventionnelle n'est supérieure au taux de sa compétence.
+Le magistrat n'est compétent pour statuer en application du 10° de l'article R. 222-13 que si aucune demande accessoire,
+incidente ou reconventionnelle n'est supérieure au taux de sa compétence. 
 
 Lorsque des indemnités sont demandées, dans une même requête, par plusieurs demandeurs ou contre plusieurs défendeurs, la
 compétence de ce magistrat est déterminée par la plus élevée d'entre elles.
-
-**Nota:**
-
-Les dispositions de l'article 11 du décret n° 2003-543 s'appliqueront aux décisions des tribunaux administratifs rendues à
-compter du 1er septembre 2003.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-543 du 24 juin 2003 - art. 11 () JORF 25 juin 2003
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 10
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Code de justice administrative - art. L761-1
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R811-1 (VD)
 	  - Code de justice administrative. - art. R222-13 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L761-1 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R17-2 (Ab)
 
 
 ###### Article R222-16
@@ -11075,36 +11072,36 @@ Les dispositions des articles R. 222-23 et R. 222-24 sont applicables dans les c
 
 ###### Article R223-1
 
-Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Fort-de-France et
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de la Martinique  et
 de Saint-Pierre-et-Miquelon. Ces tribunaux peuvent avoir des membres communs.
 
-Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Basse-Terre, de
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de la Guadeloupe, de
 Saint-Barthélemy et de Saint-Martin. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces tribunaux
 peuvent avoir des membres communs.
 
-Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mayotte et de
-Saint-Denis. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces tribunaux peuvent avoir des membres
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mayotte et de La
+Réunion. Il est assisté d'un ou plusieurs magistrats ayant le grade de président. Ces tribunaux peuvent avoir des membres
 communs.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-921 du 1er août 2011 - art. 3
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ###### Article R223-2
 
-Les fonctions de rapporteur public auprès des tribunaux administratifs de Fort-de-France et de Saint-Pierre-et-Miquelon sont
+Les fonctions de rapporteur public auprès des tribunaux administratifs de la Martinique  et de Saint-Pierre-et-Miquelon sont
 assurées par le ou les mêmes magistrats. Il en va de même pour les fonctions de rapporteur public auprès, d'une part, des
-tribunaux administratifs de Basse-Terre, de Saint-Barthélemy et de Saint-Martin et, d'autre part, des tribunaux
-administratifs de Mayotte et de Saint-Denis.
+tribunaux administratifs de la Guadeloupe, de Saint-Barthélemy et de Saint-Martin et, d'autre part, des tribunaux
+administratifs de Mayotte et de La Réunion.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-921 du 1er août 2011 - art. 3
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ###### Article R223-3
@@ -11790,47 +11787,46 @@ assure la publication de celui-ci au Journal officiel de la Polynésie français
 
 ###### Article R225-5-1
 
-L'avis rendu par le tribunal administratif de la Polynésie française en application de l'article L. 225-3 est notifié à
-l'auteur de la demande d'avis, au haut-commissaire de la République et au ministre chargé de l'outre-mer.
+L'avis rendu par le tribunal administratif de la Polynésie française en application des articles 174 et 175 de la loi
+organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française est notifié à l'auteur de la
+demande d'avis, au haut-commissaire de la République et au ministre chargé de l'outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Créé par**:
-
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L225-3 (M)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 174
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 175
+
+	**Modifié par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
 
 
 ###### Article R225-6
 
-La transmission d'une demande d'avis par le tribunal administratif de la Polynésie française en application de l'article L.
-225-3 est adressée par le greffier de cette juridiction au secrétaire général du Conseil d'Etat.
+La transmission d'une demande d'avis par le tribunal administratif de la Polynésie française en application de des articles
+174 et 175 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française est
+adressée par le greffier de cette juridiction au secrétaire général du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 13-1 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R248 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2005-1611 du 20 décembre 2005 - art. 3 () JORF 22 décembre 2005
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L225-3 (M)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 174
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 175
+
+	**Modifié par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
 
 
 ###### Article R225-7
@@ -11992,65 +11988,46 @@ consignation préalable des frais d'instance. Ils fixent, dans ce cas, la somme 
 
 ###### Article R225-9
 
-Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de Mata-Utu et de
-Nouvelle-Calédonie. Ces tribunaux peuvent avoir des membres communs.
+Un même président, classé au 5e échelon de son grade, assure la présidence des tribunaux administratifs de  Wallis-et-Futuna
+et de Nouvelle-Calédonie. Ces tribunaux peuvent avoir des membres communs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2004-2 2004-01-02 art. 1 I, art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
-	  - Décret n°2004-2 du 2 janvier 2004 - art. 1 (V) JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ###### Article R225-10
 
-Les fonctions de  rapporteur public auprès des tribunaux administratifs de Mata-Utu et de Nouvelle-Calédonie sont assurées
-par le ou les mêmes magistrats.
+Les fonctions de rapporteur public auprès des tribunaux administratifs de  Wallis-et-Futuna et de Nouvelle-Calédonie sont
+assurées par le ou les mêmes magistrats.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ###### Article R225-11
 
-Le magistrat de l'ordre judiciaire appelé à faire partie du tribunal de Mata-Utu est choisi parmi les magistrats en fonction
-dans le ressort.
+Le magistrat de l'ordre judiciaire appelé à faire partie du tribunal de  Wallis-et-Futuna est choisi parmi les magistrats en
+fonction dans le ressort.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 13-3 (Ab)
-	  - Code des tribunaux administratifs et des cours adm - art. R249 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2004-2 2004-01-02 art. 2 3° JORF 3 janvier 2004 en vigueur le 1er février 2004
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 	**Cité par**:
 
@@ -12116,14 +12093,18 @@ Les greffiers en chef et les greffiers sont nommés par le ministre de l'intéri
 Conseil d'Etat, après avis, selon le cas, du président du tribunal administratif ou du président de la cour administrative
 d'appel. 
 
-Dans les tribunaux administratifs et les cours administratives d'appel dont la liste est fixée par arrêté conjoint du
-ministre de l'intérieur et du garde des sceaux, ministre de la justice, les greffiers en chef sont nommés sur des emplois de
-conseiller d'administration de l'intérieur et de l'outre-mer, dans les conditions prévues par le décret n° 2007-1488 du 17
-octobre 2007. 
+Les agents de greffe des tribunaux administratifs et des cours administratives d'appel de catégorie A sont nommés parmi les
+fonctionnaires du corps interministériel des attachés d'administration de l'Etat, rattachés pour leur recrutement et leur
+gestion au ministre de l'intérieur dans les tribunaux administratifs et les cours administratives d'appel dont la liste est
+fixée par arrêté conjoint du ministre de l'intérieur et du garde des sceaux, ministre de la justice, les greffiers en chef
+sont nommés sur des emplois de conseiller d'administration de l'intérieur et de l'outre-mer, dans les conditions prévues par
+le décret n° 2007-1488 du 17 octobre 2007. 
 
-Les greffiers en chef des autres juridictions et les greffiers sont nommés parmi les fonctionnaires des corps de l'intérieur
-et de l'outre-mer. Les greffiers en chef doivent avoir au moins le grade d'attaché. Les greffiers doivent avoir au moins le
-grade de secrétaire administratif.
+Les agents de greffe des tribunaux administratifs et des cours administratives d'appel de catégories B et C sont nommés parmi
+les fonctionnaires des corps de l'intérieur et de l'outre-mer. 
+
+Les greffiers en chef doivent avoir au moins le grade d'attaché. Les greffiers doivent avoir au moins le grade de secrétaire
+administratif.
 
 **Liens relatifs à cet article**
 
@@ -12133,7 +12114,7 @@ grade de secrétaire administratif.
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 50
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 11
 
 
 ###### Article R226-2
@@ -12264,14 +12245,15 @@ président.
 
 ###### Article R226-8
 
-Le greffier en chef et les greffiers des tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de
-Nouvelle-Calédonie appartiennent à la fonction publique d'Etat et sont désignés par le président du tribunal administratif.
+Le greffier en chef et les greffiers des tribunaux administratifs de la Polynésie française, de  Wallis-et-Futuna et de
+Nouvelle-Calédonie sont des agents de la fonction publique et sont désignés par le président du tribunal administratif.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 23
 
 
 ###### Article R226-9
@@ -12369,13 +12351,13 @@ de secrétaire administratif et, s'il y a lieu, par un greffier adjoint.
 ###### Article R226-14
 
 Le service du greffe des tribunaux administratifs de Saint-Barthélemy et de Saint-Martin est assuré par le greffe du tribunal
-administratif de Basse-Terre.
+administratif de la Guadeloupe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 11
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 #### Chapitre VII : Les assistants de justice
@@ -12630,21 +12612,17 @@ Le nombre de vacations horaires allouées à un même bénéficiaire ne peut exc
 ###### Article R231-1
 
 Les membres du corps des tribunaux administratifs et des cours administratives d'appel exercent leurs fonctions de magistrats
-administratifs au sein de ces juridictions.
+administratifs au sein de ces juridictions ou à la Cour nationale du droit d'asile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°97-859 du 18 septembre 1997 - art. 1 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 12
 
 	**Cité par**:
 
@@ -13924,24 +13902,14 @@ conseiller à un échelon déterminé sur la base des durées fixées pour chaqu
 prenant en compte une partie de la durée de cette ou ces activités professionnelles. La durée retenue pour le classement, qui
 ne peut excéder sept années, est prise en compte à hauteur de la moitié. 
 
-Toutefois, les fonctionnaires, les militaires et les magistrats sont nommés et titularisés dans les conditions fixées à
-l'article R. 233-6.
-
-**Nota:**
-
-Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
-recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
-janvier 2013.
+Toutefois, les fonctionnaires, les militaires et les magistrats sont nommés et titularisés dans le grade de conseiller  dans
+les conditions fixées à l'article R. 233-6.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 13
 
 	**Cite**:
 
@@ -15081,79 +15049,70 @@ juridiction qu'il désigne.
 
 #### Chapitre Ier : Connexité entre des demandes relevant de la compétence d'un tribunal administratif et des demandes relevant de la compétence de premier ressort du Conseil d'Etat
 
+#### Chapitre Ier : Connexité entre des demandes relevant de la compétence d'un tribunal administratif ou d'une cour administrative d'appel et des demandes relevant de la compétence de premier ressort du Conseil d'Etat
+
 ###### Article R341-1
 
 Lorsque le Conseil d'Etat est saisi de conclusions relevant de sa compétence de premier ressort, il est également compétent
-pour connaître de conclusions connexes relevant normalement de la compétence de premier ressort d'un tribunal administratif.
+pour connaître de conclusions connexes relevant normalement de la compétence de premier ressort d'un tribunal administratif
+ou d'une cour administrative d'appel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R66 (Ab)
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 14
 
 
 ###### Article R341-2
 
-Dans le cas où un tribunal administratif est saisi de conclusions relevant normalement de sa compétence mais connexes à des
-conclusions présentées devant le Conseil d'Etat et relevant de la compétence en premier et dernier ressort de celui-ci, son
-président renvoie au Conseil d'Etat lesdites conclusions.
+Dans le cas où un tribunal administratif ou une cour administrative d'appel  est saisi de conclusions relevant normalement de
+sa compétence mais connexes à des conclusions présentées devant le Conseil d'Etat et relevant de la compétence en premier et
+dernier ressort de celui-ci, son président renvoie au Conseil d'Etat lesdites conclusions.
 
 Dans le même cas, le président de la section du contentieux, saisi par la sous-section intéressée, ordonne le renvoi au
-Conseil d'Etat de la demande soumise au tribunal administratif.
+Conseil d'Etat de la demande soumise au tribunal administratif ou à la cour administrative d'appel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 14
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R351-6 (VD)
 	  - Code de justice administrative. - art. R341-4 (V)
 
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R67 (Ab)
-
 
 ###### Article R341-3
 
-Dans le cas où un tribunal administratif est saisi de conclusions distinctes mais connexes relevant les unes de sa compétence
-et les autres de la compétence en premier et dernier ressort du Conseil d'Etat, son président renvoie l'ensemble de ces
-conclusions au Conseil d'Etat.
+Dans le cas où un tribunal administratif ou une cour administrative d'appel  est saisi de conclusions distinctes mais
+connexes relevant les unes de sa compétence et les autres de la compétence en premier et dernier ressort du Conseil d'Etat,
+son président renvoie l'ensemble de ces conclusions au Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 14
 
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R341-4 (V)
 	  - Code de justice administrative. - art. R351-6 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R68 (Ab)
 
 
 ###### Article R341-4
@@ -15449,6 +15408,70 @@ des articles R. 351-4 à R. 351-7.
 	  - Code des tribunaux administratifs et des cours adm - art. R79 (Ab)
 
 
+#### Chapitre V : Connexité entre des demandes relevant de la compétence d'un tribunal administratif et des demandes relevant de la compétence de premier ressort d'une cour administrative d'appel
+
+
+###### Article R345-1
+
+Lorsqu'une  cour administrative d'appel est saisie de conclusions relevant de sa  compétence de premier ressort, elle est
+également compétente pour  connaître de conclusions connexes relevant normalement de la compétence  de premier ressort d'un
+tribunal administratif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 15
+
+
+###### Article R345-2
+
+Dans  le cas où un tribunal administratif est saisi de conclusions relevant  normalement de sa compétence mais connexes à des
+conclusions présentées  devant une cour administrative d'appel et relevant de la compétence en  premier et dernier ressort de
+celle-ci, son président renvoie à cette  cour lesdites conclusions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 15
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R345-4 (V)
+
+
+###### Article R345-3
+
+Dans  le cas où un tribunal administratif est saisi de conclusions distinctes  mais connexes relevant les unes de sa
+compétence et les autres de la  compétence en premier et dernier ressort d'une cour administrative  d'appel, son président
+renvoie l'ensemble de ces conclusions à ladite  cour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 15
+
+
+###### Article R345-4
+
+Dans les cas prévus aux articles R. 345-2 et R. 345-3 ci-dessus, il est fait application des dispositions des articles R.
+351-3, R. 351-4 et R. 351-7 ci-après.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 15
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R345-2
+	  - Code de justice administrative - art. R351-3
+	  - Code de justice administrative - art. R351-7
+
+
 ### Titre V : Le règlement des questions de compétence
 
 ###### Article R351-1
@@ -15592,6 +15615,20 @@ qu'il n'y a pas lieu de statuer sur tout ou partie des conclusions.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R351-5-1
+
+Lorsque le Conseil d'Etat est saisi de conclusions se rapportant à un litige qui ne relève pas de la compétence de la
+juridiction administrative, il est compétent, nonobstant les règles relatives aux voies de recours et à la répartition des
+compétences entre les juridictions administratives, pour se prononcer sur ces conclusions et décliner la compétence de la
+juridiction administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 16
 
 
 ###### Article R351-6
@@ -16413,14 +16450,12 @@ publique de l'Etat ;
 
 ###### Article R421-2
 
-Sauf disposition législative ou réglementaire contraire, le silence gardé pendant plus de deux mois sur une réclamation par
-l'autorité compétente vaut décision de rejet.
+Sauf disposition législative ou réglementaire contraire, dans les cas où le silence gardé par l'autorité administrative sur
+une demande vaut décision de rejet, l'intéressé dispose, pour former un recours, d'un délai de deux mois à compter de la date
+à laquelle est née une décision implicite de rejet. Toutefois, lorsqu'une décision explicite de rejet intervient avant
+l'expiration de cette période, elle fait à nouveau courir le délai de recours.
 
-Les intéressés disposent, pour se pourvoir contre cette décision implicite, d'un délai de deux mois à compter du jour de
-l'expiration de la période mentionnée au premier alinéa. Néanmoins, lorsqu'une décision explicite de rejet intervient dans ce
-délai de deux mois, elle fait à nouveau courir le délai du pourvoi.
-
-La date du dépôt de la réclamation à l'administration, constatée par tous moyens, doit être établie à l'appui de la requête.
+La date du dépôt de la demande à l'administration, constatée par tous moyens, doit être établie à l'appui de la requête.
 
 **Liens relatifs à cet article**
 
@@ -16434,19 +16469,11 @@ La date du dépôt de la réclamation à l'administration, constatée par tous m
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 4 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R102 (M)
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 17
 
 
 ###### Article R421-3
@@ -16553,9 +16580,9 @@ personnes qui demeurent en Guadeloupe, en Guyane, à la Martinique, à La Réuni
 Mayotte, à Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans
 les Terres australes et antarctiques françaises. 
 
-Lorsque la demande est présentée devant le tribunal administratif de Basse-Terre, de Fort-de-France, de Cayenne, de Saint-
-Denis, de Saint-Barthélemy, de Saint-Martin, de Mayotte, de Saint-Pierre-et-Miquelon, de la Polynésie française, de Mata-Utu
-ou de Nouvelle-Calédonie, ce délai est augmenté d'un mois pour les personnes qui ne demeurent pas dans la collectivité
+Lorsque la demande est présentée devant le tribunal administratif de Guadeloupe, de Martinique, de Guyane, de La Réunion, de
+Saint-Barthélemy, de Saint-Martin, de Mayotte, de Saint-Pierre-et-Miquelon, de la Polynésie française, de Wallis-et-Futuna ou
+de Nouvelle-Calédonie, ce délai est augmenté d'un mois pour les personnes qui ne demeurent pas dans la collectivité
 territoriale dans le ressort de laquelle le tribunal administratif a son siège. 
 
 Ce même délai est augmenté de deux mois pour les personnes qui demeurent à l'étranger. 
@@ -16568,7 +16595,7 @@ arrondissements, les subdivisions ou les circonscriptions administratives.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1562 du 14 décembre 2010 - art. 7
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 	**Cite**:
 
@@ -16821,26 +16848,22 @@ L'Etat est dispensé du ministère d'avocat soit en demande, soit en défense, s
 
 ###### Article R431-8
 
-Les parties non représentées devant un tribunal administratif qui ont leur résidence hors du territoire de la République
-doivent faire élection de domicile dans le ressort de ce tribunal.
+Les parties non représentées devant un tribunal administratif par un avocat ou un avocat au Conseil d'Etat et à la Cour de
+cassation qui ont leur résidence à l'étranger doivent faire élection de domicile sur le territoire de la République.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 18
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R431-13 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R113 (M)
 
 
 ###### Article R431-9
@@ -16892,9 +16915,9 @@ Devant les tribunaux administratifs de Mayotte, de Saint-Barthélemy, de Saint-M
 recours, les mémoires en défense et les mémoires en intervention présentés au nom de l'Etat sont signés soit par le ministre
 chargé de l'outre-mer ou son délégué, soit par le représentant de l'Etat ou son délégué. 
 
-Devant le tribunal administratif de Mata-Utu, les recours, les mémoires en défense et les mémoires en intervention présentés
-au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par l'administrateur supérieur
-ou son délégué.
+Devant le tribunal administratif de  Wallis-et-Futuna, les recours, les mémoires en défense et les mémoires en intervention
+présentés au nom de l'Etat sont signés soit par le ministre chargé de l'outre-mer ou son délégué, soit par l'administrateur
+supérieur ou son délégué. 
 
 En ce qui concerne les Terres australes et antarctiques françaises, les recours, les mémoires en défense et les mémoires en
 intervention présentés au nom de l'Etat ou de la collectivité sont signés par l'administrateur supérieur ou son délégué.
@@ -16913,7 +16936,7 @@ intervention présentés au nom de l'Etat ou de la collectivité sont signés pa
 
 	**Modifié par**:
 
-	  - Décret n°2010-1562 du 14 décembre 2010 - art. 8
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ###### Article R431-10-1
@@ -19195,8 +19218,8 @@ Gouvernement.
 
 ###### Article R611-15-1
 
-Devant le tribunal administratif de Mata-Utu, les demandes présentées contre une décision ou une délibération prise au nom ou
-pour le compte de l'Etat ou du territoire des îles Wallis et Futuna, et les demandes présentées contre l'Etat ou le
+Devant le tribunal administratif de  Wallis-et-Futuna, les demandes présentées contre une décision ou une délibération prise
+au nom ou pour le compte de l'Etat ou du territoire des îles Wallis et Futuna, et les demandes présentées contre l'Etat ou le
 territoire des îles Wallis et Futuna et mettant en cause leur responsabilité, sont communiquées par le tribunal administratif
 à l'administrateur supérieur.
 
@@ -19204,19 +19227,11 @@ territoire des îles Wallis et Futuna et mettant en cause leur responsabilité, 
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2004-2 2004-01-02 art. 2 8° JORF 3 janvier 2004 en vigueur le 1er février 2004
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R144 (M)
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ##### Section 3 : Dispositions applicables devant les cours administratives d'appel
@@ -19642,14 +19657,14 @@ le président du tribunal administratif au haut-commissaire si elle concerne une
 Devant le tribunal administratif de Mayotte, la mise en demeure est adressée par le président du tribunal administratif au
 représentant du Gouvernement si elle concerne une administration de l'Etat ou de la collectivité territoriale. 
 
-Devant le tribunal administratif de Mata-Utu, la mise en demeure est adressée à l'administrateur supérieur si elle concerne
-une administration de l'Etat ou du territoire des îles Wallis et Futuna.
+Devant le tribunal administratif de  Wallis-et-Futuna, la mise en demeure est adressée à l'administrateur supérieur si elle
+concerne une administration de l'Etat ou du territoire des îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 
 ###### Article R612-5
@@ -19713,9 +19728,7 @@ close. Cette ordonnance n'est pas motivée et ne peut faire l'objet d'aucun reco
 
 Les lettres remises contre signature portant notification de cette ordonnance ou tous autres dispositifs permettant
 d'attester la date de réception de ladite ordonnance sont envoyés à toutes les parties en cause quinze jours au moins avant
-la date de la clôture fixée par l'ordonnance. Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de
-Mata-Utu et de Nouvelle-Calédonie, le délai de notification est porté à un mois et l'ordonnance peut être notifiée par voie
-administrative. 
+la date de la clôture fixée par l'ordonnance. 
 
 Lorsqu'une partie appelée à produire un mémoire n'a pas respecté, depuis plus d'un mois, le délai qui lui a été assigné par
 une mise en demeure comportant les mentions prévues par le troisième alinéa de l'article R. 612-3 ou lorsque la date prévue
@@ -19739,7 +19752,7 @@ alinéa.
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 28
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
 
 
 ###### Article R613-2
@@ -20093,17 +20106,13 @@ L'expert n'est pas admis à contester la décision qui le récuse.
 Les parties sont averties par le ou les experts des jours et heures auxquels il sera procédé à l'expertise ; cet avis leur
 est adressé quatre jours au moins à l'avance, par lettre recommandée. 
 
-Les observations faites par les parties, dans le cours des opérations, sont consignées dans le rapport. 
-
-Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le président
-du tribunal fixe par ordonnance les délais dans lesquels les parties doivent être averties ainsi que les moyens par lesquels
-cet avis est porté à leur connaissance.
+Les observations faites par les parties, dans le cours des opérations, sont consignées dans le rapport.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
 
 
 ###### Article R621-7-1
@@ -21163,10 +21172,7 @@ application du premier alinéa de l'article R. 711-3 ou, si l'affaire relève de
 décision prise sur la dispense de conclusions du rapporteur public, en application du second alinéa de l'article R. 711-3. 
 
 L'avertissement est donné sept jours au moins avant l'audience. Toutefois, en cas d'urgence, ce délai peut être réduit à deux
-jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis d'audience. 
-
-Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai de
-sept jours est porté à dix jours.
+jours par une décision expresse du président de la formation de jugement qui est mentionnée sur l'avis d'audience.
 
 **Liens relatifs à cet article**
 
@@ -21183,14 +21189,14 @@ sept jours est porté à dix jours.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1950 du 23 décembre 2011 - art. 4
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R611-4 (V)
-	  - Code de justice administrative - art. R711-3 (V)
-	  - Code de justice administrative - art. R731-3 (V)
-	  - Code de justice administrative - art. R732-1-1 (V)
+	  - Code de justice administrative - art. R611-4
+	  - Code de justice administrative - art. R711-3
+	  - Code de justice administrative - art. R731-3
+	  - Code de justice administrative - art. R732-1-1
 
 
 ###### Article R711-2-1
@@ -22537,8 +22543,8 @@ l'article R. 811-10-1, la notification est adressée au préfet. Copie de la dé
 intéressé. 
 
 Devant les tribunaux administratifs de Mayotte, de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon, de la
-Polynésie française, de Mata-Utu et de Nouvelle-Calédonie et devant le tribunal administratif de Saint-Denis lorsque le
-jugement intéresse les Terres australes et antarctiques françaises, l'expédition est adressée dans tous les cas au
+Polynésie française, de Wallis-et-Futuna  et de Nouvelle-Calédonie et devant le tribunal administratif de La Réunion  lorsque
+le jugement intéresse les Terres australes et antarctiques françaises, l'expédition est adressée dans tous les cas au
 représentant de l'Etat. Une copie de la décision est également transmise par voie postale ou par voie électronique au
 ministre chargé de l'outre-mer, ainsi que, s'il y a lieu, au ministre dont relève l'administration intéressée au litige ou à
 l'autorité qui assure la défense de l'Etat. 
@@ -22569,8 +22575,7 @@ postale ou par voie électronique au ministre chargé de l'outre-mer, ainsi que,
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 16
-	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
 
 	**Cité par**:
 
@@ -23350,10 +23355,9 @@ préfecture ; dans ce dernier cas, il est fait application des dispositions de l
 
 ###### Article R772-4
 
-Devant les tribunaux administratifs de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, les requêtes en matière
-fiscale dont le contentieux ressortit à la juridiction administrative sont, sous réserve des articles 100 à 104 ter du décret
-du 5 août 1881 modifié et des articles 172 et 173 du décret du 30 décembre 1912 modifié, présentées et instruites par le
-tribunal administratif dans les formes prévues dans le présent code. 
+Devant les tribunaux administratifs de la Polynésie française, de Wallis-et-Futuna et de Nouvelle-Calédonie, les requêtes en
+matière fiscale dont le contentieux ressortit à la juridiction administrative sont, présentées et instruites par le tribunal
+administratif dans les formes prévues dans le présent code . 
 
 Devant le tribunal administratif de Mayotte, les requêtes en matière d'impôts directs et de taxe sur le chiffre d'affaires ou
 assimilées dont l'assiette ou le recouvrement est confié à la direction des services fiscaux sont présentées, instruites et
@@ -23361,14 +23365,14 @@ jugées dans les formes prévues dans le livre des procédures fiscales applicab
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°1881-08-05 art. 100 à 104 ter
-	  - Décret n°1912-12-30 art. 172, art. 173
-
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 20
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 22
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
+
+	**Cite**:
+
+	  - Livre des procédures fiscales
 
 
 #### Chapitre II bis : Les contentieux sociaux
@@ -25394,19 +25398,19 @@ règle définitivement le fond du litige.
 ###### Article R811-7
 
 Les appels ainsi que les mémoires déposés devant la cour administrative d'appel doivent être présentés, à peine
-d'irrecevabilité, par l'un des mandataires mentionnés à l'article R. 431-2.
+d'irrecevabilité, par l'un des mandataires mentionnés à l'article R. 431-2. 
 
 Lorsque la notification de la décision soumise à la cour administrative d'appel ne comporte pas la mention prévue au
 troisième alinéa de l'article R. 751-5, le requérant est invité par la cour à régulariser sa requête dans les conditions
-fixées aux articles R. 612-1 et R. 612-2.
+fixées à l'article R. 612-1. 
 
-Toutefois, sont dispensés de ministère d'avocat :
+Toutefois, sont dispensés de ministère d'avocat : 
 
 1° Les requêtes dirigées contre les décisions des tribunaux administratifs statuant sur les recours pour excès de pouvoir
 formés par les fonctionnaires ou agents de l'Etat et des autres personnes ou collectivités publiques, ainsi que par les
-agents ou employés de la Banque de France contre les actes relatifs à leur situation personnelle ;
+agents ou employés de la Banque de France contre les actes relatifs à leur situation personnelle ; 
 
-2° Les litiges en matière de contraventions de grande voirie mentionnés à l'article L. 774-8.
+2° Les litiges en matière de contraventions de grande voirie mentionnés à l'article L. 774-8. 
 
 Les demandes d'exécution d'un arrêt de la cour administrative d'appel ou d'un jugement rendu par un tribunal administratif
 situé dans le ressort de la cour et frappé d'appel devant celle-ci sont également dispensées de ministère d'avocat.
@@ -25415,21 +25419,17 @@ situé dans le ressort de la cour et frappé d'appel devant celle-ci sont égale
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 19
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L774-8 (V)
-	  - Code de justice administrative. - art. R431-2 (V)
-	  - Code de justice administrative. - art. R612-1 (M)
+	  - Code de justice administrative - art. L774-8
+	  - Code de justice administrative - art. R431-2
+	  - Code de justice administrative - art. R612-1
 
 	**Cité par**:
 
@@ -25437,10 +25437,6 @@ situé dans le ressort de la cour et frappé d'appel devant celle-ci sont égale
 	  - Code de justice administrative. - art. R751-5 (M)
 	  - Code de justice administrative. - art. R921-4 (V)
 	  - Livre des procédures fiscales - art. R*200-17 (Ab)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R116 (M)
 
 
 ###### Article R811-8
@@ -25868,6 +25864,23 @@ application du délai de deux mois.
 	**Anciens textes**:
 
 	  - Code des tribunaux administratifs et des cours adm - art. R232 (M)
+
+
+###### Article R821-1-1
+
+Par dérogation aux dispositions du premier alinéa de l'article R. 821-1, le délai de recours en cassation contre une décision
+avant dire droit, qu'elle tranche ou non une question au principal, court jusqu'à l'expiration du délai de recours en
+cassation contre la décision qui règle définitivement le fond du litige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 20
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R821-1
 
 
 ###### Article R821-2
@@ -26602,6 +26615,34 @@ dispositions du décret n° 2008-479 du 20 mai 2008 sont applicables.
 
 ###### Article R921-1
 
+Lorsqu'un tribunal administratif ou une cour administrative d'appel a annulé pour excès de pouvoir un acte administratif ou,
+dans un litige de pleine juridiction, a rejeté tout ou partie des conclusions présentées en défense par une collectivité
+publique, l'autorité intéressée a la faculté de demander au président de la juridiction d'éclairer l'administration sur les
+modalités d'exécution de la décision de justice.
+
+Le président du tribunal administratif ou de la cour administrative d'appel peut, dans l'intérêt d'une bonne administration
+de la justice, renvoyer la demande d'éclaircissement au Conseil d'Etat.
+
+Le cas échéant, il est fait mention de l'affaire dans le rapport annuel du Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 21
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R921-3 (Ab)
+	  - Code de justice administrative - art. R931-1 (V)
+
+
+###### Article R921-1-1
+
 La demande tendant à ce que le tribunal administratif prescrive les mesures nécessaires à l'exécution d'un jugement définitif
 de ce tribunal, en assortissant, le cas échéant, ces prescriptions d'une astreinte, ne peut être présentée, sauf décision
 explicite de refus d'exécution opposée par l'autorité administrative, avant l'expiration d'un délai de trois mois à compter
@@ -26618,31 +26659,13 @@ et qui est frappé d'appel devant celle-ci.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2000-1115 du 22 novembre 2000 - art. 2 () JORF 23 novembre 2000 en vigueur le 1er janvier 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-	  - TRANSFERE: Décret n°2015-1145 du 15 septembre 2015 - art. 21
-
-	**Nouveaux textes**:
-
-	  - Code de justice administrative - art. R921-1-1, v. 0.1 (V)
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R921-3 (Ab)
-	  - Code de justice administrative - art. R931-1 (V)
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 21
 
 	**Anciens textes**:
 
-	  - Code des tribunaux administratifs et des cours adm - art. R222-2 (Ab)
+	  - Code de justice administrative - art. R921-1 (T)
 
 
 ###### Article R921-2
@@ -26759,27 +26782,28 @@ et procède au classement administratif de la demande.
 Dans le cas où le président estime nécessaire de prescrire des mesures d'exécution par voie juridictionnelle, et notamment de
 prononcer une astreinte, ou lorsque le demandeur le sollicite dans le mois qui suit la notification du classement décidé en
 vertu du dernier alinéa de l'article précédent et, en tout état de cause, à l'expiration d'un délai de six mois à compter de
-sa saisine, le président de la cour ou du tribunal ouvre par ordonnance une procédure juridictionnelle. Cette ordonnance
-n'est pas susceptible de recours. L'affaire est instruite et jugée d'urgence. Lorsqu'elle prononce une astreinte, la
-formation de jugement en fixe la date d'effet.
+sa saisine, le président de la cour ou du tribunal ouvre par ordonnance une procédure juridictionnelle.
+
+Toutefois, à l'expiration de ce délai de six mois, lorsque le président estime que les diligences accomplies sont
+susceptibles de permettre, à court terme, l'exécution de la décision, il informe le demandeur que la procédure
+juridictionnelle ne sera ouverte, le cas échéant, qu'à l'expiration d'un délai supplémentaire de quatre mois.
+
+Cette ordonnance n'est pas susceptible de recours. L'affaire est instruite et jugée d'urgence. Lorsqu'elle prononce une
+astreinte, la formation de jugement en fixe la date d'effet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 21
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R931-3 (V)
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R222-3 (Ab)
 
 
 ###### Article R921-7
@@ -26836,10 +26860,12 @@ leur ont été soumises. Le cas échéant, il est fait mention de ces difficult�
 
 ###### Article R931-1
 
-Lorsqu'une juridiction administrative a annulé pour excès de pouvoir un acte administratif ou, dans un litige de pleine
-juridiction, a rejeté tout ou partie des conclusions présentées en défense par une collectivité publique, l'autorité
-intéressée a la faculté de demander au Conseil d'Etat d'éclairer l'administration sur les modalités d'exécution de la
-décision de justice. 
+Lorsque le Conseil d'Etat ou une juridiction administrative spéciale a annulé pour excès de pouvoir un acte administratif ou,
+dans un litige de pleine juridiction, a rejeté tout ou partie des conclusions présentées en défense par une collectivité
+publique, l'autorité intéressée a la faculté de demander au Conseil d'Etat d'éclairer l'administration sur les modalités
+d'exécution de la décision de justice. 
+
+Le Conseil d'Etat se prononce également sur la demande qui lui a été renvoyée en application de l'article R. 921-1. 
 
 Ces demandes donnent lieu à la désignation d'un rapporteur dont la mission auprès de l'administration s'exerce sous
 l'autorité du président de la section du rapport et des études. Sur décision du président de la section du rapport et des
@@ -26854,11 +26880,11 @@ mention de l'affaire dans le rapport annuel du Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+	  - Décret n°2015-1145 du 15 septembre 2015 - art. 21
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R931-6
+	  - Code de justice administrative - art. R921-1
 
 
 ###### Article R931-2
