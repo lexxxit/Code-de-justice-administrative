@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-10-03
+Version Consolidée au 2015-10-18
 
 # Partie législative
 
@@ -16794,31 +16794,6 @@ que les voies de recours, dans la notification de la décision.
 	  - Code des tribunaux administratifs et des cours adm - art. R104 (Ab)
 
 
-###### Article R421-6
-
-Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie le délai de
-recours de deux mois prévu à l'article R. 421-1 et au deuxième alinéa de l'article R. 421-2 est porté à trois mois.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-1562 du 14 décembre 2010 - art. 6
-
-	**Cité par**:
-
-	  - Décret n°2012-765 du 10 mai 2012 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R421-1
-	  - Code de justice administrative - art. R421-2
-
-
 ###### Article R421-7
 
 Lorsque la demande est portée devant un tribunal administratif qui a son siège en France métropolitaine ou devant le Conseil
@@ -26148,38 +26123,6 @@ de deux mois.
 	  - Code des tribunaux administratifs et des cours adm - art. R229-1 (Ab)
 
 
-###### Article R811-4
-
-A Mayotte, en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, le délai d'appel de deux mois est
-porté à trois mois.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°99-433 du 27 mai 1999 - art. 32 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Modifié par**:
-
-	  - Décret n°2004-2 2004-01-02 art. 2 13° JORF 3 janvier 2004 en vigueur le 1er février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R229 (M)
-
-
 ###### Article R811-5
 
 Les délais supplémentaires de distance prévus à l'article R. 421-7 s'ajoutent aux délais normalement impartis. 
@@ -27222,27 +27165,6 @@ d'Etat.
 	**Cite**:
 
 	  - Code de justice administrative - art. R751-3 (V)
-
-
-###### Article R832-3
-
-Devant les tribunaux administratifs de Mayotte, de la Polynésie française, de Mata-Utu et de Nouvelle-Calédonie, le délai
-pour former tierce opposition est porté à trois mois.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-452 du 13 mai 2008 - art. 20
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1145 du 15 septembre 2015 - art. 24
-
-	**Cité par**:
-
-	  - Code de justice administrative. - art. R521-1 (MMN)
-	  - Code de justice administrative. - art. R531-1 (V)
 
 
 ###### Article R832-4
