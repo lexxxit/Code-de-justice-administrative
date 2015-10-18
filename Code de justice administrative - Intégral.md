@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-10-18
+Version Consolidée au 2015-10-19
 
 # Partie législative
 
@@ -14307,9 +14307,9 @@ fonction de président d'un tribunal administratif comportant entre cinq et huit
 président de cour administrative d'appel sont classés au 6e échelon de leur grade.
 
 Les présidents nommés dans la fonction de président de chambre dans une cour administrative d'appel, de président d'un
-tribunal administratif comportant moins de cinq chambres, de président de section au tribunal administratif de Paris ou de
-premier vice-président d'un tribunal administratif comportant au moins huit chambres  sont classés au 5e échelon de leur
-grade.
+tribunal administratif comportant moins de cinq chambres, de président de section au tribunal administratif de Paris, de
+premier vice-président d'un tribunal administratif comportant au moins huit chambres ou de section à la Cour nationale du
+droit d'asile sont classés au 5e échelon de leur grade.
 
 **Liens relatifs à cet article**
 
@@ -14319,7 +14319,7 @@ grade.
 
 	**Modifié par**:
 
-	  - Décret n°2012-724 du 9 mai 2012 - art. 2
+	  - Décret n°2015-1298 du 16 octobre 2015 - art. 20
 
 
 ###### Article R234-7
