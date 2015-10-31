@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2015-10-19
+Version Consolidée au 2015-11-01
 
 # Partie législative
 
@@ -2900,7 +2900,7 @@ prises par l'Autorité de régulation des communications électroniques et des p
 4° (Supprimé) ; 
 
 5° De l'article 42-8 de la loi n° 86-1067 du 30 septembre 1986 contre les décisions du Conseil supérieur de l'audiovisuel
-visées aux articles 42-1, 42-3 et 42-4 de cette loi ; 
+visées aux articles 42-1,42-3 et 42-4 de cette loi ; 
 
 6° De l'article 71 de la loi n° 96-597 du 2 juillet 1996 contre les décisions de sanction prises par l'Autorité des marchés
 financiers à l'encontre des prestataires de service d'investissement agréés ; 
@@ -2913,8 +2913,8 @@ financiers à l'encontre des prestataires de service d'investissement agréés ;
 régulation de l'énergie ; 
 
 10° De l'article 17 de la loi n° 2009-1503 du 8 décembre 2009 relative à l'organisation et à la régulation des transports
-ferroviaires et portant diverses dispositions relatives aux transports contre les décisions de sanction prises par l'Autorité
-de régulation des activités ferroviaires.
+ferroviaires et portant diverses dispositions relatives aux transports contre les décisions de sanction prises par l'
+Autorité de régulation des activités ferroviaires et routières .
 
 **Liens relatifs à cet article**
 
@@ -2930,11 +2930,11 @@ de régulation des activités ferroviaires.
 	  - Code du sport. - art. L232-24
 	  - Code monétaire et financier - art. L612-16
 	  - Code monétaire et financier - art. L623-3
-	  - Code de la construction et de l'habitation. - art. L342-14 (VD)
+	  - Code de la construction et de l'habitation. - art. L342-14
 
 	**Modifié par**:
 
-	  - Loi n°2014-366 du 24 mars 2014 - art. 102 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 1 (V)
 
 
 ###### Article L311-4-1
@@ -5871,6 +5871,38 @@ contre les décisions de transfert obéissent aux règles fixées par l'article 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R777-1 (VD)
+
+
+#### Chapitre VII bis : Le contentieux du droit au maintien sur le territoire français en cas de demande d'asile en rétention
+
+###### Article L777-2
+
+Les modalités selon lesquelles le président du tribunal administratif ou le magistrat qu'il a désigné examine les demandes
+d'injonction aux fins de maintien sur le territoire français d'un étranger ayant sollicité l'asile en rétention, le temps
+nécessaire à ce que la Cour nationale du droit d'asile statue sur son recours, obéissent aux règles fixées au III de
+l'article L. 512-1 et à l'article L. 556-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-925 du 29 juillet 2015 - art. 16
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (V)
 
 
 #### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile
@@ -25355,79 +25387,14 @@ proposition, de prononcer des conclusions à l'audience.
 	  - Code de justice administrative - art. R776-13-2 (V)
 
 
-#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile
+#### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière
 
 ###### Article R777-1
 
-Lorsqu'un recours en annulation formé contre une décision de refus d'entrée sur le territoire français au titre de l'asile
-mentionné à l'article L. 777-1 est adressé par le moyen de l'application informatique mentionnée à l'article R. 414-1, son
-auteur signale son urgence en sélectionnant le type de procédure dans la rubrique correspondante. 
-
-Lorsqu'elles sont faites par voie électronique conformément aux articles R. 611-8-2 et R. 711-2-1, les communications et
-convocations sont réputées reçues dès leur mise à disposition dans l'application.
-
-**Nota:**
-
-Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
-juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
-juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
-Mata-Utu.
-
-Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
-décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
-dispositions du présent décret seront applicables aux juridictions concernées.
-
-L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
-la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. R1112-3
-	  - Code de justice administrative - art. L777-1
-	  - Code de justice administrative - art. R414-1 (VD)
-	  - Code de justice administrative - art. R611-8-2 (VD)
-	  - Code de justice administrative - art. R711-2-1 (VD)
-
-
-###### Article R777-2
-
-Lorsque l'étranger qui a fait l'objet d'un refus d'entrée sur le territoire français au titre de l'asile est maintenu dans
-une zone d'attente située en dehors de la région d'Ile-de-France, le tribunal administratif territorialement compétent est,
-par dérogation au premier alinéa de l'article R. 312-1, celui dans le ressort duquel se trouve cette zone d'attente.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2013-730 du 13 août 2013 - art. 12
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R312-1 (V)
-
-
-###### Article R777-2
-
-Dans le cadre des recours en annulation formés contre les décisions de refus d'entrée sur le territoire français au titre de
-l'asile mentionnés à l'article L. 777-1, le jugement est prononcé à l'audience. 
-
-Le dispositif du jugement assorti de la formule exécutoire prévue à l'article R. 751-1 est communiqué sur place aux parties
-présentes à l'audience, qui en accusent aussitôt réception.
+Sont présentés, instruits et jugés selon les dispositions de l'article L. 213-9 du code de l'entrée et du séjour des
+étrangers et du droit d'asile et celles du présent code, sous réserve des dispositions du présent chapitre, les recours en
+annulation formés contre les décisions de refus d'entrée sur le territoire français au titre de l'asile et, le cas échéant,
+contre les décisions de transfert prononcées à la frontière.
 
 **Nota:**
 
@@ -25441,17 +25408,632 @@ décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est 
 dispositions du présent décret seront applicables aux juridictions concernées.
 
 L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour les tribunaux administratifs de la Martinique, de la
-Guadeloupe et de la Guyane la date prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour le Conseil d'Etat.
+Guadeloupe et de la Guyane la date prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour le Conseil d'Etat. 
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-1 s'appliquent aux
+demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-9
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. R1112-3
+
+
+###### Article R777-1-1
+
+Conformément aux dispositions du premier alinéa de l'article L. 213-9 du code de l'entrée et du séjour des étrangers et du
+droit d'asile, le délai de recours est de quarante-huit heures. Ce délai court à compter de la notification à l'étranger de
+la décision. Il n'est susceptible d'aucune prorogation. 
+
+Le second alinéa de l'article R. 411-1 n'est pas applicable et l'expiration du délai de recours contentieux n'interdit pas au
+requérant de soulever des moyens nouveaux, quelle que soit la cause juridique à laquelle ils se rattachent.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-1-1 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de justice administrative - art. R777-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (VT)
+	  - Code de justice administrative - art. R411-1
+
+
+###### Article R777-1-2
+
+Lorsque l'étranger qui a fait l'objet d'un refus d'entrée sur le territoire français au titre de l'asile est maintenu dans
+une zone d'attente située en dehors de la région d'Ile-de-France, le tribunal administratif territorialement compétent est,
+par dérogation au premier alinéa de l'article R. 312-1, celui dans le ressort duquel se trouve cette zone d'attente.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-1-2 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R312-1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R777-1-7 (VD)
+
+
+###### Article R777-1-3
+
+Dès le dépôt de la requête, le président du tribunal administratif transmet à l'autorité compétente pour représenter l'Etat
+en défense copie du recours et des pièces qui y sont jointes.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-1-3 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
+
+
+###### Article R777-1-4
+
+La présentation, l'instruction et le jugement des recours obéissent aux règles définies aux articles R. 776-7, R. 776-18, R.
+776-19, R. 776-20-1, R. 776-22 à R. 776-26 et aux trois premiers alinéas de l'article R. 776-27.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-1-4 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-18
+	  - Code de justice administrative - art. R776-19 (V)
+	  - Code de justice administrative - art. R776-20-1
+	  - Code de justice administrative - art. R776-22
+	  - Code de justice administrative - art. R776-27
+	  - Code de justice administrative - art. R776-7
+
+
+###### Article R777-1-5
+
+Conformément aux dispositions du deuxième alinéa de l'article L. 213-9 du code de l'entrée et du séjour des étrangers et du
+droit d'asile, le président du tribunal administratif ou le magistrat désigné statue dans un délai de soixante-douze heures à
+compter de sa saisine.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-1-5 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-9
+
+
+###### Article R777-1-6
+
+Le délai d'appel de quinze jours mentionné à l'article L. 213-9 du code de l'entrée et du séjour des étrangers et du droit
+d'asile court à compter de la notification du jugement attaqué. La notification mentionne la possibilité de faire appel et le
+délai dans lequel cette voie de recours peut être exercée. 
+
+Le président de la cour administrative d'appel ou le magistrat qu'il désigne à cet effet peut statuer par ordonnance dans les
+cas prévus à l'article R. 222-1. Il peut, dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas
+susceptibles d'entraîner l'infirmation de la décision attaquée. 
+
+Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, de prononcer des
+conclusions à l'audience.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-1-6 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-9
+	  - Code de justice administrative - art. R222-1
+
+
+###### Article R777-1-7
+
+I.-Les dispositions du présent chapitre, en tant qu'elles concernent le contentieux des décisions de transfert, ne sont pas
+applicables dans les collectivités régies par les articles 73 et 74 de la Constitution ainsi qu'en Nouvelle-Calédonie. 
+
+II.-L'article R. 777-1-2 n'est pas applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-1-7 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 73
+	  - Code de justice administrative - art. R777-1-2
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 1
+
+
+#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile
+
+
+###### Article R777-2
+
+Sont présentés, instruits et jugés selon les dispositions du III de l'article L. 512-1 et de l'article L. 556-1 du code de
+l'entrée et du séjour des étrangers et du droit d'asile et celles du présent code, sous réserve des dispositions du présent
+chapitre, les recours en annulation formés contre les décisions de maintien en rétention mentionnées au premier alinéa de
+l'article L. 556-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Nota:**
+
+Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
+juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
+juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
+Mata-Utu.
+
+Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
+décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
+dispositions du présent décret seront applicables aux juridictions concernées.
+
+L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour les tribunaux administratifs de la Martinique, de la
+Guadeloupe et de la Guyane la date prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour le Conseil d'Etat. 
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-2 s'appliquent aux
+demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+
+
+###### Article R777-2-1
+
+Conformément aux dispositions du deuxième alinéa de l'article L. 556-1 du même code, le délai de recours est de quarante-huit
+heures. Ce délai court à compter de la notification à l'étranger de cette décision. Il n'est susceptible d'aucune
+prorogation. 
+
+Le second alinéa de l'article R. 411-1 n'est pas applicable et l'expiration du délai de recours contentieux n'interdit pas au
+requérant de soulever des moyens nouveaux, quelle que soit la cause juridique à laquelle ils se rattachent.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-2-1 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+	  - Code de justice administrative - art. R411-1
+
+
+###### Article R777-2-2
+
+La décision de maintien en rétention mentionnée au premier alinéa de l'article L. 556-1 du code de l'entrée et du séjour des
+étrangers et du droit d'asile ainsi que la décision de l'Office français de protection des réfugiés et apatrides mentionnée
+au deuxième alinéa du même article sont produites par l'administration. L'autorité administrative informe le président du
+tribunal administratif de la date et de l'heure auxquelles ces décisions ont été notifiées par procès-verbal à l'intéressé. 
+
+Le président du tribunal est également informé sans délai par l'administration lorsque l'office décide, en application du
+septième alinéa de l'article L. 556-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, de ne pas statuer
+selon la procédure accélérée prévue à l'article L. 723-2 du même code.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-2-2 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+
+
+###### Article R777-2-3
+
+La présentation, l'instruction et le jugement des recours obéissent aux règles définies aux articles R. 776-7, R. 776-8, R.
+776-15, R. 776-16, R. 776-18 à R. 776-20-1, R. 776-22 à R. 773-26 et aux trois premiers alinéas de l'article R. 776-27.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-2-3 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-15
+	  - Code de justice administrative - art. R776-16 (V)
+	  - Code de justice administrative - art. R776-18
+	  - Code de justice administrative - art. R776-22
+	  - Code de justice administrative - art. R776-27
+	  - Code de justice administrative - art. R776-7
+	  - Code de justice administrative - art. R776-8 (V)
+
+
+###### Article R777-2-4
+
+Conformément aux dispositions du deuxième alinéa de l'article L. 556-1 du code de l'entrée et du séjour des étrangers et du
+droit d'asile, le président du tribunal administratif ou le magistrat désigné statue après la notification au demandeur de la
+décision par laquelle l'Office français de protection des réfugiés et apatrides a statué sur sa demande d'asile, dans un
+délai de soixante-douze heures à compter de cette notification.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-2-4 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+
+
+###### Article R777-2-5
+
+Le délai d'appel est d'un mois. Il court à compter du jour où le jugement a été notifié à la partie intéressée. Cette
+notification mentionne la possibilité de faire appel et le délai dans lequel cette voie de recours peut être exercée. 
+
+Le président de la cour administrative d'appel ou le magistrat qu'il désigne à cet effet peut statuer par ordonnance dans les
+cas prévus à l'article R. 222-1. Il peut, dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas
+susceptibles d'entraîner l'infirmation de la décision attaquée. 
+
+Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, de prononcer des
+conclusions à l'audience.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article L. 777-2-5 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R222-1
+
+
+###### Article R777-2-6
+
+Les dispositions du présent chapitre ne sont pas applicables en Guyane, en Guadeloupe, à Mayotte, à Saint-Barthélemy, à
+Saint-Martin, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-2-6 s'appliquent
+aux demandes d'asile présentées à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 2
+
+
+#### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile
+
+##### Section 1 : Dispositions communes
+
+###### Article R777-3
+
+Sont présentés, instruits et jugés selon les dispositions des articles L. 742-4 à L. 742-6 du code de l'entrée et du séjour
+des étrangers et du droit d'asile et celles du présent code, sous réserve des dispositions du présent chapitre, les recours
+en annulation formés contre les décisions de transfert mentionnées à l'article L. 742-3 du code de l'entrée et du séjour des
+étrangers et du droit d'asile et, le cas échéant, contre les décisions de placement en rétention prises en application de
+l'article L. 551-1 du même code ou d'assignation à résidence prises en application de l'article L. 561-2 de ce code au titre
+de ces décisions de transfert.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-4
+
+
+###### Article R777-3-1
+
+I. - Conformément aux dispositions du I de l'article L. 742-4 du code de l'entrée et du séjour des étrangers et du droit
+d'asile, la notification d'une décision de transfert fait courir un délai de quinze jours pour contester cette décision.
+
+II. - Conformément aux dispositions du II de l'article L. 742-4 du code de l'entrée et du séjour des étrangers et du droit
+d'asile, la notification simultanée d'une décision de placement en rétention ou d'assignation à résidence et d'une décision
+de transfert fait courir un délai de quarante-huit heures pour contester ces décisions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-4
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R777-3-2 (VD)
+
+
+###### Article R777-3-2
+
+Les délais de recours contentieux mentionnés à l'article R. 777-3-1 ne sont susceptibles d'aucune prorogation. 
+
+Le second alinéa de l'article R. 411-1 n'est pas applicable et l'expiration du délai de recours contentieux n'interdit pas au
+requérant de soulever des moyens nouveaux, quelle que soit la cause juridique à laquelle ils se rattachent.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-3-2 s'appliquent
+aux demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R411-1
+	  - Code de justice administrative - art. R777-3-1
+
+
+###### Article R777-3-3
+
+Le délai d'appel est d'un mois. Il court à compter du jour où le jugement a été notifié à la partie intéressée. Cette
+notification mentionne la possibilité de faire appel et le délai dans lequel cette voie de recours peut être exercée. 
+
+Le président de la cour administrative d'appel ou le magistrat qu'il désigne à cet effet peut statuer par ordonnance dans les
+cas prévus à l'article R. 222-1. Il peut, dans les mêmes conditions, rejeter les requêtes qui ne sont manifestement pas
+susceptibles d'entraîner l'infirmation de la décision attaquée. 
+
+Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, de prononcer des
+conclusions à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R222-1
+
+
+###### Article R777-3-4
+
+Les dispositions du présent chapitre ne sont pas applicables dans les collectivités régies par les articles 73 et 74 de la
+Constitution ainsi qu'en Nouvelle-Calédonie.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-3-4 s'appliquent
+aux demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Constitution du 4 octobre 1958 - art. 73
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence
+
+
+###### Article R777-3-5
+
+Les dispositions de la présente section sont applicables aux recours en annulation contre les décisions de transfert
+mentionnées à l'article L. 742-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, lorsque l'étranger n'est
+pas placé en rétention ou assigné à résidence.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-3-5 s'appliquent
+aux demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
+
+
+###### Article R777-3-6
+
+La présentation, l'instruction et le jugement des recours obéissent aux règles définies aux articles R. 776-7, R. 776-8, R.
+776-15, R. 776-18, R. 776-20-1, R. 776-22 à 26 et aux trois premiers alinéas de l'article R. 776-27.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-3-6 s'appliquent
+aux demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-15
+	  - Code de justice administrative - art. R776-18
+	  - Code de justice administrative - art. R776-20-1
+	  - Code de justice administrative - art. R776-22
+	  - Code de justice administrative - art. R776-27
+	  - Code de justice administrative - art. R776-7
+
+
+###### Article R777-3-7
+
+Le président du tribunal administratif ou le magistrat désigné statue dans le délai de quinze jours à compter de
+l'enregistrement de la requête, prévu au deuxième alinéa du I de l'article L. 742-4 du code de l'entrée et du séjour des
+étrangers et du droit d'asile.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-3-7 s'appliquent
+aux demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-4
+
+
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence
+
+
+###### Article R777-3-8
+
+Les dispositions de la présente section sont applicables aux recours en annulation contre les décisions de transfert
+mentionnées à l'article L. 742-3 du code de l'entrée et du séjour des étrangers et du droit d'asile, lorsque l'étranger est
+placé en rétention ou assigné à résidence. 
+
+Il est statué sur ces recours dans les conditions prévues au II de l'article L. 742-4 et au III de l'article L. 512-1 du même
+code.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article R. 777-3-8 s'appliquent
+aux demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-4
+
+
+###### Article R777-3-9
+
+La présentation, l'instruction et le jugement des recours obéissent aux règles définies aux articles R. 776-4, R. 776-5-II,
+R. 776-6 à R. 776-9 et à la section 3 du chapitre VI du titre VII du livre VII du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-4
+	  - Code de justice administrative - art. R776-5 (V)
+	  - Code de justice administrative - art. R776-6
 
 
 #### Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme
