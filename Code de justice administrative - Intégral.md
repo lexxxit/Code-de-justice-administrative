@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-02-01
+Version Consolidée au 2016-04-01
 
 # Partie législative
 
@@ -3601,7 +3601,7 @@ Le juge est saisi avant la conclusion du contrat.
 
 ###### Article L551-2
 
-I. - Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations et suspendre l'exécution de toute
+I.-Le juge peut ordonner à l'auteur du manquement de se conformer à ses obligations et suspendre l'exécution de toute
 décision qui se rapporte à la passation du contrat, sauf s'il estime, en considération de l'ensemble des intérêts
 susceptibles d'être lésés et notamment de l'intérêt public, que les conséquences négatives de ces mesures pourraient
 l'emporter sur leurs avantages. 
@@ -3609,16 +3609,10 @@ l'emporter sur leurs avantages.
 Il peut, en outre, annuler les décisions qui se rapportent à la passation du contrat et supprimer les clauses ou
 prescriptions destinées à figurer dans le contrat et qui méconnaissent lesdites obligations. 
 
-II. - Toutefois, le I n'est pas applicable aux contrats passés dans les domaines de la défense ou de la sécurité au sens du
-II de l'article 2 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines personnes publiques ou
-privées non soumises au code des marchés publics. 
+II.-Toutefois, le I n'est pas applicable aux contrats passés dans les domaines de la défense ou de la sécurité au sens de
+l'article 6 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics. 
 
 Pour ces contrats, il est fait application des articles L. 551-6 et L. 551-7.
-
-**Nota:**
-
-Loi n° 2011-702 du 22 juin 2011 article 9 III : L'article 6 est applicable aux contrats pour lesquels une consultation est
-engagée à compter du 21 août 2011.
 
 **Liens relatifs à cet article**
 
@@ -3634,12 +3628,12 @@ engagée à compter du 21 août 2011.
 
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 2
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 6
 	  - Code de justice administrative - art. L551-6
 
 	**Modifié par**:
 
-	  - Loi n°2011-702 du 22 juin 2011 - art. 6
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 71
 
 
 ###### Article L551-3
@@ -18652,9 +18646,12 @@ cassation dirigé contre ces décisions.
 
 ###### Article R551-7
 
-La juridiction peut être saisie au plus tard le trente et unième jour suivant la publication d'un avis d'attribution du
-contrat ou, pour les marchés fondés sur un accord-cadre ou un système d'acquisition dynamique, suivant la notification de la
-conclusion du contrat. 
+La juridiction peut être saisie au plus tard le trente et unième jour suivant la publication au Journal officiel de l'Union
+européenne d'un avis d'attribution du contrat, établi conformément au modèle fixé par le règlement de la Commission
+européenne établissant les formulaires standard pour la publication d'avis en matière de marchés publics et de contrats de
+concession, ou, pour les marchés fondés sur un accord-cadre ou un système d'acquisition dynamique, suivant la notification de
+la conclusion du contrat. Le délai ne court que si cette notification mentionne le nom du titulaire et les motifs ayant
+conduit au choix de son offre.  
 
 En l'absence de la publication d'avis ou de la notification mentionnées à l'alinéa qui précède, la juridiction peut être
 saisie jusqu'à l'expiration d'un délai de six mois à compter du lendemain du jour de la conclusion du contrat.
@@ -18676,9 +18673,31 @@ saisie jusqu'à l'expiration d'un délai de six mois à compter du lendemain du 
 	  - Code général des collectivités territoriales - art. R1411-2-2 (VT)
 	  - Code général des collectivités territoriales - art. R1415-10 (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 180
+
+
+###### Article R551-7-1
+
+Pour pouvoir se prévaloir des dispositions du premier alinéa de l'article L. 551-15, le pouvoir adjudicateur ou l'entité
+adjudicatrice publie au Journal officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement de la
+Commission européenne établissant les formulaires standard pour la publication d'avis en matière de marchés publics et de
+contrats de concession, relatif à son intention de conclure un contrat. Il respecte un délai d'au moins onze jours entre la
+date de publication de cet avis et la date de conclusion du contrat. 
+
+Pour pouvoir se prévaloir, s'agissant d'un marché fondé sur un accord-cadre ou un système d'acquisition dynamique, des
+dispositions du second alinéa du même article, le pouvoir adjudicateur ou l'entité adjudicatrice notifie aux titulaires de
+l'accord-cadre ou aux participants au système d'acquisition dynamique le nom du titulaire et les motifs qui ont conduit au
+choix de son offre et respecte un délai d'au moins seize jours entre la date d'envoi de cette notification et la date de
+conclusion du marché. Ce délai est réduit à au moins onze jours en cas de transmission électronique de la notification à
+l'ensemble des titulaires intéressés.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2009-1456 du 27 novembre 2009 - art. 1
+	  - Décret n°2016-360 du 25 mars 2016 - art. 180
 
 
 ###### Article R551-8
@@ -18735,6 +18754,43 @@ cassation dirigé contre ces décisions.
 	**Cite**:
 
 	  - Code de justice administrative - art. L551-17 (V)
+
+
+##### Sous-section 2 : Dispositions applicables en Nouvelle-Calédonie et dans certaines collectivités d'outre-mer
+
+###### Article R551-11
+
+Pour son application à Saint-Barthélemy, à Saint-Pierre-et-Miquelon et, pour les marchés publics conclus par l'Etat ou ses
+établissements publics, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres
+australes et antarctiques françaises, le premier alinéa de l'article R. 551-7 est ainsi rédigé : 
+
+"La juridiction peut être saisie au plus tard le trente et unième jour suivant la publication d'un avis d'attribution du
+contrat dans le support qui a été utilisé à titre principal pour la publicité préalable ou, pour les marchés fondés sur un
+accord-cadre ou un système d'acquisition dynamique, suivant la notification de la conclusion du contrat. Le délai ne court
+que si cette notification mentionne le nom du titulaire et les motifs ayant conduit au choix de son offre."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 180
+
+
+###### Article R551-12
+
+Pour son application à Saint-Barthélemy, à Saint-Pierre-et-Miquelon et, pour les marchés publics conclus par l'Etat ou ses
+établissements publics, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres
+australes et antarctiques françaises, le premier alinéa de l'article R. 551-7-1 est ainsi rédigé : 
+
+"Pour pouvoir se prévaloir des dispositions du premier alinéa de l'article L. 551-15, le pouvoir adjudicateur ou l'entité
+adjudicatrice publie au Journal officiel local un avis relatif à son intention de conclure un contrat. Il respecte un délai
+d'au moins onze jours entre la date de publication de cet avis et la date de conclusion du contrat."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 180
 
 
 #### Chapitre IV : Les régimes spéciaux de suspension
