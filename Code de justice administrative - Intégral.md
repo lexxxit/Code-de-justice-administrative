@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-06-17
+Version Consolidée au 2016-06-22
 
 # Partie législative
 
@@ -5935,8 +5935,8 @@ Pour le domaine public défini à l'article L. 4314-1 du code des transports, l'
 code est substituée au représentant de l'Etat dans le département. Pour le domaine public défini à l'article L. 4322-2 dudit
 code, l'autorité désignée à l'article L. 4322-13 du même code est compétente concurremment avec le représentant de l'Etat
 dans le département. Pour les contraventions de grande voirie mentionnées au chapitre VII du titre III du livre III de la
-cinquième partie dudit code, l'autorité désignée à l'article L. 5337-3-1 du même code est compétente concurremment avec le
-représentant de l'Etat dans le département. 
+cinquième partie dudit code, les autorités mentionnées aux articles L. 5337-3-1 et L. 5337-3-2 du même code sont compétentes
+concurremment avec le représentant de l'Etat dans le département. 
 
 La notification est faite dans la forme administrative, mais elle peut également être effectuée par lettre recommandée avec
 demande d'avis de réception. 
@@ -5956,7 +5956,7 @@ requêtes introductives d'instance.
 
 	**Modifié par**:
 
-	  - Loi n°2015-991 du 7 août 2015 - art. 23
+	  - Loi n°2016-816 du 20 juin 2016 - art. 30
 
 	**Cité par**:
 
