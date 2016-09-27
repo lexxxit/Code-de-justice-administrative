@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-07-03
+Version Consolidée au 2016-09-28
 
 # Partie législative
 
@@ -27128,6 +27128,25 @@ est régi par les dispositions du cinquième alinéa de l'article R. 1112-3 du c
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. R1112-3
+
+
+##### Section 4 : L'action de groupe en matière de santé
+
+###### Article R779-11
+
+Les actions de groupe engagées sur le fondement du chapitre III " Action de groupe " du titre IV du livre Ier de la première
+partie du code de la santé publique sont examinées selon les dispositions du présent code, sous réserve des dispositions du
+titre IV du livre Ier de la première partie du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1249 du 26 septembre 2016 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 4
 
 
 ### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.
