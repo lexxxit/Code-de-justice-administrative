@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-09-28
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -17119,38 +17119,20 @@ d'Etat.
 L'identification de l'auteur de la requête, selon les modalités prévues par l'arrêté mentionné à l'article R. 414-1, vaut
 signature pour l'application des dispositions du présent code. 
 
-Toutefois, lorsque la requête n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1316-4
-du code civil, le requérant ou son mandataire peut, en cas de nécessité, être tenu de produire un exemplaire de sa requête
+Toutefois, lorsque la requête n'a pas fait l'objet d'une signature électronique au sens du second alinéa de l'article 1367 du
+code civil, le requérant ou son mandataire peut, en cas de nécessité, être tenu de produire un exemplaire de sa requête
 revêtu de sa signature manuscrite.
-
-**Nota:**
-
-Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
-juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
-juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
-Mata-Utu.
-
-Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
-décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
-dispositions du présent décret seront applicables aux juridictions concernées.
-
-L'arrêté du 12 mars 2013, article 1er, a fixé au 2 avril 2013 la date prévue par les dispositions de l'article 6 du décret n°
-2012-1437 pour le Conseil d'Etat. 
-
-L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
-la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
-d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1437 du 21 décembre 2012 - art. 1
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 1316-4 (V)
-	  - Code de justice administrative - art. R414-1 (VD)
+	  - Code civil - art. 1367
+	  - Code de justice administrative - art. R414-1
 
 	**Cité par**:
 
