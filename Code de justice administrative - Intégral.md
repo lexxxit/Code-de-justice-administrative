@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-10-15
 
 # Partie législative
 
@@ -546,8 +546,8 @@ décret en Conseil d'Etat.
 Les conseillers d'Etat en service extraordinaire sont nommés pour une durée de cinq ans non renouvelable avant l'expiration
 d'un délai de deux ans. 
 
-Il ne peut être mis fin à leurs fonctions que pour motif disciplinaire et sur proposition de la commission consultative
-mentionnée à l'article L. 132-1.
+Il ne peut être mis fin à leurs fonctions que pour motif disciplinaire et sur proposition de la commission supérieure du
+Conseil d'Etat mentionnée à l'article L. 132-1.
 
 **Liens relatifs à cet article**
 
@@ -562,11 +562,11 @@ mentionnée à l'article L. 132-1.
 
 	**Modifié par**:
 
-	  - Loi n°2016-483 du 20 avril 2016 - art. 62
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L132-1 (V)
+	  - Code de justice administrative - art. L132-1
 
 
 ###### Article L121-6
@@ -944,8 +944,8 @@ complémentaire dans les mêmes formes et peut donner lieu à un entretien déon
 La déclaration d'intérêts est annexée au dossier de l'intéressé selon des modalités garantissant sa confidentialité, sous
 réserve de sa consultation par les personnes autorisées à y accéder. 
 
-Lorsqu'une procédure disciplinaire est engagée, le garde des sceaux, ministre de la justice, et la commission consultative
-mentionnée à l'article L. 132-1 peuvent obtenir communication de la déclaration d'intérêts. 
+Lorsqu'une procédure disciplinaire est engagée, le garde des sceaux, ministre de la justice, et la commission supérieure du
+Conseil d'Etat mentionnée à l'article L. 132-1 peuvent obtenir communication de la déclaration d'intérêts. 
 
 II.-Dans les deux mois qui suivent sa prise de fonctions, le vice-président du Conseil d'Etat remet une déclaration
 exhaustive, exacte et sincère de ses intérêts au collège de déontologie de la juridiction administrative, qui peut lui
@@ -962,9 +962,9 @@ les conditions de remise, de mise à jour, de conservation et de consultation de
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-483 du 20 avril 2016 - art. 12
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 2
 
 	**Cité par**:
 
@@ -976,7 +976,7 @@ les conditions de remise, de mise à jour, de conservation et de consultation de
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L132-1 (V)
+	  - Code de justice administrative - art. L132-1
 
 
 ###### Article L131-8
@@ -1067,24 +1067,58 @@ conditions de mise à jour et de conservation des déclarations de situation pat
 	  - Loi n°2016-483 du 20 avril 2016 - art. 12
 
 
+###### Article L131-11
+
+Les membres du Conseil d'Etat bénéficient, tout au long de leur carrière, d'une formation professionnelle. Dans des
+conditions fixées par arrêté du vice-président du Conseil d'Etat, les actions de formation suivies ouvrent droit à une
+décharge d'activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail - art. R2212-3 (V)
+
+
 #### Chapitre II : La commission consultative
+
+#### Chapitre II : La commission supérieure du Conseil d'Etat
 
 ###### Article L132-1
 
-Une commission consultative est placée auprès du vice-président du Conseil d'Etat qui la préside. Elle comprend, d'une part,
-les présidents de section, d'autre part, un nombre égal de membres élus du Conseil d'Etat.
+La commission supérieure du Conseil d'Etat comprend : 
+
+1° Le vice-président du Conseil d'Etat, qui la préside ; 
+
+2° Les présidents de section en activité exerçant des fonctions de président de section ; 
+
+3° Huit membres élus représentant les membres du Conseil d'Etat. Leur mandat est de trois ans, renouvelable une fois ; 
+
+4° Trois personnalités qualifiées choisies pour leurs compétences dans le domaine du droit en dehors des membres du Conseil
+d'Etat et des magistrats des tribunaux administratifs et des cours administratives d'appel, qui n'exercent pas de mandat
+parlementaire et sont désignées pour une période de trois ans non renouvelable, respectivement par décret du Président de la
+République, par le président de l'Assemblée nationale et par le président du Sénat.
+
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, pour l'application des dispositions du 3° de
+l'article L. 132-1 limitant le nombre de mandats, il est tenu compte des mandats exercés au sein de la commission
+consultative en place à la date d'entrée en vigueur de la présente ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°63-766 1963-07-30 art. 5 al. 1er
 	  - Décret n°63-766 du 30 juillet 1963 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Cité par**:
 
@@ -1092,6 +1126,10 @@ les présidents de section, d'autre part, un nombre égal de membres élus du Co
 	  - Code de justice administrative - art. L121-5 (V)
 	  - Code de justice administrative - art. L131-7 (V)
 	  - Code de justice administrative - art. R*132-5 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 2
 
 
 ###### Article L132-2
@@ -1112,28 +1150,6 @@ que dans les cas prévus au présent titre.
 
 	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
 	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-
-###### Article L132-3
-
-La commission consultative peut être saisie pour avis de tous problèmes intéressant l'organisation et le fonctionnement du
-Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-766 1963-07-30 art. 5 al. 4
-	  - Décret n°63-766 du 30 juillet 1963 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Rapport
-	  - Loi n°2003-591 du 2 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 2
 
 
 #### Chapitre III : Nominations
@@ -1390,13 +1406,13 @@ Les maîtres des requêtes en service extraordinaire sont soumis aux mêmes obli
 
 Il ne peut être mis fin au détachement ou à la mise à disposition de maîtres des requêtes en service extraordinaire, avant
 l'expiration du terme fixé, que pour motif disciplinaire, à la demande du vice-président du Conseil d'Etat, et sur
-proposition de la commission consultative mentionnée au chapitre II du présent titre.
+proposition de la commission supérieure du Conseil d'Etat mentionnée au chapitre II du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 80 (V)
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 2
 
 
 ###### Article L133-12
@@ -1487,6 +1503,16 @@ soit à un jury de concours ou d'examen est prévue, l'autorité chargée de la 
 honoraire de rang au moins égal ou un membre étant ou ayant été placé en service extraordinaire, après avis du vice-président
 du Conseil d'Etat.
 
+En l'absence de dispositions législatives ou réglementaires fixant une durée différente d'exercice de ces fonctions, le
+membre désigné, en cette qualité, pour exercer des fonctions juridictionnelles à l'extérieur du Conseil d'Etat ou pour
+participer à une commission à caractère administratif l'est pour une durée de trois ans renouvelable.
+
+**Nota:**
+
+Conformément à l'article 5 de l'ordonnance n° 2016-1365 du 13 octobre 2016, ces dispositions sont applicables aux membres du
+Conseil d'Etat désignés après l'entrée en vigueur de ladite ordonnance. Pour les membres qui ont été désignés avant cette
+date, le délai prévu au second alinéa commence à courir à compter de l'entrée en vigueur de la même ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1495,16 +1521,16 @@ du Conseil d'Etat.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 36 () JORF 2 juillet 2004
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Cité par**:
 
 	  - Arrêté du 30 septembre 2013 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 4
 
 
 ## Livre II : Les tribunaux administratifs et les cours administratives d'appel
