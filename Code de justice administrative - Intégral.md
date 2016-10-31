@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-10-15
+Version Consolidée au 2016-11-01
 
 # Partie législative
 
@@ -1084,8 +1084,6 @@ décharge d'activité.
 	  - Code du travail - art. R2212-3 (V)
 
 
-#### Chapitre II : La commission consultative
-
 #### Chapitre II : La commission supérieure du Conseil d'Etat
 
 ###### Article L132-1
@@ -1787,14 +1785,8 @@ commission est prévue, la désignation peut porter sur un magistrat honoraire.
 
 Le président du tribunal administratif peut désigner un magistrat administratif honoraire choisi parmi les magistrats
 inscrits, pour une durée de trois ans renouvelable, sur une liste arrêtée par le vice-président du Conseil d'Etat, pour
-statuer sur les recours en annulation dont le tribunal administratif est saisi en application du III de l'article L. 512-1 du
-code de l'entrée et du séjour des étrangers et du droit d'asile et sur ceux formés contre les arrêtés de reconduite à la
-frontière.
-
-**Nota:**
-
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+statuer sur les recours en annulation dont le tribunal administratif est saisi en application des III et IV de l'article L.
+512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
 
 **Liens relatifs à cet article**
 
@@ -1815,7 +1807,7 @@ Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée 
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 50
+	  - Loi n°2016-274 du 7 mars 2016 - art. 27
 
 
 ##### Section 3 : Fonctionnement des cours administratives d'appel
@@ -6301,20 +6293,20 @@ du conseil territorial de Saint-Martin ".
 	  - Code de justice administrative - art. L774-2 (V)
 
 
-#### Chapitre VI : Le contentieux des obligations de quitter le territoire français et des arrêtés de reconduite à la frontière
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire français
 
 ###### Article L776-1
 
 Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les obligations de
 quitter le territoire français, les décisions relatives au séjour qu'elles accompagnent, les interdictions de retour sur le
-territoire français et les arrêtés de reconduite à la frontière pris en application de l'article L. 533-1 du code de l'entrée
-et du séjour des étrangers et du droit d'asile obéissent, sous réserve des articles L. 514-1, L. 514-2 et L. 532-1 du même
-code, aux règles définies par les articles L. 512-1, L. 512-3 et L. 512-4 dudit code.
+territoire français et les interdictions de circulation sur le territoire français obéissent, sous réserve des articles L.
+514-1 et L. 532-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, aux règles définies aux articles L.
+512-1, L. 512-3 et L. 512-4 du même code.
 
 **Nota:**
 
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+Conformément à l'article 67 II de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions entrent en vigueur à compter
+d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -6325,14 +6317,14 @@ Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée 
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 50
+	  - Loi n°2016-274 du 7 mars 2016 - art. 57
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L532-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L514-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L532-1
 
 	**Cité par**:
 
@@ -6343,14 +6335,14 @@ Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée 
 ###### Article L776-2
 
 Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre les décisions fixant
-le pays de renvoi qui accompagnent les obligations de quitter le territoire français et les arrêtés de reconduite à la
-frontière pris en application de l'article L. 533-1 du code de l'entrée et du séjour des étrangers et du droit d'asile
-obéissent aux règles définies par l'article L. 513-3 du même code.
+le pays de renvoi qui accompagnent les obligations de quitter le territoire français, les interdictions de retour et les
+interdictions de circulation sur le territoire français obéissent aux règles définies à l'article L. 513-3 du code de
+l'entrée et du séjour des étrangers et du droit d'asile.
 
 **Nota:**
 
-Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+Conformément à l'article 67 II de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions entrent en vigueur à compter
+d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -6361,12 +6353,15 @@ Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée 
 
 	**Modifié par**:
 
-	  - Loi n°2011-672 du 16 juin 2011 - art. 50
+	  - Loi n°2016-274 du 7 mars 2016 - art. 57
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VD)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
 
 	**Cité par**:
 
@@ -6402,20 +6397,19 @@ contre les décisions de transfert obéissent aux règles fixées par l'article 
 	  - Code de justice administrative - art. R777-1 (VD)
 
 
-#### Chapitre VII bis : Le contentieux du droit au maintien sur le territoire français en cas de demande d'asile en rétention
+#### Chapitre VII bis : Le contentieux des décisions de maintien en rétention en cas de demande d'asile
 
 ###### Article L777-2
 
 Les modalités selon lesquelles le président du tribunal administratif ou le magistrat qu'il a désigné examine les demandes
-d'injonction aux fins de maintien sur le territoire français d'un étranger ayant sollicité l'asile en rétention, le temps
-nécessaire à ce que la Cour nationale du droit d'asile statue sur son recours, obéissent aux règles fixées au III de
-l'article L. 512-1 et à l'article L. 556-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+d'annulation des décisions de maintien en rétention présentées en application du deuxième alinéa de l'article L. 556-1 du
+code de l'entrée et du séjour des étrangers et du droit d'asile obéissent aux règles fixées au même article et au III de
+l'article L. 512-1 du même code.
 
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
-séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
-présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
+prises à compter du 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -6424,14 +6418,14 @@ présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobr
 	  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
 	  - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 16
+	  - Loi n°2016-274 du 7 mars 2016 - art. 33
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
 
 
 #### Chapitre VII ter : Le contentieux des décisions de transfert vers l'Etat responsable de l'examen de la demande d'asile
@@ -25148,29 +25142,25 @@ notifiées avec les décisions portant obligation de quitter le territoire fran�
 
 2° Les décisions relatives au délai de départ volontaire prévues au II de l'article L. 511-1 du même code ; 
 
-3° Les interdictions de retour sur le territoire français prévues au III du même article ; 
+3° Les interdictions de retour sur le territoire français prévues au III du même article et les interdictions de circulation
+sur le territoire français prévues à l'article L. 511-3-2 du même code ; 
 
 4° Les décisions fixant le pays de renvoi prévues à l'article L. 513-3 du même code ; 
 
-5° Les arrêtés de reconduite à la frontière prévus à l'article L. 533-1 du même code ; 
+5° (abrogé) ;
 
-6° Les décisions de placement en rétention et les décisions d'assignation à résidence prévues à l'article L. 551-1 et à
-l'article L. 561-2 du même code. 
+6° Les décisions d'assignation à résidence prévues à l'article L. 561-2 du même code. 
 
 Sont instruites et jugées dans les mêmes conditions les conclusions tendant à l'annulation d'une autre mesure d'éloignement
 prévue au livre V du code de l'entrée et du séjour des étrangers et du droit d'asile, à l'exception des arrêtés d'expulsion,
-présentées dans le cadre d'une requête dirigée contre la décision de placement en rétention ou d'assignation à résidence
-prise au titre de cette mesure.
+présentées en cas de placement en rétention administrative, en cas de détention ou dans le cadre d'une requête dirigée contre
+la décision d'assignation à résidence prise au titre de cette mesure.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
 
 	**Cité par**:
 
@@ -25184,11 +25174,15 @@ prise au titre de cette mesure.
 	  - Code de justice administrative - art. R776-6 (VD)
 	  - Code de justice administrative. - art. R776-5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 3
+
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (VD)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-3-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L533-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
@@ -25198,30 +25192,38 @@ prise au titre de cette mesure.
 ###### Article R776-2
 
 I.-Conformément aux dispositions du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit
-d'asile, la notification d'une obligation de quitter le territoire français avec délai de départ volontaire fait courir un
-délai de trente jours pour contester cette obligation ainsi que les décisions relatives au séjour, au délai de départ
-volontaire, au pays de renvoi et à l'interdiction de retour notifiées simultanément. 
+d'asile, la notification d'une obligation de quitter le territoire français avec délai de départ volontaire, prise en
+application des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du même code, fait courir un délai de
+trente jours pour contester cette obligation ainsi que les décisions relatives au séjour, au délai de départ volontaire, au
+pays de renvoi et à l'interdiction de retour ou à l'interdiction de circulation notifiées simultanément. 
 
-Lorsque le délai de recours mentionné au premier alinéa n'est pas expiré à la date à laquelle l'autorité compétente notifie à
-l'intéressé la décision de supprimer le délai de départ volontaire en application du dernier alinéa du II de l'article L.
-511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, ce délai de recours expire quarante-huit heures
-après cette notification. La décision de supprimer le délai de départ volontaire peut être contestée dans le même délai. 
+Conformément aux dispositions du I bis de l'article L. 512-1 du même code, la notification d'une obligation de quitter le
+territoire français avec délai de départ volontaire, prise en application des 1°, 2°, 4° ou 6° du I de l'article L. 511-1 du
+même code, fait courir un délai de quinze jours pour contester cette obligation ainsi que les décisions relatives au délai de
+départ volontaire, au pays de renvoi et à l'interdiction de retour notifiées simultanément. 
+
+Lorsque le délai de recours mentionné aux alinéas précédents n'est pas expiré à la date à laquelle l'autorité compétente
+notifie à l'intéressé la décision de supprimer le délai de départ volontaire en application du dernier alinéa du II de
+l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, ce délai de recours expire quarante-
+huit heures après cette notification. La décision de supprimer le délai de départ volontaire peut être contestée dans le même
+délai. 
 
 II.-Conformément aux dispositions du II de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit
 d'asile, la notification par voie administrative d'une obligation de quitter sans délai le territoire français fait courir un
 délai de quarante-huit heures pour contester cette obligation et les décisions relatives au séjour, à la suppression du délai
-de départ volontaire, au pays de renvoi et à l'interdiction de retour notifiées simultanément.
+de départ volontaire, au pays de renvoi ou à l'interdiction de circulation notifiées simultanément.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
 
 	**Cité par**:
 
@@ -25234,13 +25236,13 @@ de départ volontaire, au pays de renvoi et à l'interdiction de retour notifié
 
 ###### Article R776-3
 
-Conformément aux dispositions du premier alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et
-du droit d'asile, les interdictions de retour sur le territoire français prises en application du troisième alinéa du III de
-l'article L. 511-1 de ce code à l'encontre d'étrangers s'étant maintenus sur le territoire français au-delà du délai de
-départ volontaire peuvent faire l'objet d'un recours contentieux dans les trente jours de leur notification. 
+Conformément aux dispositions du deuxième alinéa du I bis de l'article L. 512-1 du code de l'entrée et du séjour des
+étrangers et du droit d'asile, les interdictions de retour sur le territoire français prises en application du sixième alinéa
+du III de l'article L. 511-1 de ce code à l'encontre d'étrangers s'étant maintenus sur le territoire français au-delà du
+délai de départ volontaire peuvent faire l'objet d'un recours contentieux dans les quinze jours de leur notification. 
 
 Le même délai s'applique pour la contestation des décisions prolongeant les interdictions de retour, prises en application du
-sixième alinéa du III de l'article L. 511-1 du même code.
+septième alinéa du III de l'article L. 511-1 du même code.
 
 **Liens relatifs à cet article**
 
@@ -25250,12 +25252,12 @@ sixième alinéa du III de l'article L. 511-1 du même code.
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 5
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
 
 	**Cité par**:
 
@@ -25269,12 +25271,13 @@ sixième alinéa du III de l'article L. 511-1 du même code.
 ###### Article R776-4
 
 Conformément aux dispositions du III de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit
-d'asile, le délai de recours contentieux contre les décisions de placement en rétention et les décisions d'assignation à
-résidence prises en application de l'article L. 561-2 du code de l'entrée et du séjour des étrangers et du droit d'asile est
-de quarante-huit heures. Ce délai court à compter de la notification de la décision par voie administrative. 
+d'asile, le délai de recours contentieux contre les décisions mentionnées à l'article R. 776-1 en cas de placement en
+rétention administrative ou d'assignation à résidence en application de l'article L. 561-2 du code de l'entrée et du séjour
+des étrangers et du droit d'asile est de quarante-huit heures. Ce délai court à compter de la notification de la décision par
+voie administrative. 
 
-Le même délai s'applique pour la contestation des arrêtés de reconduite à la frontière et des décisions fixant le pays de
-renvoi prises pour leur exécution.
+Conformément aux dispositions du IV de l'article L. 512-1 du même code, le même délai est applicable lorsque l'étranger est
+en détention.
 
 **Liens relatifs à cet article**
 
@@ -25284,12 +25287,13 @@ renvoi prises pour leur exécution.
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 6
 
 	**Cite**:
 
 	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (V)
+	  - Code de justice administrative - art. R776-1 (V)
 
 	**Cité par**:
 
@@ -25303,18 +25307,19 @@ renvoi prises pour leur exécution.
 
 ###### Article R776-5
 
-I.-Le délai de recours contentieux de trente jours mentionné aux articles R. 776-2 et R. 776-3 n'est pas prorogé par
-l'exercice d'un recours administratif. 
+I.-Le délai de recours contentieux de trente jours mentionné à l'article R. 776-2 n'est pas prorogé par l'exercice d'un
+recours administratif. 
 
-II.-Le délai de quarante-huit heures mentionné aux articles R. 776-2 et R. 776-4 n'est susceptible d'aucune prorogation. 
+II.-Les délais de quarante-huit heures mentionnés aux articles R. 776-2 et R. 776-4 et les délais de quinze jours mentionnés
+aux articles R. 776-2 et R. 776-3 ne sont susceptibles d'aucune prorogation. 
 
-Lorsque le délai est de quarante-huit heures, le second alinéa de l'article R. 411-1 n'est pas applicable et l'expiration du
-délai n'interdit pas au requérant de soulever des moyens nouveaux, quelle que soit la cause juridique à laquelle ils se
-rattachent. 
+Lorsque le délai est de quarante-huit heures ou de quinze jours, le second alinéa de l'article R. 411-1 n'est pas applicable
+et l'expiration du délai n'interdit pas au requérant de soulever des moyens nouveaux, quelle que soit la cause juridique à
+laquelle ils se rattachent. 
 
-Le requérant qui, dans le délai de quarante-huit heures, a demandé l'annulation de l'une des décisions qui lui ont été
-notifiées simultanément peut, jusqu'à la clôture de l'instruction, former des conclusions dirigées contre toute autre de ces
-décisions.
+Le requérant qui, dans le délai de quarante-huit heures ou de quinze jours selon les cas, a demandé l'annulation de l'une des
+décisions qui lui ont été notifiées simultanément peut, jusqu'à la clôture de l'instruction, former des conclusions dirigées
+contre toute autre de ces décisions.
 
 **Liens relatifs à cet article**
 
@@ -25324,13 +25329,14 @@ décisions.
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 7
 
 	**Cite**:
 
 	  - Code de justice administrative - art. R411-1
-	  - Code de justice administrative - art. R776-2
-	  - Code de justice administrative - art. R776-3
+	  - Code de justice administrative - art. R776-2 (V)
+	  - Code de justice administrative - art. R776-3 (V)
+	  - Code de justice administrative - art. R776-4 (V)
 
 	**Cité par**:
 
@@ -25449,117 +25455,16 @@ susceptibles d'entraîner l'infirmation de la décision attaquée.
 	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
 
 
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention ou d'assignation à résidence
+###### Article R776-9-1
 
-###### Article R776-10
-
-Les dispositions de la présente section sont applicables aux recours dirigés contre les décisions mentionnées à l'article R.
-776-1, lorsque l'étranger n'est pas placé en rétention ou assigné à résidence.
+Les dispositions du présent chapitre ne sont pas applicables en Guyane, en Guadeloupe, à Mayotte, à Saint-Barthélemy, à
+Saint-Martin, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-
-###### Article R776-11
-
-Le président de la formation de jugement ou le rapporteur qui a reçu délégation à cet effet peut, dès l'enregistrement de la
-requête, faire usage du pouvoir prévu au premier alinéa de l'article R. 613-1 de fixer la date à laquelle l'instruction sera
-close. Il peut, par la même ordonnance, fixer la date et l'heure de l'audience au cours de laquelle l'affaire sera appelée.
-Dans ce cas, l'ordonnance tient lieu de l'avertissement prévu à l'article R. 711-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R613-1 (V)
-	  - Code de justice administrative - art. R711-2 (V)
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R776-17 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-
-###### Article R776-12
-
-Lorsqu'une requête sommaire mentionne l'intention du requérant de présenter un mémoire complémentaire, la production annoncée
-doit parvenir au greffe du tribunal administratif dans un délai de quinze jours à compter de la date à laquelle la requête a
-été enregistrée. 
-
-Si ce délai n'est pas respecté, le requérant est réputé s'être désisté à la date d'expiration de ce délai, même si le mémoire
-complémentaire a été ultérieurement produit. Il est donné acte de ce désistement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-
-###### Article R776-13
-
-L'Etat est représenté en défense par le préfet qui a pris la ou les décisions attaquées. 
-
-Les délais donnés aux parties pour fournir leurs observations doivent être observés, faute de quoi il peut être passé outre
-sans mise en demeure.
-
-Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, de prononcer des
-conclusions à l'audience. 
-
-Le tribunal administratif statue dans le délai de trois mois à compter de l'enregistrement de la requête prévu au deuxième
-alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2011-1950 du 23 décembre 2011 - art. 10
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R776-13-2 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 8
 
 
 ##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence
@@ -25695,7 +25600,7 @@ application de l'article R. 776-11.
 
 Toutefois, lorsque le requérant a formé des conclusions contre la décision relative au séjour notifiée avec une obligation de
 quitter le territoire, la formation collégiale demeure saisie de ces conclusions, sur lesquelles elle se prononce dans les
-conditions prévues par la section 2. 
+conditions prévues par la sous-section 1 de la section 2. 
 
 Lorsque le requérant est placé en rétention ou assigné à résidence en dehors du ressort du tribunal administratif qu'il a
 saisi en application des dispositions de la section 2, le dossier est transmis au tribunal administratif dans le ressort
@@ -25710,11 +25615,11 @@ compétent pour connaître des conclusions dirigées contre la décision relativ
 
 	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 10
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R776-11 (V)
+	  - Code de justice administrative - art. R776-11
 
 	**Cité par**:
 
@@ -25883,22 +25788,26 @@ d'Etat.
 ###### Article R776-21
 
 Le président du tribunal administratif ou le magistrat désigné statue dans le délai de soixante-douze heures prévu au
-deuxième alinéa du III de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile. 
+troisième alinéa du III de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile. 
 
 Ce délai court à partir de l'heure d'enregistrement de la requête au greffe du tribunal. Lorsque l'étranger est placé en
 rétention ou assigné à résidence après avoir introduit un recours contre la décision portant obligation de quitter le
 territoire, il court à compter de la transmission par le préfet de la décision de placement en rétention ou d'assignation à
-résidence.
+résidence. 
+
+Ce délai n'est pas interrompu lorsque l'étranger est assigné à résidence par le juge des libertés et de la détention en
+application de l'article L. 552-4 du code de l'entrée et du séjour des étrangers et du droit d'asile.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-819 du 8 juillet 2011 - art. 1
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 11
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
 
 
 ###### Article R776-22
@@ -26037,6 +25946,271 @@ proposition, de prononcer des conclusions à l'audience.
 	**Cité par**:
 
 	  - Code de justice administrative - art. R776-13-2 (V)
+
+
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire français
+
+##### Section 1 : Dispositions communes
+
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention, d'assignation à résidence ou de détention
+
+##### Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile 
+
+###### Article R776-10
+
+Les dispositions de la présente sous-section sont applicables aux recours formés, en application du I ou du II de l'article
+L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, contre les décisions d'obligation de quitter le
+territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du même
+code et les autres décisions mentionnées à l'article R. 776-1 du présent code, lorsque l'étranger n'est pas placé en
+rétention, assigné à résidence ou en détention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de justice administrative - art. R776-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-11
+
+Le président de la formation de jugement ou le rapporteur qui a reçu délégation à cet effet peut, dès l'enregistrement de la
+requête, faire usage du pouvoir prévu au premier alinéa de l'article R. 613-1 de fixer la date à laquelle l'instruction sera
+close. Il peut, par la même ordonnance, fixer la date et l'heure de l'audience au cours de laquelle l'affaire sera appelée.
+Dans ce cas, l'ordonnance tient lieu de l'avertissement prévu à l'article R. 711-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R613-1
+	  - Code de justice administrative - art. R711-2
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R776-17 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-12
+
+Lorsqu'une requête sommaire mentionne l'intention du requérant de présenter un mémoire complémentaire, la production annoncée
+doit parvenir au greffe du tribunal administratif dans un délai de quinze jours à compter de la date à laquelle la requête a
+été enregistrée. 
+
+Si ce délai n'est pas respecté, le requérant est réputé s'être désisté à la date d'expiration de ce délai, même si le mémoire
+complémentaire a été ultérieurement produit. Il est donné acte de ce désistement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-13
+
+L'Etat est représenté en défense par le préfet qui a pris la ou les décisions attaquées. 
+
+Les délais donnés aux parties pour fournir leurs observations doivent être observés, faute de quoi il peut être passé outre
+sans mise en demeure.
+
+Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, de prononcer des
+conclusions à l'audience. 
+
+Le tribunal administratif statue dans le délai de trois mois à compter de l'enregistrement de la requête prévu au deuxième
+alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1458 du 28 octobre 2016 - art. 9
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R776-13-2 (V)
+
+
+##### Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile
+
+###### Article R776-13-1
+
+Les dispositions de la présente sous-section sont applicables aux recours formés, en application du I bis ou du II de
+l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, contre les décisions d'obligation de
+quitter le territoire français prise sur le fondement des 1°, 2°, 4° ou 6° du I de l'article L. 511-1 du même code et les
+décisions mentionnées à l'article R. 776-1 du présent code notifiées simultanément, lorsque l'étranger n'est pas placé en
+rétention, assigné à résidence ou en détention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de justice administrative - art. R776-1 (V)
+
+
+###### Article R776-13-2
+
+La présentation, l'instruction et le jugement des recours obéissent, sans préjudice de la section 1, aux règles définies au
+premier alinéa de l'article R. 776-13, aux articles R. 776-15, 
+R. 776-18, R. 776-20-1, R. 776-22 à R. 776-26, aux deuxième et quatrième alinéas de l'article R. 776-27 et à l'article R.
+776-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-13 (V)
+	  - Code de justice administrative - art. R776-15 (V)
+	  - Code de justice administrative - art. R776-18 (V)
+	  - Code de justice administrative - art. R776-20-1 (V)
+	  - Code de justice administrative - art. R776-22 (V)
+	  - Code de justice administrative - art. R776-26 (V)
+	  - Code de justice administrative - art. R776-27 (V)
+	  - Code de justice administrative - art. R776-28 (V)
+
+
+###### Article R776-13-3
+
+Le président du tribunal administratif ou le magistrat désigné statue dans le délai de six semaines prévu au troisième alinéa
+du I bis de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+
+
+##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence
+
+##### Section 4 : Dispositions applicables en cas de détention
+
+###### Article R776-29
+
+Conformément aux dispositions du IV de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile,
+lorsque l'étranger est en détention, il est statué sur les recours contre les décisions mentionnées à l'article R. 776-1
+selon la procédure et dans les délais prévus à la section 3 du présent chapitre, sous réserve des adaptations prévues à la
+présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 12
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+
+
+###### Article R776-30
+
+Au dernier alinéa de l'article R. 776-16, les mots : " centre de rétention " sont remplacés par les mots : " centre
+pénitentiaire ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 12
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-16 (V)
+
+
+###### Article R776-31
+
+Au premier alinéa de l'article R. 776-19, les mots : " de ladite autorité administrative " sont remplacés par les mots : " du
+chef de l'établissement pénitentiaire ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 12
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-19 (V)
+
+
+###### Article R776-32
+
+A l'article R. 776-20 : 
+
+1° Au premier alinéa, les mots : " la décision de placement en rétention administrative ou d'assignation à résidence " sont
+remplacés par les mots : " la décision attaquée " ; 
+
+2° Au second alinéa, les mots : " le centre de rétention administrative " sont remplacés par les mots : " l'établissement
+pénitentiaire ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 12
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-20 (V)
 
 
 #### Chapitre VII : Le contentieux des refus d'entrée sur le territoire français au titre de l'asile et des décisions de transfert prononcées à la frontière
@@ -26453,9 +26627,8 @@ aux demandes d'asile présentées à compter du 1er novembre 2015.
 Sont présentés, instruits et jugés selon les dispositions des articles L. 742-4 à L. 742-6 du code de l'entrée et du séjour
 des étrangers et du droit d'asile et celles du présent code, sous réserve des dispositions du présent chapitre, les recours
 en annulation formés contre les décisions de transfert mentionnées à l'article L. 742-3 du code de l'entrée et du séjour des
-étrangers et du droit d'asile et, le cas échéant, contre les décisions de placement en rétention prises en application de
-l'article L. 551-1 du même code ou d'assignation à résidence prises en application de l'article L. 561-2 de ce code au titre
-de ces décisions de transfert.
+étrangers et du droit d'asile et, le cas échéant, contre les décisions d'assignation à résidence prises en application de
+l'article L. 561-2 de ce code au titre de ces décisions de transfert.
 
 **Nota:**
 
@@ -26463,13 +26636,12 @@ de ces décisions de transfert.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 13
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-4
@@ -26477,22 +26649,23 @@ de ces décisions de transfert.
 
 ###### Article R777-3-1
 
-I. - Conformément aux dispositions du I de l'article L. 742-4 du code de l'entrée et du séjour des étrangers et du droit
-d'asile, la notification d'une décision de transfert fait courir un délai de quinze jours pour contester cette décision.
+I.-Conformément aux dispositions du I de l'article L. 742-4 du code de l'entrée et du séjour des étrangers et du droit
+d'asile, la notification d'une décision de transfert fait courir un délai de quinze jours pour contester cette décision. 
 
-II. - Conformément aux dispositions du II de l'article L. 742-4 du code de l'entrée et du séjour des étrangers et du droit
+II.-Conformément aux dispositions du II de l'article L. 742-4 du code de l'entrée et du séjour des étrangers et du droit
 d'asile, la notification simultanée d'une décision de placement en rétention ou d'assignation à résidence et d'une décision
-de transfert fait courir un délai de quarante-huit heures pour contester ces décisions.
+de transfert fait courir un délai de quarante-huit heures pour contester la décision de transfert et, le cas échéant, celle
+d'assignation à résidence.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1364 du 28 octobre 2015 - art. 3
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 14
 
 	**Cite**:
 
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-4
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
 
 	**Cité par**:
 
