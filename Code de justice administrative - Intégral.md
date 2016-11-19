@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-11-01
+Version Consolidée au 2016-11-20
 
 # Partie législative
 
@@ -397,6 +397,22 @@ l'expiration de ce délai.
 	  - Code de justice administrative - art. R822-5 (VD)
 	  - Code de l'action sociale et des familles - art. L351-7 (V)
 	  - Livre des procédures fiscales - art. L190 (VD)
+
+
+#### Chapitre IV : La médiation 
+
+
+###### Article L114-1
+
+Lorsque le Conseil d'Etat est saisi d'un litige en premier et dernier ressort, il peut, après avoir obtenu l'accord des
+parties, ordonner une médiation pour tenter de parvenir à un accord entre celles-ci selon les modalités prévues au chapitre
+III du titre Ier du livre II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
 
 
 ### Titre II : Organisation et fonctionnement
@@ -1584,32 +1600,6 @@ d'Etat à raison de leur objet ou de l'intérêt d'une bonne administration.
 	  - Code de justice administrative - art. L552-2
 
 
-###### Article L211-4
-
-Dans les tribunaux administratifs et les cours administratives d'appel, les chefs de juridiction peuvent, si les parties en
-sont d'accord, organiser une mission de conciliation et désigner à cet effet la ou les personnes qui en seront chargées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Rapport
-	  - Loi n°2003-591 du 2 juillet 2003
-
-	**Modifié par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 49
-
-	**Cité par**:
-
-	  - Décret n°2016-253 du 2 mars 2016 - art. (V)
-	  - Code des relations entre le public et l'adminis... - art. L422-1 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
-
-
 #### Chapitre II : Attributions administratives
 
 ###### Article L212-1
@@ -1641,6 +1631,208 @@ collectivités territoriales.
 	**Cité par**:
 
 	  - Code de justice administrative - art. L311-5 (V)
+
+
+#### Chapitre III : La médiation 
+
+
+##### Section 1 : Dispositions générales
+
+###### Article L213-1
+
+La médiation régie par le présent chapitre s'entend de tout processus structuré, quelle qu'en soit la dénomination, par
+lequel deux ou plusieurs parties tentent de parvenir à un accord en vue de la résolution amiable de leurs différends, avec
+l'aide d'un tiers, le médiateur, choisi par elles ou désigné, avec leur accord, par la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 (V)
+	  - Décret n°2017-848 du 9 mai 2017 - art. 1
+	  - Code de l'environnement - art. R412-21 (VD)
+
+
+###### Article L213-2
+
+Le médiateur accomplit sa mission avec impartialité, compétence et diligence.
+
+Sauf accord contraire des parties, la médiation est soumise au principe de confidentialité. Les constatations du médiateur et
+les déclarations recueillies au cours de la médiation ne peuvent être divulguées aux tiers ni invoquées ou produites dans le
+cadre d'une instance juridictionnelle ou arbitrale sans l'accord des parties.
+
+Il est fait exception au deuxième alinéa dans les cas suivants :
+
+1° En présence de raisons impérieuses d'ordre public ou de motifs liés à la protection de l'intérêt supérieur de l'enfant ou
+à l'intégrité physique ou psychologique d'une personne ;
+
+2° Lorsque la révélation de l'existence ou la divulgation du contenu de l'accord issu de la médiation est nécessaire pour sa
+mise en œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+
+###### Article L213-3
+
+L'accord auquel parviennent les parties ne peut porter atteinte à des droits dont elles n'ont pas la libre disposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+
+###### Article L213-4
+
+Saisie de conclusions en ce sens, la juridiction peut, dans tous les cas où un processus de médiation a été engagé en
+application du présent chapitre, homologuer et donner force exécutoire à l'accord issu de la médiation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+
+##### Section 2 : Médiation à l'initiative des parties
+
+###### Article L213-5
+
+Les parties peuvent, en dehors de toute procédure juridictionnelle, organiser une mission de médiation et désigner la ou les
+personnes qui en sont chargées.
+
+Elles peuvent également, en dehors de toute procédure juridictionnelle, demander au président du tribunal administratif ou de
+la cour administrative d'appel territorialement compétent d'organiser une mission de médiation et de désigner la ou les
+personnes qui en sont chargées, ou lui demander de désigner la ou les personnes qui sont chargées d'une mission de médiation
+qu'elles ont elles-mêmes organisée.
+
+Le président de la juridiction peut déléguer sa compétence à un magistrat de la juridiction.
+
+Lorsque le président de la juridiction ou son délégataire est chargé d'organiser la médiation et qu'il choisit de la confier
+à une personne extérieure à la juridiction, il détermine s'il y a lieu d'en prévoir la rémunération et fixe le montant de
+celle-ci.
+
+Les décisions prises par le président de la juridiction ou son délégataire en application du présent article ne sont pas
+susceptibles de recours.
+
+Lorsqu'elle constitue un préalable obligatoire au recours contentieux en application d'une disposition législative ou
+réglementaire, la médiation présente un caractère gratuit pour les parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 3
+	  - Code de la défense. - art. D4121-2 (V)
+	  - Code de la défense. - art. R4125-1 (V)
+	  - Code de la défense. - art. R4125-2 (V)
+
+
+###### Article L213-6
+
+Les délais de recours contentieux sont interrompus et les prescriptions sont suspendues à compter du jour où, après la
+survenance d'un différend, les parties conviennent de recourir à la médiation ou, à défaut d'écrit, à compter du jour de la
+première réunion de médiation.
+
+Ils recommencent à courir à compter de la date à laquelle soit l'une des parties ou les deux, soit le médiateur déclarent que
+la médiation est terminée. Les délais de prescription recommencent à courir pour une durée qui ne peut être inférieure à six
+mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 3
+	  - Décret n°2017-848 du 9 mai 2017 - art. 1
+	  - Code de justice administrative - art. R213-4 (V)
+	  - Code de l'environnement - art. R412-22 (VD)
+	  - Code de la défense. - art. D4121-2 (V)
+	  - Code de la défense. - art. R4125-1 (V)
+	  - Code de la défense. - art. R4125-2 (V)
+
+
+##### Section 3 : Médiation à l'initiative du juge
+
+###### Article L213-7
+
+Lorsqu'un tribunal administratif ou une cour administrative d'appel est saisi d'un litige, le président de la formation de
+jugement peut, après avoir obtenu l'accord des parties, ordonner une médiation pour tenter de parvenir à un accord entre
+celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+
+###### Article L213-8
+
+Lorsque la mission de médiation est confiée à une personne extérieure à la juridiction, le juge détermine s'il y a lieu d'en
+prévoir la rémunération et fixe le montant de celle-ci.
+
+Lorsque les frais de la médiation sont à la charge des parties, celles-ci déterminent librement entre elles leur répartition.
+
+A défaut d'accord, ces frais sont répartis à parts égales, à moins que le juge n'estime qu'une telle répartition est
+inéquitable au regard de la situation économique des parties.
+
+Lorsque l'aide juridictionnelle a été accordée à l'une des parties, la répartition de la charge des frais de la médiation est
+établie selon les règles prévues au troisième alinéa du présent article. Les frais incombant à la partie bénéficiaire de
+l'aide juridictionnelle sont à la charge de l'Etat, sous réserve de l'article 50 de la loi n° 91-647 du 10 juillet 1991
+relative à l'aide juridique.
+
+Le juge fixe le montant de la provision à valoir sur la rémunération du médiateur et désigne la ou les parties qui
+consigneront la provision dans le délai qu'il détermine. La désignation du médiateur est caduque à défaut de consignation
+dans le délai et selon les modalités impartis. L'instance est alors poursuivie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R213-6 (V)
+
+
+###### Article L213-9
+
+Le médiateur informe le juge de ce que les parties sont ou non parvenues à un accord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
+
+
+###### Article L213-10
+
+Les décisions prises par le juge en application des articles L. 213-7 et L. 213-8 ne sont pas susceptibles de recours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
 
 
 ### Titre II : Organisation et fonctionnement
@@ -5617,82 +5809,6 @@ définies par les articles 23-4,23-5 et 23-7 de l'ordonnance n° 58-1067 du 7 no
 	  - Loi organique n°2009-1523 du 10 décembre 2009 - art. 2
 
 
-#### Chapitre Ier ter :  La médiation
-
-###### Article L771-3
-
-Les différends transfrontaliers relevant de la compétence du juge administratif, à l'exclusion de ceux qui concernent la mise
-en œuvre par l'une des parties de prérogatives de puissance publique, peuvent faire l'objet d'une médiation dans les
-conditions prévues aux articles 21, 
-21-2 à 21-4 de la loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale
-et administrative. 
-
-Est transfrontalier, au sens du présent article, le différend dans lequel, à la date où il est recouru à la médiation, une
-des parties au moins est domiciliée ou a sa résidence habituelle dans un Etat membre de l'Union européenne autre que la
-France et une autre partie au moins est domiciliée ou a sa résidence habituelle en France. 
-
-Le différend transfrontalier s'entend également du cas où une instance juridictionnelle ou arbitrale est introduite en France
-entre des parties ayant recouru préalablement à une médiation et étant toutes domiciliées en ayant toutes leur résidence
-habituelle dans un autre Etat membre de l'Union européenne à la date à laquelle elles ont recouru à la médiation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°68-1250 du 31 décembre 1968 - art. 2-1 (M)
-	  - Code de justice administrative - art. L771-3-1 (Ab)
-	  - Code des relations entre le public et l'adminis... - art. L422-2 (M)
-
-	**Cite**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 21
-	  - Loi n°95-125 du 8 février 1995 - art. 21-2
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-1540 du 16 novembre 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
-
-
-###### Article L771-3-1
-
-Les juridictions régies par le présent code, saisies d'un litige, peuvent, dans les cas prévus à l'article L. 771-3 et après
-avoir obtenu l'accord des parties, ordonner une médiation pour tenter de parvenir à un accord entre celles-ci.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-1540 du 16 novembre 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code de justice administrative - art. L771-3 (Ab)
-
-
-###### Article L771-3-2
-
-Saisie de conclusions en ce sens, la juridiction peut, dans tous les cas où un processus de médiation a été engagé en
-application du présent chapitre, homologuer et donner force exécutoire à l'accord issu de la médiation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2011-1540 du 16 novembre 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 - art. 5 (V)
-
-
 #### Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat
 
 
@@ -6506,6 +6622,669 @@ Sauf renvoi à une formation collégiale, l'audience se déroule sans conclusion
 	**Créé par**:
 
 	  - Loi n°2011-1862 du 13 décembre 2011 - art. 52
+
+
+#### Chapitre X : L'action de groupe 
+
+
+###### Article L77-10-1
+
+Sous réserve des dispositions particulières prévues pour chacune de ces actions, le présent chapitre est applicable aux
+actions suivantes engagées devant le juge administratif : 
+
+1° L'action ouverte sur le fondement de la loi n° 2008-496 du 27 mai 2008 portant diverses dispositions d'adaptation au droit
+communautaire dans le domaine de la lutte contre les discriminations ; 
+
+2° L'action ouverte sur le fondement du chapitre XI du présent titre ; 
+
+3° L'action ouverte sur le fondement de l'article L. 142-3-1 du code de l'environnement ; 
+
+4° L'action ouverte sur le fondement du chapitre III du titre IV du livre Ier de la première partie du code de la santé
+publique ; 
+
+5° L'action ouverte sur le fondement de l'article 43 ter de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-2
+
+Sauf dispositions contraires, l'action de groupe est introduite et régie selon les règles prévues au présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+##### Section 1 : Objet de l'action de groupe, qualité pour agir et introduction de l'instance
+
+###### Article L77-10-3
+
+Lorsque plusieurs personnes, placées dans une situation similaire, subissent un dommage causé par une personne morale de
+droit public ou un organisme de droit privé chargé de la gestion d'un service public, ayant pour cause commune un manquement
+de même nature à ses obligations légales ou contractuelles, une action de groupe peut être exercée en justice au vu des cas
+individuels présentés par le demandeur.
+
+Cette action peut être exercée en vue soit de la cessation du manquement mentionné au premier alinéa, soit de l'engagement de
+la responsabilité de la personne ayant causé le dommage afin d'obtenir la réparation des préjudices subis, soit de ces deux
+fins.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-4
+
+Seules les associations agréées et les associations régulièrement déclarées depuis cinq ans au moins et dont l'objet
+statutaire comporte la défense d'intérêts auxquels il a été porté atteinte peuvent exercer l'action mentionnée à l'article L.
+77-10-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-5
+
+Préalablement à l'introduction de l'action de groupe, la personne ayant qualité pour agir met en demeure celle à l'encontre
+de laquelle elle envisage d'agir par la voie de l'action de groupe de cesser ou de faire cesser le manquement ou de réparer
+les préjudices subis.
+
+A peine d'irrecevabilité que le juge peut soulever d'office, afin que la personne mise en demeure puisse prendre les mesures
+pour cesser ou faire cesser le manquement ou pour réparer les préjudices subis, l'action de groupe ne peut être introduite
+qu'à l'expiration d'un délai de quatre mois à compter de la réception de cette mise en demeure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+##### Section 2 : Cessation du manquement
+
+###### Article L77-10-6
+
+Lorsque l'action de groupe tend à la cessation d'un manquement, le juge, s'il constate l'existence de ce manquement, enjoint
+au défendeur de cesser ou de faire cesser ledit manquement et de prendre, dans un délai qu'il fixe, toutes les mesures utiles
+à cette fin. Il peut également prononcer une astreinte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+##### Section 3 : Réparation des préjudices
+
+##### Sous-section 1 : Jugement sur la responsabilité
+
+###### Article L77-10-7
+
+Lorsque l'action de groupe tend à la réparation des préjudices subis, le juge statue sur la responsabilité du défendeur.
+
+Il définit le groupe de personnes à l'égard desquelles la responsabilité du défendeur est engagée en fixant les critères de
+rattachement au groupe et détermine les préjudices susceptibles d'être réparés pour chacune des catégories de personnes
+constituant le groupe qu'il a défini.
+
+Il fixe également le délai dans lequel les personnes répondant aux critères de rattachement et souhaitant se prévaloir du
+jugement sur la responsabilité peuvent adhérer au groupe en vue d'obtenir réparation de leur préjudice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-8
+
+Le juge qui reconnaît la responsabilité du défendeur ordonne, à la charge de ce dernier, les mesures de publicité adaptées
+pour informer de cette décision les personnes susceptibles d'avoir subi un dommage causé par le fait générateur constaté.
+
+Ces mesures ne peuvent être mises en œuvre qu'une fois que le jugement mentionné à l'article L. 77-10-7 ne peut plus faire
+l'objet d'un appel ou d'un pourvoi en cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R77-10-13 (V)
+
+
+###### Article L77-10-9
+
+Lorsque le demandeur à l'action le demande et que les éléments produits ainsi que la nature des préjudices le permettent, le
+juge peut décider la mise en œuvre d'une procédure collective de liquidation des préjudices.
+
+A cette fin, il habilite le demandeur à négocier avec le défendeur l'indemnisation des préjudices subis par chacune des
+personnes constituant le groupe. Il détermine, dans le même jugement, le montant ou tous les éléments permettant l'évaluation
+des préjudices susceptibles d'être réparés pour chacune des catégories de personnes constituant le groupe qu'il a défini. Il
+fixe également les délais et les modalités selon lesquels cette négociation et cette réparation doivent intervenir.
+
+Le juge peut également condamner le défendeur au paiement d'une provision à valoir sur les frais non compris dans les dépens
+exposés par le demandeur à l'action.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R77-10-14 (V)
+	  - Code de justice administrative - art. R77-10-21 (V)
+	  - Code de justice administrative - art. R77-10-22 (V)
+
+
+##### Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices
+
+##### Paragraphe 1 : Procédure individuelle de réparation des préjudices
+
+###### Article L77-10-10
+
+Dans les délais et conditions fixés par le jugement mentionné à l'article L. 77-10-7, les personnes souhaitant adhérer au
+groupe adressent une demande de réparation soit à la personne déclarée responsable par ce jugement, soit au demandeur à
+l'action, qui reçoit ainsi mandat aux fins d'indemnisation.
+
+Ce mandat ne vaut ni n'implique adhésion au demandeur à l'action.
+
+Il vaut mandat aux fins de représentation pour l'exercice de l'action en justice mentionnée à l'article L. 77-10-12 et, le
+cas échéant, pour l'exécution forcée du jugement prononcé à l'issue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-11
+
+La personne déclarée responsable par le jugement mentionné à l'article L. 77-10-7 procède à l'indemnisation individuelle des
+préjudices résultant du fait générateur de responsabilité reconnu par le jugement et subis par les personnes remplissant les
+critères de rattachement au groupe et ayant adhéré à celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-12
+
+Les personnes dont la demande n'a pas été satisfaite en application de l'article L. 77-10-11 peuvent saisir le juge ayant
+statué sur la responsabilité en vue de la réparation de leur préjudice dans les conditions et les limites fixées par le
+jugement mentionné à l'article L. 77-10-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+##### Paragraphe 2 : Procédure collective de liquidation des préjudices
+
+###### Article L77-10-13
+
+Dans les délais, modalités et conditions fixés par le juge en application des articles L. 77-10-7 et L. 77-10-9, les
+personnes intéressées peuvent se joindre au groupe en se déclarant auprès du demandeur à l'action, chargé de solliciter
+auprès du responsable la réparation du dommage.
+
+L'adhésion au groupe vaut mandat au profit du demandeur à l'action aux fins d'indemnisation. A cette fin, le demandeur à
+l'action négocie avec le défendeur le montant de l'indemnisation dans les limites fixées par le jugement mentionné au même
+article L. 77-10-9.
+
+Ce mandat ne vaut ni n'implique adhésion au demandeur à l'action.
+
+Il vaut mandat aux fins de représentation à l'action en justice mentionnée à l'article L. 77-10-14 et, le cas échéant, pour
+l'exécution forcée du jugement prononcé à l'issue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-14
+
+Dans un délai qui ne peut être inférieur à celui fixé par le jugement mentionné à l'article L. 77-10-7 pour l'adhésion des
+personnes lésées au groupe, le juge ayant statué sur la responsabilité est saisi aux fins d'homologation de l'accord,
+éventuellement partiel, intervenu entre les parties et accepté par les membres du groupe concernés.
+
+Le juge peut refuser l'homologation si les intérêts des parties et des membres du groupe lui paraissent insuffisamment
+préservés au regard des termes du jugement mentionné à l'article L. 77-10-9 et peut renvoyer à la négociation pour une
+nouvelle période de deux mois.
+
+En l'absence d'accord total, le juge est saisi dans le délai fixé au premier alinéa du présent article aux fins de
+liquidation des préjudices subsistants. Dans ce dernier cas, le juge statue dans les limites fixées par le jugement mentionné
+au même article L. 77-10-9.
+
+A défaut de saisine du tribunal à l'expiration du délai d'un an à compter du jour où le jugement mentionné audit article L.
+77-10-9 a acquis force de chose jugée, les membres du groupe peuvent adresser une demande de réparation à la personne
+déclarée responsable par le jugement mentionné à l'article L. 77-10-7. La procédure individuelle de réparation des préjudices
+définie au paragraphe 1 de la présente sous-section est alors applicable.
+
+Une amende civile d'un montant maximal de 50 000 € peut être prononcée contre le demandeur ou le défendeur à l'instance
+lorsque celui-ci a, de manière dilatoire ou abusive, fait obstacle à la conclusion d'un accord sur le fondement du jugement
+mentionné à l'article L. 77-10-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+##### Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe
+
+###### Article L77-10-15
+
+Sous réserve des dispositions législatives relatives au maniement des fonds des professions judiciaires réglementées, toute
+somme reçue au titre de l'indemnisation des personnes lésées membres du groupe est immédiatement versée sur un compte ouvert
+auprès de la Caisse des dépôts et consignations. Celui-ci ne peut faire l'objet de mouvements en débit que pour le règlement
+de l'affaire qui est à l'origine du dépôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+##### Section 4 : Médiation
+
+###### Article L77-10-16
+
+La personne mentionnée à l'article L. 77-10-4 peut participer à une médiation, dans les conditions prévues au présent code,
+afin d'obtenir la réparation des préjudices individuels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-17
+
+Tout accord négocié au nom du groupe est soumis à l'homologation du juge, qui vérifie s'il est conforme aux intérêts de ceux
+auxquels il a vocation à s'appliquer et lui donne force exécutoire.
+
+Cet accord précise les mesures de publicité nécessaires pour informer de son existence les personnes susceptibles d'être
+indemnisées sur son fondement, ainsi que les délais et modalités pour en bénéficier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+##### Section 5 : Dispositions diverses
+
+###### Article L77-10-18
+
+L'action de groupe suspend la prescription et la forclusion des actions individuelles résultant des manquements constatés par
+le juge ou des faits retenus dans l'accord homologué en application de l'article L. 77-10-17.
+
+Le délai de prescription recommence à courir, pour une durée qui ne peut être inférieure à six mois, à compter de la date à
+laquelle le jugement n'est plus susceptible de recours ordinaire ou de pourvoi en cassation ou à compter de la date de
+l'homologation de l'accord. Les délais de forclusion recommencent à courir à compter de la même date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-19
+
+Le jugement mentionné à l'article L. 77-10-7 et celui résultant de l'application de l'article L. 77-10-17 ont autorité de la
+chose jugée à l'égard de chacun des membres du groupe dont le préjudice a été réparé au terme de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-20
+
+L'adhésion au groupe ne fait pas obstacle au droit d'agir selon les voies de droit commun pour obtenir la réparation des
+préjudices n'entrant pas dans le champ défini par le jugement mentionné à l'article L. 77-10-7 qui n'est plus susceptible
+d'appel ou de pourvoi en cassation, ou d'un accord homologué en application de l'article L. 77-10-17.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-21
+
+N'est pas recevable l'action de groupe qui se fonde sur le même manquement et la réparation des mêmes préjudices que ceux
+reconnus par le jugement mentionné à l'article L. 77-10-7, ou par un accord homologué en application de l'article L.
+77-10-17.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-22
+
+Lorsque le juge a été saisi d'une action en application de l'article L. 77-10-3 et que le demandeur à l'action est
+défaillant, toute personne ayant qualité pour agir à titre principal peut demander au juge sa substitution dans les droits du
+demandeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R77-10-22 (V)
+
+
+###### Article L77-10-23
+
+Est réputée non écrite toute clause ayant pour objet ou pour effet d'interdire à une personne de participer à une action de
+groupe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-24
+
+Le demandeur à l'action peut agir directement contre l'assureur garantissant la responsabilité civile du responsable en
+application de l'article L. 124-3 du code des assurances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+###### Article L77-10-25
+
+L'appel formé contre le jugement sur la responsabilité a, de plein droit, un effet suspensif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 85
+
+
+#### Chapitre XI : Action de groupe relative à une discrimination imputable à un employeur 
+
+
+###### Article L77-11-1
+
+Sous réserve du présent chapitre, le chapitre X du présent titre s'applique à l'action de groupe prévue au présent chapitre.
+
+**Nota:**
+
+Conformément au II de l'article 92 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions sont applicables aux seules
+actions dont le fait générateur de la responsabilité ou le manquement est postérieur à l'entrée en vigueur de la présente
+loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 88
+
+
+###### Article L77-11-2
+
+Une organisation syndicale de fonctionnaires représentative au sens du III de l'article 8 bis de la loi n° 83-634 du 13
+juillet 1983 portant droits et obligations des fonctionnaires ou un syndicat représentatif de magistrats de l'ordre
+judiciaire peut agir devant le juge administratif afin d'établir que plusieurs candidats à un emploi, à un stage ou à une
+période de formation ou plusieurs agents publics font l'objet d'une discrimination, directe ou indirecte, fondée sur un même
+motif et imputable à un même employeur.
+
+Une association régulièrement déclarée depuis au moins cinq ans intervenant dans la lutte contre les discriminations ou
+œuvrant dans le domaine du handicap peut agir aux mêmes fins en faveur de plusieurs candidats à un emploi ou à un stage.
+
+**Nota:**
+
+Conformément au II de l'article 92 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions sont applicables aux seules
+actions dont le fait générateur de la responsabilité ou le manquement est postérieur à l'entrée en vigueur de la présente
+loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 88
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R77-11-2 (V)
+
+
+###### Article L77-11-3
+
+L'action peut tendre à la cessation du manquement et, le cas échéant, en cas de manquement, à la réparation des préjudices
+subis.
+
+Sauf en ce qui concerne les candidats à un emploi, à un stage ou à une période de formation, sont seuls indemnisables dans le
+cadre de l'action de groupe les préjudices nés après la réception de la demande mentionnée à l'article L. 77-11-5.
+
+**Nota:**
+
+Conformément au II de l'article 92 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions sont applicables aux seules
+actions dont le fait générateur de la responsabilité ou le manquement est postérieur à l'entrée en vigueur de la présente
+loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 88
+
+
+###### Article L77-11-4
+
+L'action de groupe engagée en faveur de plusieurs candidats à un emploi, à un stage ou à une période de formation ou en
+faveur de plusieurs agents publics peut être introduite à l'expiration d'un délai de six mois à compter de la réception par
+l'autorité compétente d'une demande tendant à faire cesser la situation de discrimination ou à compter de la notification par
+l'employeur du rejet de la demande. Un décret en Conseil d'Etat fixe les conditions d'application du présent article,
+notamment les modalités de transmission des réclamations préalables ainsi que les modalités de consultation des organisations
+syndicales disposant d'au moins un siège dans l'organisme consultatif compétent au niveau auquel la mesure tendant à faire
+cesser cette situation peut être prise.
+
+**Nota:**
+
+Conformément au II de l'article 92 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions sont applicables aux seules
+actions dont le fait générateur de la responsabilité ou le manquement est postérieur à l'entrée en vigueur de la présente
+loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 88
+
+
+###### Article L77-11-5
+
+L'action de groupe suspend, dès la réception par l'autorité compétente de la demande à l'employeur en cause prévue au présent
+article, la prescription des actions individuelles en réparation des préjudices résultant du manquement dont la cessation est
+demandée.
+
+**Nota:**
+
+Conformément au II de l'article 92 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions sont applicables aux seules
+actions dont le fait générateur de la responsabilité ou le manquement est postérieur à l'entrée en vigueur de la présente
+loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 88
+
+
+###### Article L77-11-6
+
+Lorsque l'action tend à la réparation des préjudices subis, elle s'exerce dans le cadre de la procédure individuelle de
+réparation définie aux articles L. 77-10-10 à L. 77-10-12.
+
+**Nota:**
+
+Conformément au II de l'article 92 de la loi n° 2016-1547 du 18 novembre 2016, ces dispositions sont applicables aux seules
+actions dont le fait générateur de la responsabilité ou le manquement est postérieur à l'entrée en vigueur de la présente
+loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 88
+
+
+#### Chapitre XII : L'action en reconnaissance de droits 
+
+###### Article L77-12-1
+
+L'action en reconnaissance de droits permet à une association régulièrement déclarée ou à un syndicat professionnel
+régulièrement constitué de déposer une requête tendant à la reconnaissance de droits individuels résultant de l'application
+de la loi ou du règlement en faveur d'un groupe indéterminé de personnes ayant le même intérêt, à la condition que leur objet
+statutaire comporte la défense dudit intérêt. Elle peut tendre au bénéfice d'une somme d'argent légalement due ou à la
+décharge d'une somme d'argent illégalement réclamée. Elle ne peut tendre à la reconnaissance d'un préjudice.
+
+Le groupe d'intérêt en faveur duquel l'action est présentée est caractérisé par l'identité de la situation juridique de ses
+membres. Il est nécessairement délimité par les personnes morales de droit public ou les organismes de droit privé chargés de
+la gestion d'un service public mis en cause.
+
+L'action collective est présentée, instruite et jugée selon les dispositions du présent code, sous réserve du présent
+chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 93
+
+
+###### Article L77-12-2
+
+La présentation d'une action en reconnaissance de droits interrompt, à l'égard de chacune des personnes susceptibles de se
+prévaloir des droits dont la reconnaissance est demandée, les prescriptions et forclusions édictées par les lois et
+règlements en vigueur, sous réserve qu'à la date d'enregistrement de la requête, sa créance ne soit pas déjà prescrite ou son
+action forclose.
+
+Un nouveau délai de prescription ou de forclusion court, dans les conditions prévues par les dispositions législatives et
+réglementaires applicables, à compter de la publication de la décision statuant sur l'action collective passée en force de
+chose jugée. Les modalités de cette publication sont définies par décret en Conseil d'Etat.
+
+Postérieurement à cette publication, l'introduction d'une nouvelle action en reconnaissance de droits, quel qu'en soit
+l'auteur, n'interrompt pas, de nouveau, les délais de prescription et de forclusion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 93
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R77-12-12 (V)
+
+
+###### Article L77-12-3
+
+Le juge qui fait droit à l'action en reconnaissance de droits détermine les conditions de droit et de fait auxquelles est
+subordonnée la reconnaissance des droits. S'il lui apparaît que la reconnaissance de ces droits emporte des conséquences
+manifestement excessives pour les divers intérêts publics ou privés en présence, il peut déterminer les effets dans le temps
+de cette reconnaissance.
+
+Toute personne qui remplit ces conditions de droit et de fait peut, sous réserve que sa créance ne soit pas prescrite ou son
+action forclose, se prévaloir, devant toute autorité administrative ou juridictionnelle, des droits reconnus par la décision
+ainsi passée en force de chose jugée.
+
+L'autorité de chose jugée attachée à cette décision est soulevée d'office par le juge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 93
+
+
+###### Article L77-12-4
+
+L'appel formé contre un jugement faisant droit à une action en reconnaissance de droits a, de plein droit, un effet
+suspensif.
+
+Par dérogation à l'article L. 311-1, une cour administrative d'appel peut connaître, en premier ressort, d'une action en
+reconnaissance de droits, dans le cas où elle est déjà saisie d'une requête dirigée contre un jugement rendu par un tribunal
+administratif sur une action en reconnaissance de droits ayant le même objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 93
+
+
+###### Article L77-12-5
+
+En cas d'inexécution d'une décision faisant droit à une action en reconnaissance de droits, toute personne qui estime être en
+droit de se prévaloir de cette décision peut demander au juge de l'exécution d'enjoindre à l'autorité compétente de prendre
+les mesures d'exécution qu'implique, à son égard, cette décision, après en avoir déterminé, s'il y a lieu, les modalités
+particulières.
+
+Le juge peut fixer un délai d'exécution et prononcer une astreinte, dans les conditions prévues au livre IX. Il peut
+également infliger une amende à la personne morale de droit public ou à l'organisme de droit privé chargé de la gestion d'un
+service public intéressé, dont le montant ne peut excéder une somme déterminée par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 93
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R77-12-14 (V)
+	  - Code de justice administrative - art. R77-12-18 (V)
 
 
 ### Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer
@@ -25126,7 +25905,7 @@ nationale de contrôle des techniques de renseignement pour produire leurs obser
 	  - Décret n°2015-1211 du 1er octobre 2015 - art. 1
 
 
-#### Chapitre VI : Le contentieux des obligations de quitter le territoire et des arrêtés de reconduite à la frontière
+#### Chapitre VI : Le contentieux des obligations de quitter le territoire français
 
 ##### Section 1 : Dispositions communes
 
@@ -25465,6 +26244,192 @@ Saint-Martin, en Nouvelle-Calédonie, en Polynésie française et dans les îles
 	**Créé par**:
 
 	  - Décret n°2016-1458 du 28 octobre 2016 - art. 8
+
+
+##### Section 2 : Dispositions applicables en l'absence de placement en rétention, d'assignation à résidence ou de détention
+
+##### Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile 
+
+###### Article R776-10
+
+Les dispositions de la présente sous-section sont applicables aux recours formés, en application du I ou du II de l'article
+L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, contre les décisions d'obligation de quitter le
+territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du même
+code et les autres décisions mentionnées à l'article R. 776-1 du présent code, lorsque l'étranger n'est pas placé en
+rétention, assigné à résidence ou en détention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+	  - Code de justice administrative - art. R776-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-11
+
+Le président de la formation de jugement ou le rapporteur qui a reçu délégation à cet effet peut, dès l'enregistrement de la
+requête, faire usage du pouvoir prévu au premier alinéa de l'article R. 613-1 de fixer la date à laquelle l'instruction sera
+close. Il peut, par la même ordonnance, fixer la date et l'heure de l'audience au cours de laquelle l'affaire sera appelée.
+Dans ce cas, l'ordonnance tient lieu de l'avertissement prévu à l'article R. 711-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R613-1
+	  - Code de justice administrative - art. R711-2
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R776-17 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-12
+
+Lorsqu'une requête sommaire mentionne l'intention du requérant de présenter un mémoire complémentaire, la production annoncée
+doit parvenir au greffe du tribunal administratif dans un délai de quinze jours à compter de la date à laquelle la requête a
+été enregistrée. 
+
+Si ce délai n'est pas respecté, le requérant est réputé s'être désisté à la date d'expiration de ce délai, même si le mémoire
+complémentaire a été ultérieurement produit. Il est donné acte de ce désistement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+
+###### Article R776-13
+
+L'Etat est représenté en défense par le préfet qui a pris la ou les décisions attaquées. 
+
+Les délais donnés aux parties pour fournir leurs observations doivent être observés, faute de quoi il peut être passé outre
+sans mise en demeure.
+
+Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, de prononcer des
+conclusions à l'audience. 
+
+Le tribunal administratif statue dans le délai de trois mois à compter de l'enregistrement de la requête prévu au deuxième
+alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-1458 du 28 octobre 2016 - art. 9
+	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R776-13-2 (V)
+
+
+##### Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile
+
+###### Article R776-13-1
+
+Les dispositions de la présente sous-section sont applicables aux recours formés, en application du I bis ou du II de
+l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, contre les décisions d'obligation de
+quitter le territoire français prise sur le fondement des 1°, 2°, 4° ou 6° du I de l'article L. 511-1 du même code et les
+décisions mentionnées à l'article R. 776-1 du présent code notifiées simultanément, lorsque l'étranger n'est pas placé en
+rétention, assigné à résidence ou en détention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+	  - Code de justice administrative - art. R776-1 (V)
+
+
+###### Article R776-13-2
+
+La présentation, l'instruction et le jugement des recours obéissent, sans préjudice de la section 1, aux règles définies au
+premier alinéa de l'article R. 776-13, aux articles R. 776-15, 
+R. 776-18, R. 776-20-1, R. 776-22 à R. 776-26, aux deuxième et quatrième alinéas de l'article R. 776-27 et à l'article R.
+776-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R776-13 (V)
+	  - Code de justice administrative - art. R776-15 (V)
+	  - Code de justice administrative - art. R776-18 (V)
+	  - Code de justice administrative - art. R776-20-1 (V)
+	  - Code de justice administrative - art. R776-22 (V)
+	  - Code de justice administrative - art. R776-26 (V)
+	  - Code de justice administrative - art. R776-27 (V)
+	  - Code de justice administrative - art. R776-28 (V)
+
+
+###### Article R776-13-3
+
+Le président du tribunal administratif ou le magistrat désigné statue dans le délai de six semaines prévu au troisième alinéa
+du I bis de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
 
 
 ##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence
@@ -25947,198 +26912,6 @@ proposition, de prononcer des conclusions à l'audience.
 
 	  - Code de justice administrative - art. R776-13-2 (V)
 
-
-#### Chapitre VI : Le contentieux des obligations de quitter le territoire français
-
-##### Section 1 : Dispositions communes
-
-##### Section 2 : Dispositions applicables en l'absence de placement en rétention, d'assignation à résidence ou de détention
-
-##### Sous-section 1 : Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du code d'entrée et du séjour des étrangers et du droit d'asile 
-
-###### Article R776-10
-
-Les dispositions de la présente sous-section sont applicables aux recours formés, en application du I ou du II de l'article
-L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, contre les décisions d'obligation de quitter le
-territoire français prise sur le fondement des 3°, 5°, 7° ou 8° du I de l'article L. 511-1 ou de l'article L. 511-3-1 du même
-code et les autres décisions mentionnées à l'article R. 776-1 du présent code, lorsque l'étranger n'est pas placé en
-rétention, assigné à résidence ou en détention.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
-	  - Code de justice administrative - art. R776-1 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-
-###### Article R776-11
-
-Le président de la formation de jugement ou le rapporteur qui a reçu délégation à cet effet peut, dès l'enregistrement de la
-requête, faire usage du pouvoir prévu au premier alinéa de l'article R. 613-1 de fixer la date à laquelle l'instruction sera
-close. Il peut, par la même ordonnance, fixer la date et l'heure de l'audience au cours de laquelle l'affaire sera appelée.
-Dans ce cas, l'ordonnance tient lieu de l'avertissement prévu à l'article R. 711-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R613-1
-	  - Code de justice administrative - art. R711-2
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R776-17 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-
-###### Article R776-12
-
-Lorsqu'une requête sommaire mentionne l'intention du requérant de présenter un mémoire complémentaire, la production annoncée
-doit parvenir au greffe du tribunal administratif dans un délai de quinze jours à compter de la date à laquelle la requête a
-été enregistrée. 
-
-Si ce délai n'est pas respecté, le requérant est réputé s'être désisté à la date d'expiration de ce délai, même si le mémoire
-complémentaire a été ultérieurement produit. Il est donné acte de ce désistement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-
-###### Article R776-13
-
-L'Etat est représenté en défense par le préfet qui a pris la ou les décisions attaquées. 
-
-Les délais donnés aux parties pour fournir leurs observations doivent être observés, faute de quoi il peut être passé outre
-sans mise en demeure.
-
-Le président de la formation de jugement peut dispenser le rapporteur public, sur sa proposition, de prononcer des
-conclusions à l'audience. 
-
-Le tribunal administratif statue dans le délai de trois mois à compter de l'enregistrement de la requête prévu au deuxième
-alinéa du I de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2016-1458 du 28 octobre 2016 - art. 9
-	  - PILOTE_SUIVEUR: Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R776-13-2 (V)
-
-
-##### Sous-section 2 :  Dispositions applicables en cas d'obligation de quitter le territoire français prise sur le fondement des 1°,2°, 4° ou 6° du I de l'article L. 511-1 du code de l'entrée et du séjour des étrangers et du droit d'asile
-
-###### Article R776-13-1
-
-Les dispositions de la présente sous-section sont applicables aux recours formés, en application du I bis ou du II de
-l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, contre les décisions d'obligation de
-quitter le territoire français prise sur le fondement des 1°, 2°, 4° ou 6° du I de l'article L. 511-1 du même code et les
-décisions mentionnées à l'article R. 776-1 du présent code notifiées simultanément, lorsque l'étranger n'est pas placé en
-rétention, assigné à résidence ou en détention.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
-	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
-	  - Code de justice administrative - art. R776-1 (V)
-
-
-###### Article R776-13-2
-
-La présentation, l'instruction et le jugement des recours obéissent, sans préjudice de la section 1, aux règles définies au
-premier alinéa de l'article R. 776-13, aux articles R. 776-15, 
-R. 776-18, R. 776-20-1, R. 776-22 à R. 776-26, aux deuxième et quatrième alinéas de l'article R. 776-27 et à l'article R.
-776-28.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R776-13 (V)
-	  - Code de justice administrative - art. R776-15 (V)
-	  - Code de justice administrative - art. R776-18 (V)
-	  - Code de justice administrative - art. R776-20-1 (V)
-	  - Code de justice administrative - art. R776-22 (V)
-	  - Code de justice administrative - art. R776-26 (V)
-	  - Code de justice administrative - art. R776-27 (V)
-	  - Code de justice administrative - art. R776-28 (V)
-
-
-###### Article R776-13-3
-
-Le président du tribunal administratif ou le magistrat désigné statue dans le délai de six semaines prévu au troisième alinéa
-du I bis de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du droit d'asile.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2016-1458 du 28 octobre 2016 - art. 9
-
-	**Cite**:
-
-	  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
-
-
-##### Section 3 : Dispositions applicables en cas de placement en rétention ou d'assignation à résidence
 
 ##### Section 4 : Dispositions applicables en cas de détention
 
