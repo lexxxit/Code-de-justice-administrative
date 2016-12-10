@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-11-20
+Version Consolidée au 2016-12-11
 
 # Partie législative
 
@@ -7422,6 +7422,28 @@ ce sens, prescrit, par la même décision, cette mesure assortie, le cas échéa
 	  - Code de l'action sociale et des familles - art. L351-7 (V)
 	  - Code des juridictions financières - art. L232-1 (V)
 	  - Code général des collectivités territoriales - art. L1612-17 (V)
+
+
+###### Article L911-1-1
+
+Lorsqu'il est fait application de l'article L. 911-1, la juridiction peut prescrire de réintégrer toute personne ayant fait
+l'objet d'un licenciement, d'un non-renouvellement de son contrat ou d'une révocation en méconnaissance du deuxième alinéa de
+l'article L. 4122-4 du code de la défense, du deuxième alinéa de l'article L. 1132-3-3 du code du travail ou du deuxième
+alinéa de l'article 6 ter A de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, y
+compris lorsque cette personne était liée par une relation à durée déterminée avec la personne morale de droit public ou
+l'organisme de droit privé chargé de la gestion d'un service public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 6 ter A (V)
+	  - Code de la défense. - art. L4122-4 (V)
+	  - Code du travail - art. L1132-3-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 11
 
 
 ###### Article L911-2
