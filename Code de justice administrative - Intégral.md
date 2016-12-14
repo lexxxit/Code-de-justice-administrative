@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-15
 
 # Partie législative
 
@@ -8250,6 +8250,25 @@ section.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+
+
+###### Article R121-16
+
+Le nombre de conseillers d'Etat en service extraordinaire nommés pour exercer des fonctions consultatives en application du
+II de l'article L. 121-4 est fixé à douze. 
+
+Le nombre de conseillers d'Etat en service extraordinaire nommés pour exercer des fonctions juridictionnelles en application
+du III de l'article L. 121-4 est fixé à quatre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1710 du 12 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L121-4 (V)
 
 
 #### Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses
