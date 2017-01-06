@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-07
 
 # Partie législative
 
@@ -3091,22 +3091,22 @@ effectifs dans un corps ou cadre d'emplois de catégorie A ou sur un emploi de c
 ###### Article L233-4
 
 Pour sept conseillers promus au grade de premier conseiller, une nomination est prononcée, à condition qu'ils justifient d'au
-moins huit ans de services effectifs dans un ou plusieurs des corps ou cadres d'emplois ci-après, au bénéfice :
+moins huit ans de services effectifs dans un ou plusieurs des corps ou cadres d'emplois ci-après, au bénéfice : 
 
-1° De fonctionnaires de l'un des corps recrutés par la voie de l'Ecole nationale d'administration ;
+1° De fonctionnaires de l'un des corps recrutés par la voie de l'Ecole nationale d'administration ; 
 
 2° De fonctionnaires appartenant à un autre corps de catégorie A ou cadre d'emplois de même niveau, titulaires de l'un des
 diplômes exigés pour se présenter au concours externe d'entrée à l'Ecole nationale d'administration ainsi que d'un grade et
-d'un échelon déterminés par décret en Conseil d'Etat ;
+d'un échelon déterminés par décret en Conseil d'Etat ; 
 
-3° De magistrats de l'ordre judiciaire ;
+3° De magistrats de l'ordre judiciaire ; 
 
-4° De professeurs et maîtres de conférences titulaires des universités ;
+4° De professeurs et maîtres de conférences titulaires des universités ; 
 
-5° D'administrateurs territoriaux ;
+5° D'administrateurs territoriaux ; 
 
-6° De personnels de direction des établissements de santé et autres établissements mentionnés aux 1°, 2° et 3° de l'article 2
-de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière.
+6° De personnels de direction des établissements de santé et autres établissements mentionnés aux 1° et 3° de l'article 2 de
+la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière. 
 
 Pour bénéficier de cette nomination, les membres des corps ou cadres d'emplois soumis à l'obligation statutaire de mobilité
 doivent avoir satisfait à cette obligation.
@@ -3115,16 +3115,16 @@ doivent avoir satisfait à cette obligation.
 
 	**Cite**:
 
-	  - Loi n°86-33 1986-01-09 art. 2
+	  - Loi n°86-33 du 9 janvier 1986 - art. 2 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
 	**Modifié par**:
 
-	  - Loi n°2007-148 du 2 février 2007 - art. 37 () JORF 6 février 2007
+	  - Ordonnance n°2017-10 du 5 janvier 2017 - art. 1
 
 	**Cité par**:
 
