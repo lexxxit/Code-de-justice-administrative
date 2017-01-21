@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-01-08
+Version Consolidée au 2017-01-22
 
 # Partie législative
 
@@ -5990,20 +5990,14 @@ en œuvre d'une technique de renseignement ou ultérieurement, elle peut condamn
 
 Lorsque la formation de jugement estime que l'illégalité constatée est susceptible de constituer une infraction, elle en
 avise le procureur de la République et transmet l'ensemble des éléments du dossier au vu duquel elle a statué à la Commission
-consultative du secret de la défense nationale, afin que celle-ci donne au Premier ministre son avis sur la possibilité de
-déclassifier tout ou partie de ces éléments en vue de leur transmission au procureur de la République.
-
-**Nota:**
-
-Conformément à l'article 26 de la loi n° 2015-912 du 24 juillet 2015, à l'exception des articles 3, 4, 9, 16 à 20 et 22 et
-sous réserve des II à IV dudit article, la loi susmentionnée entre en vigueur au lendemain de la publication au Journal
-officiel du décret nommant le président de la Commission nationale de contrôle des techniques de renseignement.
+du secret de la défense nationale, afin que celle-ci donne au Premier ministre son avis sur la possibilité de déclassifier
+tout ou partie de ces éléments en vue de leur transmission au procureur de la République.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-912 du 24 juillet 2015 - art. 10
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 
 ###### Article L773-8
