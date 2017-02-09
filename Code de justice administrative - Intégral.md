@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-02-10
 
 # Partie législative
 
@@ -16337,21 +16337,26 @@ La cour administrative d'appel de Paris est compétente pour connaître en premi
 1° Des recours dirigés contre les arrêtés du ministre chargé du travail relatifs à la représentativité des organisations
 syndicales, pris en application de l'article L. 2122-11 du code du travail ; 
 
-2° Des litiges relatifs aux décisions prises par le Conseil supérieur de l'audiovisuel en application des articles 28-1, 28-3
+2° Des litiges relatifs aux décisions prises par le Conseil supérieur de l'audiovisuel en application des articles 28-1,28-3
 et 29 à 30-7 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, à l'exception de celles
-concernant les services de télévision à vocation nationale.
+concernant les services de télévision à vocation nationale ; 
+
+3° Des recours dirigés contre les décisions du ministre chargé de la culture relatives à la délivrance ou au refus de
+délivrance du visa d'exploitation cinématographique aux œuvres ou documents cinématographiques ou audiovisuels destinés à une
+représentation cinématographique, prises en application de l'article L. 211-1 du code du cinéma et de l'image animée.
 
 **Nota:**
 
-Conformément à l'article 16-III du décret n° 2013-730 du 13 août 2013, ces dispositions s'appliquent aux requêtes
-enregistrées à compter du 1er janvier 2014.
+Conformément à l'article 3 du décret n° 2017-150 du 8 février 2017, ces dispositions s'appliquent aux requêtes enregistrées à
+compter du 1er mars 2017.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 28-1 (V)
-	  - Code du travail - art. L2122-11 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 28-1
+	  - Code du travail - art. L2122-11
+	  - Code du cinéma et de l'image animée - art. L211-1 (V)
 
 	**Codifié par**:
 
@@ -16359,7 +16364,7 @@ enregistrées à compter du 1er janvier 2014.
 
 	**Modifié par**:
 
-	  - Décret n°2013-730 du 13 août 2013 - art. 5
+	  - Décret n°2017-150 du 8 février 2017 - art. 2
 
 	**Cité par**:
 
