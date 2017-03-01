@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-02-10
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -74,14 +74,19 @@ juridiction.
 
 ###### Article L5
 
-L'instruction des affaires est contradictoire. Les exigences de la contradiction sont adaptées à celles de l'urgence.
+L'instruction des affaires est contradictoire. Les exigences de la contradiction sont adaptées à celles de l'urgence, du
+secret de la défense nationale et de la protection de la sécurité des personnes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 4
 
 	**Cité par**:
 
@@ -6026,6 +6031,33 @@ officiel du décret nommant le président de la Commission nationale de contrôl
 	**Créé par**:
 
 	  - Loi n°2015-912 du 24 juillet 2015 - art. 10
+
+
+#### Chapitre III ter : Le contentieux des décisions administratives fondées sur des motifs en lien avec la prévention d'actes de terrorisme 
+
+
+###### Article L773-9
+
+Les exigences de la contradiction mentionnées à l'article L. 5 sont adaptées à celles de la protection de la sécurité des
+auteurs des décisions mentionnées au second alinéa de l'article L. 212-1 du code des relations entre le public et
+l'administration. 
+
+Lorsque dans le cadre d'un recours contre l'une de ces décisions, le moyen tiré de la méconnaissance des formalités
+prescrites par le même article L. 212-1 ou de l'incompétence de l'auteur de l'acte est invoqué par le requérant ou si le juge
+entend relever d'office ce dernier moyen, l'original de la décision ainsi que la justification de la compétence du signataire
+sont communiqués par l'administration à la juridiction qui statue sans soumettre les éléments qui lui ont été communiqués au
+débat contradictoire ni indiquer l'identité du signataire dans sa décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L5 (V)
+	  - Code des relations entre le public et l'adminis... - art. L212-1 (V)
 
 
 #### Chapitre IV : Les contraventions de grande voirie
