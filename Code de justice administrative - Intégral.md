@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-04
 
 # Partie législative
 
@@ -10231,24 +10231,20 @@ instances siégeant en formation disciplinaire, à l'autorité judiciaire ou au 
 	  - Décret n°2017-12 du 5 janvier 2017 - art. 1
 
 
-#### Chapitre II : La commission consultative
+#### Chapitre II : La commission supérieure du Conseil d'Etat
 
-###### Article R132-1
+###### Article R*132-1
 
-La commission consultative comprend, outre le vice-président du Conseil d'Etat qui la préside et les présidents de section,
-sept membres élus du Conseil d'Etat en activité de service ou en délégation, dont trois conseillers d'Etat en service
-ordinaire ou en service extraordinaire, trois maîtres des requêtes et un auditeur. 
+La commission supérieure du Conseil d'Etat comprend, en tant que membres élus : 
 
-Les membres élus ont un mandat de deux ans. Les modalités de l'élection sont fixées par arrêté du vice-président. Sept
-suppléants sont élus dans les mêmes conditions.
+1° Quatre conseillers d'Etat en service ordinaire ou en service extraordinaire ; 
 
-Le secrétaire général du Conseil d'Etat assiste avec voix consultative aux réunions de la commission et en tient les procès-
-verbaux.
+2° Trois maîtres des requêtes en service ordinaire ou en service extraordinaire ; 
 
-**Nota:**
+3° Un auditeur. 
 
-Décret n° 2012-1088 du 28 septembre 2012 article 8 III : Les dispositions de l'article R. 132-1 entrent en vigueur à compter
-du premier renouvellement de la commission consultative qui suit la publication du présent décret.
+Il est procédé à l'élection de deux suppléants pour les catégories mentionnées aux 1° et 2° et d'un suppléant pour celle
+mentionnée au 3°.
 
 **Liens relatifs à cet article**
 
@@ -10258,45 +10254,43 @@ du premier renouvellement de la commission consultative qui suit la publication 
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 8 (V)
+	  - Décret n°2017-271 du 2 mars 2017 - art. 1
 
 
-###### Article R132-2
+###### Article R*132-2
 
-En cas d'empêchement, le vice-président est remplacé par le président de section le plus ancien au tableau. Les présidents de
-section et les membres élus de la commission siègent et, le cas échéant, sont suppléés en suivant l'ordre du tableau.
+Sont électeurs et éligibles les membres en service au Conseil d'Etat. 
+
+Les membres mis à disposition ou délégués à l'extérieur du Conseil d'Etat et ceux qui sont en position de détachement sont
+électeurs. 
+
+Les conseillers d'Etat en service ordinaire et en service extraordinaire, les maîtres des requêtes en service ordinaire et en
+service extraordinaire, et les auditeurs constituent trois collèges distincts.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-767 du 30 juillet 1963 - art. 6 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-271 du 2 mars 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R*132-4 (V)
 
 
-###### Article R132-3
+###### Article R*132-3
 
-Pour l'examen des mesures individuelles, la commission comprend, d'une part, le vice-président et les deux présidents de
-section les plus anciens au tableau ou, pour les affaires relatives aux auditeurs, le seul président de section le plus
-ancien au tableau, et, d'autre part, si l'affaire concerne un conseiller d'Etat : les trois conseillers d'Etat ; si l'affaire
-concerne un maître des requêtes : les trois maîtres des requêtes ; si elle concerne un auditeur : l'auditeur et son
-suppléant.
+Les représentants titulaires et suppléants des membres du Conseil d'Etat sont élus au scrutin uninominal à un tour. En cas
+d'égalité des voix, les candidats sont départagés en fonction de l'ordre du tableau. 
 
-**Nota:**
+Lorsque le nombre des candidats est insuffisant pour pourvoir la totalité des sièges, il est procédé à la désignation des
+représentants par tirage au sort. 
 
-Décret n° 2012-1088 du 28 septembre 2012 article 8 III : Les dispositions de l'article R. 132-1 entrent en vigueur à compter
-du premier renouvellement de la commission consultative qui suit la publication du présent décret.
+L'organisation du scrutin est fixée par arrêté du vice-président du Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -10306,7 +10300,80 @@ du premier renouvellement de la commission consultative qui suit la publication 
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 8 (V)
+	  - Décret n°2017-271 du 2 mars 2017 - art. 1
+
+
+###### Article R*132-4
+
+Si, avant l'expiration de son mandat, l'un des représentants titulaires des membres élus démissionne, se trouve dans
+l'impossibilité d'exercer son mandat, ou ne remplit plus les conditions posées au premier alinéa de l'article R. * 132-2, il
+est remplacé par le suppléant le plus ancien dans l'ordre du tableau élu par le même collège électoral. S'il n'existe plus,
+pour un collège donné, un nombre suffisant de titulaires, il est procédé à une élection complémentaire dans un délai de deux
+mois. Les représentants élus dans ces conditions achèvent le mandat de ceux qu'ils remplacent. 
+
+Toutefois, lorsque le mandat de l'ensemble des représentants élus de la commission supérieure doit être renouvelé moins de
+six mois avant le terme du mandat, il n'est pas procédé à une élection complémentaire. 
+
+Si, en cours de mandat, un représentant élu fait l'objet d'une promotion de grade, il continue à représenter le grade au
+titre duquel il a été élu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R*132-2
+
+
+###### Article R*132-5
+
+La commission supérieure ne délibère valablement que si les trois cinquièmes de ses membres sont présents. 
+
+Sauf en matière disciplinaire, la consultation de la commission supérieure peut, en cas d'urgence ou de circonstances
+particulières, s'effectuer par visioconférence, conférence téléphonique ou par correspondance électronique. 
+
+En l'absence du vice-président du Conseil d'Etat, la commission supérieure est présidée, par ordre d'ancienneté dans les
+fonctions, par 1'un des présidents mentionnés au 2° de l'article L. 132-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L132-1
+
+
+###### Article R*132-6
+
+Lorsque la situation de l'un des membres de la commission supérieure est évoquée à l'occasion de l'examen d'une question
+figurant à l'ordre du jour, celui-ci ne siège pas. Il est remplacé, le cas échéant, par le suppléant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 1
+
+
+###### Article R*132-7
+
+La commission supérieure du Conseil d'Etat élabore son règlement intérieur, qui est arrêté par décision du vice-président du
+Conseil d'Etat. 
+
+Le secrétariat de la séance est assuré par le secrétaire général du Conseil d'Etat. Un représentant élu est désigné par la
+commission pour exercer les fonctions de secrétaire adjoint.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 1
 
 
 #### Chapitre III : Nominations
@@ -11036,31 +11103,6 @@ de la période pour laquelle ils avaient été placés dans cette position.
 	  - Code de justice administrative - art. R*135-10 (V)
 
 
-###### Article R*135-7
-
-Les membres du Conseil d'Etat peuvent être mis en position hors cadre dans les conditions prévues à l'article 49 de la loi n°
-84-16 du 11 janvier 1984, et selon les formes prescrites à l'article R. * 135-2.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-16 du 11 janvier 1984 - art. 49
-	  - Code de justice administrative - art. R*135-2
-
-	**Codifié par**:
-
-	  - Rapport au Président de la République relatif à la partie Réglementaire du code de justice administrative (Décrets en Conseil d'Etat délibérés en conseil des ministres)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2017-271 du 2 mars 2017 - art. 3
-
-
 ###### Article R*135-8
 
 Les membres du Conseil d'Etat peuvent être mis en disponibilité dans les conditions prévues à l'article 51 de la loi n° 84-16
@@ -11210,6 +11252,122 @@ compte de l'ordre d'ancienneté des demandes et, le cas échéant, de l'âge des
 	**Cité par**:
 
 	  - Code de justice administrative - art. R*135-8 (V)
+
+
+#### Chapitre VI : Discipline
+
+###### Article R*136-1
+
+La commission supérieure du Conseil d'Etat est saisie des faits motivant la poursuite disciplinaire par le vice-président du
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 2
+
+
+###### Article R*136-2
+
+La procédure devant la commission supérieure du Conseil d'Etat est contradictoire.
+
+Le membre du Conseil d'Etat poursuivi reçoit la communication des griefs par le président de la commission supérieure, dès la
+saisine de cette instance. Il est informé à cette occasion qu'il a droit à la communication intégrale de son dossier et des
+pièces de l'enquête préliminaire, s'il y a été procédé, et qu'il peut se faire assister par un ou plusieurs défenseurs de son
+choix.
+
+Le président de la commission supérieure désigne parmi les membres de la commission un rapporteur qui procède, s'il y a lieu,
+à une enquête. Au cours de cette dernière, le rapporteur entend l'intéressé et, le cas échéant, toute personne dont
+l'audition lui paraît nécessaire. Il accomplit tous actes d'investigations utiles. Il peut, en tant que de besoin, faire
+appel à l'assistance du secrétariat général du Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 2
+
+
+###### Article R*136-3
+
+Le membre du Conseil d'Etat poursuivi est convoqué par le président de la commission supérieure du Conseil d'Etat quinze
+jours au moins avant la date de la réunion, par lettre recommandée avec demande d'avis de réception.
+
+La commission supérieure se prononce dans un délai d'un mois à compter de sa saisine. Ce délai est porté à deux mois
+lorsqu'il est procédé à une enquête ou lorsqu'à l'initiative de l'un de ses membres ou à la demande du membre du Conseil
+d'Etat poursuivi, la commission supérieure décide, à la majorité des membres, de renvoyer l'examen de l'affaire à une
+nouvelle réunion.
+
+Lorsque le membre du Conseil d'Etat poursuivi fait l'objet de poursuites devant une juridiction répressive, la commission
+supérieure du Conseil d'Etat peut, à la majorité des membres, proposer de suspendre la procédure disciplinaire jusqu'à
+l'intervention de la décision de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 2
+
+
+###### Article R*136-4
+
+Lorsque la commission supérieure examine l'affaire au fond, son président informe les membres de la commission des conditions
+dans lesquelles le membre du Conseil d'Etat poursuivi a été mis en mesure d'exercer son droit à communication intégrale du
+dossier individuel et des documents annexes.
+
+Le rapporteur présente son rapport devant la commission supérieure.
+
+La commission supérieure entend séparément chaque témoin cité.
+
+A la demande d'un membre de la commission, ou du membre du Conseil d'Etat poursuivi, le président peut décider de procéder à
+une confrontation des témoins, ou à une nouvelle audition d'un témoin déjà entendu.
+
+Le membre du Conseil d'Etat poursuivi peut, à tout moment de la procédure devant la commission, demander au président
+l'autorisation d'intervenir afin de présenter des observations orales. Il doit être invité à présenter d'ultimes observations
+avant que la commission ne commence à délibérer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 2
+
+
+###### Article R*136-5
+
+La commission supérieure délibère hors la présence du membre du Conseil d'Etat poursuivi. Le rapporteur ne prend pas part au
+vote. La proposition de la commission est motivée. Elle est adoptée à la majorité des voix. En cas de partage des voix sur le
+quantum de la sanction, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 2
+
+
+###### Article R*136-6
+
+La sanction est notifiée au membre du Conseil d'Etat poursuivi par l'autorité qui l'a prise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 2
+
+
+###### Article R*136-7
+
+Le secrétariat de la commission supérieure du Conseil d'Etat statuant en formation disciplinaire est assuré par le secrétaire
+général du Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-271 du 2 mars 2017 - art. 2
 
 
 #### Chapitre VII : La participation des membres du Conseil d'Etat à des activités administratives ou d'intérêt général
