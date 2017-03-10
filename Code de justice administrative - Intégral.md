@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-03-04
+Version Consolidée au 2017-03-11
 
 # Partie législative
 
@@ -6435,6 +6435,47 @@ du conseil territorial de Saint-Martin ".
 
 	  - Code de justice administrative - art. L774-1 (V)
 	  - Code de justice administrative - art. L774-2 (V)
+
+
+#### Chapitre V : Le contentieux indemnitaire du fait des pratiques anticoncurrentielles
+
+###### Article L775-1
+
+Lorsqu'elles relèvent de la juridiction administrative, les actions tendant à la réparation d'un dommage causé par une
+pratique anticoncurrentielle mentionnée à l'article L. 481-1 du code de commerce sont présentées, instruites et jugées selon
+les dispositions du présent code, sous réserve des dispositions législatives du titre VIII du livre IV du code de commerce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-303 du 9 mars 2017 - art. 10
+
+	**Cite**:
+
+	  - Code de commerce - art. L481-1 (V)
+
+
+###### Article L775-2
+
+Par dérogation à l'article L. 4 du présent code, l'exécution de l'ordonnance enjoignant la communication ou la production
+d'une pièce ou d'une catégorie de pièces dont il est allégué qu'elle est couverte par le secret des affaires est suspendue
+jusqu'à l'expiration du délai d'appel ou, le cas échéant, jusqu'à ce qu'il ait été statué sur l'appel.
+
+**Nota:**
+
+Conformément au I de l'article 12 de l'ordonnance n° 2017-303 du 9 mars 2017 les dispositions du présent article sont
+applicables aux instances introduites devant les juridictions administratives et judiciaires à compter du 26 décembre 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-303 du 9 mars 2017 - art. 10
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L4 (V)
 
 
 #### Chapitre VI : Le contentieux des obligations de quitter le territoire français
@@ -26697,6 +26738,295 @@ nationale de contrôle des techniques de renseignement pour produire leurs obser
 	**Créé par**:
 
 	  - Décret n°2015-1211 du 1er octobre 2015 - art. 1
+
+
+#### Chapitre V : Le contentieux indemnitaire du fait des pratiques anticoncurrentielles
+
+##### Section 1 : Dispositions générales
+
+###### Article R775-1
+
+Les actions mentionnées à l'article L. 775-1 sont présentées, instruites et jugées selon les dispositions du présent code,
+sous réserve du présent chapitre et des dispositions réglementaires du chapitre III du titre VIII du livre IV du code de
+commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+
+
+###### Article R775-2
+
+Sans préjudice des dispositions de l'article R. 611-10, le président de la formation de jugement peut déléguer au rapporteur
+les pouvoirs qui lui sont conférés par le présent chapitre pour l'instruction des affaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R611-10
+
+
+###### Article R775-3
+
+Le président de la formation de jugement peut, après avoir recueilli les observations des parties, solliciter l'avis de
+l'Autorité de la concurrence sur l'évaluation du préjudice dont il est demandé réparation. 
+
+L'Autorité de la concurrence dispose d'un délai de deux mois pour communiquer ses observations au juge. A défaut de réponse
+dans ce délai, l'instance est poursuivie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+
+###### Article R775-4
+
+Sans préjudice des dispositions de l'article L. 731-1, la motivation des décisions prises en application du présent chapitre
+préserve, le cas échéant, la confidentialité des informations couvertes par le secret des affaires. A cette fin, il peut en
+être établi une version non confidentielle à destination des personnes non tenues à l'obligation de confidentialité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R613-1
+	  - Code de justice administrative - art. R711-2
+
+
+##### Section 2 : De la protection des pièces couvertes par le secret des affaires
+
+###### Article R775-5
+
+La partie ou le tiers qui invoque la protection du secret des affaires pour une pièce dont la communication ou la production
+est demandée remet au président de la formation de jugement, dans le délai que celui-ci fixe, la version confidentielle
+intégrale de cette pièce, une version non confidentielle et un résumé ainsi qu'un mémoire précisant, pour chaque information
+ou partie du document en cause, les motifs qui lui confèrent le caractère d'un secret des affaires. 
+
+Le président peut, hors la présence de toute autre personne, entendre le détenteur de la pièce, assisté ou représenté par
+toute personne habilitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+
+###### Article R775-6
+
+Au vu des éléments qui lui ont été remis ou qu'il a recueillis en application de l'article précédent, le président de la
+formation de jugement statue sur la communication de la pièce et ses modalités par une ordonnance notifiée aux parties dans
+les conditions prévues au deuxième alinéa de l'article R. 611-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R611-3
+
+
+###### Article R775-7
+
+La communication ou la production intégrale de la pièce, si elle est nécessaire à la solution du litige, est ordonnée
+lorsqu'elle n'est pas de nature à porter atteinte à un secret des affaires. Lorsque seuls certains de ses éléments de la
+pièce sont de nature à porter une telle atteinte, la communication ou la production de la pièce a lieu dans une version non
+confidentielle ou sous forme d'un résumé, selon les modalités fixées par l'ordonnance prévue à l'article R. 775-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+
+###### Article R775-8
+
+Lorsque la production ou la communication intégrale d'une pièce nécessaire à la solution du litige est de nature à porter
+atteinte à un secret des affaires, le président de la formation de jugement désigne la ou les personnes pouvant, outre leurs
+conseils, avoir accès à la pièce et assister aux débats sur le fond.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R351-6
+
+
+###### Article R775-9
+
+La décision rejetant la demande de communication ou de production de la pièce ou de la catégorie de pièces n'est susceptible
+de recours qu'avec la décision sur le fond.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+
+###### Article R775-10
+
+L'ordonnance enjoignant la communication ou la production de la pièce ou de la catégorie de pièces litigieuse est susceptible
+d'appel, dans un délai de dix jours à compter de sa notification, devant le président de la cour administrative d'appel ou le
+magistrat qu'il délègue à cet effet. 
+
+Le président de la cour administrative d'appel ou son délégué statue dans le délai d'un mois, selon les modalités prévues aux
+articles R. 775-5 à R. 775-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+
+###### Article R775-11
+
+Le pourvoi en cassation à l'encontre de cette décision est formé dans un délai de dix jours à compter de la notification qui
+en est faite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+
+##### Section 3 : De la communication et de la production des pièces figurant dans le dossier d'une autorité de concurrence
+
+###### Article R775-12
+
+Lorsque la pratique anticoncurrentielle invoquée fait également l'objet d'une procédure en cours devant une autorité de
+concurrence, les parties concernées par cette procédure l'informent de toute demande, qu'elles ont formée ou dont elles sont
+destinataires, ayant pour objet la communication ou la production de pièces figurant dans le dossier de l'autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+
+###### Article R775-13
+
+Une autorité de concurrence peut, de sa propre initiative, donner son avis écrit sur une demande de communication ou de
+production de toute pièce figurant dans son dossier dont la juridiction est saisie. L'avis est transmis aux parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+
+###### Article R775-14
+
+Pour s'assurer qu'une pièce relève de l'interdiction prévue à l'
+article L. 483-5 du code de commerce
+, le président de la formation de jugement peut, après en avoir informé les parties et, le cas échéant, le tiers détenteur de
+la pièce litigieuse, demander l'avis de l'autorité de concurrence compétente et lui communiquer à cet effet la pièce
+concernée. Cet avis préserve la confidentialité des informations contenues dans la pièce. Il est communiqué aux parties et,
+le cas échéant, au tiers détenteur de ladite pièce.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de commerce - art. L483-5
+
+
+##### Section 4 : Des sanctions
+
+###### Article R775-15
+
+Les parties à l'instance, les tiers, et leurs représentants légaux, peuvent être condamnés par la juridiction saisie au
+paiement d'une amende d'un montant maximum de 10 000 €, sans préjudice des dommages et intérêts qui seraient réclamés, dans
+l'un quelconque des cas suivants : 
+
+1° Le défaut de respect ou le refus de se conformer à une injonction de communication ou de production de pièces ; 
+
+2° La destruction de pièces pertinentes en vue de faire obstacle à l'action prévue au présent chapitre ; 
+
+3° Le non-respect des obligations imposées par une injonction du juge protégeant des informations confidentielles ou le refus
+de s'y conformer. 
+
+La juridiction peut également tirer toute conséquence de fait ou de droit au préjudice de la partie ayant été à l'origine de
+l'un quelconque des comportements mentionnés au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-305 du 9 mars 2017 - art. 4
 
 
 #### Chapitre VI : Le contentieux des obligations de quitter le territoire français
