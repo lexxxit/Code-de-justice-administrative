@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-03-25
+Version Consolidée au 2017-04-01
 
 # Partie législative
 
@@ -14947,392 +14947,7 @@ instances siégeant en formation disciplinaire, à l'autorité judiciaire ou au 
 
 ##### Section 2 : Désignation des membres du Conseil supérieur
 
-###### Article R232-1
-
-Les représentants du corps des tribunaux administratifs et des cours administratives d'appel qui siègent au Conseil supérieur
-des tribunaux administratifs et des cours administratives d'appel sont élus pour trois ans à la représentation
-proportionnelle à raison :
-
-1° D'un représentant titulaire et d'un suppléant pour le grade de conseiller ;
-
-2° De deux représentants titulaires et de deux suppléants pour le grade de premier conseiller ;
-
-3° De deux représentants titulaires et de deux suppléants pour le grade de président.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-2
-
-Les élections au Conseil supérieur ont lieu quatre mois au plus et quinze jours au moins avant la date d'expiration du mandat
-de ses membres en exercice. La date de ces élections est fixée par le vice-président du Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-3
-
-Sont électeurs les membres du corps des tribunaux administratifs et des cours administratives d'appel en position d'activité,
-de congé parental ou de détachement ainsi que les agents détachés depuis plus de deux ans dans ledit corps.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 6 () JORF 21 décembre 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-4
-
-La liste des électeurs est arrêtée par le secrétaire général du Conseil d'Etat. Elle est affichée au Conseil d'Etat et dans
-tous les tribunaux administratifs et cours administratives d'appel quinze jours au moins avant la date fixée pour le scrutin.
-
-Dans les huit jours qui suivent sa publication, les électeurs peuvent vérifier les inscriptions et, le cas échéant, présenter
-des demandes d'inscription. Dans le même délai, et pendant trois jours à compter de son expiration, des réclamations peuvent
-être formulées contre les inscriptions ou omissions sur la liste électorale.
-
-Le vice-président du Conseil d'Etat statue immédiatement sur les réclamations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-5
-
-Sont éligibles les membres du corps, ainsi que les agents détachés depuis plus de deux ans dans ledit corps, qui remplissent
-les conditions requises pour être inscrits sur la liste électorale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 6 () JORF 21 décembre 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-6
-
-Les listes des candidats au Conseil supérieur sont déposées au moins un mois avant la date fixée pour les élections. Ces
-listes, qui peuvent être incomplètes, comportent pour chaque grade au titre duquel elles présentent des candidats le nom d'un
-titulaire et d'un suppléant.
-
-Le dépôt de chaque liste est accompagné d'une déclaration de candidature signée par tous les candidats titulaires et
-suppléants, ainsi que du nom d'un mandataire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-7
-
-Aucune liste ne peut être déposée ou modifiée après la date limite prévue à l'article précédent. Si, après cette date, un
-candidat titulaire ou suppléant inscrit sur une liste est reconnu inéligible, la liste intéressée est considérée comme
-n'ayant présenté aucun candidat pour le grade correspondant. L'éligibilité s'apprécie à la date limite prévue pour le dépôt
-des listes. Aucun retrait de candidature ne peut être opéré après le dépôt des listes de candidature.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 7 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-8
-
-Les circulaires des candidats, les bulletins de vote et les enveloppes sont établis aux frais de l'administration d'après le
-modèle défini par celle-ci, en nombre au moins égal, pour chaque liste, au nombre des électeurs. Ces documents sont transmis
-aux électeurs par les soins de l'administration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 8 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-9
-
-Le vote a lieu par correspondance. Les électeurs peuvent :
-
-a) Soit voter pour une liste entière sans rayer aucun nom ;
-
-b) Soit rayer pour un ou plusieurs sièges à la fois le nom du candidat et celui de son suppléant sans les remplacer ;
-
-c) Soit, dans la limite du nombre des représentants à élire pour chaque grade, procéder à un panachage entre les candidats de
-listes concurrentes, sans pouvoir séparer chaque titulaire de son suppléant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-10
-
-Le bureau de vote, institué au Conseil d'Etat, procède au dépouillement du scrutin ainsi qu'à la proclamation des résultats.
-Il comprend un président et un secrétaire désignés par le vice-président du Conseil d'Etat ainsi que le mandataire de chaque
-liste en présence.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 10 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-11
-
-Le bureau de vote détermine le nombre de voix obtenu par chaque candidat titulaire, le nombre total de voix obtenu par chaque
-liste et le nombre moyen de voix obtenu par chaque liste.
-
-Le nombre total de voix obtenu par chaque liste s'obtient en additionnant les suffrages acquis à chaque candidat titulaire
-ayant fait acte de candidature au titre de cette liste.
-
-Le nombre moyen de voix obtenu par chaque liste s'obtient en divisant le nombre total de suffrages acquis par chaque liste
-par le nombre de sièges à pourvoir.
-
-Le bureau de vote détermine, en outre, le quotient électoral en divisant le nombre total de suffrages valablement exprimés
-par le nombre de représentants titulaires à élire pour l'ensemble du corps.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 11 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-12
-
-Chaque liste a droit à autant de sièges de représentants que le nombre moyen de voix recueilli par elle contient de fois le
-quotient électoral.
-
-Les sièges de représentants restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-13
-
-La liste ayant droit au plus grand nombre de sièges choisit chacun d'eux sous réserve de ne pas empêcher par son choix une
-autre liste d'obtenir le nombre de sièges auxquels elle a droit dans les grades pour lesquels elle avait présenté des
-candidats.
-
-Les autres listes exercent ensuite leur choix successivement dans l'ordre décroissant du nombre de sièges auxquels elles
-peuvent prétendre dans les mêmes conditions et sous les mêmes réserves.
-
-En cas d'égalité du nombre des sièges obtenus, l'ordre des choix est déterminé par le nombre respectif de suffrages obtenu
-par les listes en présence. En cas d'égalité du nombre des suffrages, l'ordre des choix est déterminé par voie de tirage au
-sort.
-
-Lorsque la procédure prévue ci-dessus n'a pas permis à une ou plusieurs listes de pourvoir tous les sièges auxquels elle
-aurait pu prétendre, ces sièges sont attribués à la liste qui, pour les grades dont les représentants restent à désigner, a
-obtenu le plus grand nombre de suffrages.
-
-Dans l'hypothèse où aucune liste n'a présenté de candidats pour un grade, le représentant de ce grade est désigné par voie de
-tirage au sort parmi les fonctionnaires titulaires de ce grade. Si le fonctionnaire ainsi désigné n'accepte pas sa
-nomination, le siège concerné reste vacant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-14
-
-Dans le cas où deux listes ont la même moyenne et où il ne reste qu'un siège à pourvoir, ledit siège est attribué à la liste
-qui a recueilli le plus grand nombre de suffrages. Si les deux listes en cause ont également recueilli le même nombre de
-voix, le siège est attribué à celui des candidats figurant sur l'une de ces deux listes ayant obtenu le plus grand nombre de
-voix. Si les candidats titulaires de ces deux listes ont obtenu le même nombre de voix, le plus âgé d'entre eux est proclamé
-élu avec son suppléant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-15
-
-Un procès-verbal des opérations électorales est établi par le bureau de vote et immédiatement transmis au vice-président du
-Conseil d'Etat et au ministre de la justice ainsi qu'aux mandataires habilités à représenter les listes de candidats.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 13 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-16
-
-Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours à compter de la
-proclamation des résultats devant le ministre de la justice qui statue dans un délai de quinze jours. Le Conseil d'Etat peut
-être saisi dans un délai de deux mois à compter soit de la décision du ministre, soit de l'expiration du délai de quinze
-jours précité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 14 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
+##### Section 2 : Composition du Conseil supérieur
 
 ###### Article R232-17
 
@@ -15387,6 +15002,402 @@ désignation d'un remplaçant dans le délai de trois mois.
 	**Cite**:
 
 	  - Code de justice administrative. - art. L232-2 (M)
+
+
+##### Sous-section 1 : Election du représentant des chefs de juridiction 
+
+###### Article R232-1
+
+Pour l'élection du chef de juridiction qui siège au Conseil supérieur des tribunaux administratifs et cours administratives
+d'appel et de son suppléant, sont électeurs et éligibles les chefs de juridiction présidant un tribunal administratif ou une
+cour administrative d'appel. Ils constituent un collège électoral unique.
+
+Les dispositions des articles R. 232-2, R. 232-4, R. 232-8, R. 232-10, R. 232-15 et R. 232-16 sont applicables à cette
+élection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-1-1
+
+Chaque candidat est tenu de faire une déclaration revêtue de sa signature et de son nom ainsi que de la signature et du nom
+du candidat suppléant appelé à le remplacer.
+
+Nul ne peut figurer sur plusieurs déclarations de candidatures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-1-2
+
+Les déclarations de candidature sont déposées au moins un mois avant la date fixée pour les élections. Elles mentionnent le
+nom d'un mandataire.
+
+Aucune déclaration de candidature ne peut être déposée ou modifiée après la date limite prévue à l'alinéa précédent. Si,
+après cette date, un candidat titulaire ou suppléant est reconnu inéligible, la déclaration de candidature n'est pas prise en
+compte. L'éligibilité s'apprécie à la date limite prévue pour le dépôt des déclarations de candidature. Aucun retrait de
+candidature ne peut être opéré après le dépôt des listes de candidature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-1-3
+
+Dans l'hypothèse où aucune déclaration de candidature n'a été déposée, le représentant des chefs de juridiction et son
+suppléant sont désignés par voie de tirage au sort parmi les chefs de juridiction lors de la première séance du Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel qui suit la date limite de dépôt des déclarations de
+candidatures. Le président du bureau de vote notifie aux chefs de juridiction concernés qu'ils ont été désignés par voie de
+tirage au sort.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-1-4
+
+Le vote a lieu par correspondance.
+
+Sont proclamés élus le candidat titulaire qui a obtenu le plus grand nombre de suffrages exprimés et son suppléant. En cas
+d'égalité, il est procédé par voie de tirage au sort.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-1-5
+
+Si, avant l'expiration de son mandat, le chef de juridiction démissionne ou se trouve dans l'impossibilité d'exercer son
+mandat ou si le Conseil supérieur constate qu'il cesse de remplir les conditions requises pour être éligible, il est remplacé
+par son suppléant.
+
+Au cas où, pour l'une des causes mentionnées ci-dessus, le suppléant cesse d'exercer son mandat plus de six mois avant son
+terme normal, il est procédé à une élection complémentaire dans un délai de deux mois. Le représentant titulaire et le
+représentant suppléant élus dans ces conditions ou désignés par tirage au sort achèvent le mandat de ceux qu'ils remplacent.
+
+Ces dispositions sont également applicables lorsque le titulaire ou le suppléant à remplacer ont été désignés par tirage au
+sort dans les conditions prévues par le deuxième alinéa de l'article R. 232-1-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+##### Sous-section 2 :  Election des représentants des magistrats 
+
+###### Article R232-2
+
+Les élections au Conseil supérieur ont lieu quatre mois au plus et quinze jours au moins avant la date d'expiration du mandat
+de ses membres en exercice. La date de ces élections est fixée par le vice-président du Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-3
+
+Sont électeurs les magistrats des tribunaux administratifs et des cours administratives d'appel en position d'activité, de
+congé parental ou de détachement ainsi que ceux détachés depuis plus de deux ans dans ledit corps.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-4
+
+La liste des électeurs est arrêtée par le secrétaire général du Conseil d'Etat. Elle est affichée au Conseil d'Etat et dans
+tous les tribunaux administratifs et cours administratives d'appel quinze jours au moins avant la date fixée pour le scrutin.
+
+Dans les huit jours qui suivent sa publication, les électeurs peuvent vérifier les inscriptions et, le cas échéant, présenter
+des demandes d'inscription. Dans le même délai, et pendant trois jours à compter de son expiration, des réclamations peuvent
+être formulées contre les inscriptions ou omissions sur la liste électorale.
+
+Le vice-président du Conseil d'Etat statue immédiatement sur les réclamations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-5
+
+Sont éligibles les magistrats des tribunaux administratifs et des cours administratives d'appel qui remplissent les
+conditions fixées à l'article R. 232-3 pour être inscrits sur la liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-6
+
+Les listes des candidats au Conseil supérieur sont déposées au moins un mois avant la date fixée pour les élections. Ces
+listes, qui peuvent être incomplètes, comportent pour chaque grade au titre duquel elles présentent des candidats le nom d'un
+titulaire et d'un suppléant.
+
+Le dépôt de chaque liste est accompagné d'une déclaration de candidature signée par tous les candidats titulaires et
+suppléants, ainsi que du nom d'un mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-7
+
+Aucune liste ne peut être déposée ou modifiée après la date limite prévue à l'article précédent. Si, après cette date, un
+candidat titulaire ou suppléant inscrit sur une liste est reconnu inéligible, la liste intéressée est considérée comme
+n'ayant présenté aucun candidat pour le grade correspondant. L'éligibilité s'apprécie à la date limite prévue pour le dépôt
+des listes. Aucun retrait de candidature ne peut être opéré après le dépôt des listes de candidature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-8
+
+Les circulaires des candidats, les bulletins de vote et les enveloppes sont établis aux frais de l'administration d'après le
+modèle défini par celle-ci, en nombre au moins égal, pour chaque liste, au nombre des électeurs. Ces documents sont transmis
+aux électeurs par les soins de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-9
+
+Le vote a lieu par correspondance. Les électeurs peuvent :
+
+a) Soit voter pour une liste entière sans rayer aucun nom ;
+
+b) Soit rayer pour un ou plusieurs sièges à la fois le nom du candidat et celui de son suppléant sans les remplacer ;
+
+c) Soit, dans la limite du nombre des représentants à élire pour chaque grade, procéder à un panachage entre les candidats de
+listes concurrentes, sans pouvoir séparer chaque titulaire de son suppléant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-10
+
+Le bureau de vote, institué au Conseil d'Etat, procède au dépouillement du scrutin ainsi qu'à la proclamation des résultats.
+Il comprend un président et un secrétaire désignés par le vice-président du Conseil d'Etat ainsi que le mandataire de chaque
+liste en présence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-11
+
+Le bureau de vote détermine le nombre de voix obtenu par chaque candidat titulaire, le nombre total de voix obtenu par chaque
+liste et le nombre moyen de voix obtenu par chaque liste.
+
+Le nombre total de voix obtenu par chaque liste s'obtient en additionnant les suffrages acquis à chaque candidat titulaire
+ayant fait acte de candidature au titre de cette liste.
+
+Le nombre moyen de voix obtenu par chaque liste s'obtient en divisant le nombre total de suffrages acquis par chaque liste
+par le nombre de sièges à pourvoir.
+
+Le bureau de vote détermine, en outre, le quotient électoral en divisant le nombre total de suffrages valablement exprimés
+par le nombre de représentants titulaires à élire pour l'ensemble du corps.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-12
+
+Chaque liste a droit à autant de sièges de représentants que le nombre moyen de voix recueilli par elle contient de fois le
+quotient électoral.
+
+Les sièges de représentants restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-13
+
+La liste ayant droit au plus grand nombre de sièges choisit chacun d'eux sous réserve de ne pas empêcher par son choix une
+autre liste d'obtenir le nombre de sièges auxquels elle a droit dans les grades pour lesquels elle avait présenté des
+candidats.
+
+Les autres listes exercent ensuite leur choix successivement dans l'ordre décroissant du nombre de sièges auxquels elles
+peuvent prétendre dans les mêmes conditions et sous les mêmes réserves.
+
+En cas d'égalité du nombre des sièges obtenus, l'ordre des choix est déterminé par le nombre respectif de suffrages obtenu
+par les listes en présence. En cas d'égalité du nombre des suffrages, l'ordre des choix est déterminé par voie de tirage au
+sort.
+
+Lorsque la procédure prévue ci-dessus n'a pas permis à une ou plusieurs listes de pourvoir tous les sièges auxquels elle
+aurait pu prétendre, ces sièges sont attribués à la liste qui, pour les grades dont les représentants restent à désigner, a
+obtenu le plus grand nombre de suffrages.
+
+Dans l'hypothèse où aucune liste n'a présenté de candidats pour un grade, le représentant de ce grade est désigné par voie de
+tirage au sort parmi les magistrats titulaires de ce grade. Si le magistrat ainsi désigné n'accepte pas sa nomination, le
+siège concerné reste vacant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-14
+
+Dans le cas où deux listes ont la même moyenne et où il ne reste qu'un siège à pourvoir, ledit siège est attribué à la liste
+qui a recueilli le plus grand nombre de suffrages. Si les deux listes en cause ont également recueilli le même nombre de
+voix, le siège est attribué à celui des candidats figurant sur l'une de ces deux listes ayant obtenu le plus grand nombre de
+voix. Si les candidats titulaires de ces deux listes ont obtenu le même nombre de voix, il est procédé par voie de tirage au
+sort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-15
+
+Un procès-verbal des opérations électorales est établi par le bureau de vote et immédiatement transmis au vice-président du
+Conseil d'Etat et au ministre de la justice ainsi qu'aux mandataires habilités à représenter les listes de candidats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-16
+
+Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours à compter de la
+proclamation des résultats devant le ministre de la justice qui statue dans un délai de quinze jours. Le Conseil d'Etat peut
+être saisi dans un délai de deux mois à compter soit de la décision du ministre, soit de l'expiration du délai de quinze
+jours précité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
 
 
 ##### Section 3 : Fonctionnement du Conseil supérieur
