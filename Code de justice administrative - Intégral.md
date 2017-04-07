@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-08
 
 # Partie législative
 
@@ -9023,32 +9023,30 @@ d'ancienneté de leurs fonctions, ont, de plein droit, compétence pour statuer 
 
 Dans les mêmes circonstances, un des présidents adjoints, dans l'ordre d'ancienneté de leurs fonctions, exerce de plein droit
 les attributions conférées au président de la section du contentieux par les articles R. 122-5, R. 122-9, R. 122-10, R.
-122-15, R. 122-17, par l'alinéa 1er de l'article R. 611-20, par l'article R. 635-2, et par l'alinéa 1er de l'article R.
-712-1.
+122-15, R. 122-17, par l'alinéa 1er de l'article R. 611-20, par l'article R. 635-2 par le premier alinéa de l'article R.
+712-1 et par les articles R. 931-4 et R. 931-7.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 48 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-493 du 6 avril 2017 - art. 8
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R122-15 (V)
-	  - Code de justice administrative - art. R122-17 (V)
-	  - Code de justice administrative - art. R122-5 (V)
-	  - Code de justice administrative - art. R122-9 (V)
-	  - Code de justice administrative - art. R611-20 (V)
-	  - Code de justice administrative - art. R635-2 (V)
-	  - Code de justice administrative - art. R712-1 (V)
+	  - Code de justice administrative - art. R122-15
+	  - Code de justice administrative - art. R122-17
+	  - Code de justice administrative - art. R122-5
+	  - Code de justice administrative - art. R122-9
+	  - Code de justice administrative - art. R611-20
+	  - Code de justice administrative - art. R635-2
+	  - Code de justice administrative - art. R712-1
+	  - Code de justice administrative - art. R931-4
+	  - Code de justice administrative - art. R931-7
 
 
 ###### Article R122-25
@@ -14945,8 +14943,6 @@ instances siégeant en formation disciplinaire, à l'autorité judiciaire ou au 
 
 #### Chapitre II : Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel
 
-##### Section 2 : Désignation des membres du Conseil supérieur
-
 ##### Section 2 : Composition du Conseil supérieur
 
 ###### Article R232-17
@@ -17113,12 +17109,12 @@ compter du 1er avril 2010.
 
 ###### Article R312-11
 
-En matière précontractuelle, contractuelle et quasi contractuelle le tribunal administratif compétent est celui dans lequel
-se trouve le lieu prévu pour l'exécution du contrat. Si son exécution s'étend au-delà du ressort d'un seul tribunal
-administratif ou si le lieu de cette exécution n'est pas désigné dans le contrat ou quasi-contrat, le tribunal administratif
-compétent est celui dans le ressort duquel l'autorité publique compétente pour signer le contrat ou la première des autorités
-publiques dénommées dans le contrat a son siège, sans que, dans ce cas, il y ait à tenir compte d'une approbation par
-l'autorité supérieure, si cette approbation est nécessaire. 
+En matière précontractuelle, contractuelle et quasi contractuelle le tribunal administratif compétent est celui dans le
+ressort duquel se trouve le lieu prévu pour l'exécution du contrat. Si son exécution s'étend au-delà du ressort d'un seul
+tribunal administratif ou si le lieu de cette exécution n'est pas désigné dans le contrat ou quasi-contrat, le tribunal
+administratif compétent est celui dans le ressort duquel l'autorité publique compétente pour signer le contrat ou la première
+des autorités publiques dénommées dans le contrat a son siège, sans que, dans ce cas, il y ait à tenir compte d'une
+approbation par l'autorité supérieure, si cette approbation est nécessaire.
 
 Toutefois, si l'intérêt public ne s'y oppose pas, les parties peuvent, soit dans le contrat primitif, soit dans un avenant
 antérieur à la naissance du litige, convenir que leurs différends seront soumis à un tribunal administratif autre que celui
@@ -17132,7 +17128,7 @@ qui serait compétent en vertu des dispositions de l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Décret n°2016-1480 du 2 novembre 2016 - art. 6
+	  - Décret n°2017-493 du 6 avril 2017 - art. 9
 
 
 ###### Article R312-12
@@ -23695,35 +23691,20 @@ jours par une décision expresse du président de la formation de jugement qui e
 ###### Article R711-2-1
 
 Les parties ou leur mandataire inscrits dans l'application informatique mentionnée à l'article R. 414-1 peuvent être
-convoqués à l'audience par le moyen de cette application. 
+convoqués à l'audience par le moyen de cette application.
 
-Les dispositions des troisième et quatrième alinéas de l'article R. 611-8-2 sont applicables.
-
-**Nota:**
-
-Décret n° 2012-1437 du 21 décembre 2012 article 6 : Le présent décret entrera en vigueur aux dates fixées, selon les
-juridictions, par arrêté du garde des sceaux, ministre de la justice, et, au plus tard, le 31 décembre 2013 pour les
-juridictions de métropole et le 31 décembre 2015 pour les juridictions d'outre-mer, y compris le tribunal administratif de
-Mata-Utu.
-
-Dans les limites du champ défini par les arrêtés pris pour son application en vigueur à la date de publication du présent
-décret, l'expérimentation prévue par le décret du 10 mars 2005 susvisé est prorogée jusqu'à la date à laquelle les
-dispositions du présent décret seront applicables aux juridictions concernées.
-
-L'arrêté du 14 octobre 2015, article 1er, a fixé au 8 décembre 2015 pour  les tribunaux administratifs de la Martinique, de
-la Guadeloupe et de  la Guyane la date  prévue par les dispositions de l'article 6 du décret n° 2012-1437 pour  le Conseil
-d'Etat.
+Les dispositions des deuxième et troisième alinéas de l'article R. 611-8-2 sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1437 du 21 décembre 2012 - art. 4
+	  - Décret n°2017-493 du 6 avril 2017 - art. 10
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R414-1 (VD)
-	  - Code de justice administrative - art. R611-8-2 (VD)
+	  - Code de justice administrative - art. R414-1
+	  - Code de justice administrative - art. R611-8-2
 
 	**Cité par**:
 
@@ -29477,19 +29458,14 @@ règle définitivement le fond du litige.
 ###### Article R811-7
 
 Sous réserve des dispositions de l'article L. 774-8, les appels ainsi que les mémoires déposés devant la cour administrative
-d'appel doivent être présentés, à peine d'irrecevabilité, par l'un des mandataires mentionnés à l'article R. 431-2. 
+d'appel doivent être présentés, à peine d'irrecevabilité, par l'un des mandataires mentionnés à l'article R. 431-2.
 
-Lorsque la notification de la décision soumise à la cour administrative d'appel ne comporte pas la mention prévue au
-troisième alinéa de l'article R. 751-5, le requérant est invité par la cour à régulariser sa requête dans les conditions
-fixées à l'article R. 612-1. 
+Lorsque la notification de la décision soumise à la cour administrative d'appel ne comporte pas la mention prévue au deuxième
+alinéa de l'article R. 751-5, le requérant est invité par la cour à régulariser sa requête dans les conditions fixées à
+l'article R. 612-1.
 
 Les demandes d'exécution d'un arrêt de la cour administrative d'appel ou d'un jugement rendu par un tribunal administratif
 situé dans le ressort de la cour et frappé d'appel devant celle-ci sont dispensées de ministère d'avocat.
-
-**Nota:**
-
-Conformément au I de l'article 35 du décret n° 2016-1480 du 2 novembre 2016, ces dispositions sont applicables aux requêtes
-enregistrées à compter du 1er janvier 2017.
 
 **Liens relatifs à cet article**
 
@@ -29499,7 +29475,7 @@ enregistrées à compter du 1er janvier 2017.
 
 	**Modifié par**:
 
-	  - Décret n°2016-1480 du 2 novembre 2016 - art. 30
+	  - Décret n°2017-493 du 6 avril 2017 - art. 11
 
 	**Cite**:
 
@@ -29508,9 +29484,9 @@ enregistrées à compter du 1er janvier 2017.
 
 	**Cité par**:
 
+	  - Code de justice administrative - art. R921-4 (Ab)
 	  - Code de justice administrative. - art. R612-2 (Ab)
 	  - Code de justice administrative. - art. R751-5 (M)
-	  - Code de justice administrative. - art. R921-4 (V)
 	  - Livre des procédures fiscales - art. R*200-17 (Ab)
 
 
@@ -30222,8 +30198,8 @@ prévus au présent article.
 
 ###### Article R822-5-1
 
-Dix jours au moins avant qu'intervienne une ordonnance prise sur le fondement          des 1° à 4° de l'article R. 822-5, le
-requérant ou son mandataire est avisé de cette éventualité, soit par voie électronique, soit par voie postale.
+Dix jours au moins avant qu'intervienne une ordonnance prise sur le fondement du quatrième alinéa ou des 1° à 4° de l'article
+R. 822-5, le requérant ou son mandataire est avisé de cette éventualité, soit par voie électronique, soit par voie postale.
 
 **Liens relatifs à cet article**
 
@@ -30233,7 +30209,11 @@ requérant ou son mandataire est avisé de cette éventualité, soit par voie é
 
 	**Modifié par**:
 
-	  - Décret n°2013-1213 du 23 décembre 2013 - art. 3
+	  - Décret n°2017-493 du 6 avril 2017 - art. 12
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R822-5
 
 
 ###### Article R822-6
@@ -30665,6 +30645,62 @@ dispositions du décret n° 2008-479 du 20 mai 2008 sont applicables.
 	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
 
 
+###### Article R911-2
+
+En cas de rejet d'une réclamation adressée à l'autorité administrative et tendant à obtenir l'exécution d'une décision d'une
+juridiction administrative, seule une décision expresse fait courir les délais de recours contentieux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-493 du 6 avril 2017 - art. 2
+
+
+###### Article R911-3
+
+Le délai de recours contentieux contre une décision administrative expresse refusant de prendre les mesures nécessaires à
+l'exécution d'une décision de la juridiction administrative est interrompu par une demande d'exécution présentée en
+application du présent livre jusqu'à la notification de la décision qui statue sur cette demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-493 du 6 avril 2017 - art. 2
+
+
+###### Article R911-4
+
+Les demandes d'exécution prévues par le présent livre peuvent être présentées sans le ministère d'un avocat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-493 du 6 avril 2017 - art. 2
+
+
+###### Article R911-5
+
+Les demandes d'exécution des décisions rendues par les tribunaux administratifs, les cours administratives d'appel ou le
+Conseil d'Etat peuvent être présentées par le moyen de l'application informatique mentionnée à l'article R. 414-1. 
+
+La juridiction compétente ou la section du rapport et des études du Conseil d'Etat peut, par le moyen de la même application,
+adresser à l'autorité administrative les communications et notifications nécessaires à l'exécution de la décision et informer
+le demandeur de la suite donnée à sa demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-493 du 6 avril 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R414-1
+
+
 ### Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel
 
 ###### Article R921-1
@@ -30720,87 +30756,6 @@ et qui est frappé d'appel devant celle-ci.
 	**Anciens textes**:
 
 	  - Code de justice administrative - art. R921-1 (T)
-
-
-###### Article R921-2
-
-En cas de rejet d'une réclamation adressée à l'autorité administrative et tendant à obtenir l'exécution d'une décision d'un
-tribunal administratif ou d'une cour administrative d'appel, seule une décision expresse fait courir les délais de recours
-contentieux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2017-493 du 6 avril 2017 - art. 7
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R222 (Ab)
-
-
-###### Article R921-3
-
-Le délai de recours contentieux contre une décision administrative expresse refusant de prendre les mesures nécessaires à
-l'exécution d'une décision d'un tribunal administratif ou d'une cour administrative d'appel est interrompu par la demande
-d'exécution, présentée en application de l'article R. 921-1, jusqu'à la notification de la décision qui statue sur cette
-demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2017-493 du 6 avril 2017 - art. 7
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R921-1
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R222-1 (M)
-
-
-###### Article R921-4
-
-Ainsi qu'il est dit aux articles R. 431-3, R. 431-11 et R. 811-7, les demandes d'exécution d'un jugement ou d'un arrêt
-peuvent être présentées sans le ministère d'un avocat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000
-
-	**Modifié par**:
-
-	  - Décret n°2013-409 du 17 mai 2013 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2017-493 du 6 avril 2017 - art. 7
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R431-11
-	  - Code de justice administrative - art. R431-3
-	  - Code de justice administrative - art. R811-7 (V)
 
 
 ###### Article R921-5
@@ -30862,10 +30817,10 @@ astreinte, la formation de jugement en fixe la date d'effet.
 
 ###### Article R921-7
 
-Lorsqu'à la date d'effet de l'astreinte prononcée par le tribunal administratif ou la cour administrative d'appel, cette
-juridiction constate, d'office ou sur la saisine de la partie intéressée, que les mesures d'exécution qu'elle avait
-prescrites n'ont pas été prises, elle procède à la liquidation de l'astreinte dans les conditions prévues aux articles L.
-911-6 à L. 911-8.
+A compter de la date d'effet de l'astreinte prononcée, même à l'encontre d'une personne privée, par le tribunal administratif
+ou la cour administrative d'appel, le président de la juridiction ou le magistrat qu'il désigne, après avoir accompli le cas
+échéant de nouvelles diligences, fait part à la formation de jugement concernée de l'état d'avancement de l'exécution de la
+décision. La formation de jugement statue sur la liquidation de l'astreinte.
 
 Lorsqu'il est procédé à la liquidation de l'astreinte, copie du jugement ou de l'arrêt prononçant l'astreinte et de la
 décision qui la liquide est adressée au ministère public près la Cour de discipline budgétaire et financière.
@@ -30874,19 +30829,15 @@ décision qui la liquide est adressée au ministère public près la Cour de dis
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-493 du 6 avril 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de justice administrative L911-6 à L911-8
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R222-4 (Ab)
+	  - Code de justice administrative
 
 
 ###### Article R921-8
@@ -30923,7 +30874,7 @@ Le Conseil d'Etat se prononce également sur la demande qui lui a été renvoyé
 
 Ces demandes donnent lieu à la désignation d'un rapporteur dont la mission auprès de l'administration s'exerce sous
 l'autorité du président de la section du rapport et des études. Sur décision du président de la section du rapport et des
-études, le comité mentionné à l'article R. 931-6 peut être saisi, pour avis, de la question. Le cas échéant, il est fait
+études, le comité mentionné à l'article R. 931-3 peut être saisi, pour avis, de la question. Le cas échéant, il est fait
 mention de l'affaire dans le rapport annuel du Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -30934,38 +30885,30 @@ mention de l'affaire dans le rapport annuel du Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1145 du 15 septembre 2015 - art. 21
+	  - Décret n°2017-493 du 6 avril 2017 - art. 4
 
 	**Cite**:
 
 	  - Code de justice administrative - art. R921-1
+	  - Code de justice administrative - art. R931-3 (V)
 
 
 ###### Article R931-2
 
-Les parties intéressées peuvent signaler à la section du rapport et des études du Conseil d'Etat les difficultés qu'elles
-rencontrent pour obtenir l'exécution d'une décision rendue par le Conseil d'Etat ou par une juridiction administrative
-spéciale. 
+Les parties intéressées peuvent demander au Conseil d'Etat de prescrire les mesures nécessaires à l'exécution d'une de ses
+décisions ou d'une décision d'une juridiction administrative spéciale, en assortissant le cas échéant ces prescriptions d'une
+astreinte.
 
-Ces demandes d'aide à l'exécution ne peuvent être présentées, sauf décision explicite de refus d'exécution opposée par
-l'autorité administrative, qu'après l'expiration d'un délai de trois mois à compter de la date de notification des décisions
-juridictionnelles. 
+La demande ne peut être présentée, sauf décision explicite de refus d'exécution opposée par l'autorité administrative,
+qu'après l'expiration d'un délai de trois mois à compter de la notification de la décision juridictionnelle dont l'exécution
+est poursuivie.
 
-Dans le cas des décisions ordonnant une mesure d'urgence, les demandes peuvent être présentées sans délai à la section du
-rapport et des études. 
+Toutefois :
 
-Dans le cas où la décision dont l'exécution est poursuivie a elle-même déterminé un délai dans lequel l'administration doit
-prendre les mesures d'exécution prescrites, la demande ne peut être présentée qu'à l'expiration de ce délai. 
+1° Si la décision juridictionnelle a ordonné une mesure d'urgence, la demande peut être présentée sans délai ;
 
-Le président de la section du rapport et des études désigne un rapporteur au sein de cette section. Celui-ci peut accomplir
-toutes diligences qu'il juge utiles pour assurer l'exécution de la décision juridictionnelle qui fait l'objet de la demande.
-Le comité mentionné à l'article R. 931-6 peut être saisi de l'affaire, pour avis, sur décision du président de la section du
-rapport et des études. 
-
-Le cas échéant, il est fait mention de l'affaire dans le rapport annuel du Conseil d'Etat. 
-
-En cas de rejet d'une réclamation adressée à l'autorité administrative et tendant à obtenir l'exécution d'une décision d'une
-juridiction administrative, seule une décision expresse fait courir les délais de recours contentieux.
+2° Si la décision juridictionnelle a fixé à l'administration un délai pour prendre les mesures d'exécution prescrites, la
+demande ne peut être présentée qu'à l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
@@ -30975,7 +30918,7 @@ juridiction administrative, seule une décision expresse fait courir les délais
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+	  - Décret n°2017-493 du 6 avril 2017 - art. 5
 
 	**Cité par**:
 
@@ -30987,32 +30930,41 @@ juridiction administrative, seule une décision expresse fait courir les délais
 
 ###### Article R931-3
 
-Il peut être demandé au Conseil d'Etat de prononcer une astreinte pour assurer l'exécution d'une décision rendue par le
-Conseil d'Etat ou par une juridiction administrative spéciale.
+Les demandes présentées sur le fondement de l'article R. 931-2 ou renvoyées au Conseil d'Etat par un tribunal administratif
+ou une cour administrative d'appel en application de l'article L. 911-4 sont enregistrées par la section du rapport et des
+études. Le tribunal administratif ou la cour administrative d'appel ne peut renvoyer au Conseil d'Etat une demande pour
+laquelle une procédure juridictionnelle a été ouverte en application de l'article R. 921-6. 
 
-Ces demandes ne peuvent être présentées, sauf décision explicite de refus d'exécution opposée par l'autorité administrative,
-qu'après l'expiration d'un délai de six mois à compter de la date de notification des décisions juridictionnelles.
+Le président de la section du rapport et des études désigne un rapporteur au sein de cette section. Celui-ci peut accomplir
+toutes diligences pour assurer l'exécution de la décision juridictionnelle qui fait l'objet de la demande. 
 
-Toutefois, dans le cas où la décision dont l'exécution est poursuivie a elle-même déterminé un délai dans lequel
-l'administration doit prendre les mesures d'exécution prescrites, la demande ne peut être présentée qu'à l'expiration de ce
-délai.
+Sur décision du président de la section du rapport et des études, l'affaire peut être soumise pour avis à un comité restreint
+composé du président et du président adjoint de la section du rapport et des études, du rapporteur et de trois autres membres
+du Conseil d'Etat, dont un président de chambre. 
+
+Lorsque le président de la section du rapport et des études estime que la demande n'est pas fondée ou que la décision
+juridictionnelle en cause a été exécutée, il en informe le demandeur et procède au classement administratif de la demande. Le
+cas échéant, il en informe également le président de la juridiction ayant renvoyé la demande au Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 59-1 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-493 du 6 avril 2017 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L911-4
+	  - Code de justice administrative - art. R921-6
+	  - Code de justice administrative - art. R931-2
 
 	**Cité par**:
 
+	  - Code de justice administrative - art. R931-1 (V)
 	  - Code de justice administrative - art. R931-4 (V)
 	  - Code de justice administrative - art. R931-5 (M)
 	  - Code de justice administrative - art. R931-6 (V)
@@ -31021,41 +30973,54 @@ délai.
 
 ###### Article R931-4
 
-Lorsque le président de la section du contentieux exerce les pouvoirs prévus au dernier alinéa de l'article L. 911-5, il
-statue par ordonnance motivée.
+Lorsque le président de la section du rapport et des études estime nécessaire de prescrire des mesures d'exécution par voie
+juridictionnelle, notamment de prononcer une astreinte, il adresse au président de la section du contentieux une note
+exposant les éléments de fait et de droit de l'affaire et décrivant les diligences accomplies par la section. Si le comité
+restreint a été saisi, la note indique également la composition dans laquelle le comité a siégé et le sens de l'avis qu'il a
+rendu. 
+
+Lorsque le président de la section du rapport et des études fait usage des dispositions du premier alinéa, ou lorsque le
+demandeur conteste devant le président de la section du contentieux la décision de classement prévue au dernier alinéa de
+l'article R. 931-3 dans le mois qui suit la notification de cette décision, ou, en tout état de cause, à l'expiration d'un
+délai de six mois à compter de la saisine du Conseil d'Etat, le président de la section du contentieux ouvre par ordonnance
+une procédure juridictionnelle. Toutefois, si, à l'expiration de ce délai de six mois, le président de la section du rapport
+et des études estime que les diligences accomplies sont susceptibles de permettre l'exécution à court terme de la décision,
+il informe le demandeur que la procédure juridictionnelle ne sera ouverte, le cas échéant, qu'à l'expiration d'un délai
+supplémentaire de quatre mois. 
+
+L'ordonnance prévue au deuxième alinéa n'est pas susceptible de recours.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 59-5 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-493 du 6 avril 2017 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L911-5
+	  - Code de justice administrative - art. R931-3
 
 	**Cité par**:
 
 	  - Code de justice administrative - art. R122-24 (V)
 	  - Code de justice administrative - art. R931-5 (V)
-	  - Code de justice administrative - art. R931-6 (M)
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L911-5 (V)
+	  - Code de justice administrative - art. R931-6 (V)
 
 
 ###### Article R931-5
 
-Les demandes présentées sur le fondement de l'article R. 931-3 tendant à ce que le Conseil d'Etat prononce une astreinte
-peuvent être présentées sans le ministère d'un avocat au Conseil d'Etat. 
+Après l'ouverture de la procédure juridictionnelle prévue à l'article R. 931-4, et sous réserve des pouvoirs conférés par le
+dernier alinéa de l'article L. 911-5 au président de la section du contentieux, qui statue par ordonnance motivée, l'affaire
+est instruite par une chambre conformément aux dispositions régissant la procédure devant le Conseil d'Etat statuant au
+contentieux. 
 
-Il en est de même pour les demandes d'aide à l'exécution d'une décision rendue par une juridiction administrative présentées
-sur le fondement de l'article R. 931-2.
+Les pièces produites devant la section du rapport et des études et la note du président de cette section sont jointes au
+dossier. La note est communiquée aux parties par la chambre chargée de l'instruction. L'affaire est jugée en urgence.
 
 **Liens relatifs à cet article**
 
@@ -31065,41 +31030,28 @@ sur le fondement de l'article R. 931-2.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+	  - Décret n°2017-493 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R931-2
-	  - Code de justice administrative - art. R931-3
+	  - Code de justice administrative - art. L911-5
+	  - Code de justice administrative - art. R931-4
 
 
 ###### Article R931-6
 
-Les affaires introduites sur le fondement de l'article R. 931-3 ou renvoyées au Conseil d'Etat en application des
-dispositions de l'article L. 911-4 lorsqu'elles comportent une demande d'astreinte sont enregistrées au greffe de la section
-du contentieux et, sous réserve des dispositions de l'article R. 931-4, affectées à une  chambre de la section du
-contentieux. Sauf dans les cas où il peut être statué sans instruction sur les demandes et dans ceux où l'urgence l'interdit,
-la  chambre de la section du contentieux communique le dossier à la section du rapport et des études du Conseil d'Etat. 
+Le président de la section du rapport et des études peut, même s'il n'est pas saisi en application de l'article R. 931-2,
+demander aux personnes morales mentionnées à l'article L. 911-5 de justifier de l'exécution d'une décision du Conseil
+d'Etat. 
 
-Cette section peut accomplir, dans le cadre d'une procédure non juridictionnelle, toutes diligences qu'elle juge utiles pour
-assurer l'exécution de la décision juridictionnelle qui fait l'objet de la demande. Le président de la section du rapport et
-des études désigne un rapporteur au sein de cette section. 
+Les dispositions du deuxième et du troisième alinéa de l'article R. 931-3 sont applicables. 
 
-Sur décision du président de la section du rapport et des études, l'affaire peut être soumise, pour avis, à un comité
-restreint, composé du président et du président adjoint de la section du rapport et des études, du rapporteur et de trois
-membres du Conseil d'Etat, dont un président de  chambre de la section du contentieux. 
+Lorsqu'il estime que la décision du Conseil d'Etat n'a pas été exécutée, le président de la section du rapport et des études
+saisit le président de la section du contentieux aux fins d'ouverture d'une procédure d'astreinte d'office. La saisine est
+accompagnée de la note prévue au premier alinéa de l'article R. 931-4. 
 
-Au terme de l'examen de l'affaire par la section du rapport et des études, le président de la section du rapport et des
-études adresse au président de la section du contentieux une note exposant le contexte de fait et de droit de l'affaire,
-décrivant les diligences accomplies par la section et, si le comité restreint a été saisi, indiquant la composition dans
-laquelle il a siégé et le sens de l'avis rendu ; la note peut exprimer l'appréciation de la section sur les résultats des
-diligences accomplies par elle. 
-
-Les pièces produites devant la section du rapport et des études et la note établie par la section du rapport et des études
-sont jointes au dossier, qui est renvoyé à la  chambre du contentieux compétente. 
-
-Celle-ci assure l'instruction de l'affaire, conformément aux dispositions régissant la procédure devant le Conseil d'Etat
-statuant au contentieux.
+Le président de la section du contentieux prononce par ordonnance l'ouverture de la procédure. L'ordonnance est enregistrée
+au secrétariat de la section du contentieux et notifiée aux parties. Les dispositions de l'article R. 931-5 sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -31109,13 +31061,13 @@ statuant au contentieux.
 
 	**Modifié par**:
 
-	  - Décret n°2016-899 du 1er juillet 2016 - art. 1
+	  - Décret n°2017-493 du 6 avril 2017 - art. 6
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L911-4
+	  - Code de justice administrative - art. L911-5
 	  - Code de justice administrative - art. R931-3
-	  - Code de justice administrative - art. R931-4
+	  - Code de justice administrative - art. R931-4 (V)
 
 	**Cité par**:
 
@@ -31127,17 +31079,13 @@ statuant au contentieux.
 
 ###### Article R931-7
 
-Lorsque des difficultés d'exécution ont été signalées à la section du rapport et des études sur le fondement de l'article R.
-931-2, le président de cette section peut saisir le président de la section du contentieux aux fins d'ouverture d'une
-procédure d'astreinte d'office. Sur décision du président de la section du rapport et des études, le comité restreint
-mentionné à l'article R. 931-6 peut, au préalable, être saisi, pour avis, de l'affaire. La saisine est accompagnée d'une note
-motivant la proposition du président de la section du rapport et des études. Si le comité restreint a été saisi de l'affaire,
-la note le précise et indique la composition dans laquelle il a siégé et le sens de l'avis rendu. 
+Lorsque le Conseil d'Etat, statuant au contentieux, a prononcé une astreinte, même à l'encontre d'une personne privée, la
+chambre compétente transmet le dossier à la section du rapport et des études. 
 
-La note du président de la section du rapport et des études est jointe au dossier. 
-
-Le président de la section du contentieux prononce par ordonnance l'ouverture de la procédure. L'ordonnance est enregistrée
-au secrétariat de la section du contentieux et notifiée aux parties. L'affaire est instruite et jugée d'urgence.
+A compter de la date d'effet de l'astreinte, la section du rapport et des études, après avoir accompli le cas échéant de
+nouvelles diligences et après saisine éventuelle du comité restreint mentionné au troisième alinéa de l'article R. 931-3,
+fait part à la section du contentieux de l'état d'avancement de l'exécution de la décision. La section du contentieux statue
+sur la liquidation de l'astreinte.
 
 **Liens relatifs à cet article**
 
@@ -31147,7 +31095,7 @@ au secrétariat de la section du contentieux et notifiée aux parties. L'affaire
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 6
+	  - Décret n°2017-493 du 6 avril 2017 - art. 6
 
 	**Cité par**:
 
@@ -31155,76 +31103,21 @@ au secrétariat de la section du contentieux et notifiée aux parties. L'affaire
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R931-2
-	  - Code de justice administrative - art. R931-6
-
-
-###### Article R931-7-1
-
-Lorsque le Conseil d'Etat statuant au contentieux a prononcé une astreinte, la  chambre compétente transmet le dossier à la
-section du rapport et des études. 
-
-Lorsqu'à la date d'effet de l'astreinte prononcée par le Conseil d'Etat la section du rapport et des études constate,
-d'office ou sur la saisine de la partie intéressée, que les mesures d'exécution prescrites n'ont pas été prises, elle en fait
-part à la section du contentieux qui statue sur la liquidation de l'astreinte. Les dispositions des trois derniers alinéas de
-l'article R. 931-6 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2016-899 du 1er juillet 2016 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-493 du 6 avril 2017 - art. 7
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R931-6
+	  - Code de justice administrative - art. R931-3
 
 
 ###### Article R931-8
 
-Au moment de la liquidation de l'astreinte, copie de la décision prononçant l'astreinte et de la décision qui la liquide est
-adressée au ministère public près la Cour de discipline budgétaire.
+Si l'astreinte est liquidée, copie de la décision prononçant l'astreinte et de la décision qui la liquide est adressée au
+ministère public près la Cour de discipline budgétaire et financière.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 59-6 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R931-9
-
-Le délai de recours contentieux contre une décision administrative expresse refusant de prendre les mesures nécessaires à
-l'exécution d'une décision de la juridiction administrative est interrompu par la demande d'astreinte jusqu'à la notification
-de la décision qui statue sur cette demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 59-7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2017-493 du 6 avril 2017 - art. 6
 
