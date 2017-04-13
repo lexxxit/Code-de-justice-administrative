@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-04-08
+Version Consolidée au 2017-04-14
 
 # Partie législative
 
@@ -1153,22 +1153,40 @@ consultative en place à la date d'entrée en vigueur de la présente ordonnance
 
 ###### Article L132-2
 
-La commission consultative peut être consultée sur toutes les questions intéressant le statut des membres du Conseil d'Etat.
+La commission supérieure du Conseil d'Etat est consultée par le vice-président du Conseil d'Etat sur les questions
+intéressant la compétence, l'organisation ou le fonctionnement du Conseil d'Etat. Elle émet un avis sur toute question
+relative au statut des membres du Conseil d'Etat. Elle peut également être consultée sur toute question générale relative à
+l'exercice de leurs fonctions. 
 
-Elle doit donner son avis sur les mesures individuelles concernant la discipline, l'avancement des membres du Conseil ainsi
-que dans les cas prévus au présent titre.
+La commission supérieure débat chaque année des orientations générales en matière de recrutement. Elle émet un avis sur les
+propositions de nomination au titre des articles L. 133-8 et L. 133-12 ainsi que sur les propositions de nomination aux
+fonctions de président de cour administrative d'appel. La commission donne également son avis sur les mesures individuelles
+concernant l'avancement des membres du Conseil d'Etat. 
+
+Saisie par le vice-président du Conseil d'Etat, la commission supérieure propose les mesures disciplinaires concernant les
+membres du Conseil d'Etat dans les conditions mentionnées à l'article L. 136-4.
+
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, les dispositions de l'article L. 132-2 ainsi que
+celles du chapitre VI du titre III du livre Ier du code de justice administrative dans leur rédaction issue de ladite
+ordonnance entrent en vigueur à la date d'installation de la commission supérieure du Conseil d'Etat mentionnée à l'article
+L. 132-1 dans sa rédaction issue de la même ordonnance et au plus tard six mois après sa publication.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°63-767 1963-07-30 art. 6 al. 1er et 2
 	  - Décret n°63-767 du 30 juillet 1963 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 2
 
 
 #### Chapitre III : Nominations
@@ -1469,17 +1487,27 @@ vigueur de la présente loi, les fonctions normalement dévolues aux  maîtres d
 
 ###### Article L136-1
 
-Les sanctions disciplinaires applicables aux membres du Conseil d'Etat sont :
+Les sanctions applicables aux membres du Conseil d'Etat sont : 
 
-1° L'avertissement ;
+1° L'avertissement ; 
 
-2° Le blâme ;
+2° Le blâme ; 
 
-3° L'exclusion temporaire de fonctions dans la limite de six mois ;
+3° L'abaissement d'échelon ; 
 
-4° La mise à la retraite d'office ;
+4° Le retrait de certaines fonctions ; 
 
-5° La révocation.
+5° L'exclusion temporaire de toutes fonctions dans la limite de six mois ; 
+
+6° La mise à la retraite d'office ; 
+
+7° La révocation.
+
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, ces dispositions dans leur rédaction issue de
+ladite ordonnance entrent en vigueur à la date d'installation de la commission supérieure du Conseil d'Etat mentionnée à
+l'article L. 132-1 dans sa rédaction issue de la même ordonnance et au plus tard six mois après sa publication.
 
 **Liens relatifs à cet article**
 
@@ -1489,17 +1517,25 @@ Les sanctions disciplinaires applicables aux membres du Conseil d'Etat sont :
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 3
 
 
 ###### Article L136-2
 
-Les sanctions disciplinaires sont prononcées par l'autorité investie du pouvoir de nomination sur proposition du garde des
-sceaux, ministre de la justice, après avis de la commission consultative.
+Les maîtres des requêtes et conseillers d'Etat en service extraordinaire ne peuvent se voir infliger que les sanctions
+mentionnées aux 1° et 2° de l'article L. 136-1. Il peut également être mis fin à leurs fonctions. Cette dernière sanction est
+prononcée à titre exclusif.
 
-Toutefois, l'avertissement et le blâme peuvent être prononcés, sans consultation de la commission consultative, par le vice-
-président du Conseil d'Etat.
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, ces dispositions dans leur rédaction issue de
+ladite ordonnance entrent en vigueur à la date d'installation de la commission supérieure du Conseil d'Etat mentionnée à
+l'article L. 132-1 dans sa rédaction issue de la même ordonnance et au plus tard six mois après sa publication.
 
 **Liens relatifs à cet article**
 
@@ -1509,8 +1545,116 @@ président du Conseil d'Etat.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 3
+
+
+###### Article L136-3
+
+Parmi les sanctions mentionnées à l'article L. 136-1, seul l'avertissement n'est pas inscrit au dossier du membre concerné.
+Le blâme est inscrit au dossier mais effacé automatiquement au bout de trois ans si aucune autre sanction n'est intervenue
+pendant cette période. 
+
+L'exclusion temporaire de fonctions, qui est privative de toute rémunération, peut être assortie d'un sursis total ou
+partiel. Celui-ci ne peut avoir pour effet de ramener la durée de l'exclusion prévue au 5° de l'article L. 136-1 à moins d'un
+mois. L'intervention d'une sanction disciplinaire mentionnée aux 3° à 5° de l'article L. 136-1 pendant une période de cinq
+ans après le prononcé de l'exclusion temporaire entraîne la révocation du sursis. En revanche, lorsqu'aucune sanction
+disciplinaire autre que l'avertissement et le blâme n'a été prononcée durant cette même période de cinq ans à l'encontre de
+l'intéressé, ce dernier est dispensé définitivement de l'accomplissement de la partie de la sanction pour laquelle il a
+bénéficié du sursis.
+
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, ces dispositions dans leur rédaction issue de
+ladite ordonnance entrent en vigueur à la date d'installation de la commission supérieure du Conseil d'Etat mentionnée à
+l'article L. 132-1 dans sa rédaction issue de la même ordonnance et au plus tard six mois après sa publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 3
+
+
+###### Article L136-4
+
+Les sanctions disciplinaires sont prononcées par l'autorité investie du pouvoir de nomination, sur proposition de la
+commission supérieure du Conseil d'Etat. Toutefois, l'avertissement et le blâme peuvent être prononcés, sans consultation de
+la commission supérieure, par le vice-président du Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, ces dispositions dans leur rédaction issue de
+ladite ordonnance entrent en vigueur à la date d'installation de la commission supérieure du Conseil d'Etat mentionnée à
+l'article L. 132-1 dans sa rédaction issue de la même ordonnance et au plus tard six mois après sa publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 3
+
+
+###### Article L136-5
+
+En matière disciplinaire, le vice-président du Conseil d'Etat, le président de la section du contentieux et les membres élus
+de la commission de grade inférieur à celui du membre dont le cas est examiné ne siègent pas. La commission supérieure est
+alors présidée par le président de section administrative le plus ancien.
+
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, ces dispositions dans leur rédaction issue de
+ladite ordonnance entrent en vigueur à la date d'installation de la commission supérieure du Conseil d'Etat mentionnée à
+l'article L. 132-1 dans sa rédaction issue de la même ordonnance et au plus tard six mois après sa publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 3
+
+
+###### Article L136-6
+
+Sur proposition de la commission supérieure, l'autorité investie du pouvoir de nomination peut décider de rendre publique la
+sanction prévue aux 3° à 7° de l'article L. 136-1, accompagnée ou non de ses motifs.
+
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, ces dispositions dans leur rédaction issue de
+ladite ordonnance entrent en vigueur à la date d'installation de la commission supérieure du Conseil d'Etat mentionnée à
+l'article L. 132-1 dans sa rédaction issue de la même ordonnance et au plus tard six mois après sa publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 3
+
+
+###### Article L136-7
+
+Lorsqu'un membre du Conseil d'Etat commet un manquement grave rendant impossible son maintien en fonctions et si l'urgence le
+commande, l'auteur de ce manquement peut être immédiatement suspendu par le vice-président du Conseil d'Etat, pour une durée
+maximale de quatre mois. Cette suspension n'entraîne pas privation du droit au traitement. La suspension ne peut être rendue
+publique. Le vice-président saisit sans délai la commission supérieure du Conseil d'Etat des faits ayant motivé la
+suspension.
+
+**Nota:**
+
+Conformément à l'article 6 de l'ordonnance n° 2016-1365 du 13 octobre 2016, ces dispositions dans leur rédaction issue de
+ladite ordonnance entrent en vigueur à la date d'installation de la commission supérieure du Conseil d'Etat mentionnée à
+l'article L. 132-1 dans sa rédaction issue de la même ordonnance et au plus tard six mois après sa publication.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1365 du 13 octobre 2016 - art. 3
 
 
 #### Chapitre VII : La participation des membres du Conseil d'Etat à des activités administratives ou d'intérêt général
