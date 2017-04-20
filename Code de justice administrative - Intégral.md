@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-04-14
+Version Consolidée au 2017-04-21
 
 # Partie législative
 
@@ -8155,6 +8155,21 @@ officiel de la République française.
 	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
 
 
+#### Chapitre IV : La médiation
+
+###### Article R114-1
+
+La médiation devant le Conseil d'Etat est régie par les dispositions du chapitre III du titre Ier du livre II. Pour
+l'application de ces dispositions, les pouvoirs dévolus au président de la juridiction sont exercés par le président de la
+section du contentieux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 2
+
+
 ### Titre II : Organisation et fonctionnement
 
 #### Chapitre Ier : Dispositions générales
@@ -11758,6 +11773,145 @@ l'administrateur supérieur.
 
 	  - Code de justice administrative - art. R212-1
 	  - Code de justice administrative - art. R212-3
+
+
+#### Chapitre III : La médiation
+
+##### Section 1 : Dispositions générales
+
+###### Article R213-1
+
+La médiation porte sur tout ou partie d'un litige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-848 du 9 mai 2017 - art. 1
+	  - Code de l'environnement - art. R412-21 (VD)
+
+
+###### Article R213-2
+
+La médiation peut être confiée à une personne physique ou à une personne morale. Si le médiateur désigné est une personne
+morale, son représentant légal désigne la ou les personnes physiques qui assureront, au sein de celle-ci et en son nom,
+l'exécution de la mission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
+
+
+###### Article R213-3
+
+La personne physique qui assure la mission de médiation doit posséder, par l'exercice présent ou passé d'une activité, la
+qualification requise eu égard à la nature du litige. Elle doit en outre justifier, selon le cas, d'une formation ou d'une
+expérience adaptée à la pratique de la médiation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
+
+
+##### Section 2 : Médiation à l'initiative des parties
+
+###### Article R213-4
+
+Par dérogation à l'article L. 411-2 du code des relations entre le public et l'administration, lorsque, en application de
+l'article L. 213-6 du présent code, le délai de recours contentieux a été interrompu par l'organisation d'une médiation,
+l'exercice d'un recours gracieux ou hiérarchique ne l'interrompt pas de nouveau, sauf s'il constitue un préalable obligatoire
+à l'exercice d'un recours contentieux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L213-6
+	  - Code des relations entre le public et l'administration - art. L411-2
+
+
+##### Section 3 : Médiation à l'initiative du juge
+
+###### Article R213-5
+
+Lorsque le juge estime que le litige dont il est saisi est susceptible de trouver une issue amiable, il peut à tout moment
+proposer une médiation. Il fixe aux parties un délai pour répondre à cette proposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
+
+
+###### Article R213-6
+
+Outre les éléments figurant à l'article L. 213-8, la décision qui ordonne une médiation mentionne l'accord des parties. Elle
+désigne le médiateur et, le cas échéant, la durée de sa mission et les modalités de sa rémunération. Cette décision est
+notifiée au médiateur et aux parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L213-8
+
+
+###### Article R213-7
+
+Lorsque la mission de médiation est rémunérée, le président de la juridiction, après consultation du président de la
+formation de jugement, peut, soit au début de la médiation, soit au cours de celle-ci, accorder au médiateur, sur sa demande,
+une allocation provisionnelle à valoir sur le montant de ses honoraires et débours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
+
+
+###### Article R213-8
+
+En aucun cas la médiation ne dessaisit le juge, qui peut prendre à tout moment les mesures d'instruction qui lui paraissent
+nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
+
+
+###### Article R213-9
+
+Le médiateur peut, avec l'accord des parties et pour les besoins de la médiation, entendre les tiers qui y consentent.
+
+Le médiateur tient le juge informé des difficultés qu'il rencontre dans l'accomplissement de sa mission.
+
+Le juge met fin à la médiation à la demande d'une des parties ou du médiateur. Il peut aussi y mettre fin d'office lorsque le
+bon déroulement de la médiation lui apparaît compromis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-566 du 18 avril 2017 - art. 1
 
 
 ### Titre II : Organisation et fonctionnement
