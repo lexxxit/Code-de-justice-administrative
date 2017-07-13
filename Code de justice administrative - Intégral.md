@@ -1,5 +1,5 @@
 # Code de justice administrative  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-07-14
 
 # Partie législative
 
@@ -2950,29 +2950,55 @@ juridiction.
 
 #### Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel
 
-##### Section 1 : Dispositions générales
+##### Section 1 : Attributions du Conseil supérieur
 
 ###### Article L232-1
 
-Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel exerce seul, à l'égard des membres des
-tribunaux administratifs et cours administratives d'appel, les attributions conférées par les articles 14 et 15 de la loi n°
-84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, aux commissions
-administratives paritaires, aux comités techniques et à la commission spéciale chargée de donner un avis sur le tour
-extérieur, le détachement, l'intégration après détachement et le recrutement complémentaire. Il connaît de toute question
-relative au statut particulier du corps des tribunaux administratifs et cours administratives d'appel. 
+Le  Conseil supérieur des tribunaux administratifs et cours administratives  d'appel connaît des questions individuelles
+intéressant les magistrats  des tribunaux administratifs et des cours administratives d'appel dans  les conditions prévues
+par le présent article ou par un décret en  Conseil d'Etat. 
 
-En outre, il émet des propositions sur les nominations, détachements et intégrations prévus aux articles L. 233-3, L. 233-4
-et L. 233-5.
+Il établit les tableaux  d'avancement et les listes d'aptitude prévus aux articles L. 234-2-1, L.  234-2-2, L. 234-4 et L.
+234-5. 
+
+Il émet des  propositions sur les nominations, détachements et intégrations prévus  aux articles L. 233-3, L. 233-4 et L.
+233-5 et sur la désignation des  magistrats des tribunaux administratifs et des cours administratives  d'appel siégeant au
+jury des concours prévus par l'article L. 233-6 en  vue du recrutement direct des magistrats des tribunaux administratifs et
+des cours administratives d'appel. 
+
+Il est saisi  pour avis conforme sur la nomination des magistrats des tribunaux  administratifs et des cours administratives
+d'appel en qualité de  rapporteur public et de président d'un tribunal administratif. Il est  saisi pour avis conforme de
+tout licenciement d'un magistrat pour  insuffisance professionnelle après observation de la procédure prévue en  matière
+disciplinaire. 
+
+Il émet un avis sur les  mutations des magistrats des tribunaux administratifs et des cours  administratives d'appel, sur
+leur demande de placement en disponibilité,  sur l'acceptation de leur démission, sur leurs demandes de  réintégration à
+l'issue d'une période de privation de droits civiques,  d'interdiction d'exercer un emploi public ou de perte de la
+nationalité  française, ainsi que sur leur nomination aux grades de conseiller d'Etat  et de maître des requêtes prononcées
+sur le fondement de l'article L.  133-8 ainsi que sur les propositions de nomination aux fonctions de  président d'une cour
+administrative d'appel. 
+
+Il  peut être saisi par les magistrats des tribunaux administratifs et des  cours administratives d'appel d'un recours contre
+l'évaluation prévue  par l'article L. 234-7 ou contre un refus d'autorisation d'accomplir un  service à temps partiel ou un
+refus d'honorariat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-16 du 11 janvier 1984 - art. 14 (V)
-	  - Loi n°84-16 du 11 janvier 1984 - art. 15 (V)
-	  - Code de justice administrative - art. L233-3 (V)
-	  - Code de justice administrative - art. L233-4 (V)
-	  - Code de justice administrative - art. L233-5 (V)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 14
+	  - Loi n°84-16 du 11 janvier 1984 - art. 15
+	  - Code de justice administrative - art. L233-3
+	  - Code de justice administrative - art. L233-4
+	  - Code de justice administrative - art. L233-5 (VD)
 
 	**Anciens textes**:
 
@@ -2980,7 +3006,7 @@ et L. 233-5.
 
 	**Modifié par**:
 
-	  - Loi n°2010-751 du 5 juillet 2010 - art. 35
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
 
 	**Cité par**:
 
@@ -2989,27 +3015,17 @@ et L. 233-5.
 
 ###### Article L232-2
 
-Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel est présidé par le vice-président du
-Conseil d'Etat et comprend en outre :
+Le  Conseil supérieur des tribunaux administratifs et cours administratives  d'appel exerce le pouvoir disciplinaire à
+l'égard des magistrats des  tribunaux administratifs et des cours administratives d'appel dans les  conditions définies au
+chapitre VI du présent titre.
 
-1° Le conseiller d'Etat, président de la mission d'inspection des juridictions administratives ;
+**Nota:**
 
-2° Le directeur général de la fonction publique ;
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
 
-3° Le secrétaire général du Conseil d'Etat ;
-
-4° Le directeur chargé au ministère de la justice des services judiciaires ;
-
-5° Cinq représentants des membres du corps, élus au scrutin de liste parmi l'ensemble des membres du corps des tribunaux
-administratifs et cours administratives d'appel et des agents détachés depuis plus de deux ans dans ledit corps. Ces listes
-peuvent être incomplètes ;
-
-6° Trois personnalités qui n'exercent pas de mandat électif nommées, pour une durée de trois ans non renouvelable,
-respectivement par le Président de la République, le président de l'Assemblée nationale et le président du Sénat.
-
-Le mandat des représentants des membres des tribunaux administratifs et cours administratives d'appel est d'une durée de
-trois ans. Il est renouvelable une seule fois. Toutefois, les agents détachés élus au conseil supérieur démissionnent
-d'office de leur mandat dès que leur détachement prend fin.
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
@@ -3024,7 +3040,7 @@ d'office de leur mandat dès que leur détachement prend fin.
 
 	**Modifié par**:
 
-	  - Loi n°2016-483 du 20 avril 2016 - art. 62
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
 
 	**Cité par**:
 
@@ -3033,12 +3049,34 @@ d'office de leur mandat dès que leur détachement prend fin.
 
 ###### Article L232-3
 
-En cas d'empêchement du vice-président du Conseil d'Etat, la présidence est assurée de plein droit par le conseiller d'Etat,
-président de la mission d'inspection des juridictions administratives. Ce dernier est lui-même suppléé par un conseiller
-d'Etat désigné par le vice-président.
+Le  Conseil supérieur des tribunaux administratifs et des cours  administratives d'appel connaît des questions intéressant le
+fonctionnement et l'organisation des tribunaux administratifs et des  cours administratives d'appel dans les conditions
+prévues par le présent  article ou par un décret en Conseil d'Etat. 
 
-Les suppléants des représentants de l'administration au Conseil supérieur des tribunaux administratifs et cours
-administratives d'appel sont désignés par les ministres dont ils dépendent.
+Le  Conseil supérieur des tribunaux administratifs et cours administratives  d'appel débat chaque année des orientations
+générales en matière  d'évolution des effectifs, de répartition des emplois et de recrutement,  ainsi que sur le bilan social
+de la gestion du corps des magistrats. 
+
+Il émet un avis sur toute question relative au statut des magistrats  des tribunaux administratifs et des cours
+administratives d'appel ainsi  qu'à leur régime indemnitaire, à leur formation, à l'égalité  professionnelle, à la parité et
+à la lutte contre toutes les  discriminations. 
+
+Il bénéficie du concours du comité d'hygiène, de sécurité et de conditions de travail mentionné à l'article 16 de la loi n°
+84-16 du 11 janvier 1984 dans  les matières relevant de sa compétence et peut le saisir de toute  question. Il examine en
+outre les questions dont il est saisi par ce  comité. 
+
+Il est également consulté sur toute  question relative à la compétence, à l'organisation et au fonctionnement  des tribunaux
+administratifs et des cours administratives d'appel ainsi  que sur les dispositions qui prévoient la participation de
+magistrats  des tribunaux administratifs et des cours administratives d'appel à  l'exercice de fonctions autres que celles
+qu'ils exercent au sein de ces  juridictions.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
@@ -3053,25 +3091,70 @@ administratives d'appel sont désignés par les ministres dont ils dépendent.
 
 	**Modifié par**:
 
-	  - Loi n°2016-483 du 20 avril 2016 - art. 62
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
 
+
+##### Section 2 : Composition du Conseil supérieur
 
 ###### Article L232-4
 
-S'il y a partage égal des voix dans les cas prévus au deuxième alinéa de l'article L. 232-1, la voix du président est
-prépondérante.
+Le  Conseil supérieur des tribunaux administratifs et cours administratives  d'appel est présidé par le vice-président du
+Conseil d'Etat et comprend  en outre : 
+
+1° Le conseiller d'Etat, président de la mission d'inspection des juridictions administratives ; 
+
+2° Le secrétaire général du Conseil d'Etat ; 
+
+3° Le directeur chargé au ministère de la justice des services judiciaires ; 
+
+4° Un chef de juridiction et un suppléant élus par leurs pairs ; 
+
+5° Cinq représentants des magistrats des tribunaux administratifs et  des cours administratives d'appel à l'exception de ceux
+détachés dans le  corps depuis moins de deux ans, élus au scrutin proportionnel de liste à  raison : 
+
+a) D'un représentant titulaire et d'un suppléant pour le grade de conseiller ; 
+
+b) De deux représentants titulaires et de deux suppléants pour le grade de premier conseiller ; 
+
+c) De deux représentants titulaires et de deux suppléants pour le grade de président ; 
+
+6° Trois personnalités choisies pour leurs compétences dans le domaine  du droit en dehors des membres du Conseil d'Etat et
+des magistrats des  tribunaux administratifs et des cours administratives d'appel et qui  n'exercent pas de mandat
+parlementaire nommées respectivement par le  Président de la République, le président de l'Assemblée nationale et le
+président du Sénat. 
+
+Le mandat du chef de  juridiction est d'une durée de trois ans. Il est renouvelable une seule  fois. Toutefois, il prend fin
+à la date à laquelle son titulaire cesse  d'exercer les fonctions de chef de juridiction. 
+
+Le mandat des représentants des magistrats des tribunaux administratifs  et des cours administratives d'appel est d'une durée
+de trois ans. Il  est renouvelable une seule fois. Toutefois, le mandat des membres élus  du Conseil supérieur qui sont
+détachés au sein du corps prend fin en  même temps que leur détachement. 
+
+Le mandat des  personnalités qualifiées est d'une durée de trois ans non renouvelable.  Elles perçoivent une indemnité dont
+le montant est fixé par arrêté du  garde des sceaux, ministre de la justice, et du ministre chargé du  budget.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par ces dispositions telles
+que modifiées par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. Les mandats en cours prennent
+fin à la date de cette installation. Ils sont pris en compte pour l'appréciation des conditions de renouvellement des mandats
+fixées par ces dispositions.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°86-14 1986-01-06 art. 14 al. 5
 	  - Loi n°86-14 du 6 janvier 1986 - art. 14 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
 
 	**Cité par**:
 
@@ -3081,62 +3164,99 @@ prépondérante.
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L232-1 (V)
+	  - Code de justice administrative - art. L232-1
 
 
-##### Section 3 : Fonctionnement du Conseil supérieur
+###### Article L232-5
 
-###### Article L232-4-1
+En  cas d'empêchement du vice-président du Conseil d'Etat, la présidence  est assurée de plein droit par le conseiller
+d'Etat, président de la  mission d'inspection des juridictions administratives. En cas  d'empêchement de ce dernier, la
+présidence est assurée par le secrétaire  général du Conseil d'Etat. 
 
-Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel siège toujours dans la même composition,
-quel que soit le niveau hiérarchique des magistrats dont le cas est examiné.
+Les autres membres sont suppléés dans des conditions fixées par décret.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°86-14 du 6 janvier 1986 - art. 14 (Ab)
 
 	**Codifié par**:
 
 	  - Rapport
 	  - Loi n°2003-591 du 2 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R232-28 (VD)
+
+
+##### Section 3 : Fonctionnement du Conseil supérieur
+
+###### Article L232-6
+
+Le Conseil supérieur des  tribunaux administratifs et cours administratives d'appel siège  toujours dans la même composition,
+quel que soit le grade des magistrats  dont le cas est examiné. 
+
+Lorsque que le Conseil  supérieur des tribunaux administratifs et cours administratives d'appel  siège au titre des
+compétences qu'il tient de l'article L. 232-1, la  voix du président est prépondérante en cas de partage égal des voix.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 3 () JORF 10 septembre 2002
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
 
 
 ##### Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel
 
-###### Article L232-5
+###### Article L232-7
 
-Un secrétaire général des tribunaux administratifs et des cours administratives d'appel appartenant au corps des tribunaux
-administratifs et cours administratives d'appel est désigné sur proposition du Conseil supérieur. Pendant l'exercice de ses
-fonctions, il ne peut bénéficier d'aucun avancement. Il exerce ses fonctions pendant une durée qui ne peut excéder cinq ans.
-Il a pour mission notamment :
+Un secrétaire général  des tribunaux administratifs et des cours administratives d'appel est  nommé parmi les magistrats des
+tribunaux administratifs et des cours  administratives d'appel sur proposition du Conseil supérieur des  tribunaux
+administratifs et cours administratives d'appel. Pendant  l'exercice de ses fonctions, il ne peut bénéficier d'aucun
+avancement  autre qu'à l'ancienneté. Il exerce ses fonctions pour une durée qui ne  peut excéder cinq ans. 
 
-- d'assurer le secrétariat du Conseil supérieur ;
+Il a pour mission notamment : 
 
-- de gérer les greffes des tribunaux et des cours et d'organiser la formation de leurs personnels ;
+1° D'assurer le secrétariat du Conseil supérieur des tribunaux administratifs et cours administratives d'appel ; 
 
-- de coordonner les besoins des tribunaux et des cours en matériel, en moyens techniques et en documentation.
+2° Auprès du secrétaire général du Conseil d'Etat de participer à la  mission de gestion des tribunaux administratifs et des
+cours  administratives d'appel.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°86-14 1986-01-06 art. 14 al. 6
-	  - Loi n°86-14 du 6 janvier 1986 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R232-28 (VD)
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 1
 
 
 #### Chapitre III : Nomination et recrutement
@@ -3145,8 +3265,16 @@ Il a pour mission notamment :
 
 ###### Article L233-1
 
-Les            magistrats des tribunaux administratifs et des cours administratives d'appel sont nommés et promus par décret
-du Président de la République.
+Les            magistrats des tribunaux administratifs et des cours administratives d'appel sont nommés dans le corps par
+décret du Président de la République.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
@@ -3165,13 +3293,22 @@ du Président de la République.
 
 	**Modifié par**:
 
-	  - Loi n°2016-483 du 20 avril 2016 - art. 62
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 2
 
 
 ###### Article L233-2
 
-Les magistrats des tribunaux administratifs et des cours administratives d'appel sont recrutés parmi les anciens élèves de
-l'Ecole nationale d'administration, sous réserve des dispositions des articles L. 233-3, L. 233-4, L. 233-5 et L. 233-6.
+Les magistrats des tribunaux administratifs et des cours administratives d'appel sont recrutés au grade de conseiller parmi
+les anciens élèves de l'Ecole nationale d'administration, sous réserve des dispositions des articles L. 233-3, L. 233-4, L.
+233-5 et L. 233-6.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
@@ -3191,11 +3328,11 @@ l'Ecole nationale d'administration, sous réserve des dispositions des articles 
 
 	**Modifié par**:
 
-	  - Loi n°2016-483 du 20 avril 2016 - art. 62
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L233-3 (V)
+	  - Code de justice administrative - art. L233-3
 
 
 ##### Section 2 : Nomination au tour extérieur
@@ -3288,19 +3425,19 @@ doivent avoir satisfait à cette obligation.
 
 ###### Article L233-4-1
 
-Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel peut proposer, lorsque le nombre de
+Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel peut proposer, lorsque le nombre de
 nominations susceptibles d'être prononcées au grade de premier conseiller en application de l'article L. 233-4 n'est pas
 atteint, de reporter ces nominations sur le grade de conseiller.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 82
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de justice administrative - art. L233-4 (V)
+	  - Code de justice administrative - art. L233-4
 
 
 ##### Section 3 : Recrutement après détachement
@@ -3316,21 +3453,29 @@ dernier corps, aux grades de conseiller ou de premier conseiller. Ils ne peuvent
 services effectifs en détachement dans ce corps et s'ils satisfont aux conditions prévues aux articles L. 233-3 et L. 233-4
 pour l'accès au grade dont il s'agit. 
 
-Il ne peut être mis fin à des détachements dans le corps que sur demande des intéressés ou pour motifs disciplinaires. 
+Il ne peut être mis fin à des détachements dans le corps que sur demande des intéressés ou pour motif disciplinaire. 
 
 Les magistrats de l'ordre judiciaire peuvent également être détachés pour trois ans, renouvelables une fois, dans le
 corps des magistrats des tribunaux administratifs et des cours administratives d'appel, au grade de président, pour y occuper
 les fonctions de président de formation de jugement et de président de chambre à la Cour nationale du droit d'asile.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2016-483 du 20 avril 2016 - art. 62
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 2
 
 	**Cité par**:
 
-	  - Code de justice administrative - art. L232-1 (VT)
+	  - Code de justice administrative - art. L232-1 (VD)
 	  - Code de justice administrative - art. R232-22 (VD)
 	  - Code de justice administrative. - art. L233-2 (M)
 
@@ -3434,13 +3579,34 @@ pensions civiles et militaires de retraite.
 	  - Code des pensions civiles et militaires de retrait - art. L63 (V)
 
 
-#### Chapitre IV : Avancement
+#### Chapitre III : Nomination, recrutement et formation
 
-###### Article L234-1
+##### Section 1 : Dispositions générales
 
-L'avancement des            magistrats des tribunaux administratifs et des cours administratives d'appel a lieu de grade à
-grade après inscription au tableau d'avancement. Ce tableau est établi sur proposition du Conseil supérieur des tribunaux
-administratifs et cours administratives d'appel.
+##### Section 2 : Nomination au tour extérieur
+
+##### Section 3 : Recrutement après détachement
+
+##### Section 4 : Recrutement direct
+
+##### Section 5 : Maintien en surnombre
+
+##### Section 6 : Formation
+
+###### Article L233-9
+
+Le Conseil d'Etat  organise pour les conseillers et premiers conseillers des tribunaux  administratifs et des cours
+administratives d'appel, avant leur première  entrée en fonctions, et quel que soit leur mode de recrutement, une  formation
+professionnelle dont les modalités sont adaptées aux besoins  des juridictions et aux expériences professionnelles préalables
+des  intéressés.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
@@ -3451,26 +3617,134 @@ administratifs et cours administratives d'appel.
 
 	**Modifié par**:
 
-	  - Loi n°2016-483 du 20 avril 2016 - art. 62
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R233-13 (M)
 
 
-###### Article L234-2
+###### Article L233-10
 
-Les présidents sont nommés au choix sur proposition du Conseil supérieur des tribunaux administratifs et cours
-administratives d'appel après inscription au tableau d'avancement parmi les membres du corps des tribunaux administratifs et
-cours administratives d'appel comptant huit ans de services effectifs et ayant soit satisfait à l'obligation de mobilité pour
-ceux qui ont été recrutés postérieurement au 12 mars 1971, soit exercé leurs fonctions juridictionnelles pendant trois ans
-dans une cour administrative d'appel.
+Les  magistrats des tribunaux administratifs et des cours administratives  d'appel bénéficient, tout au long de leur
+carrière, d'une formation  professionnelle. Un décret en Conseil d'Etat en définit les conditions  ainsi que celles dans
+lesquelles les actions de formation suivies  ouvrent droit à une décharge d'activité.
 
-Toutefois, dans la limite de deux ans, les services rendus au titre de l'obligation de mobilité sont assimilés à des services
-effectifs dans les tribunaux administratifs et cours administratives d'appel.
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code du travail - art. R2212-3 (V)
+
+
+#### Chapitre IV : Affectation, avancement et évaluation
+
+##### Section 1 : Affectation
+
+###### Article L234-1
+
+L'affectation  d'un magistrat des tribunaux administratifs et des cours  administratives d'appel est prononcée par arrêté du
+vice-président du  Conseil d'Etat. Toutefois, la première nomination d'un magistrat des  tribunaux administratifs et des
+cours administratives d'appel dans l'une  des fonctions prévues respectivement par les articles L. 234-3, L.  234-4 et L.
+234-5 est prononcée par décret du Président de la  République. 
+
+Les affectations des magistrats des  tribunaux administratifs et des cours administratives d'appel sont  effectuées en
+prenant notamment en compte les emplois vacants, l'intérêt  du service au sein de la juridiction d'accueil et, le cas
+échéant, de  la juridiction d'origine, ainsi que les intérêts familiaux et personnels  dont les intéressés font état.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
+
+
+##### Section 2 : Avancement
+
+###### Article L234-2
+
+Les  magistrats des tribunaux administratifs et des cours administratives  d'appel sont promus de grade à grade par décret du
+Président de la  République après inscription sur un tableau d'avancement. 
+
+Ce tableau est établi par le Conseil supérieur des tribunaux  administratifs et cours administratives d'appel, compte tenu
+des  compétences, des aptitudes et des mérites des intéressés, tels qu'ils  résultent notamment des évaluations prévues par
+l'article L. 234-7 et  des avis motivés émis par le président de leur juridiction. Les  magistrats sont inscrits au tableau
+par ordre de mérite. 
+
+Les avancements d'échelon sont prononcés par arrêté du vice-président du Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
+
+
+###### Article L234-2-1
+
+Peuvent  être promus au grade de premier conseiller, les conseillers qui  justifient de trois années de services effectifs en
+qualité de magistrat  des tribunaux administratifs et des cours administratives d'appel et  ont atteint un échelon de leur
+grade déterminé par décret en Conseil  d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
+
+
+###### Article L234-2-2
+
+Peuvent  être promus au grade de président les magistrats des tribunaux  administratifs et des cours administratives d'appel
+justifiant de huit  ans de services effectifs et ayant satisfait à l'obligation de mobilité  ou exercé leurs fonctions
+juridictionnelles pendant trois ans dans une  cour administrative d'appel. 
+
+Dans la limite de  deux ans, les services rendus au titre de l'obligation de mobilité sont  assimilés à des services
+effectifs dans les tribunaux administratifs et  cours administratives d'appel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
 
 
 ###### Article L234-3
@@ -3485,9 +3759,9 @@ trois ans, renouvelable sur leur demande.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 17
+	  - DEPLACE: Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
 
 	**Cité par**:
 
@@ -3500,9 +3774,17 @@ Les fonctions de président de chambre dans une cour administrative d'appel, de 
 comportant moins de cinq chambres, de président de section au tribunal administratif de Paris ou de premier vice-président
 d'un tribunal administratif comportant au moins huit chambres ou de président de section à la Cour nationale du droit d'asile
 sont accessibles aux magistrats des tribunaux administratifs et des cours administratives d'appel titulaires du grade de
-président depuis au moins deux ans. La première nomination dans l'une de ces fonctions est subordonnée à l'inscription sur
-une liste d'aptitude annuelle établie sur proposition du Conseil supérieur des tribunaux administratifs et des cours
-administratives d'appel.
+président depuis au moins deux ans. La  première nomination dans l'une de ces fonctions est subordonnée à  l'inscription sur
+une liste d'aptitude annuelle établie par le Conseil  supérieur des tribunaux administratifs et cours administratives
+d'appel.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
@@ -3519,7 +3801,7 @@ administratives d'appel.
 
 	**Modifié par**:
 
-	  - Loi n°2015-925 du 29 juillet 2015 - art. 17
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
 
 
 ###### Article L234-5
@@ -3527,8 +3809,16 @@ administratives d'appel.
 Les  fonctions de président ou de vice-président du tribunal administratif  de Paris, de premier vice-président d'une cour
 administrative d'appel et  de président d'un tribunal administratif comportant au moins cinq  chambres sont accessibles aux
 magistrats des tribunaux administratifs et  des cours administratives d'appel titulaires du grade de président  depuis au
-moins quatre ans. La première nomination dans l'une de ces fonctions est subordonnée à l'inscription sur une liste d'aptitude
-annuelle établie sur proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel.
+moins quatre ans. La  première nomination dans l'une de ces fonctions est subordonnée à  l'inscription sur une liste
+d'aptitude annuelle établie par le Conseil  supérieur des tribunaux administratifs et cours administratives d'appel.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
@@ -3545,7 +3835,7 @@ annuelle établie sur proposition du Conseil supérieur des tribunaux administra
 
 	**Modifié par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 84
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
 
 
 ###### Article L234-6
@@ -3559,44 +3849,132 @@ juridiction sont affectés dans une cour administrative d'appel de leur choix.
 Cette nomination est prononcée, le cas échéant, en surnombre de l'effectif des présidents affectés dans la juridiction. Ce
 surnombre est résorbé à la première vacance utile.
 
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - DEPLACE: Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
+
+
+##### Section 3 : Evaluation
+
+###### Article L234-7
+
+Les  magistrats des tribunaux administratifs et des cours administratives  d'appel font l'objet d'une évaluation dont la
+périodicité, le contenu et  les modalités d'organisation sont fixées par décret en Conseil d'Etat.
+
 **Nota:**
 
-Loi n° 2012-347 du 12 mars 2012, article 85 III : Ces dispositions s'appliquent aux chefs de juridiction dont la nomination
-est postérieure à l'entrée en vigueur de la présente loi.
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2012-347 du 12 mars 2012 - art. 85 (V)
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 3
 
 
 #### Chapitre VI : Discipline
 
+##### Section 1 : Sanctions applicables
+
 ###### Article L236-1
 
-Les mesures disciplinaires sont prises sur proposition du Conseil supérieur des tribunaux administratifs et cours
-administratives d'appel saisi par le président du tribunal administratif ou de la cour administrative d'appel auquel
-appartient le membre du corps concerné ou par le chef de la mission d'inspection des tribunaux administratifs et cours
-administratives d'appel.
+Les  sanctions disciplinaires applicables aux magistrats des tribunaux  administratifs et des cours administratives d'appel
+sont réparties en  quatre groupes. 
+
+1° Premier groupe : 
+
+a) L'avertissement ; 
+
+b) Le blâme ; 
+
+2° Deuxième groupe : 
+
+a) La radiation du tableau d'avancement ou de la liste d'aptitude ; 
+
+b) L'abaissement d'échelon ; 
+
+c) Le retrait de certaines fonctions ; 
+
+d) L'exclusion temporaire des fonctions dans la limite de six mois ; 
+
+e) Le déplacement d'office ; 
+
+3° Troisième groupe : 
+
+a) La rétrogradation ; 
+
+b) L'exclusion temporaire des fonctions pour une durée de plus de six mois à deux ans ; 
+
+4° Quatrième groupe : 
+
+a) La mise à la retraite d'office ; 
+
+b) La révocation. 
+
+Parmi les sanctions du premier groupe, seul le blâme est inscrit au  dossier du magistrat. Il est effacé automatiquement du
+dossier au bout  de trois ans si aucune sanction n'est intervenue pendant cette période. 
+
+Le déplacement d'office et la radiation du tableau d'avancement peuvent  également être prononcés à titre de sanction
+complémentaire d'une des  sanctions des deuxième et troisième groupes. 
+
+L'exclusion temporaire de fonctions, qui est privative de toute  rémunération, peut être assortie d'un sursis total ou
+partiel. Celui-ci  ne peut avoir pour effet, dans le cas de l'exclusion temporaire de  fonctions du troisième groupe, de
+ramener la durée de cette exclusion à  moins de un mois. L'intervention d'une sanction disciplinaire du  deuxième ou
+troisième groupe pendant une période de cinq ans après le  prononcé de l'exclusion temporaire entraîne la révocation du
+sursis. En  revanche, si aucune sanction disciplinaire, autre que l'avertissement ou  le blâme, n'a été prononcée durant
+cette même période à l'encontre de  l'intéressé, ce dernier est dispensé définitivement de l'accomplissement  de la partie de
+la sanction pour laquelle il a bénéficié du sursis.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 4
 
 
 ###### Article L236-2
 
-Lorsqu'un membre du corps des tribunaux administratifs et cours administratives d'appel commet un manquement grave rendant
-impossible son maintien en fonctions et si l'urgence le commande, l'auteur de ce manquement peut être immédiatement suspendu
-sur proposition du président du Conseil supérieur des tribunaux administratifs et cours administratives d'appel. La
-suspension ne peut être rendue publique.
+Les  magistrats des tribunaux administratifs et des cours administratives  d'appel recrutés par la voie du détachement ne
+peuvent se voir infliger  que les sanctions suivantes : 
 
-Dès la saisine du Conseil supérieur, l'intéressé a droit à la communication intégrale de son dossier et de tous les documents
-annexés. Il peut se faire assister par un ou plusieurs défenseurs de son choix.
+1° L'avertissement ; 
+
+2° Le blâme ; 
+
+3° Le retrait de certaines fonctions ; 
+
+4° L'exclusion temporaire de fonction dans la limite de six mois ; 
+
+5° Le déplacement d'office ; 
+
+6° La fin du détachement.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
@@ -3606,25 +3984,168 @@ annexés. Il peut se faire assister par un ou plusieurs défenseurs de son choix
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
 
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 4
+
+
+##### Section 2 : Autorité compétente
 
 ###### Article L236-3
 
-Les dispositions de l'article L. 231-3 ne sont pas applicables lorsque les membres du corps des tribunaux administratifs et
-cours administratives d'appel font l'objet d'un déplacement d'office pour raison disciplinaire.
+Le  pouvoir disciplinaire est exercé à l'égard des magistrats des tribunaux  administratifs et des cours administratives
+d'appel par le Conseil  supérieur des tribunaux administratifs et cours administratives d'appel.  
+
+Le blâme et l'avertissement peuvent être prononcés par le président du Conseil supérieur.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-387 2000-05-04 JORF 7 mai 2000
-	  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+	  - Rapport
+	  - Loi n°2003-591 du 2 juillet 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L231-3 (V)
+	  - Code de justice administrative - art. L231-3
+
+
+##### Section 3 : Procédure applicable
+
+###### Article L236-4
+
+Le  Conseil supérieur des tribunaux administratifs et cours administratives  d'appel est saisi des faits motivant la
+poursuite disciplinaire par le  président de la juridiction à laquelle est affecté le magistrat ou par  le président de la
+mission d'inspection des juridictions  administratives. 
+
+L'autorité de saisine ne peut assister au délibéré du Conseil supérieur.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 4
+
+
+###### Article L236-5
+
+La procédure devant le Conseil supérieur des tribunaux administratifs et cours administratives d'appel est contradictoire. 
+
+Le magistrat est informé par le président du Conseil supérieur, dès la  saisine de cette instance, qu'il a droit à la
+communication intégrale de  son dossier et des pièces de l'enquête préliminaire, s'il y a été  procédé, et qu'il peut se
+faire assister par un ou plusieurs défenseurs  de son choix. 
+
+Le président de la mission  d'inspection des juridictions administratives est chargé de rapporter  l'affaire devant le
+Conseil supérieur, sauf s'il est l'auteur de la  saisine. Dans ce dernier cas, le président du Conseil supérieur désigne  un
+rapporteur parmi les autres membres du Conseil. 
+
+Le rapporteur procède, s'il y a lieu, à une enquête, et accomplit tous  actes d'investigation utiles. Il peut en tant que de
+besoin faire appel à  l'assistance du secrétariat général des tribunaux administratifs et des  cours administratives d'appel.
+Au cours de l'enquête, il entend  l'intéressé et, s'il y a lieu, le plaignant et les témoins. Il ne prend  pas part au vote
+intervenant sur le rapport qu'il présente devant le  Conseil supérieur.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 4
+
+
+###### Article L236-6
+
+Le  président du Conseil supérieur des tribunaux administratifs et cours  administratives d'appel statuant en formation
+disciplinaire peut décider  que l'audience se tiendra à huis clos. 
+
+Lorsqu'il  se prononce sur l'existence d'une faute disciplinaire, le Conseil  supérieur renvoie, en cas de partage égal des
+voix, le magistrat  concerné des fins de la poursuite. 
+
+Lorsque le  Conseil supérieur a constaté l'existence d'une faute disciplinaire, la  sanction prononcée à l'égard du magistrat
+est prise à la majorité des  voix. 
+
+La décision du Conseil supérieur est  motivée. Le Conseil supérieur peut en décider la publication,  accompagnée ou non de
+ses motifs. 
+
+Elle ne peut faire l'objet que d'un recours en cassation devant le Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 4
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R236-3 (VD)
+
+
+##### Section 4 : Suspension
+
+###### Article L236-7
+
+Lorsqu'un  magistrat des tribunaux administratifs et des cours administratives  d'appel commet un manquement grave rendant
+impossible son maintien en  fonctions et si l'urgence le commande, l'auteur de ce manquement peut  être immédiatement
+suspendu. Cette suspension est prononcée pour une  durée maximale de quatre mois par le président du Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel, sur  proposition du président de la juridiction à laquelle est
+affecté le  magistrat ou du président de la mission d'inspection des juridictions  administratives. Cette suspension
+n'entraîne pas privation du droit au  traitement. Elle ne peut être rendue publique. 
+
+L'intéressé a, dès le prononcé de la mesure de suspension, droit à la  communication intégrale de son dossier et de tous les
+documents annexés.  
+
+La demande de suspension vaut saisine de l'autorité disciplinaire compétente.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 5 de l'ordonnance n° 2016-1366 du 13 octobre 2016, le Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel est installé dans la composition prévue par l'article L. 232-4 tel
+que modifié par ladite ordonnance au plus tard neuf mois après la publication de celle-ci. 
+
+Ces dispositions entrent en vigueur à la date de cette installation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2016-1366 du 13 octobre 2016 - art. 4
 
 
 ## Livre III : La compétence
@@ -8001,39 +8522,55 @@ peuvent être affectés auprès de la mission d'inspection des juridictions admi
 ###### Article R112-2
 
 Saisi par toute partie qui fait état de la durée excessive d'une procédure engagée devant un tribunal administratif ou une
-cour administrative d'appel, le chef de la mission permanente d'inspection des juridictions administratives a la faculté de
+cour administrative d'appel, le    président de la mission d'inspection des juridictions administratives a la faculté de
 faire des recommandations visant à remédier à cette situation.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ###### Article R112-3
 
-Le chef de la mission permanente d'inspection des juridictions administratives est destinataire des décisions administratives
-ou juridictionnelles allouant une indemnité en réparation du préjudice causé par une durée excessive de procédure devant les
-juridictions administratives.
+Le    président de la mission d'inspection des juridictions administratives est destinataire des décisions administratives ou
+juridictionnelles allouant une indemnité en réparation du préjudice causé par une durée excessive de procédure devant les
+juridictions administratives. 
 
 Il avise le président du tribunal administratif ou de la cour administrative d'appel dont le fonctionnement a été mis en
 cause. Il peut faire des recommandations visant à remédier à cette situation et saisir l'autorité compétente de toute
 proposition de mesure en ce sens.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1586 du 19 décembre 2005 - art. 1 () JORF 20 décembre 2005
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 #### Chapitre III : L'avis sur une question de droit
@@ -8333,26 +8870,30 @@ tableau, sauf les cas prévus aux articles R. 122-21 et R. 123-23.
 ###### Article R121-9
 
 Sous l'autorité du vice-président, le secrétaire général dirige les services du Conseil d'Etat et prend les mesures
-nécessaires à la préparation de ses travaux, à leur organisation et à la gestion du corps des membres des tribunaux
-administratifs et des cours administratives d'appel.
+nécessaires à la préparation de ses travaux, à leur organisation et à la gestion du corps des          magistrats des
+tribunaux administratifs et des cours administratives d'appel. 
 
 Le secrétaire général du Conseil d'Etat est nommé par décret du Président de la République, sur la proposition du garde des
 sceaux, ministre de la justice. Le vice-président du Conseil d'Etat est appelé à faire les présentations après avis des
 présidents de section. Le secrétaire général est choisi parmi les conseillers d'Etat et les maîtres des requêtes.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°63-766 du 30 juillet 1963 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ###### Article R121-10
@@ -8370,23 +8911,31 @@ des fonctions de secrétaire général adjoint par arrêté du vice-président.
 ###### Article R121-11
 
 Le secrétaire général et les secrétaires généraux adjoints assistent le vice-président du Conseil d'Etat dans l'exercice de
-ses attributions de gestion du corps des tribunaux administratifs et des cours administratives d'appel. Ils peuvent recevoir
-délégation du vice-président pour signer tous actes et arrêtés concernant la gestion administrative et budgétaire du Conseil
-d'Etat.
+ses attributions de gestion du          corps des magistrats des tribunaux administratifs et des cours administratives
+d'appel. Ils peuvent recevoir délégation du vice-président pour signer tous actes et arrêtés concernant la gestion
+administrative et budgétaire du Conseil d'Etat. 
 
 Délégation peut également être donnée, aux mêmes fins, aux chefs de service du Conseil d'Etat et aux fonctionnaires du
 secrétariat général appartenant à un corps de catégorie A ainsi qu'aux agents contractuels chargés de fonctions d'un niveau
-équivalent.
+équivalent. 
 
 Délégation peut en outre être donnée aux autres agents en fonction au Conseil d'Etat à l'effet de signer, sous la
 responsabilité des personnes mentionnées aux deux premiers alinéas, toute pièce relative aux dépenses et aux ordres de
 recettes.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1710 du 30 décembre 2010 - art. 1
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ###### Article R121-12
@@ -10809,8 +11358,16 @@ tribunaux administratifs et des cours administratives d'appel ayant le grade   d
 ###### Article R*133-7
 
 Peuvent être nommés conseillers d'Etat pour exercer les fonctions de président de cour administrative d'appel ou de la Cour
-nationale du droit d'asile les membres du corps des tribunaux administratifs et des cours administratives d'appel remplissant
-les conditions définies aux articles L. 133-3 et R. * 133-3.
+nationale du droit d'asile les            magistrats des tribunaux administratifs et des cours administratives d'appel
+remplissant les conditions définies aux articles L. 133-3 et R. * 133-3.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -10820,12 +11377,12 @@ les conditions définies aux articles L. 133-3 et R. * 133-3.
 
 	**Modifié par**:
 
-	  - Décret n°2015-426 du 15 avril 2015 - art. 1
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cite**:
 
 	  - Code de justice administrative - art. L133-3
-	  - Code de justice administrative - art. R*133-3 (V)
+	  - Code de justice administrative - art. R*133-3
 
 	**Cité par**:
 
@@ -10855,15 +11412,23 @@ premier alinéa de l'article L. 133-8.
 
 ###### Article R*133-9
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel appelés à exercer les fonctions de
-président d'une cour administrative d'appel ou de la Cour nationale du droit d'asile sont nommés au grade de conseiller
+Les            magistrats des tribunaux administratifs et des cours administratives d'appel appelés à exercer les fonctions
+de président d'une cour administrative d'appel ou de la Cour nationale du droit d'asile sont nommés au grade de conseiller
 d'Etat, hors tour.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-426 du 15 avril 2015 - art. 1
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ##### Section 3 : Dispositions relatives aux maîtres des requêtes en service extraordinaire
@@ -12709,16 +13274,24 @@ questions concernant l'organisation et le fonctionnement de la juridiction qu'il
 
 ###### Article R222-7
 
-Pour la détermination de l'ordre du tableau, dans chaque grade du corps des tribunaux administratifs et des cours
-administratives d'appel, seule est prise en considération la date de nomination à ce grade ; en cas de nomination à la même
-date, la préséance revient au plus âgé. Dans les cours administratives d'appel, le premier vice-président a préséance sur les
-présidents de chambre et les présidents de chambre ont préséance sur les assesseurs. Au tribunal administratif de Paris, le
-vice-président et les présidents de section ont préséance sur les présidents de chambre. Dans les tribunaux administratifs
-dotés d'un premier vice-président, celui-ci a préséance sur les présidents de chambre.
+Pour la détermination de l'ordre du tableau, dans chaque grade du          corps des magistrats des tribunaux administratifs
+et des cours administratives d'appel, seule est prise en considération la date de nomination à ce grade ; en cas de
+nomination à la même date, la préséance revient au plus âgé. Dans les cours administratives d'appel, le premier vice-
+président a préséance sur les présidents de chambre et les présidents de chambre ont préséance sur les assesseurs. Au
+tribunal administratif de Paris, le vice-président et les présidents de section ont préséance sur les présidents de chambre.
+Dans les tribunaux administratifs dotés d'un premier vice-président, celui-ci a préséance sur les présidents de chambre. 
 
-Toutefois, les membres du corps des tribunaux administratifs et des cours administratives d'appel nommés dans leur grade à la
-suite du reclassement intervenu au 1er janvier 1998 prennent place au tableau en fonction du grade qu'ils détenaient
-antérieurement et de la date à laquelle ils y avaient été nommés.
+Toutefois, les magistrats des tribunaux administratifs et des cours administratives d'appel nommés dans leur grade à la suite
+du reclassement intervenu au 1er janvier 1998 prennent place au tableau en fonction du grade qu'ils détenaient antérieurement
+et de la date à laquelle ils y avaient été nommés.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -12728,7 +13301,7 @@ antérieurement et de la date à laquelle ils y avaient été nommés.
 
 	**Modifié par**:
 
-	  - Décret n°2013-730 du 13 août 2013 - art. 11
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ###### Article R222-8
@@ -12745,49 +13318,57 @@ ces chambres sont décidées par le président de la juridiction.
 
 ###### Article R222-9
 
-Le président fait connaître au Conseil supérieur des tribunaux administratifs et des cours administratives d'appel son avis
-sur l'avancement des membres de la juridiction qu'il préside.
+Le président fait connaître au           Conseil supérieur des tribunaux administratifs et cours administratives d'appel son
+avis sur l'avancement des membres de la juridiction qu'il préside. 
 
 Il formule ses propositions sur la nomination et l'avancement du personnel des greffes affecté dans sa juridiction.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2007-1309 du 4 septembre 2007 - art. 2 () JORF 6 septembre 2007
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R14 (M)
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ###### Article R222-10
 
-Chaque année, avant le 1er février, le président adresse au vice-président du Conseil d'Etat, président du Conseil supérieur
-des tribunaux administratifs et des cours administratives d'appel, un compte rendu relatif au fonctionnement des services de
-la juridiction qu'il préside pendant l'année écoulée, avec une statistique des affaires jugées et une statistique des
-affaires en instance.
+Chaque année, avant le 1er février, le président adresse au vice-président du Conseil d'Etat, président du           Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel, un compte rendu relatif au fonctionnement des
+services de la juridiction qu'il préside pendant l'année écoulée, avec une statistique des affaires jugées et une statistique
+des affaires en instance. 
 
 Le président joint à ce rapport toutes observations utiles au sujet des questions d'intérêt général se rapportant aux travaux
 de la juridiction qu'il préside.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Anciens textes**:
-
-	  - Code des tribunaux administratifs et des cours adm - art. R15 (Ab)
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ###### Article R222-11
@@ -13181,11 +13762,19 @@ le vice-président de section ou, à défaut, par le magistrat de cette section 
 
 Dans chaque tribunal administratif, selon ses besoins, un ou plusieurs premiers conseillers ou conseillers sont chargés, par
 arrêté du vice-président du Conseil d'Etat pris sur proposition du président de la juridiction et après avis conforme du
-Conseil supérieur des tribunaux administratifs et des cours administratives d'appel, d'exercer les fonctions de  rapporteur
+Conseil supérieur des tribunaux administratifs et cours administratives d'appel, d'exercer les fonctions de rapporteur
 public. 
 
 Lorsque le fonctionnement du tribunal administratif l'exige, un premier conseiller ou conseiller qui exerce les fonctions de
 rapporteur public peut être rapporteur dans les affaires sur lesquelles il n'est pas ou n'a pas été appelé à conclure.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -13196,7 +13785,7 @@ rapporteur public peut être rapporteur dans les affaires sur lesquelles il n'es
 
 	**Modifié par**:
 
-	  - Décret n°2009-14 du 7 janvier 2009 - art. 1
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ###### Article R222-24
@@ -14724,26 +15313,30 @@ administratif de la Guadeloupe.
 ###### Article R227-1
 
 Les assistants de justice recrutés en application de l'article L. 227-1 apportent leur concours aux travaux préparatoires
-réalisés par les membres du corps des tribunaux administratifs et des cours administratives d'appel pour l'exercice de leurs
-attributions.
+réalisés par les            magistrats des tribunaux administratifs et des cours administratives d'appel pour l'exercice de
+leurs attributions.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 2 () JORF 21 décembre 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L227-1 (V)
+	  - Code de justice administrative - art. L227-1
 
 
 ###### Article R227-2
@@ -14970,8 +15563,16 @@ Le nombre de vacations horaires allouées à un même bénéficiaire ne peut exc
 
 ###### Article R231-1
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel exercent leurs fonctions de magistrats
-administratifs au sein de ces juridictions ou à la Cour nationale du droit d'asile.
+Les            magistrats des tribunaux administratifs et des cours administratives d'appel exercent leurs fonctions de
+magistrats administratifs au sein de ces juridictions ou à la Cour nationale du droit d'asile.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -14981,11 +15582,11 @@ administratifs au sein de ces juridictions ou à la Cour nationale du droit d'as
 
 	**Modifié par**:
 
-	  - Décret n°2015-1145 du 15 septembre 2015 - art. 12
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cité par**:
 
-	  - Code de justice administrative. - art. R237-2 (V)
+	  - Code de justice administrative - art. R237-2 (VD)
 
 
 ###### Article R231-2
@@ -15002,18 +15603,26 @@ tribunaux administratifs ou dans les cours administratives d'appel.
 
 ###### Article R231-3
 
-Le vice-président du Conseil d'Etat assure la gestion du corps des tribunaux administratifs et des cours administratives
-d'appel.
+Le vice-président du Conseil d'Etat assure la gestion du          corps des magistrats des tribunaux administratifs et des
+cours administratives d'appel. 
 
 Il peut déléguer sa signature au secrétaire général et aux secrétaires généraux adjoints du Conseil d'Etat. Délégation peut
 également être donnée aux chefs de service du Conseil d'Etat et aux fonctionnaires du secrétariat général appartenant à un
 corps de catégorie A ainsi qu'aux agents contractuels chargés de fonctions d'un niveau équivalent.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 26
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 
 ###### Article R231-4
@@ -15242,61 +15851,6 @@ instances siégeant en formation disciplinaire, à l'autorité judiciaire ou au 
 #### Chapitre II : Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel
 
 ##### Section 2 : Composition du Conseil supérieur
-
-###### Article R232-17
-
-Si, avant l'expiration de son mandat, l'un des représentants titulaires du corps des tribunaux administratifs et des cours
-administratives d'appel démissionne ou se trouve dans l'impossibilité d'exercer son mandat ou si le conseil supérieur
-constate qu'il cesse de remplir les conditions requises pour être éligible, il est remplacé par son suppléant. Au cas où,
-pour l'une des causes mentionnées ci-dessus, ce dernier ne peut exercer son mandat, le remplacement est assuré, si cela est
-possible, par l'autre candidat présenté par la même liste, en qualité de titulaire, pour le grade considéré, et qui n'avait
-pas été initialement choisi pour siéger, ou, à défaut, par son suppléant. Si un tel remplacement n'est pas possible, il est
-procédé à une élection complémentaire dans un délai de deux mois. Le représentant désigné ou élu dans ces conditions achève
-le mandat de celui qu'il remplace.
-
-Le remplacement du suppléant d'un titulaire peut également être assuré dans les mêmes conditions, en recourant, si cela est
-possible, à l'autre candidat présenté par la même liste, en qualité de titulaire, pour le grade considéré, ou, à défaut, à
-son suppléant.
-
-Si, en cours de mandat, un représentant élu fait l'objet d'une promotion de grade, il continue à représenter le grade pour
-lequel il a été élu.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-164 du 22 février 2010 - art. 23
-
-
-###### Article R232-18
-
-Les personnalités nommées en application du 6° de l'article L. 232-2 doivent être désignées quinze jours au moins avant la
-date normale d'expiration du mandat de leurs prédécesseurs. En cas de vacance, il est pourvu au remplacement de la
-personnalité dans le délai de trois mois.
-
-Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel constate, le cas échéant, la démission
-d'office de celle des personnalités qui viendrait à exercer un mandat électif incompatible avec sa qualité de membre du
-conseil ou qui serait privée de la jouissance de ses droits civils et politiques. Il est pourvu, dans ce cas, à la
-désignation d'un remplaçant dans le délai de trois mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 16 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. L232-2 (M)
-
 
 ##### Sous-section 1 : Election du représentant des chefs de juridiction 
 
@@ -15694,50 +16248,161 @@ jours précité.
 	  - DEPLACE: Décret n°2017-451 du 30 mars 2017 - art. 2
 
 
+###### Article R232-17
+
+Si, avant l'expiration de son mandat, l'un des représentants titulaires du          corps des magistrats des tribunaux
+administratifs et des cours administratives d'appel démissionne ou se trouve dans l'impossibilité d'exercer son mandat ou si
+le conseil supérieur constate qu'il cesse de remplir les conditions requises pour être éligible, il est remplacé par son
+suppléant. Au cas où, pour l'une des causes mentionnées ci-dessus, ce dernier ne peut exercer son mandat, le remplacement est
+assuré, si cela est possible, par l'autre candidat présenté par la même liste, en qualité de titulaire, pour le grade
+considéré, et qui n'avait pas été initialement choisi pour siéger, ou, à défaut, par son suppléant. 
+
+Si un tel remplacement n'est pas possible, et si le suppléant cesse d'exercer son mandat plus de six mois avant son terme
+normal, il est procédé à une élection complémentaire dans un délai de deux mois. Le représentant désigné ou élu dans ces
+conditions achève le mandat de celui qu'il remplace. 
+
+Le remplacement du suppléant d'un titulaire peut également être assuré dans les mêmes conditions, en recourant, si cela est
+possible, à l'autre candidat présenté par la même liste, en qualité de titulaire, pour le grade considéré, ou, à défaut, à
+son suppléant. 
+
+Si, en cours de mandat, un représentant élu fait l'objet d'une promotion de grade, il continue à représenter le grade pour
+lequel il a été élu.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
+
+
+##### Sous-section 3 :  Désignation des personnalités qualifiées 
+
+###### Article R232-18
+
+Les personnalités nommées en application du 6° de l'article L. 232-4 doivent être désignées quinze jours au moins avant la
+date normale d'expiration du mandat de leurs prédécesseurs.
+
+Le Conseil supérieur des tribunaux administratifs et des cours administratives d'appel constate, le cas échéant, la démission
+d'office de celle des personnalités qui viendrait à exercer un mandat électif incompatible avec sa qualité de membre du
+conseil ou qui serait privée de la jouissance de ses droits civils et politiques.
+
+Si cette vacance ou cette démission d'office intervient plus de six mois avant le terme normal du mandat, il est pourvu au
+remplacement de la personnalité dans le délai de trois mois. La personnalité qualifiée alors désignée achève le mandat de
+celle qu'elle remplace.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L232-2
+
+
+##### Sous-section 4 : Règles de suppléance
+
+###### Article R232-18-1
+
+Le président de la mission d'inspection des juridictions administratives est suppléé par un conseiller d'Etat désigné par le
+vice-président.
+
+Le secrétaire général adjoint du Conseil d'Etat chargé des tribunaux administratifs et des cours administratives d'appel
+assure la suppléance du secrétaire général du Conseil d'Etat en cas d'empêchement de celui-ci ou dans l'hypothèse où celui-ci
+est amené à présider le Conseil supérieur en application de l'article L. 232-5.
+
+Le suppléant du directeur chargé au ministère de la justice des services judiciaires est désigné par le garde des sceaux,
+ministre de la justice.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
 ##### Section 3 : Fonctionnement du Conseil supérieur
 
 ###### Article R232-19
 
 La première réunion du Conseil supérieur intervient dans le mois suivant la proclamation des résultats de l'élection des
-représentants du personnel.
+représentants des magistrats et du représentant des chefs de juridiction.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 17 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
 
 ###### Article R232-20
 
 Le Conseil supérieur se réunit sur convocation de son président à l'initiative de ce dernier, du ministre de la justice ou à
-la demande écrite d'au moins trois des cinq membres élus et, dans ce cas, dans le délai de deux mois à compter de cette
-demande.
+la demande écrite d'au moins trois des cinq représentants des magistrats et, dans ce cas, dans le délai de deux mois à
+compter de cette demande.
 
 L'acte portant convocation fixe l'ordre du jour. Les questions entrant dans la compétence du Conseil supérieur dont l'examen
-est demandé par au moins trois représentants du personnel sont inscrites à l'ordre du jour.
+est demandé par au moins deux représentants des magistrats sont inscrites à l'ordre du jour.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 18 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
 
 ###### Article R232-20-1
@@ -15758,87 +16423,97 @@ sur le même ordre du jour quel que soit le nombre de membres présents.
 
 I.-A titre exceptionnel, les membres du Conseil supérieur peuvent, en cas d'urgence née de l'impossibilité de réunir le
 quorum dans un délai utile, être consultés à distance, par visioconférence, pour émettre un avis sur un projet dont le
-conseil est saisi par le Gouvernement. 
+conseil est saisi par le Gouvernement.
 
-Le projet, auquel sont jointes toutes pièces utiles ainsi que la justification de l'urgence, leur est communiqué, par
-correspondance écrite ou électronique, au moins sept jours avant la date à laquelle il leur appartient de se prononcer. 
+En cas d'impossibilité avérée de recourir à la visioconférence, les membres du Conseil supérieur peuvent également être
+consultés par conférence téléphonique ou, à défaut, par correspondance électronique. Les observations émises sur le projet
+par l'un des membres sont immédiatement communiquées aux autres membres.
 
-Les modalités de la consultation doivent préserver la collégialité des débats. 
+II.-Le projet, auquel sont jointes toutes pièces utiles ainsi que la justification de l'urgence, leur est communiqué, par
+tous moyens, notamment par correspondance électronique, dans les meilleurs délais.
 
-II.-En cas d'impossibilité avérée de recourir à la visioconférence, les membres du Conseil supérieur peuvent, sous les mêmes
-conditions, être individuellement consultés par écrit. Les observations émises sur le projet par l'un des membres sont
-immédiatement communiquées aux autres membres. 
-
-Tout membre du Conseil supérieur peut s'opposer à ce mode de consultation, auquel cas il est mis un terme à la procédure et
-le Conseil supérieur est convoqué pour délibérer. 
+Les modalités de la consultation doivent préserver la collégialité des débats.
 
 III.-L'avis est régulièrement émis si au moins neuf membres ont pris part à la procédure et, dans le cas d'une consultation
-écrite, ont fait part de leur vote dans le délai fixé par le président. 
+électronique, ont fait part de leur vote dans le délai fixé par le président.
 
-Les membres du Conseil supérieur sont informés de la teneur de l'avis et du résultat du vote. 
+Les membres du Conseil supérieur sont informés de la teneur de l'avis et du résultat du vote.
 
 Un procès-verbal est établi, à l'issue de cette consultation, par les soins du secrétaire général des tribunaux
-administratifs et des cours administratives d'appel. 
+administratifs et des cours administratives d'appel.
 
 Il est signé et communiqué dans les conditions prévues par l'article R. 232-25.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Créé par**:
-
-	  - Décret n°2011-1950 du 23 décembre 2011 - art. 12
-
-	**Cite**:
-
-	  - Code de justice administrative - art. R232-25 (V)
-
-
-###### Article R232-21
-
-Les membres du Conseil supérieur ainsi que les personnes qui, à un titre quelconque, assistent aux délibérations sont soumis
-à l'obligation de discrétion professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 19 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-22
-
-Le président du Conseil supérieur désigne pour chaque affaire un rapporteur qui peut être le secrétaire général des tribunaux
-administratifs et des cours administratives d'appel ou l'un des membres du conseil. Lorsque le Conseil supérieur émet une
-proposition, le dossier au vu duquel il se prononce comporte l'avis écrit du conseiller d'Etat, chef de la mission permanente
-d'inspection des juridictions administratives. 
-
-Pour élaborer son rapport sur les propositions afférentes aux nominations, détachements et intégrations prévus aux articles
-L. 233-3, L. 233-4 et L. 233-5, le rapporteur peut être assisté par une formation restreinte du Conseil supérieur, laquelle
-peut procéder à toutes les mesures d'instruction utiles, y compris des auditions. Cette formation restreinte est désignée par
-le Conseil supérieur ; elle comprend un ou plusieurs représentants élus des magistrats des tribunaux administratifs et des
-cours administratives d'appel. 
-
-Le secrétaire général adjoint du Conseil d'Etat chargé des tribunaux administratifs et des cours administratives d'appel
-participe aux travaux du Conseil supérieur sans voix délibérative. A l'invitation du président, le Conseil supérieur peut
-entendre les chefs de service du Conseil d'Etat ou leur délégué ainsi que tout expert.
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 24
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - TRANSFERE: Décret n°2017-451 du 30 mars 2017 - art. 2
+	  - Code de justice administrative - art. R232-25
+
+
+###### Article R232-21
+
+Les membres du Conseil supérieur ainsi que les personnes qui, à un titre quelconque, assistent aux délibérations sont soumis
+aux obligations de secret et de discrétion professionnels.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+
+###### Article R232-22
+
+Sous réserve des dispositions de l'article L. 236-5 du présent code, le président du Conseil supérieur désigne pour chaque
+question un rapporteur qui peut être soit le secrétaire général des tribunaux administratifs et des cours administratives
+d'appel, soit l'un des membres du Conseil supérieur. Lorsque le Conseil supérieur prend une décision ou émet une proposition
+sur le fondement de l'article L. 232-1, il se prononce après avoir recueilli l'avis du conseiller d'Etat, président de la
+mission d'inspection des juridictions administratives, si ce dernier n'est pas le rapporteur.
+
+Pour élaborer son rapport sur les propositions afférentes aux nominations, détachements et intégrations prévus aux articles
+L. 233-3, L. 233-4 et L. 233-5, le rapporteur peut être assisté par une formation restreinte du Conseil supérieur, laquelle
+peut procéder à toutes les mesures d'instruction utiles, y compris des auditions. Cette formation restreinte est désignée par
+le Conseil supérieur ; elle comprend un ou plusieurs représentants élus des magistrats des tribunaux administratifs et des
+cours administratives d'appel.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
 	**Cite**:
 
@@ -15846,55 +16521,80 @@ entendre les chefs de service du Conseil d'Etat ou leur délégué ainsi que tou
 	  - Code de justice administrative - art. L233-4
 	  - Code de justice administrative - art. L233-5
 
-	**Nouveaux textes**:
 
-	  - Code de justice administrative - art. R232-22-1 (VD)
+###### Article R232-22-1
+
+Le secrétaire général adjoint du Conseil d'Etat chargé des tribunaux administratifs et des cours administratives d'appel
+participe aux travaux du Conseil supérieur sans voix délibérative. A l'invitation du président, le Conseil supérieur peut
+entendre les chefs de service du Conseil d'Etat ou leur délégué ainsi que tout expert.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de justice administrative - art. R232-22 (VT)
 
 
 ###### Article R232-23
 
 Lorsque la situation de l'un des membres élus du Conseil supérieur est susceptible d'être évoquée à l'occasion de l'examen
-d'une question figurant à l'ordre du jour, le magistrat intéressé ne participe pas à la réunion.
+d'une question figurant à l'ordre du jour, le magistrat intéressé ne participe pas à l'examen de cette question.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 21 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2002-1472 du 20 décembre 2002 - art. 7 () JORF 21 décembre 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
 
 ###### Article R232-24
 
-Le Conseil supérieur émet ses avis et ses propositions à la majorité des suffrages exprimés.
+Le Conseil supérieur prend ses décisions et émet ses avis et ses propositions à la majorité des suffrages exprimés.
 
 Pour les affaires individuelles, le vote a lieu à bulletin secret si l'un des membres le réclame. Le vote à bulletin secret
 est de droit en matière disciplinaire.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 22 (M)
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
 
 ###### Article R232-25
@@ -15902,22 +16602,25 @@ est de droit en matière disciplinaire.
 Un procès-verbal est établi après chaque séance du Conseil supérieur, par les soins du secrétaire général des tribunaux
 administratifs et des cours administratives d'appel. Il est signé par le secrétaire général et par le président.
 
-Le ministre de la justice est immédiatement informé des propositions et avis émis par le Conseil supérieur par son président.
-Le procès-verbal des délibérations lui est communiqué dès sa signature.
+Le procès-verbal des délibérations est communiqué dès sa signature au ministre de la justice.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 23 (M)
-
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
 	**Cité par**:
 
@@ -15930,83 +16633,50 @@ Les membres du Conseil supérieur ne perçoivent aucune indemnité du fait de le
 ils sont indemnisés de leurs frais de déplacement et de séjour dans les conditions fixées par le décret n° 2006-781 du 3
 juillet 2006.
 
+Outre les frais mentionnés à l'alinéa précédent, les personnalités qualifiées perçoivent, pour chaque séance du Conseil
+supérieur ou de la formation restreinte prévue à l'article R. 232-22 à laquelle ils participent, une indemnité forfaitaire
+dont le montant est fixé par arrêté du ministre de la justice et du ministre chargé du budget.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 24 (M)
 
 	**Cite**:
 
-	  - Décret n°90-437 1990-05-28
+	  - Décret n°90-437 du 28 mai 1990
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
 
 ##### Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel
 
 ###### Article R232-27
 
-Le secrétaire général est désigné par décret du Premier ministre sur proposition du Conseil supérieur parmi les membres du
-corps des tribunaux administratifs et des cours administratives d'appel en service dans les tribunaux administratifs et les
-cours administratives d'appel et ayant exercé des fonctions dans un emploi du corps pendant quatre années consécutives.
+Le secrétaire général est désigné par décret du Premier ministre sur proposition du Conseil supérieur parmi les
+magistrats des tribunaux administratifs et des cours administratives d'appel en service dans les tribunaux administratifs et
+les cours administratives d'appel et ayant exercé des fonctions dans un emploi du corps pendant quatre années consécutives. 
 
 Il ne peut être mis fin à ses fonctions, sans son accord, que sur proposition du Conseil supérieur.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Anciens textes**:
-
-	  - Décret n°87-554 du 17 juillet 1987 - art. 25 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-
-###### Article R232-28
-
-Le secrétaire général exerce les missions prévues à l'article L. 232-5. 
-
-A cet effet : 
-
-1° Il prépare l'ordre du jour des séances et la convocation du Conseil supérieur. Il informe le Conseil supérieur de la suite
-réservée à ses avis et propositions ; 
-
-2° Il définit les actions de formation à entreprendre au profit des personnels des greffes des tribunaux et des cours et en
-suit la mise en oeuvre ; 
-
-3° Il participe à la détermination des besoins des tribunaux et des cours en matériel, en moyens techniques et en
-documentation et à la définition des modalités de répartition des moyens correspondants, compte tenu, notamment, des crédits
-budgétaires disponibles ; 
-
-4° Il participe à la définition des règles générales d'organisation et de fonctionnement des greffes des tribunaux et des
-cours et en suit la mise en oeuvre ; 
-
-5° Il participe avec voix consultative aux commissions administratives paritaires nationales des corps de l'intérieur et de
-l'outre-mer lorsque l'ordre du jour appelle l'examen de questions intéressant la situation administrative des fonctionnaires
-de ces corps affectés dans un greffe de tribunal ou de cour ; 
-
-6° Il participe avec voix consultative aux comités techniques centraux du ministère de l'intérieur lorsque l'ordre du jour
-appelle l'examen de questions intéressant les personnels affectés dans les greffes des tribunaux administratifs et des cours
-administratives d'appel ; 
-
-7° Il réalise, à la demande du Conseil supérieur ou de son président, toutes études relatives à l'organisation et au
-fonctionnement des tribunaux et des cours ou à la procédure suivie devant eux ; 
-
-8° Il rend compte périodiquement de l'exécution de ses missions au Conseil supérieur. 
-
-Il peut se faire représenter pour l'exercice des attributions mentionnées aux 5° et 6°.
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -16016,7 +16686,61 @@ Il peut se faire représenter pour l'exercice des attributions mentionnées aux 
 
 	**Modifié par**:
 
-	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
+
+
+###### Article R232-28
+
+Le secrétaire général exerce les missions prévues à l'article L. 232-7.
+
+A cet effet :
+
+1° Il prépare l'ordre du jour des séances et la convocation du Conseil supérieur. Il informe le Conseil supérieur de la suite
+réservée à ses avis et propositions ;
+
+2° Il participe à la détermination des besoins des tribunaux et des cours et à la définition des modalités de répartition des
+moyens correspondants, compte tenu, notamment, des crédits budgétaires disponibles ;
+
+3° Il participe à la définition des règles générales d'organisation et de fonctionnement des tribunaux et des cours et en
+suit la mise en œuvre ;
+
+4° Il participe à la définition des actions de formation organisées par le Conseil d'Etat au profit des magistrats
+administratifs et des personnels des greffes des tribunaux et des cours et en suit la mise en œuvre ;
+
+5° Il participe avec voix consultative aux commissions administratives paritaires nationales des corps de l'intérieur et de
+l'outre-mer lorsque l'ordre du jour appelle l'examen de questions intéressant la situation administrative des fonctionnaires
+de ces corps affectés dans un greffe de tribunal ou de cour ;
+
+6° Il participe avec voix consultative aux comités techniques centraux du ministère de l'intérieur lorsque l'ordre du jour
+appelle l'examen de questions intéressant les personnels affectés dans les greffes des tribunaux administratifs et des cours
+administratives d'appel ;
+
+7° Il réalise, à la demande du Conseil supérieur ou de son président, toutes études relatives à l'organisation et au
+fonctionnement des tribunaux et des cours ou à la procédure suivie devant eux.
+
+Il peut, sur délégation du secrétaire général du Conseil d'Etat, présider le comité technique spécial des personnels affectés
+dans les greffes des tribunaux administratifs et des cours administratives d'appel et le comité d'hygiène, de sécurité et des
+conditions de travail spécial des tribunaux administratifs et des cours administratives d'appel.
+
+Il peut se faire représenter pour l'exercice des attributions mentionnées aux 5° et 6°.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 2
 
 	**Cite**:
 
@@ -16052,21 +16776,29 @@ ministère de l'intérieur.
 	  - Code de justice administrative. - art. R232-28 (M)
 
 
+#### Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel
+
+##### Section 2 : Composition du Conseil supérieur
+
+##### Section 3 : Fonctionnement du Conseil supérieur
+
+##### Section 4 : Le secrétaire général des tribunaux administratifs et des cours administratives d'appel
+
 #### Chapitre III : Nomination et recrutement
 
 ##### Section 1 : Dispositions générales
 
 ###### Article R233-1
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel recrutés au grade de conseiller parmi
-les anciens élèves de l'Ecole nationale d'administration sont nommés directement au 3e échelon de ce grade et titularisés à
-compter du lendemain du dernier jour de leur scolarité. 
+Les magistrats des tribunaux administratifs et des cours administratives d'appel recrutés parmi les anciens élèves de l'Ecole
+nationale d'administration sont nommés directement au 3e échelon du grade de conseiller et titularisés à compter du lendemain
+du dernier jour de leur scolarité. 
 
 Toutefois, si l'indice qu'ils détenaient dans leur corps ou emploi d'origine est supérieur à celui correspondant au 3e
-échelon du grade de conseiller, les membres des tribunaux administratifs et des cours administratives d'appel recrutés par la
-voie des concours interne et externe de cette école sont placés à l'échelon du grade de conseiller comportant un traitement
-égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine ou dans leur emploi pour
-les agents non titulaires. 
+échelon du grade de conseiller, les          magistrats des tribunaux administratifs et des cours administratives d'appel
+recrutés par la voie des concours interne et externe de cette école sont placés à l'échelon du grade de conseiller comportant
+un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine ou dans
+leur emploi pour les agents non titulaires. 
 
 Dans la limite de l'ancienneté exigée à l'article R. 234-1 pour une promotion à l'échelon supérieur, ils conservent
 l'ancienneté d'échelon acquise dans leur précédent grade ou classe, lorsque l'augmentation de traitement consécutive à leur
@@ -16078,6 +16810,14 @@ est inférieure à celle résultant d'un avancement à ce dernier échelon.
 
 Ceux qui ont été recrutés par la voie du troisième concours sont placés au 7e échelon du grade de conseiller.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -16087,71 +16827,12 @@ Ceux qui ont été recrutés par la voie du troisième concours sont placés au 
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 52 (V)
+	  - Décret n°2017-451 du 30 mars 2017 - art. 3
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de justice administrative - art. R234-1
-
-
-###### Article R233-2
-
-Avant leur première entrée en fonctions, les premiers conseillers et les conseillers, quel que soit leur recrutement,
-reçoivent au Conseil d'Etat une formation complémentaire de six mois dont la durée est comptée comme services effectifs dans
-le corps des tribunaux administratifs et des cours administratives d'appel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°97-859 du 18 septembre 1997 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Cité par**:
-
-	  - Arrêté du 1 juin 2004 - art. 6 (V)
-	  - Arrêté du 5 juillet 2004 - art. 2 (V)
-	  - Décret n°2004-675 du 5 juillet 2004 - art. 1 (V)
-	  - Code de justice administrative - art. R233-8 (VD)
-
-	**Modifié par**:
-
-	  - Décret n°2005-310 du 25 mars 2005 - art. 4 () JORF 3 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2017-451 du 30 mars 2017 - art. 3
-
-
-###### Article R233-3
-
-Les affectations et changements d'affectation sont prononcés par arrêté du ministre de la justice qui peut déléguer ces
-attributions au vice-président du Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°97-859 du 18 septembre 1997 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
-
-	**Abrogé par**:
-
-	  - Décret n°2017-451 du 30 mars 2017 - art. 3
+	  - Code de justice administrative - art. R234-1 (VD)
 
 
 ##### Section 2 : Nomination au tour extérieur
@@ -16208,22 +16889,31 @@ entier, la décimale est ajoutée au nombre calculé au titre de l'année suivan
 
 ###### Article R233-6
 
-Les magistrats et fonctionnaires recrutés au tour extérieur en qualité de membres du corps des tribunaux administratifs et
-des cours administratives d'appel sont nommés et titularisés dans leur grade à l'échelon comportant un indice égal ou, à
-défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur ancien grade. Les services effectifs et l'ancienneté
-d'échelon sont décomptés à partir de la date de nomination des intéressés dans le corps des tribunaux administratifs et des
-cours administratives d'appel. Ceux qui percevaient dans leur ancien corps ou cadre d'emplois une rémunération supérieure à
-celle qui est afférente au dernier échelon du grade auquel ils ont été recrutés bénéficient d'une indemnité compensatrice.
+Les magistrats et fonctionnaires recrutés au tour extérieur en qualité de magistrats des tribunaux administratifs et des
+cours administratives d'appel sont nommés et titularisés dans leur grade à l'échelon comportant un indice égal ou, à défaut,
+immédiatement supérieur à celui dont ils bénéficiaient dans leur ancien grade. Les services effectifs et l'ancienneté
+d'échelon sont décomptés à partir de la date de nomination des intéressés dans le          corps des magistrats des tribunaux
+administratifs et des cours administratives d'appel. Ceux qui percevaient dans leur ancien corps ou cadre d'emplois une
+rémunération supérieure à celle qui est afférente au dernier échelon du grade auquel ils ont été recrutés bénéficient d'une
+indemnité compensatrice.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2005-1706 du 28 décembre 2005 - art. 2 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -16235,60 +16925,19 @@ celle qui est afférente au dernier échelon du grade auquel ils ont été recru
 
 ###### Article R233-7
 
-Les magistrats et fonctionnaires détachés dans le corps des tribunaux administratifs et des cours administratives d'appel le
-sont à grade équivalent et à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils
-détenaient dans leur corps d'origine. Ils conservent l'ancienneté d'échelon acquise dans leur grade ou classe d'origine dans
-les conditions prévues aux troisième et quatrième alinéas de l'article R. 233-1. Ils concourent pour l'avancement de grade et
-d'échelon avec les membres du corps.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2007-1345 du 13 septembre 2007 - art. 2 () JORF 14 septembre 2007
-
-	**Cite**:
-
-	  - Code de justice administrative. - art. R233-1 (M)
-
-	**Cité par**:
-
-	  - Code de justice administrative. - art. R234-3 (V)
-
-
-##### Section 4 : Recrutement direct
-
-###### Article R233-8
-
-L'ouverture des concours prévus par l'article L. 233-6 en vue du recrutement direct des magistrats des tribunaux
-administratifs et des cours administratives d'appel donne lieu à une publicité, notamment par la voie du Journal officiel de
-la République française, au moins un mois avant la date des épreuves écrites. Cette publicité indique la date des épreuves
-écrites, la date limite et le lieu de dépôt des candidatures. 
-
-Le nombre total des places et leur répartition entre le concours externe et le concours interne sont fixés par arrêté du
-vice-président du Conseil d'Etat. Le nombre des places offertes à chaque concours est au plus égal à 60 % du nombre total de
-places. 
-
-Pour chaque concours, le jury peut ne pas pourvoir à toutes les places offertes. Toutefois, le jury peut, dans une proportion
-qui n'excède pas 20 % du nombre total de places offertes à l'un des concours, reporter les places auxquelles il n'a pas été
-pourvu au titre de l'autre concours. 
-
-Le jury établit, par ordre de mérite, dans la limite des places offertes et compte tenu, le cas échéant, du report opéré dans
-les conditions prévues à l'alinéa précédent, la liste des candidats admis à chacun des deux concours. 
-
-Le jury peut, pour chacun des concours, établir, par ordre de mérite, une liste complémentaire, pour le cas où des vacances
-résultant de démissions ou de décès viendraient à se produire sur la liste principale du même concours. Cette liste reste
-valable jusqu'au début de la formation complémentaire prévue par l'article R. 233-2.
+Les magistrats et fonctionnaires détachés dans le          corps des magistrats des tribunaux administratifs et des cours
+administratives d'appel le sont à grade équivalent et à l'échelon comportant un indice égal ou, à défaut, immédiatement
+supérieur à celui qu'ils détenaient dans leur corps d'origine. Ils conservent l'ancienneté d'échelon acquise dans leur grade
+ou classe d'origine dans les conditions prévues aux troisième et quatrième alinéas de l'article R. 233-1. Ils concourent pour
+l'avancement de grade et d'échelon avec les membres du corps.
 
 **Nota:**
 
-Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
-recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
-janvier 2013.
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -16298,21 +16947,72 @@ janvier 2013.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
+
+	**Cite**:
+
+	  - Code de justice administrative - art. R233-1
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R234-3 (VD)
+
+
+##### Section 4 : Recrutement direct
+
+###### Article R233-8
+
+L'ouverture des concours prévus par l'article L. 233-6 en vue du recrutement direct des magistrats des tribunaux
+administratifs et des cours administratives d'appel donne lieu à une publicité, notamment par la voie du Journal officiel de
+la République française, au moins un mois avant la date des épreuves écrites. Cette publicité indique la date des épreuves
+écrites, la date limite et le lieu de dépôt des candidatures.
+
+Le nombre total des places et leur répartition entre le concours externe et le concours interne sont fixés par arrêté du
+vice-président du Conseil d'Etat. Le nombre des places offertes à chaque concours est au plus égal à 60 % du nombre total de
+places.
+
+Pour chaque concours, le jury peut ne pas pourvoir à toutes les places offertes. Toutefois, le jury peut, dans une proportion
+qui n'excède pas 20 % du nombre total de places offertes à l'un des concours, reporter les places auxquelles il n'a pas été
+pourvu au titre de l'autre concours.
+
+Le jury établit, par ordre de mérite, dans la limite des places offertes et compte tenu, le cas échéant, du report opéré dans
+les conditions prévues à l'alinéa précédent, la liste des candidats admis à chacun des deux concours.
+
+Le jury peut, pour chacun des concours, établir, par ordre de mérite, une liste complémentaire, pour le cas où des vacances
+résultant de démissions ou de décès viendraient à se produire sur la liste principale du même concours. Cette liste reste
+valable jusqu'au début de la formation initiale prévue par l'article R. 233-15.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 3
 
 	**Cite**:
 
 	  - Code de justice administrative - art. L233-6
-	  - Code de justice administrative - art. R233-2
+	  - Code de justice administrative - art. R233-2 (VT)
 
 
 ###### Article R233-9
 
-Le jury des deux concours est présidé par le chef de la mission permanente d'inspection des juridictions administratives et
+Le jury des deux concours est présidé par le président de la mission d'inspection des juridictions administratives et
 comprend un membre du Conseil d'Etat, deux professeurs des universités, deux magistrats des tribunaux administratifs et des
 cours administratives d'appel nommés par arrêté du vice-président du Conseil d'Etat ainsi qu'un magistrat de l'ordre
 judiciaire désigné par le premier président de la Cour de cassation. Les magistrats des tribunaux administratifs et des cours
-administratives d'appel sont nommés sur proposition du Conseil supérieur des tribunaux administratifs et des cours
+administratives d'appel sont nommés sur proposition du           Conseil supérieur des tribunaux administratifs et cours
 administratives d'appel. 
 
 L'arrêté mentionné à l'alinéa précédent désigne le remplaçant du président dans le cas où celui-ci se trouverait dans
@@ -16326,9 +17026,11 @@ Ces correcteurs assistent aux délibérations du jury avec voix consultative pou
 
 **Nota:**
 
-Décret n° 2012-1088 du 28 septembre 2012 article 5 II : Les présentes dispositions sont applicables aux concours de
-recrutement direct de magistrats des tribunaux administratifs et des cours administratives d'appel ouverts à compter du 1er
-janvier 2013.
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -16338,7 +17040,7 @@ janvier 2013.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1088 du 28 septembre 2012 - art. 5 (V)
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cite**:
 
@@ -16508,7 +17210,94 @@ les conditions fixées à l'article R. 233-6.
 	  - Code de justice administrative - art. R234-1
 
 
-#### Chapitre IV : Avancement
+#### Chapitre III : Nomination, recrutement et formation
+
+##### Section 1 : Dispositions générales
+
+##### Section 2 : Nomination au tour extérieur
+
+##### Section 3 : Recrutement après détachement
+
+##### Section 4 : Recrutement direct
+
+##### Section 6 : Formation
+
+###### Article R233-15
+
+Avant leur première entrée en fonctions dans le corps des magistrats des tribunaux administratifs et des cours
+administratives d'appel, les premiers conseillers et les conseillers, quelle que soit leur voie de recrutement, reçoivent au
+Conseil d'Etat une formation initiale d'une durée maximale de six mois qui est comptée comme services effectifs dans le corps
+des tribunaux administratifs et des cours administratives d'appel.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2004-675 du 5 juillet 2004 - art. 1 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 3
+
+
+###### Article R233-16
+
+Au cours de leur carrière, les magistrats ont droit à une décharge d'activité à raison des journées de formation suivies,
+dans une limite de cinq jours par période allant du 1er septembre au 31 août.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 3
+
+
+###### Article R233-17
+
+Le plan annuel de la formation initiale et de la formation professionnelle continue est arrêté par le vice-président du
+Conseil d'Etat après consultation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel.
+
+Chaque année, un rapport sur l'exécution du plan de formation initiale et continue est présenté au Conseil supérieur des
+tribunaux administratifs et cours administratives d'appel.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail - art. R2212-3 (V)
+
+
+#### Chapitre IV : Affectation, avancement et évaluation
+
+##### Section 2 : Avancement 
 
 ###### Article R234-1
 
@@ -16528,9 +17317,79 @@ pour le premier échelon du grade de président ;
 III. - L'avancement à l'échelon spécial du grade de premier conseiller se fait, dans la limite d'un pourcentage des effectifs
 de ce grade fixé par arrêté conjoint du Premier ministre, du ministre de la justice, du ministre chargé du budget et du
 ministre chargé de la fonction publique, après au moins cinq ans d'ancienneté au 7e échelon et par ordre d'ancienneté dans
-cet échelon. 
+cet échelon.
 
-IV. - L'avancement d'échelon est prononcé par arrêté du vice-président du Conseil d'Etat.
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Cité par**:
+
+	  - Arrêté du 12 mars 2013 - art. 1 (V)
+	  - Code de justice administrative - art. R233-1 (VD)
+	  - Code de justice administrative - art. R233-12 (V)
+	  - Code de justice administrative - art. R233-14 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
+
+
+###### Article R234-2
+
+Peuvent être promus au grade de premier conseiller, dans les conditions prévues aux articles L. 234-2 et L. 234-2-1, les
+conseillers qui ont atteint le 6e échelon de leur grade.
+
+Ils sont classés au 1er échelon du grade de premier conseiller. Les conseillers promus au grade de premier conseiller après
+avoir atteint le 7e échelon de leur ancien grade conservent, dans la limite d'un an, l'ancienneté acquise dans cet échelon.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-389 du 4 mai 2000
+
+	**Cité par**:
+
+	  - Décret n°2005-1706 du 28 décembre 2005 - art. 9 (V)
+	  - Code de justice administrative - art. R234-3 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
+
+
+###### Article R234-3
+
+Pour l'application des articles R. 233-7 et R. 234-2, les services effectifs accomplis dans un autre corps recruté par la
+voie de l'Ecole nationale d'administration sont assimilés à des services effectifs dans le          corps des magistrats des
+tribunaux administratifs et des cours administratives d'appel.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -16540,60 +17399,13 @@ IV. - L'avancement d'échelon est prononcé par arrêté du vice-président du C
 
 	**Modifié par**:
 
-	  - Décret n°2012-724 du 9 mai 2012 - art. 1
-
-	**Cité par**:
-
-	  - Arrêté du 12 mars 2013 - art. 1 (V)
-	  - Code de justice administrative - art. R233-1 (V)
-	  - Code de justice administrative - art. R233-12 (V)
-	  - Code de justice administrative - art. R233-14 (V)
-
-
-###### Article R234-2
-
-Les premiers conseillers sont nommés au choix après inscription au tableau d'avancement parmi les conseillers qui justifient
-de trois années au moins de services effectifs dans le corps et ont atteint le 6e échelon de leur grade.
-
-Ils sont classés au 1er échelon du grade de premier conseiller. Les conseillers promus au grade de premier conseiller après
-avoir atteint le 7e échelon de leur ancien grade conservent, dans la limite d'un an, l'ancienneté acquise dans cet échelon.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Modifié par**:
-
-	  - Décret n°2005-1706 du 28 décembre 2005 - art. 5 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Cité par**:
-
-	  - Décret n°2005-1706 du 28 décembre 2005 - art. 9 (V)
-	  - Code de justice administrative. - art. R234-3 (V)
-
-
-###### Article R234-3
-
-Pour l'application des articles R. 233-7 et R. 234-2 ci-dessus, les services effectifs accomplis dans un autre corps recruté
-par la voie de l'Ecole nationale d'administration sont assimilés à des services effectifs dans le corps des tribunaux
-administratifs et des cours administratives d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-389 2000-05-04
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R233-7 (M)
-	  - Code de justice administrative. - art. R234-2 (M)
+	  - Code de justice administrative - art. R233-7 (VD)
+	  - Code de justice administrative - art. R234-2 (VD)
 
 
 ###### Article R234-4
@@ -16608,35 +17420,44 @@ ancienneté.
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Modifié par**:
 
-	  - Décret n°2005-1706 du 28 décembre 2005 - art. 6 () JORF 30 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
 
 
 ###### Article R234-5
 
-Les listes d'aptitude annuelles prévues aux articles L. 234-4 et L. 234-5 sont dressées par ordre alphabétique et arrêtées
-par décret du Président de la République.
+Les listes d'aptitude annuelles prévues aux articles L. 234-4 et L. 234-5 sont dressées par ordre alphabétique.
 
 Ces listes comportent les noms de ceux des membres du corps qui, remplissant les conditions d'ancienneté requises, se sont
 portés candidats pour y être inscrits et ont été reconnus aptes à l'exercice des fonctions auxquelles elles donnent accès.
+
+Leur validité est de douze mois à compter de leur publication au Journal officiel de la République française.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. L234-4 (V)
-	  - Code de justice administrative. - art. L234-5 (V)
+	  - Code de justice administrative - art. L234-4
+	  - Code de justice administrative - art. L234-5
 
 
 ###### Article R234-6
@@ -16653,6 +17474,14 @@ tribunal administratif comportant moins de cinq chambres, de président de secti
 premier vice-président d'un tribunal administratif comportant au moins huit chambres ou de section à la Cour nationale du
 droit d'asile sont classés au 5e échelon de leur grade.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -16661,38 +17490,144 @@ droit d'asile sont classés au 5e échelon de leur grade.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1298 du 16 octobre 2015 - art. 20
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
 
+
+##### Section 3 : Evaluation 
 
 ###### Article R234-7
 
-Les membres du corps des tribunaux administratifs et des cours administratives d'appel font l'objet d'une évaluation et d'une
-notation dans les conditions prévues par les dispositions des titres Ier et II du décret n° 2002-682 du 29 avril 2002 relatif
-aux conditions générales d'évaluation, de notation et d'avancement des fonctionnaires de l'Etat. Pour l'application de ces
-dispositions, le chef de la mission permanente d'inspection des juridictions administratives conduit l'entretien d'évaluation
-des présidents exerçant les fonctions de président d'un tribunal administratif et exerce, à leur égard, le pouvoir de
-notation.
+L'évaluation des magistrats des tribunaux administratifs et des cours administratives d'appel prévue par l'article L. 234-7
+est annuelle. Elle comporte un entretien professionnel avec leur chef de juridiction et donne lieu à un compte rendu.
 
-Les dispositions du titre III du même décret ne sont pas applicables aux membres du corps des tribunaux administratifs et des
-cours administratives d'appel.
+La date de cet entretien est communiquée au magistrat au moins huit jours à l'avance.
+
+Le chef de juridiction peut déléguer la conduite de certains entretiens professionnels au premier vice-président et, au
+tribunal administratif de Paris, au vice-président.
+
+Le président de la mission d'inspection des juridictions administratives conduit l'entretien d'évaluation des présidents
+exerçant les fonctions de président d'un tribunal administratif.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
 	**Cite**:
 
-	  - Décret n°2002-682 2002-04-29
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2002-682 du 29 avril 2002
 
 	**Modifié par**:
 
-	  - Décret n°2005-310 du 25 mars 2005 - art. 3 () JORF 3 avril 2005
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
+
+
+###### Article R234-8
+
+L'entretien professionnel porte principalement sur :
+
+1° Les résultats professionnels obtenus par le magistrat au regard des objectifs qui lui ont été assignés, compte tenu des
+conditions d'organisation et de fonctionnement de la chambre dont il relève et, le cas échéant, des actions de formation
+continue auxquelles il a participé ;
+
+2° Les objectifs assignés au magistrat pour l'année à venir ;
+
+3° La manière de servir du magistrat ;
+
+4° Les acquis de son expérience professionnelle ;
+
+5° Le cas échéant, la manière dont il exerce les fonctions d'encadrement qui lui ont été confiées ;
+
+6° Les besoins de formation du magistrat eu égard, notamment, aux missions qui lui sont imparties, aux compétences qu'il doit
+acquérir et à son projet professionnel ;
+
+7° Ses perspectives d'évolution professionnelle en termes de carrière et de mobilité.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
+
+
+###### Article R234-9
+
+Le compte rendu de l'entretien professionnel est établi et signé par l'autorité qui l'a conduit. Il comporte une appréciation
+générale exprimant la valeur professionnelle du magistrat.
+
+Il est communiqué au magistrat qui dispose d'un délai de quinze jours pour le compléter, le cas échéant, de ses observations,
+le signer, puis le retourner à l'autorité ayant conduit l'entretien.
+
+Ce compte rendu est versé au dossier du magistrat.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
+
+
+###### Article R234-10
+
+Le magistrat peut saisir le Conseil supérieur des tribunaux administratifs et cours administratives d'appel d'une demande de
+réexamen de son évaluation. Cette demande doit être formée dans un délai d'un mois suivant la notification du compte rendu de
+l'entretien ou, le cas échéant, de la décision rendue à la suite d'un recours administratif autre que celui mentionné au
+présent article.
+
+Après avoir recueilli les observations du magistrat et celles de l'autorité qui a conduit l'entretien professionnel, et
+procédé, s'il y a lieu, à leur audition, le Conseil supérieur émet un avis motivé. Cet avis, communiqué au chef de
+juridiction et notifié au magistrat concerné, peut demander au chef de la juridiction concernée le réexamen de l'évaluation.
+Il est versé au dossier du magistrat.
+
+Lorsque le Conseil supérieur a demandé le réexamen de l'évaluation, le chef de juridiction dispose d'un délai d'un mois pour
+notifier au magistrat le compte rendu définitif de l'entretien professionnel modifiant ou maintenant les termes du compte
+rendu initial.
+
+Le délai du recours contentieux contre l'évaluation est interrompu jusqu'à la notification au magistrat concerné de la
+décision du Conseil supérieur ou, lorsque ce dernier a demandé le réexamen de l'évaluation, jusqu'à la notification au
+magistrat de l'évaluation définitive.
+
+Après l'exercice du recours prévu par le présent article, il ne peut être formé aucun autre recours administratif, y compris
+devant le Conseil supérieur des tribunaux administratifs et cours administratives d'appel.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 4
 
 
 #### Chapitre V : Positions
@@ -16702,21 +17637,29 @@ cours administratives d'appel.
 Les magistrats des tribunaux administratifs et des cours administratives d'appel ne peuvent accomplir la période de mobilité
 prévue par le décret n° 2008-15 du 4 janvier 2008 relatif à la mobilité et au détachement des fonctionnaires des corps
 recrutés par la voie de l'Ecole nationale d'administration qu'après deux années de services juridictionnels effectifs, compte
-non tenu de la durée de la formation complémentaire.
+non tenu de la durée de la formation initiale. 
 
 Ils ne peuvent accomplir cette mobilité dans un cabinet d'avocats ou auprès d'un avocat au Conseil d'Etat et à la Cour de
-cassation.
+cassation. 
 
 Au terme de la période de mobilité, et sous réserve que celle-ci n'ait pas excédé quatre ans, le magistrat retrouve son
 affectation dans sa juridiction d'origine, le cas échéant en surnombre. Si la période de mobilité a excédé quatre ans ou si
 l'intéressé ne souhaite pas être réaffecté dans sa juridiction d'origine, sa demande d'affectation est satisfaite en fonction
 des vacances d'emploi.
 
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 53
+	  - Décret n°2017-451 du 30 mars 2017 - art. 5
 
 
 ###### Article R235-2
@@ -16726,9 +17669,17 @@ les fonctions de sous-préfet ou pour occuper un emploi fonctionnel ou l'un des 
 laissée à la décision du Gouvernement, les magistrats des tribunaux administratifs et des cours administratives d'appel ne
 peuvent être détachés ou mis à disposition que s'ils comptent au moins quatre années de services effectifs. 
 
-Les détachements ou mises à disposition des membres du corps des tribunaux administratifs et des cours administratives
-d'appel ainsi que les décisions de maintien dans l'une ou l'autre de ces positions sont prononcés sur la demande des
-intéressés, après avis du chef de la mission permanente d'inspection des juridictions administratives.
+Les détachements ou mises à disposition des magistrats des tribunaux administratifs et des cours administratives d'appel
+ainsi que les décisions de maintien dans l'une ou l'autre de ces positions sont prononcés sur la demande des intéressés,
+après avis du    président de la mission d'inspection des juridictions administratives.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -16738,14 +17689,154 @@ intéressés, après avis du chef de la mission permanente d'inspection des juri
 
 	**Modifié par**:
 
-	  - Décret n°2010-164 du 22 février 2010 - art. 53
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cité par**:
 
 	  - Code de justice administrative. - art. R235-1 (M)
 
 
+#### Chapitre VI : Discipline
+
+###### Article R236-1
+
+Le magistrat poursuivi est convoqué par le président du Conseil supérieur des tribunaux administratifs et cours
+administratives d'appel quinze jours au moins avant la date de la réunion, par lettre recommandée avec demande d'avis de
+réception.
+
+Le Conseil supérieur se prononce dans un délai d'un mois à compter de sa saisine.
+
+Ce délai est porté à deux mois lorsqu'il est procédé à une enquête ou lorsqu'à l'initiative de l'un de ses membres ou à la
+demande du magistrat poursuivi, le Conseil supérieur décide, à la majorité des membres, de renvoyer l'examen de l'affaire à
+une nouvelle réunion.
+
+Lorsque le magistrat poursuivi fait l'objet de poursuites devant une juridiction répressive, le Conseil supérieur peut, à la
+majorité des membres, proposer de suspendre la procédure disciplinaire jusqu'à l'intervention de la décision de la
+juridiction.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 6
+
+
+###### Article R236-2
+
+Lorsque le Conseil supérieur des tribunaux administratifs et cours administratives d'appel examine l'affaire au fond, son
+président informe les membres du conseil des conditions dans lesquelles le magistrat poursuivi a été mis en mesure d'exercer
+son droit à communication intégrale du dossier individuel et des documents annexes.
+
+Le rapporteur présente son rapport devant le Conseil supérieur.
+
+Le Conseil supérieur entend séparément chaque témoin cité.
+
+A la demande d'un membre du Conseil supérieur, ou du magistrat poursuivi, le président peut décider de procéder à une
+confrontation des témoins, ou à une nouvelle audition d'un témoin déjà entendu.
+
+Le magistrat poursuivi peut, à tout moment de la procédure, demander au président du Conseil supérieur l'autorisation
+d'intervenir afin de présenter des observations orales. Il doit être invité à présenter d'ultimes observations avant que le
+Conseil supérieur ne commence à délibérer hors la présence du magistrat poursuivi.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 6
+
+
+###### Article R236-3
+
+Lorsque le Conseil supérieur a constaté l'existence d'une faute disciplinaire dans les conditions prévues à l'article L.
+236-6, son président met aux voix la proposition de sanction la plus sévère parmi celles qui ont été exprimées au cours du
+délibéré. Si cette proposition ne recueille pas l'accord de la majorité des membres présents, le président met aux voix les
+autres sanctions par ordre décroissant de sévérité jusqu'à ce que l'une d'entre elles recueille la majorité des membres
+présents. A défaut, aucune sanction n'est prononcée.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code de justice administrative - art. L236-6 (VD)
+
+
+###### Article R236-4
+
+Le recours en cassation contre les décisions du Conseil supérieur statuant en matière disciplinaire est régi par les
+dispositions du titre II du livre VIII du présent code.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 6
+
+
+###### Article R236-5
+
+Le magistrat frappé d'une sanction disciplinaire autre que l'avertissement ou le blâme, mais qui n'a pas été exclu du corps
+des magistrats des tribunaux administratifs et des cours administratives d'appel peut, après dix années de services effectifs
+à compter de la date de la sanction disciplinaire, introduire auprès du Conseil supérieur une demande tendant à ce qu'aucune
+trace de la sanction prononcée ne subsiste à son dossier.
+
+La demande est examinée comme en matière de sanction disciplinaire.
+
+Le dossier du magistrat est reconstitué dans sa nouvelle composition sous le contrôle du Conseil supérieur.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-451 du 30 mars 2017 - art. 6
+
+
 #### Chapitre VII : De la participation des membres du corps des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général
+
+#### Chapitre VII : De la participation des magistrats des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général
 
 ###### Article R237-1
 
@@ -16766,23 +17857,31 @@ participer à certains travaux des administrations publiques.
 
 ###### Article R237-2
 
-Toute disposition prévoyant la participation des membres des tribunaux administratifs et des cours administratives d'appel à
-d'autres fonctions que celles qui sont mentionnées à l'article R. 231-1 est soumise pour avis au Conseil supérieur des
-tribunaux administratifs et des cours administratives d'appel.
+Toute disposition prévoyant la participation des magistrats des tribunaux administratifs et des cours administratives d'appel
+à d'autres fonctions que celles qui sont mentionnées à l'article R. 231-1 est soumise pour avis au           Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel.
+
+**Nota:**
+
+Conformément à l'article 10 du décret n° 2017-451 du 30 mars 2017, les présentes dispositions entrent en vigueur à la date
+d'installation du Conseil supérieur des tribunaux administratifs et cours administratives d'appel dans sa composition prévue
+à l'article L. 232-4 du code de justice administrative issu de l'ordonnance n° 2016-1366 du 13 octobre 2016. Le Conseil
+supérieur des tribunaux administratifs et cours administratives d'appel est installé au plus tard neuf mois après la
+publication ladite ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2000-389 2000-05-04
+	  - Décret n°2000-389 du 4 mai 2000
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2004-2 2004-01-02 art 1 I : Champ d'application
+	  - Décret n°2017-451 du 30 mars 2017 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de justice administrative. - art. R231-1 (V)
+	  - Code de justice administrative - art. R231-1 (VD)
 
 
 ## Livre III : La compétence
